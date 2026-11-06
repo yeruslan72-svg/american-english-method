@@ -12,7 +12,7 @@ Most textbooks teach grammar rules and "museum" vocabulary. This project teaches
 
 - **No museum words** — only high-frequency, neutral vocabulary. Archaic or narrow slang is marked "recognize, don't use".
 - **Cultural logic first** — every phrase is explained through the American mentality: *why* they say it, not just *what* it means.
-- **Scenario codes** — refusal, request, phone call, emergency, shopping. Each with a formula, cultural logic, and a trap for Russian speakers.
+- **Scenario codes** — refusal, request, phone call, emergency. Each with a formula, cultural logic, and a trap for Russian speakers.
 - **Southern flavor as seasoning** — `y'all`, `ma'am/sir`, `fixin' to` are safe; `I reckon` is cautious; "Bless your heart" is passive only.
 - **Connected speech** — `couldja`, `whatcha`, `didja` as a system, not as "weird words".
 
@@ -31,20 +31,3 @@ Most textbooks teach grammar rules and "museum" vocabulary. This project teaches
 ---
 
 ## Структура
-MANIFESTO.md — 6 принципов метода (фильтр для всего контента)
-01_scenarios/ — сценарные коды: отказ, просьба, звонок, 911
-02_southern_layer/ — южный колорит: три уровня (активно / осторожно / пассивно)
-03_phonetics/ — поток речи: слияния и элизия
-04_lessons/ — готовые уроки (первый — про стакан)
-
----
-
-## Статус
-
-Проект в активной разработке. Первый урок — «Опиши стакан» — показывает метод в действии: живая лексика, южные маркеры, поток речи и упражнение на мышление.
-
----
-
-## Лицензия
-
-MIT — используйте, адаптируйте, распространяйте с указанием авторства.
