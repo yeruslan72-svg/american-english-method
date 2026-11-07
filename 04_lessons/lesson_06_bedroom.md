@@ -1,58 +1,104 @@
 # Урок 6: Опиши спальню
 
-## Ситуация
+## Учимся описывать комфорт, отдых и личное пространство
 
-Ты дома с американским другом. Он заглядывает в спальню и говорит: «This looks so peaceful. Tell me about it.» Ты хочешь описать спальню — не перевести с русского, а **увидеть и почувствовать** её: что где стоит, как это связано, и почему это важно для отдыха.
+### Ситуация
 
-## Живой текст
+Ты дома с американским другом. Он заглядывает в спальню и говорит:
 
-> This here's the bedroom — the most important room in the house, if you ask me. There's a big soft bed with a good mattress, pillows, and plenty of blankets. Sleep is mighty important, ma'am — it's how you get your strength back. The bed's got to be comfortable and sturdy. Right next to it, there's a nightstand with an alarm clock. Over on the side, a window with heavy curtains — keeps the light out. Above the nightstand, a little night light. And a small rug right in front of the bed.
+**"This looks so peaceful. Tell me about it."**
 
-## Разбор
+Ты хочешь описать спальню естественно — её мебель, атмосферу, комфорт и почему эта комната важна для тебя.
 
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `This here's the bedroom` | Южный маркер | `This here` = «вот эта». Звучит живо, не книжно |
-| `the most important room in the house, if you ask me` | Мнение | Не «важная комната», а «самая важная, если ты меня спросишь» — живая, личная мысль |
-| `a big soft bed` | Мебель + качество | Не просто «кровать», а «большая мягкая» — тактильное ощущение |
-| `a good mattress, pillows, and plenty of blankets` | Детали | Перечисление — живое, как будто показываешь пальцем |
-| `Sleep is mighty important` | Усиление + культурный код | `mighty` = «очень» (южный маркер). «Сон важен» — не просто факт, а **убеждение** |
-| `it's how you get your strength back` | Функция | Не «восстанавливает силы», а «вот как ты возвращаешь силы» — живое объяснение |
-| `comfortable and sturdy` | Качество | Два прилагательных — «удобная и надёжная». Не «хорошая», а конкретно |
-| `a nightstand with an alarm clock` | Мебель + деталь | Не «тумбочка», а «тумбочка с будильником» — связь предметов |
-| `heavy curtains — keeps the light out` | Окно + функция | Не «плотные шторы», а «плотные шторы — не пускают свет» — объяснение |
-| `a little night light` | Деталь | Конкретная деталь, которая создаёт **атмосферу** |
-| `a small rug right in front of the bed` | Коврик + положение | Не «коврик», а «прямо перед кроватью» — связь предметов |
+### Живой американский диалог
 
-## Почему так
+**You:**
 
-Американец описывает спальню **через функцию и ощущение**, а не через список предметов. Не «в спальне есть кровать, тумбочка и окно», а «кровать большая и мягкая, сон важен, шторы не пускают свет». Это делает описание **живым** и **правдоподобным**.
+This here's our bedroom. It's probably the quietest room in the house, and that's just the way I like it.
 
-## Культурный код: спальня в американском доме
+We've got a big, comfortable bed with a good mattress, soft pillows, and plenty of blankets. Sleep is mighty important, if you ask me. It's how you recharge and get your strength back.
 
-Спальня (bedroom) — это **личное пространство**, но не только для сна. Здесь:
-- **кровать** — не просто мебель, а **место восстановления сил** («it's how you get your strength back»);
-- **матрас, подушки, одеяла** — качество сна зависит от них;
-- **тумбочка с будильником** — ритуал начала дня;
-- **плотные шторы** — не просто «шторы», а **защита от света**;
-- **ночник** — не просто лампа, а **уют и безопасность**;
-- **коврик перед кроватью** — маленькая деталь, которая делает комнату **тёплой**.
+Right next to the bed, there's a nightstand with an alarm clock and a little lamp. Over by the window, we've got some heavy curtains. They keep the sunlight out, especially early in the morning.
 
-И главное: **«Sleep is mighty important»** — это американская мысль о том, что отдых — не роскошь, а **необходимость**.
+There's a small rug right in front of the bed, so it's nice and soft under your feet when you get up.
 
-## Упражнение
+Nothing too fancy. Just a comfortable, quiet place where you can get a good night's sleep.
 
-1. Возьми любую комнату в доме (спальню, кухню, ванную).
-2. Опиши её в **5–7 предложениях** по-английски, используя:
-   - 1–2 предмета мебели (`bed`, `nightstand`, `rug`);
-   - 1 предмет атмосферы (`night light`, `curtains`, `lamp`);
-   - 1 связь между предметами (`right next to it`, `above the nightstand`, `in front of the bed`);
-   - 1 функцию (`it's how you get your strength back`, `keeps the light out`);
-   - 1 южный маркер из 🟢-уровня (`mighty`, `ma'am/sir`, `fixin' to`, `this here`).
-3. Прочитай вслух. Звучит ли это как живая речь — или как учебник?
+### Полезные выражения
 
-## Статус лексики
+| Выражение | Значение |
+|---|---|
+| `bedroom` | Спальня |
+| `mattress` | Матрас |
+| `pillow` | Подушка |
+| `blanket` | Одеяло |
+| `nightstand` | Прикроватная тумбочка |
+| `alarm clock` | Будильник |
+| `bedside lamp` | Прикроватная лампа |
+| `night light` | Ночник |
+| `heavy curtains` | Плотные шторы |
+| `keep the light out` | Не пропускать свет |
+| `right next to the bed` | Прямо рядом с кроватью |
+| `right in front of the bed` | Прямо перед кроватью |
+| `recharge` | Восстановить силы |
+| `get your strength back` | Вернуть силы |
+| `get a good night's sleep` | Хорошо выспаться |
+| `nothing too fancy` | Ничего особо шикарного |
 
-- 🟢 **Активно:** `this here`, `mighty important`, `right next to it`, `in front of the bed`, `keeps the light out`, `get your strength back`
-- 🟡 **Понимать:** `if you ask me` (живое, но чуть неформально), `plenty of` (разговорный маркер)
-- 🔴 **Пассивно:** —
+### Немного южного английского
+
+- `This here's...` — разговорная региональная конструкция.
+- `Mighty important` — очень важно.
+- `Plenty of blankets` — много одеял.
+- `If you ask me` — если меня спросить.
+- `Fixin' to` — собираться что-то сделать.
+
+Пример:
+
+**"I'm fixin' to turn in. It's been a long day."**
+
+«Я собираюсь ложиться спать. День был долгий».
+
+`Turn in` — разговорное выражение «лечь спать».
+
+### Культурная заметка: американская спальня
+
+В американском английском полезно различать:
+
+- **Bedroom** — спальня.
+- **Master bedroom / primary bedroom** — главная спальня дома.
+- **Guest bedroom** — гостевая спальня.
+- **Bedside table / nightstand** — прикроватная тумбочка.
+- **Walk-in closet** — гардеробная, в которую можно войти.
+- **Blackout curtains** — светонепроницаемые шторы.
+
+Небольшой нюанс: `primary bedroom` всё чаще используется вместо `master bedroom` в современной недвижимости и описаниях жилья. Оба выражения можно встретить в США.
+
+### Твоя практика
+
+Представь, что американский друг стоит в твоей спальне.
+
+Опиши её в **5–7 предложениях**:
+
+1. Какая у тебя кровать?
+2. Что находится рядом с кроватью?
+3. Что ты видишь около окна?
+4. Что делает комнату уютной?
+5. Почему тебе нравится проводить там время?
+
+Постарайся использовать **как минимум три выражения**:
+
+- `mighty important`
+- `right next to`
+- `keeps the light out`
+- `get your strength back`
+- `nothing too fancy`
+- `get a good night's sleep`
+
+**Цель:** дай другу **представить**, каково это — провести тихий вечер или проснуться в этой комнате.
+
+### Статус лексики
+
+- 🟢 **Активно:** `this here's`, `bedroom`, `mattress`, `pillow`, `blanket`, `nightstand`, `alarm clock`, `heavy curtains`, `keep the light out`, `right next to the bed`, `right in front of the bed`, `recharge`, `get your strength back`, `get a good night's sleep`, `nothing too fancy`
+- 🟡 **Понимать:** `mighty important` (очень важно), `plenty of blankets` (много одеял), `if you ask me` (если меня спросить), `turn in` (лечь спать), `fixin' to` (собираться что-то сделать)
+- 🔴 **Пассивно:** `master bedroom` / `primary bedroom` (главная спальня — узнавать), `guest bedroom` (гостевая спальня — узнавать), `walk-in closet` (гардеробная — узнавать), `blackout curtains` (светонепроницаемые шторы — узнавать)
