@@ -1,59 +1,97 @@
 # Урок 5: Опиши гостиную
 
-## Ситуация
+## Учимся описывать пространство, уют и семейную жизнь
 
-Ты дома с американским другом. Он заходит в гостиную и говорит: «Wow, this is cozy. Tell me about this room.» Ты хочешь описать гостиную — не перевести с русского, а **увидеть и почувствовать** её: что где стоит, как это связано, и почему это важно для семьи.
+### Ситуация
 
-## Живой текст
+Ты дома с американским другом. Он заходит в гостиную и говорит:
 
-> This here's the living room — where the whole family gathers in the evening. We've got a big soft couch and a couple of armchairs. Right in the middle, there's a little round coffee table — that's where we put the sweets and a cup of coffee. We sit and talk, sometimes watch a good movie. The kids love their cartoons. Over on the side, there's a big window with pretty curtains. On the ceiling, a nice chandelier. And above the couch, a painting — usually a landscape. This room is what brings the family together, ma'am.
+**"Wow, this is cozy. Tell me about this room."**
 
-## Разбор
+Ты хочешь описать комнату естественно — где что находится, как ощущается пространство и что ваша семья там делает.
 
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `This here's the living room` | Южный маркер | `This here` = «вот эта». Звучит живо, не книжно |
-| `where the whole family gathers` | Функция | Не «комната», а «место, где собирается семья» — сразу смысл |
-| `a big soft couch` | Мебель + качество | Не просто «диван», а «большой мягкий» — тактильное ощущение |
-| `a couple of armchairs` | Мебель | `a couple of` = «пара» — разговорный маркер, живая речь |
-| `right in the middle` | Положение | Конкретное место, а не абстрактное «в центре» |
-| `a little round coffee table` | Мебель + форма | Три прилагательных подряд — живое, как будто показываешь пальцем |
-| `that's where we put the sweets and a cup of coffee` | Функция | Конкретное действие, а не «для еды» |
-| `watch a good movie` | Занятие | Не «смотрят фильмы», а «хороший фильм» — эмоция |
-| `The kids love their cartoons` | Деталь | Живая деталь, которая сразу делает комнату **семейной** |
-| `a big window with pretty curtains` | Окно + шторы | Не «окно и шторы», а «большое окно с красивыми шторами» — связь предметов |
-| `a nice chandelier` | Люстра | Конкретная деталь, которая создаёт **атмосферу** |
-| `above the couch, a painting — usually a landscape` | Картина | Не «картина», а «пейзаж» — конкретика |
-| `This room is what brings the family together` | Культурный код | Ваша финальная мысль: гостиная сплачивает семью |
+### Живой американский диалог
 
-## Почему так
+**You:**
 
-Американец описывает комнату **через движение и связь**, а не через список предметов. Не «в комнате есть диван, столик и окно», а «мы собираемся на диване, ставим сладости на столик, смотрим фильмы, дети смотрят мультики». Это делает описание **живым** и **правдоподобным**.
+This here's our living room. It's where the whole family gets together in the evening.
 
-## Культурный код: гостиная в американском доме
+We've got a big, comfortable couch and a couple of armchairs. Right in the middle, there's a little round coffee table. That's where we usually put our coffee, snacks, and sometimes a plate of cookies.
 
-Гостиная (living room) — это **сердце дома**, но не кухня, а **место общения**. Здесь:
-- **собирается вся семья** по вечерам;
-- **смотрят фильмы** вместе (family movie night);
-- **дети смотрят мультики** (cartoons) — это часть ритуала;
-- **на стене висит картина** — часто пейзаж (landscape), потому что это «нейтрально» и «уютно»;
-- **люстра** (chandelier) — не просто свет, а **атмосфера**.
+We sit around, talk about our day, or watch a good movie together. The kids love watching cartoons, of course.
 
-И главное: **«This room is what brings the family together»** — это американская мысль о том, что дом — не просто стены, а **место, где люди вместе**.
+Over on that side, there's a big window with some nice curtains. There's a chandelier hanging from the ceiling, and above the couch we've got a painting of a beautiful landscape.
 
-## Упражнение
+It's nothing too fancy, but it's warm and comfortable. This is where we spend time together. That's what makes it special.
 
-1. Возьми любую комнату в доме (гостиную, кухню, спальню).
-2. Опиши её в **5–7 предложениях** по-английски, используя:
-   - 1–2 предмета мебели (`couch`, `armchair`, `table`);
-   - 1 предмет атмосферы (`chandelier`, `painting`, `curtains`);
-   - 1 связь между предметами (`above the couch`, `right in the middle`, `over on the side`);
-   - 1 функцию (`where the family gathers`, `that's where we put...`);
-   - 1 южный маркер из 🟢-уровня (`mighty`, `ma'am/sir`, `fixin' to`, `this here`).
-3. Прочитай вслух. Звучит ли это как живая речь — или как учебник?
+### Полезные выражения
 
-## Статус лексики
+| Выражение | Значение |
+|---|---|
+| `living room` | Гостиная |
+| `cozy` | Уютный |
+| `get together` | Собираться вместе |
+| `a couple of armchairs` | Пара кресел |
+| `right in the middle` | Прямо посередине |
+| `coffee table` | Журнальный столик |
+| `over on that side` | Вон там, с той стороны |
+| `hanging from the ceiling` | Свисающая с потолка |
+| `above the couch` | Над диваном |
+| `talk about our day` | Обсуждать, как прошёл день |
+| `watch a movie together` | Смотреть фильм вместе |
+| `nothing too fancy` | Ничего особо шикарного |
+| `spend time together` | Проводить время вместе |
+| `that's what makes it special` | Именно это делает её особенной |
 
-- 🟢 **Активно:** `this here`, `a couple of`, `right in the middle`, `over on the side`, `brings the family together`, `cozy`
-- 🟡 **Понимать:** `family movie night` (культурная деталь, но понятна), `landscape` (пейзаж — чуть формально, но живо)
-- 🔴 **Пассивно:** —
+### Немного южного английского
+
+- `This here's...` — разговорная региональная конструкция.
+- `Folks` — люди, народ; характерное неформальное слово.
+- `Mighty cozy` — очень уютно, с южным оттенком.
+- `Y'all` — обращение к нескольким людям.
+
+Например:
+
+**"Y'all, make yourselves comfortable. There's plenty of room."**
+
+«Располагайтесь поудобнее. Места хватит всем».
+
+### Культурная заметка: гостиные в американских домах
+
+В США планировка и назначение комнат сильно различаются.
+
+- **Living room** — обычно основная гостиная для отдыха и общения.
+- **Family room** — более неформальная семейная комната, часто с телевизором.
+- **Formal living room** — более парадная гостиная, если она предусмотрена планировкой.
+- **Open-plan living area** — открытое пространство, объединяющее кухню, столовую и гостиную.
+
+Не в каждом американском доме есть все эти комнаты. Иногда `living room` и `family room` — фактически одно и то же помещение.
+
+### Твоя практика
+
+Представь, что ты показываешь гостиную американскому другу.
+
+Опиши её в **5–7 предложениях**:
+
+1. Какая у тебя мебель?
+2. Где что находится?
+3. Что делает комнату уютной?
+4. Что твоя семья обычно там делает?
+5. Что делает эту комнату особенной для тебя?
+
+Постарайся использовать **как минимум три выражения**:
+
+- `a couple of`
+- `right in the middle`
+- `over on the side`
+- `get together`
+- `nothing too fancy`
+- `brings the family together`
+
+**Цель:** не давай другу «опись мебели». Дай ему **представить комнату** и **вообразить вечер в ней**.
+
+### Статус лексики
+
+- 🟢 **Активно:** `this here's`, `living room`, `cozy`, `get together`, `a couple of`, `right in the middle`, `coffee table`, `over on that side`, `talk about our day`, `watch a movie together`, `nothing too fancy`, `spend time together`, `that's what makes it special`
+- 🟡 **Понимать:** `hanging from the ceiling` (свисающий с потолка), `above the couch` (над диваном), `mighty cozy` (очень уютно), `y'all` (вы все)
+- 🔴 **Пассивно:** `family room` (семейная комната — узнавать), `formal living room` (парадная гостиная — узнавать), `open-plan living area` (открытая планировка — узнавать)
