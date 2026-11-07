@@ -1,41 +1,54 @@
 # Урок 2: Опиши нож
 
-## Ситуация
+## Живой американский диалог
 
-Ты на кухне с американским другом. Он спрашивает: «What's that knife for?» Ты хочешь описать нож — не перевести с русского, а **увидеть и почувствовать** его по-английски: какое лезвие, какая рукоять, для чего он.
+**Friend:** What's that knife for?
 
-## Живой текст
+**You:**
 
-> This here's my everyday knife. It's got a stainless steel blade — mighty sharp, fixin' to cut through anything. The handle's wooden, real comfortable in your hand. I use it for everything — bread, meat, vegetables. It's a handy thing to have around the house, ma'am. I sharpen it myself.
+This here's my everyday kitchen knife. It's got a stainless steel blade, and it's mighty sharp. The handle's made of wood, and it feels real comfortable in your hand. I use it for just about everything — cutting meat, slicing vegetables, and chopping up onions. It's a handy thing to have around the kitchen. I sharpen it myself, so I always keep it in good shape.
 
-## Разбор
+## Полезные выражения
 
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `This here's my...` | Южный маркер | `This here` = «вот этот». Звучит живо, не книжно |
-| `stainless steel blade` | Материал | Не просто «metal», а конкретно «нержавейка» — функциональная точность |
-| `mighty sharp` | Усиление + качество | `mighty` = «очень» (южный маркер), `sharp` = «острый» |
-| `fixin' to cut through anything` | `fixin' to` + идиома | «Вот-вот прорежет что угодно» — живой южный маркер |
-| `real comfortable in your hand` | Ощущение | `real` вместо `really` — разговорный маркер. «Удобно в руке» — тактильное ощущение |
-| `handy thing to have around the house` | Идиома | «Полезная вещь в доме» — живая, понятная |
-| `I sharpen it myself` | Привычка | Не «I sharpen it», а «myself» — акцент на самостоятельности |
+| Выражение | Значение |
+|---|---|
+| `This here's...` | Вот этот... |
+| `stainless steel blade` | Лезвие из нержавеющей стали |
+| `mighty sharp` | Очень острый |
+| `the handle's made of wood` | Рукоять сделана из дерева |
+| `feels real comfortable` | Очень удобно ощущается |
+| `just about everything` | Практически всё |
+| `chop up onions` | Нарезать лук |
+| `a handy thing to have around` | Полезная вещь под рукой |
+| `keep it in good shape` | Поддерживать в хорошем состоянии |
+| `I sharpen it myself` | Я сам его точу |
 
-## Почему так
+## Немного южного колорита
 
-Американец описывает предмет **через функцию и ощущение**, а не через ярлыки. Не «это хороший нож», а «он острый, удобный в руке, я точу его сам». Это делает описание **живым** и **правдоподобным**.
+- `This here's...` — разговорная региональная конструкция.
+- `Mighty sharp` — выразительное усиление.
+- `Y'all` — обращение к нескольким людям.
+- `Fixin' to` — собираюсь что-то сделать или вот-вот сделаю.
 
-## Упражнение
+**Не нужно** вставлять все эти выражения в каждый разговор. Одного-двух достаточно, чтобы речь звучала естественно.
 
-1. Возьми любой предмет на кухне (нож, вилку, доску, чашку).
-2. Опиши его в **5 предложениях** по-английски, используя:
-   - 1 материал (`stainless steel`, `wooden`, `plastic`);
-   - 1 качество (`sharp`, `dull`, `heavy`, `light`);
-   - 1 функцию (`I use it for...`);
-   - 1 южный маркер из 🟢-уровня (`mighty`, `ma'am/sir`, `fixin' to`, `this here`).
-3. Прочитай вслух. Звучит ли это как живая речь — или как учебник?
+## Твоя практика
+
+Представь, что ты показываешь американскому другу кухонный нож.
+
+Опиши:
+1. Из чего он сделан.
+2. Как выглядит лезвие.
+3. Как ощущается рукоять.
+4. Для чего ты его используешь.
+5. Как ты за ним ухаживаешь.
+
+Постарайся использовать `mighty`, `handy` или `this here`.
+
+**Помни:** описывай то, что видишь, что чувствуешь и что ты **на самом деле делаешь** с предметом.
 
 ## Статус лексики
 
-- 🟢 **Активно:** `stainless steel`, `mighty sharp`, `fixin' to`, `handy`, `real comfortable`, `this here`
-- 🟡 **Понимать:** `It's seen better days` (о вещи, которая износилась — чуть неформально)
+- 🟢 **Активно:** `this here's`, `stainless steel blade`, `mighty sharp`, `feels real comfortable`, `just about everything`, `chop up onions`, `a handy thing to have around`, `keep it in good shape`, `I sharpen it myself`
+- 🟡 **Понимать:** `y'all` (вы все — обращение к нескольким), `fixin' to` (вот-вот что-то сделаю)
 - 🔴 **Пассивно:** —
