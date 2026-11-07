@@ -61,6 +61,58 @@
 4. Усложнение: попроси объяснить **два разных** маршрута (до супермаркета и до метро) и сравни, какие ориентиры используются.
 
 ## Статус лексики
+## Диалог 2: Спроси у полицейского
+
+### Ситуация
+
+Ты турист. Ты специально приехал в Нью-Йорк, чтобы посетить **Метрополитен-музей** — посмотреть на картины знаменитых американских художников и мировых мастеров. Но ты не можешь найти вход. Ты видишь полицейского на перекрёстке. Как спросить дорогу **вежливо** и **понять ответ**?
+
+### Диалог
+
+> **You:** Excuse me, officer. I'm sorry to bother you — I'm a tourist and I'm trying to find the Metropolitan Museum of Art. Could you point me in the right direction?
+>
+> **Officer:** Sure thing. You're not far. Head up Fifth Avenue that way — you'll pass the Grand Army Plaza on your right. Keep going until you hit 82nd Street. The Met is right there on your left — big building with all them columns. You can't miss it. There's a wide set of stairs out front — that's the main entrance.
+>
+> **You:** Thank you so much, officer. I really appreciate it.
+>
+> **Officer:** No problem. Enjoy the museum — the American wing is something else.
+
+### Разбор
+
+| Фраза | Что это | Почему так |
+|-------|---------|------------|
+| `Excuse me, officer` | Обращение | К полицейскому — `officer`, не `sir` (хотя `sir` тоже можно). Это уважительно и точно |
+| `I'm sorry to bother you` | Извинение | Американец **признаёт**, что отвлекает человека. Это ритуал вежливости |
+| `I'm a tourist and I'm trying to find...` | Контекст | Американец **объясняет**, почему он спрашивает — это делает вопрос **естественным**, а не требовательным |
+| `Could you point me in the right direction?` | Косвенная просьба | Не «Where is...?», а «не могли бы вы направить меня». Мягко, вежливо |
+| `Sure thing` | Ответ | Живой, неформальный, но вежливый. Не «Yes», а «Конечно» |
+| `Head up Fifth Avenue` | Направление | `Head up` = «иди вверх по» (улице). Живой глагол движения |
+| `you'll pass... on your right` | Ориентир | Не «поверни», а «пройдёшь мимо... справа» — визуальный ориентир |
+| `until you hit 82nd Street` | Точка | `hit` = «дойдёшь до». Живое, разговорное |
+| `big building with all them columns` | Описание | `them` вместо `those` — лёгкий колорит. `Columns` = «колонны» — точная деталь |
+| `You can't miss it` | Успокоение | «Ты не пропустишь» — стандартная американская фраза |
+| `the American wing is something else` | Культурный код | `something else` = «нечто особенное». Полицейский **рекомендует**, а не просто отвечает — это по-американски |
+
+### Культурный код: почему полицейский так говорит
+
+- **`Officer`** — обращение к полицейскому в США. Не «мистер полицейский», не «сэр» (хотя можно), а именно `officer` — это **уважительно и точно**.
+- **`I'm sorry to bother you`** — американец **всегда** признаёт, что отвлекает. Это не «извинение за ошибку», а **ритуал уважения к времени** другого человека.
+- **`You can't miss it`** — стандартная фраза, которая значит «это настолько очевидно, что ты не пропустишь». Не запрет, а **успокоение**.
+- **`The American wing is something else`** — полицейский **выходит за рамки вопроса**: он не просто объясняет дорогу, а **рекомендует**, что посмотреть. Это американская привычка — быть **полезным сверх ожидаемого** (friendly helpfulness).
+
+### Упражнение
+
+1. Ты турист в Нью-Йорке. Тебе нужно найти:
+   - Метрополитен-музей (`the Metropolitan Museum of Art`);
+   - Центральный парк (`Central Park`);
+   - Таймс-сквер (`Times Square`).
+2. Спроси дорогу у **полицейского** по формуле:
+   - `Excuse me, officer`;
+   - `I'm sorry to bother you`;
+   - `I'm trying to find...`;
+   - `Could you point me in the right direction?`
+3. Преподаватель отвечает как американец-полицейский (с ориентирами: `columns`, `Fifth Avenue`, `82nd Street`). Ученик должен **понять** и **повторить** маршрут.
+4. Усложнение: полицейский **рекомендует**, что посмотреть (`the American wing is something else`). Ученик должен **отреагировать** — поблагодарить и, может быть, спросить, что ещё стоит увидеть.
 
 - 🟢 **Активно:** `Excuse me`, `Could you tell me where the nearest... is?`, `How do I get there?`, `Go straight`, `turn left/right`, `until you hit the intersection`, `look straight ahead`, `head right for it`, `to the right of it`, `Thanks so much`, `I appreciate it`
 - 🟡 **Понимать:** `It's a bit of a walk` (это неблизко, но дойти можно), `It's right around the corner` (совсем рядом), `You can't miss it` (это очевидно)
