@@ -1,141 +1,359 @@
-# Сценарий: метро и автобус
+# Using the Subway and Bus in the United States
+## How to Buy a Ticket, Find Your Route, and Get to the Right Stop
 
-## Ситуация
+### 1. The Situation
 
-Ты в американском городе. Тебе нужно доехать до музея / отеля / аэропорта. Такси дорого, пешком далеко. Ты решаешь воспользоваться **метро** или **автобусом**. Как купить билет, найти нужную линию и не заблудиться?
+You're in an unfamiliar American city.
 
-## Диалог 1: Покупка билета в метро
+You need to get to a museum, a hotel, or the airport. A taxi is too expensive, and walking would take too long.
 
-> **You:** Excuse me, where can I buy a ticket for the subway?
->
-> **Clerk:** You can get one at the machine over there, or right here at the counter. Where are you headed?
->
-> **You:** I'm trying to get to the museum. Which line do I take?
->
-> **Clerk:** Take the Red Line downtown. Get off at Museum Station. It's about five stops.
->
-> **You:** Great. How much is a single ride?
->
-> **Clerk:** Two seventy-five. You can also get a day pass for eight dollars if you're gonna ride a lot.
->
-> **You:** I'll take a day pass, please. Thanks.
+You decide to use public transportation.
 
-## Диалог 2: На автобусе
+You need to know how to buy a ticket, find the right route, understand directions, and make sure you get off at the correct stop.
 
-> **You:** Excuse me, does this bus go to Central Park?
->
-> **Driver:** No, this one goes uptown. You need the 42 bus — it stops right across the street.
->
-> **You:** Oh, okay. How often does it run?
->
-> **Driver:** Every ten minutes or so. You can't miss it — it says "42" on the front.
->
-> **You:** Thanks a lot. I appreciate it.
+---
 
-## Формула
+# Part 1. Buying a Subway Ticket
 
-Американский общественный транспорт — это **три элемента**:
+### A Natural American Conversation
 
-1. **Покупка билета** — `Where can I buy a ticket?` / `I'd like a day pass, please`
-2. **Маршрут** — `Which line do I take?` / `Does this bus go to...?`
-3. **Уточнение** — `How much is a single ride?` / `How often does it run?`
+**You:**  
+"Excuse me, where can I buy a subway ticket?"
 
-## Почему так
+**Station Agent:**  
+"You can use the ticket machine over there, or you can pay right at the turnstile with a contactless card."
 
-Американец **не спрашивает «Как доехать?»** в общем. Он спрашивает **конкретно**: какая линия, какая остановка, сколько стоит, как часто ходит. Это **планирование**, а не «надежда на удачу». В метро он смотрит на **цвет линии** (Red Line, Blue Line), а не на название.
+**You:**  
+"Thanks. I'm trying to get to the museum. Which line should I take?"
 
-## Ловушка для русскоязычного ученика
+**Station Agent:**  
+"Take the Red Line downtown and get off at Museum Station. It's about five stops from here."
 
-- **`Subway`** — американское слово. В Британии — `underground` или `tube`. В США `subway` есть не везде (в Нью-Йорке, Чикаго, Бостоне — есть; в Лос-Анджелесе, Хьюстоне, Майами — почти нет).
-- **`Line`** — линия метро. В США линии часто называются **по цвету** (`Red Line`, `Blue Line`) или **по номеру** (`the 42 bus`).
-- **`Day pass`** — проездной на день. Выгоднее, если ездишь много.
-- **`Single ride`** — одна поездка. Не «билет туда», а именно **одна поездка**.
-- **`Uptown` / `Downtown`** — в США это не «центр» и «окраина», а **направление**: `uptown` — на север, `downtown` — на юг (в Нью-Йорке — в центр Манхэттена).
-- **`Across the street`** — «через дорогу». Не «на другой стороне улицы» (это слишком формально).
+**You:**  
+"Got it. How much is a single ride?"
 
-## Упражнение
+**Station Agent:**  
+"It's two seventy-five."
 
-1. Ты в незнакомом городе. Тебе нужно доехать до:
-   - музея (`the museum`) — на метро;
-   - Центрального парка (`Central Park`) — на автобусе.
-2. Купи билет: `Where can I buy a ticket?` / `I'd like a day pass, please.`
-3. Спроси маршрут: `Which line do I take?` / `Does this bus go to...?`
-4. Уточни: `How much is a single ride?` / `How often does it run?`
-5. Разыграйте диалог с преподавателем (он — кассир / водитель). Ученик должен **купить билет**, **спросить маршрут** и **уточнить детали**.
+**You:**  
+"Okay, thanks for your help."
 
-## Статус лексики
-## Культурный код: автобусы в американском мегаполисе
+### Useful Expressions
 
-В больших американских городах автобусы — это **основной транспорт** для многих людей. Они ходят часто, у них **разные направления** (uptown, downtown, crosstown), и ты можешь **купить билет** и уехать куда угодно. Это удобно и дёшево.
+- `Where can I buy a subway ticket?` — Где можно купить билет на метро?
+- `Is there a ticket machine nearby?` — Здесь есть автомат для покупки билетов?
+- `Can I pay by card?` — Можно оплатить картой?
+- `Can I use contactless payment?` — Можно оплатить бесконтактно?
+- `Which line should I take?` — На какую линию мне нужно сесть?
+- `Where do I get off?` — Где мне выходить?
+- `How much is a single ride?` — Сколько стоит одна поездка?
+- `Is there a day pass?` — Есть проездной на день?
 
-Кроме обычных городских автобусов, в США есть **школьные жёлтые автобусы** (school buses). Это не общественный транспорт — они возят детей в школу и обратно. Но их **все узнают** по ярко-жёлтому цвету, и они стали **символом американской жизни**.
+**A useful distinction:**
 
-> **You:** I gotta say, I prefer the bus over the subway. It's cheaper, and you get to see the city.
->
-> **Friend:** Yeah, but it's slower. Especially during rush hour.
->
-> **You:** True. But I don't mind. I just sit back and enjoy the ride.
+`Single ride` means one journey.
 
-### Разбор
+`Day pass` means a pass that allows travel for a specified period, usually one day. Check the local rules because some passes have restrictions.
 
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `I prefer the bus over the subway` | Предпочтение | `Prefer... over...` — живая конструкция, не «I like bus more» |
-| `you get to see the city` | Причина | `Get to` = «имеешь возможность». Живое, неформальное |
-| `during rush hour` | Время | `Rush hour` = «час пик». Стандартная американская фраза |
-| `I don't mind` | Отношение | «Я не против» — вежливое, спокойное |
-| `sit back and enjoy the ride` | Идиома | «Расслабься и наслаждайся поездкой» — живая, тёплая |
+---
 
-### Почему это важно
-## Диалог 3: Спроси водителя, где выходить
+# Part 2. Taking the Bus
 
-### Ситуация
+### A Natural American Conversation
 
-Ты в автобусе. Ты не знаешь, где выходить. Ты хочешь спросить водителя **заранее**, чтобы не проехать свою остановку. Как это сделать **по-американски**?
+**You:**  
+"Excuse me, does this bus go to Central Park?"
 
-### Диалог
+**Bus Driver:**  
+"No, this one is heading downtown. You need the M10. The stop is right across the street."
 
-> **You:** Excuse me, driver — could you let me know when we get to Museum Station?
->
-> **Driver:** Sure thing. It's about four stops from here. I'll call it out.
->
-> **You:** Thanks so much. I appreciate it.
->
-> **Driver:** No problem. Just sit tight — we'll be there in about ten minutes.
+**You:**  
+"Oh, I see. How often does it run?"
 
-### Разбор
+**Bus Driver:**  
+"About every ten minutes or so."
 
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `Excuse me, driver` | Обращение | К водителю автобуса — `driver`, не `sir` (хотя `sir` тоже можно). Это **точно** и **уважительно** |
-| `could you let me know when...?` | Косвенная просьба | Не «Tell me when...», а «не могли бы вы дать знать». Мягко, вежливо |
-| `Sure thing` | Ответ | Живой, неформальный, но вежливый. Не «Yes», а «Конечно» |
-| `It's about four stops from here` | Информация | `About` = «примерно». Не «ровно четыре», а «около четырёх» |
-| `I'll call it out` | Обещание | `Call out` = «объявить вслух». Водитель **обязательно** объявит остановку |
-| `Just sit tight` | Успокоение | «Просто сиди и жди». Живая, тёплая фраза |
-| `we'll be there in about ten minutes` | Время | `About` = «примерно». Не «ровно десять», а «около десяти» |
+**You:**  
+"Great. Can I pay when I get on?"
 
-### Почему так
+**Bus Driver:**  
+"Sure. You can tap your card right here."
 
-Американец **не ждёт**, пока водитель объявит остановку. Он **спрашивает заранее** — это **проактивная вежливость**: ты не создаёшь проблему, а **предупреждаешь** её. Водитель, в свою очередь, **обещает** объявить (`I'll call it out`) — это **ритуал заботы**.
+**You:**  
+"Perfect. Thanks a lot."
 
-### Ловушка для русскоязычного ученика
+### Useful Expressions
 
-- **`Driver`** — обращение к водителю автобуса. Не «мистер водитель», не «сэр» (хотя можно), а именно `driver` — это **точно** и **уважительно**.
-- **`Let me know`** — «дай мне знать». Не «скажи мне» (это звучит как приказ), а «дай знать» — мягко.
-- **`Call it out`** — «объявить вслух». Водитель **обязательно** объявит остановку, если ты попросил.
-- **`Sit tight`** — «сиди и жди». Не «сядь плотно», а «просто жди, не волнуйся».
+- `Does this bus go to...?` — Этот автобус идёт до...?
+- `Which bus do I need?` — Какой автобус мне нужен?
+- `Where is the nearest bus stop?` — Где ближайшая автобусная остановка?
+- `Is this the right bus for...?` — Это нужный автобус до...?
+- `How often does it run?` — Как часто он ходит?
+- `What time is the next bus?` — Во сколько следующий автобус?
+- `The stop is across the street.` — Остановка через дорогу.
+- `You need the M10.` — Вам нужен автобус M10.
 
-### Упражнение
+---
 
-1. Ты в автобусе. Тебе нужно выйти на:
-   - Museum Station (`Museum Station`);
-   - Central Park (`Central Park`);
-   - Broadway (`Broadway`).
-2. Спроси водителя **заранее**: `Excuse me, driver — could you let me know when we get to...?`
-3. Преподаватель отвечает как водитель (`Sure thing`, `I'll call it out`, `Just sit tight`). Ученик должен **понять** и **поблагодарить**.
-4. Усложнение: водитель **не объявляет** остановку (забыл). Ученик должен **напомнить** вежливо: `Excuse me, driver — is this Museum Station?`
-Американец **не просто говорит «автобус удобный»** — он **сравнивает** с метро (`cheaper`, `you get to see the city`), **признаёт минусы** (`slower during rush hour`) и **делает выбор** (`I don't mind`). Это делает речь **живой** и **правдоподобной**, а не «учебной».
-- 🟢 **Активно:** `Where can I buy a ticket?`, `I'd like a day pass, please`, `Which line do I take?`, `Does this bus go to...?`, `How much is a single ride?`, `How often does it run?`, `Get off at...`, `Take the Red Line`, `uptown`, `downtown`, `across the street`
-- 🟡 **Понимать:** `It's about five stops` (примерно пять остановок), `Every ten minutes or so` (примерно каждые десять минут)
-- 🔴 **Пассивно:** `hail a cab` (поймать такси — не про транспорт, но рядом), `transfer` (пересадка — понимать, но не обязательно использовать)
+# Part 3. Understanding American Public Transportation
+
+### 1. Subway, Metro, and Train
+
+In the United States, the names vary by city.
+
+| Expression | Meaning |
+|---|---|
+| `Subway` | Метро, особенно в Нью-Йорке |
+| `Metro` | Метрополитен, например в Вашингтоне |
+| `Train` | Поезд; в разговоре может также обозначать поезд метро |
+| `Light rail` | Лёгкое наземное метро |
+| `Commuter train` | Пригородный поезд |
+| `Bus` | Автобус |
+
+Don't assume every American city has a subway system.
+
+### 2. Lines and Routes
+
+You may hear:
+
+- `Red Line`
+- `Blue Line`
+- `Green Line`
+- `Route 42`
+- `Bus 10`
+- `The M10`
+
+A subway line may be identified by a color, letter, or number. Bus routes usually have their own numbers or letters.
+
+### 3. Uptown and Downtown
+
+These expressions describe directions or areas, but their meaning depends on the city.
+
+In Manhattan, for example:
+
+- `Uptown` generally means north.
+- `Downtown` generally means south.
+
+In other cities, they may refer more generally to central or northern/southern districts.
+
+Useful expressions:
+
+- `I'm heading downtown.` — Я направляюсь в центр / в нижнюю часть города.
+- `This train is going uptown.` — Этот поезд идёт в северном направлении Манхэттена.
+- `Is this train going downtown?` — Этот поезд идёт в южном направлении?
+
+Always check the route and destination displayed on the train.
+
+---
+
+# Part 4. Asking Where to Get Off
+
+### The Situation
+
+You're on a bus. You're unfamiliar with the route and don't want to miss your stop.
+
+You politely ask for help.
+
+### A Natural American Conversation
+
+**You:**  
+"Excuse me, could you let me know when we get to the museum?"
+
+**Driver:**  
+"Sure. It's about four stops from here. You should also see it on the display."
+
+**You:**  
+"Great. Thanks so much."
+
+**Driver:**  
+"No problem."
+
+A few minutes later:
+
+**Driver:**  
+"Next stop, Museum Station."
+
+**You:**  
+"Thank you!"
+
+### Useful Expressions
+
+- `Could you let me know when we get to...?` — Не могли бы вы дать знать, когда мы доедем до...?
+- `How many stops is it from here?` — Сколько остановок отсюда?
+- `Is this my stop?` — Это моя остановка?
+- `Do I get off here?` — Мне здесь выходить?
+- `Which stop should I get off at?` — На какой остановке мне выходить?
+- `Is the museum within walking distance from here?` — Отсюда до музея можно дойти пешком?
+
+**Important:** Don't rely entirely on the driver to remember your stop. Follow the route on the display or your phone, and listen for announcements.
+
+---
+
+# Part 5. Transfers and Connections
+
+Sometimes you need to change buses or trains.
+
+This is called a `transfer`.
+
+### A Natural American Conversation
+
+**You:**  
+"Excuse me, do I need to transfer to get to the airport?"
+
+**Station Agent:**  
+"Yes. Take the Blue Line to Central Station, then transfer to the Airport Express."
+
+**You:**  
+"Okay. Do I need another ticket?"
+
+**Station Agent:**  
+"No, your ticket is valid for the transfer."
+
+**You:**  
+"Perfect. Thanks for your help."
+
+### Useful Expressions
+
+- `Do I need to transfer?` — Мне нужна пересадка?
+- `Where do I transfer?` — Где мне делать пересадку?
+- `Is this a direct train?` — Это прямой поезд?
+- `Which platform do I need?` — Какая платформа мне нужна?
+- `How long is the transfer?` — Сколько времени занимает пересадка?
+- `Do I need another ticket?` — Мне нужен ещё один билет?
+
+---
+
+# Part 6. Talking About Public Transportation
+
+### A Natural Conversation Between Friends
+
+**You:**  
+"I gotta say, I prefer taking the bus over the subway. It's cheaper, and you get to see the city."
+
+**Friend:**  
+"Yeah, but it's slower, especially during rush hour."
+
+**You:**  
+"True. But I don't mind. I can just sit back and enjoy the ride."
+
+### Expression Breakdown
+
+| Expression | Meaning |
+|---|---|
+| `I gotta say...` | Должен сказать... |
+| `I prefer the bus over the subway.` | Я предпочитаю автобус метро. |
+| `You get to see the city.` | У тебя есть возможность посмотреть город. |
+| `Rush hour` | Час пик. |
+| `I don't mind.` | Я не против / меня это устраивает. |
+| `Sit back and enjoy the ride.` | Расслабиться и наслаждаться поездкой. |
+
+---
+
+# Part 7. Common Mistakes for Russian Speakers
+
+**1. Don't confuse `subway` with `underground`.**
+
+`Subway` is common American English. `Underground` and `Tube` are especially associated with British English.
+
+**2. Don't assume `uptown` always means north.**
+
+In Manhattan, this is generally true. In other cities, the meaning may be different.
+
+**3. Understand the difference between `stop` and `station`.**
+
+- `Bus stop` — автобусная остановка.
+- `Subway station` — станция метро.
+- `Next stop` — следующая остановка.
+
+**4. Don't confuse `get on` and `get off`.**
+
+- `Get on the bus.` — Сесть в автобус.
+- `Get off the bus.` — Выйти из автобуса.
+- `Get on the train.` — Сесть на поезд.
+- `Get off the train.` — Выйти из поезда.
+
+**5. Remember `transfer`.**
+
+`Transfer` means changing from one bus or train to another to continue your journey.
+
+---
+
+# Part 8. Practical Training
+
+The objective is to handle a complete journey using public transportation.
+
+### Exercise 1 — Buy a Ticket
+
+You're at a subway station.
+
+You want to get to a museum.
+
+Ask where to buy a ticket, how much a single ride costs, and whether a day pass is available.
+
+Start with:
+
+"Excuse me, where can I buy a subway ticket?"
+
+### Exercise 2 — Find the Right Bus
+
+You're standing at a bus stop.
+
+You want to get to Central Park.
+
+Ask whether the bus goes there, which route you need, and how often it runs.
+
+Start with:
+
+"Excuse me, does this bus go to Central Park?"
+
+### Exercise 3 — Don't Miss Your Stop
+
+You're on a bus and need to get off at Museum Station.
+
+Ask the driver to let you know when you reach the stop, but also follow the route display.
+
+Start with:
+
+"Excuse me, could you let me know when we get to Museum Station?"
+
+### Exercise 4 — Make a Transfer
+
+You're travelling to the airport.
+
+The route requires changing trains.
+
+Ask where to transfer, which platform you need, and whether you need another ticket.
+
+Start with:
+
+"Excuse me, do I need to transfer to get to the airport?"
+
+---
+
+# Your Active Public Transportation Vocabulary
+
+**Learn these expressions until they come naturally:**
+
+- `Where can I buy a ticket?`
+- `I'd like a day pass, please.`
+- `Can I pay by card?`
+- `Which line should I take?`
+- `Does this bus go to...?`
+- `How often does it run?`
+- `Where do I get off?`
+- `How many stops is it from here?`
+- `Is this my stop?`
+- `Do I need to transfer?`
+- `Which platform do I need?`
+- `Get on the bus.`
+- `Get off at the next stop.`
+- `It's across the street.`
+- `It's about five stops from here.`
+
+**The key principle:**
+
+Public transportation is about knowing three things: where to get on, which route to take, and where to get off.
+
+Ask clear questions, listen for route numbers and landmarks, and confirm your destination when you're unsure.
+
+**Don't just follow the crowd. Understand the route.**
