@@ -1,64 +1,108 @@
-# Урок 7: Опиши ванную комнату
+# Урок 7: Опиши ванную
 
-## Ситуация
+## Учимся описывать комфорт, ежедневные ритуалы и расслабление
 
-Ты дома с американским другом. Он спрашивает: «Your bathroom looks so relaxing. What's in there?» Ты хочешь описать ванную — не перевести с русского, а **увидеть и почувствовать** её: что где стоит, как это связано, и почему это важно для отдыха.
+### Ситуация
 
-## Живой текст
+Ты дома с американским другом. Он заглядывает в ванную и говорит:
 
-> This here's the bathroom — mighty important room, if you ask me. We've got a big bathtub and a shower. Folks love taking a bath — it takes the stress right out of you. Relaxes you or wakes you up, depending on how you feel. Some prefer a shower, but that's a matter of taste. It's where you wash up, shave — usually at the sink, with a mirror right above it. Toilet's in the corner. Towels hang on a hook on the wall. On the shelf by the tub, we keep the soap, shampoo, shaving cream, conditioner, moisturizer, a loofah. The tub's got pretty tile all around it, and there's a frosted window. Exhaust fan on the ceiling. After a hard day, there's nothing better than filling the tub with warm water, adding some bubble bath, throwing in some salts, and just lying there. Oh, there's nothing finer, ma'am.
+**"Your bathroom looks so relaxing. What's in there?"**
 
-## Разбор
+Ты хочешь описать комнату естественно — что в ней есть, как всё устроено и как ты её используешь.
 
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `This here's the bathroom` | Южный маркер | `This here` = «вот эта». Звучит живо, не книжно |
-| `mighty important room, if you ask me` | Мнение + усиление | `mighty` = «очень» (южный маркер). «Важная комната, если ты меня спросишь» — личная мысль |
-| `a big bathtub and a shower` | Оборудование | Не «ванна и душ», а «большая ванна и душевая кабина» — конкретика |
-| `it takes the stress right out of you` | Идиома | «Снимает стресс» — живая, понятная фраза |
-| `Relaxes you or wakes you up` | Функция | Не «расслабляет», а «расслабляет или бодрит» — два состояния |
-| `that's a matter of taste` | Идиома | «Дело вкуса» — живая, нейтральная фраза |
-| `wash up, shave — usually at the sink` | Ритуал | Не «умываются», а «умываются, бреются — обычно у раковины» — конкретное действие |
-| `with a mirror right above it` | Связь предметов | Не «зеркало», а «прямо над раковиной» — связь |
-| `Toilet's in the corner` | Положение | Конкретное место, а не абстрактное «в углу» |
-| `Towels hang on a hook on the wall` | Деталь | Не «полотенца», а «висят на крючке на стене» — живая деталь |
-| `soap, shampoo, shaving cream, conditioner, moisturizer, a loofah` | Перечисление | Живое, как будто показываешь пальцем на полку |
-| `pretty tile all around it` | Материал | Не «кафель», а «красивый кафель вокруг» — эстетика |
-| `a frosted window` | Деталь | Не «окно», а «матовое окно» — конкретика |
-| `Exhaust fan on the ceiling` | Деталь | Не «вытяжка», а «на потолке» — связь |
-| `there's nothing better than filling the tub...` | Культурный код | Ваша финальная мысль: «нет ничего лучше, чем наполнить ванну...» |
-| `Oh, there's nothing finer, ma'am` | Усиление + южный маркер | `nothing finer` = «нет ничего прекраснее». `ma'am` = ритуал уважения |
+### Живой американский диалог
 
-## Почему так
+**You:**
 
-Американец описывает ванную **через ритуал и ощущение**, а не через список предметов. Не «в ванной есть ванна, раковина и унитаз», а «наполняешь ванну тёплой водой, добавляешь пену, бросаешь соль, ложишься — нет ничего прекраснее». Это делает описание **живым** и **правдоподобным**.
+This here's our bathroom. It's a pretty important room, if you ask me.
 
-## Культурный код: ванная в американском доме
+We've got a big bathtub and a separate shower. Some folks love taking a long, warm bath. It takes the stress right out of you. A warm bath helps you relax, while a quick shower can wake you right up. I guess it just depends on your mood.
 
-Ванная (bathroom) — это **место ритуала**, а не просто комната. Здесь:
-- **ванна или душ** — не просто оборудование, а **способ снять стресс** («takes the stress right out of you»);
-- **раковина с зеркалом** — ритуал умывания и бритья;
-- **полотенца на крючке** — не просто ткань, а **уют**;
-- **средства гигиены на полке** — мыло, шампунь, пена для бритья, бальзам, крем, мочалка — **личный ритуал**;
-- **кафель** — не просто отделка, а **эстетика**;
-- **матовое окно** — не просто окно, а **приватность**;
-- **вытяжка** — не просто вентиляция, а **комфорт**.
+There's a sink with a mirror right above it. That's where you wash up and shave. The toilet's over in the corner, and we've got towels hanging on hooks on the wall.
 
-И главное: **«There's nothing better than filling the tub with warm water, adding some bubble bath, throwing in some salts, and just lying there»** — это американская мысль о том, что ванна — это **награда после трудного дня**.
+On the shelf next to the tub, we keep the soap, shampoo, conditioner, shaving cream, and a few other things. There's some nice tile around the bathtub and a frosted window for privacy. We've also got an exhaust fan in the ceiling to keep the air fresh.
 
-## Упражнение
+After a long, hard day, there's nothing better than filling up the tub with warm water, adding some bubble bath, and just soaking for a while.
 
-1. Возьми любую комнату в доме (ванную, кухню, прихожую).
-2. Опиши её в **5–7 предложениях** по-английски, используя:
-   - 1–2 предмета оборудования (`bathtub`, `sink`, `toilet`);
-   - 1 предмет атмосферы (`mirror`, `towel`, `frosted window`);
-   - 1 связь между предметами (`right above it`, `in the corner`, `on the shelf`);
-   - 1 ритуал или функцию (`it takes the stress right out of you`, `where you wash up`);
-   - 1 южный маркер из 🟢-уровня (`mighty`, `ma'am/sir`, `fixin' to`, `this here`).
-3. Прочитай вслух. Звучит ли это как живая речь — или как учебник?
+Now that's what I call relaxing!
 
-## Статус лексики
+### Полезные выражения
 
-- 🟢 **Активно:** `this here`, `mighty important`, `takes the stress right out of you`, `a matter of taste`, `nothing finer`, `wash up`
-- 🟡 **Понимать:** `bubble bath` (пеня для ванны — культурная деталь, но понятна), `loofah` (мочалка — узнавать)
-- 🔴 **Пассивно:** —
+| Выражение | Значение |
+|---|---|
+| `bathtub` | Ванна |
+| `separate shower` | Отдельный душ |
+| `shower stall` | Душевая кабина |
+| `sink` | Раковина |
+| `mirror` | Зеркало |
+| `wash up` | Умываться, привести себя в порядок |
+| `shave` | Бриться |
+| `towel` | Полотенце |
+| `hook` | Крючок |
+| `shaving cream` | Крем / пена для бритья |
+| `conditioner` | Кондиционер для волос |
+| `moisturizer` | Увлажняющий крем |
+| `loofah` | Губка для тела |
+| `washcloth` | Тканевая мочалка |
+| `frosted window` | Матовое окно |
+| `exhaust fan` | Вытяжной вентилятор |
+| `bubble bath` | Пена для ванны |
+| `soak in the tub` | Долго лежать и расслабляться в ванне |
+| `unwind` | Расслабиться после напряжённого дня |
+
+### Немного южного английского
+
+- `This here's...` — разговорная региональная конструкция.
+- `Mighty important` — очень важно.
+- `Folks` — люди, народ.
+- `Nothing finer` — нет ничего лучше; выразительная южная окраска.
+- `Fixin' to` — собираться что-то сделать.
+
+Пример:
+
+**"I'm fixin' to take a nice, hot bath. It's been one heck of a day."**
+
+«Собираюсь принять горячую ванну. День выдался ещё тот».
+
+`One heck of a day` — разговорное выражение: очень насыщенный, тяжёлый или необычный день.
+
+### Культурная заметка: ванные комнаты в американских домах
+
+Полезно различать несколько типов помещений:
+
+- **Full bathroom** — полноценная ванная комната, обычно с ванной или душем, туалетом и раковиной.
+- **Half bathroom / powder room** — небольшая туалетная комната с унитазом и раковиной, без ванны и душа.
+- **Guest bathroom** — ванная для гостей.
+- **Master bathroom / primary bathroom** — ванная при главной спальне.
+- **En-suite bathroom** — ванная, непосредственно соединённая со спальней.
+
+В американских домах эти варианты встречаются в разных сочетаниях. Не в каждом доме есть отдельная ванная для гостей.
+
+### Твоя практика
+
+Представь, что американский друг осматривает твою ванную.
+
+Опиши её в **5–7 предложениях**:
+
+1. Какая у тебя ванна или душ?
+2. Где находится раковина и зеркало?
+3. Где ты хранишь полотенца и принадлежности?
+4. Что делает ванную удобной?
+5. Что ты предпочитаешь после долгого дня — душ или ванну?
+
+Постарайся использовать **как минимум три выражения**:
+
+- `right above it`
+- `takes the stress right out of you`
+- `a matter of taste`
+- `soak in the tub`
+- `nothing fancy`
+- `unwind`
+
+**Цель:** опиши не просто ванную, а **ощущение** от пребывания в ней.
+
+### Статус лексики
+
+- 🟢 **Активно:** `this here's`, `bathtub`, `separate shower`, `sink`, `mirror`, `wash up`, `shave`, `towel`, `hook`, `shaving cream`, `conditioner`, `frosted window`, `exhaust fan`, `bubble bath`, `soak in the tub`, `unwind`, `right above it`, `takes the stress right out of you`
+- 🟡 **Понимать:** `mighty important` (очень важно), `folks` (люди, народ), `nothing finer` (нет ничего лучше), `one heck of a day` (очень насыщенный день), `a matter of taste` (дело вкуса), `fixin' to` (собираться что-то сделать)
+- 🔴 **Пассивно:** `full bathroom` / `half bathroom` / `powder room` (типы ванных — узнавать), `guest bathroom` (гостевая ванная — узнавать), `master/primary bathroom` (ванная при главной спальне — узнавать), `en-suite bathroom` (ванная, соединённая со спальней — узнавать), `shower stall` (душевая кабина — узнавать), `loofah` / `washcloth` (губка / мочалка — узнавать), `moisturizer` (увлажняющий крем — узнавать)
