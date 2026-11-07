@@ -1,56 +1,101 @@
 # Урок 10: Опиши прихожую
 
-## Ситуация
+## Учимся описывать порядок, удобство и входную зону
 
-Ты заходишь в дом американского друга. Он говорит: «Just leave your shoes by the door.» Ты хочешь описать прихожую — не перевести с русского, а **увидеть и почувствовать** её: что где стоит, как это связано, и почему это важно для дома.
+### Ситуация
 
-## Живой текст
+Ты в гостях у американского друга. Когда ты заходишь, друг говорит:
 
-> This here's the entryway — first thing you see when you walk in. There's a bench right by the door where you can sit and take off your boots. A coat rack on the wall — hooks for jackets, hats, umbrellas. A little table with a bowl for keys and mail. Mirror above it, so you can check yourself before you head out. Shoes go on the mat by the door — we don't wear them inside, ma'am. It's not fancy, but it's mighty handy. This is where the day starts and ends, if you think about it.
+**"Come on in! You can leave your shoes right by the door."**
 
-## Разбор
+Ты осматриваешься и замечаешь скамейку, несколько крючков для одежды, маленький столик и зеркало.
 
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `This here's the entryway` | Южный маркер | `This here` = «вот эта». Звучит живо, не книжно |
-| `first thing you see when you walk in` | Функция | Не «прихожая», а «первое, что видишь, когда входишь» — сразу смысл |
-| `a bench right by the door` | Мебель + положение | Не «скамейка», а «прямо у двери» — связь с местом |
-| `where you can sit and take off your boots` | Действие | Не «сидеть», а «сидеть и снимать обувь» — конкретный ритуал |
-| `A coat rack on the wall — hooks for jackets, hats, umbrellas` | Деталь | Не «вешалка», а «крючки для курток, шляп, зонтов» — живая деталь |
-| `a little table with a bowl for keys and mail` | Связь предметов | Не «стол», а «стол с миской для ключей и почты» — функциональная связь |
-| `Mirror above it, so you can check yourself before you head out` | Деталь + функция | Не «зеркало», а «зеркало, чтобы проверить себя перед выходом» — живое объяснение |
-| `Shoes go on the mat by the door — we don't wear them inside` | Культурный код | Не «обувь на коврике», а «мы не носим обувь внутри» — правило дома |
-| `It's not fancy, but it's mighty handy` | Оценка + усиление | `mighty` = «очень» (южный маркер), `handy` = «удобно» |
-| `This is where the day starts and ends` | Культурный код | Ваша мысль: прихожая — **начало и конец дня** |
+### Живой американский диалог
 
-## Почему так
+**Friend:** Just leave your shoes by the door.
 
-Американец описывает прихожую **через ритуал и движение**, а не через список предметов. Не «в прихожей есть скамейка, вешалка и зеркало», а «садишься снять ботинки, вешаешь куртку, проверяешь себя в зеркало перед выходом». Это делает описание **живым** и **правдоподобным**.
+**You:** Sure. This is a nice little entryway.
 
-## Культурный код: прихожая в американском доме
+**Friend:** Thanks! It's nothing fancy, but it does the job.
 
-Прихожая (entryway / mudroom) — это **граница между улицей и домом**. Здесь:
-- **скамейка у двери** (bench by the door) — ритуал снятия обуви;
-- **вешалка с крючками** (coat rack with hooks) — для курток, шляп, зонтов;
-- **столик с миской для ключей и почты** (table with a bowl for keys and mail) — место, где «оседают» мелочи;
-- **зеркало** (mirror) — проверить себя перед выходом;
-- **коврик для обуви** (mat by the door) — правило: **не носить обувь внутри** (в США это очень распространено).
+**You:** I see you've got a bench right by the door. That's handy for taking off your boots.
 
-И главное: **«This is where the day starts and ends»** — это американская мысль о том, что прихожая — **точка входа и выхода**, а не просто коридор.
+**Friend:** Exactly. And those hooks on the wall are for coats, jackets and hats.
 
-## Упражнение
+**You:** What's that little bowl on the table for?
 
-1. Представь, что ты заходишь в дом (свой или друга).
-2. Опиши прихожую в **5–7 предложениях** по-английски, используя:
-   - 1–2 предмета мебели (`bench`, `coat rack`, `table`);
-   - 1 предмет атмосферы (`mirror`, `bowl for keys`, `mat`);
-   - 1 связь между предметами (`right by the door`, `on the wall`, `above it`);
-   - 1 ритуал (`take off your boots`, `check yourself before you head out`, `we don't wear shoes inside`);
-   - 1 южный маркер из 🟢-уровня (`mighty`, `ma'am/sir`, `fixin' to`, `this here`).
-3. Прочитай вслух. Звучит ли это как живая речь — или как учебник?
+**Friend:** Keys. We always put them there so nobody has to look all over the house for them.
 
-## Статус лексики
+**You:** Smart idea. And you've got a mirror right above it.
 
-- 🟢 **Активно:** `this here`, `mighty handy`, `right by the door`, `on the wall`, `above it`, `take off your boots`, `we don't wear shoes inside`, `where the day starts and ends`
-- 🟡 **Понимать:** `entryway` (прихожая — узнавать), `mudroom` (грязная прихожая — узнавать), `coat rack` (вешалка — узнавать)
-- 🔴 **Пассивно:** —
+**Friend:** Yeah, just so you can check your appearance before heading out.
+
+**You:** I like that. Everything has its place.
+
+**Friend:** That's the idea. Keeps the place neat and makes coming and going a whole lot easier.
+
+**You:** Well, it's mighty handy, that's for sure!
+
+### Полезная лексика
+
+| English | Russian |
+|---|---|
+| entryway | прихожая, входная зона |
+| foyer | входной холл |
+| mudroom | помещение для грязной обуви и верхней одежды |
+| bench | скамейка |
+| coat rack | вешалка для верхней одежды |
+| coat hooks | крючки для одежды |
+| shoe rack | обувница |
+| doormat | придверный коврик |
+| shoe mat | коврик для обуви |
+| console table | узкий пристенный столик |
+| bowl for keys | миска для ключей |
+| mail tray | лоток для почты |
+| wall mirror | настенное зеркало |
+
+### Живые выражения
+
+- **Right by the door** — прямо у двери.
+- **Hang your coat up.** — Повесь пальто.
+- **Take your shoes off.** — Сними обувь.
+- **Put your shoes away.** — Убери обувь на место.
+- **Leave your keys here.** — Оставь ключи здесь.
+- **Everything has its place.** — У каждой вещи своё место.
+- **It does the job.** — Со своей задачей справляется.
+- **Keeps the place neat.** — Помогает поддерживать порядок.
+- **A whole lot easier.** — Намного проще.
+
+### Немного южного колорита
+
+- **This here's the entryway.** — Вот это наша прихожая.
+- **It's mighty handy.** — Очень удобно.
+- **Come on in, y'all!** — Заходите все!
+- **Make yourself at home.** — Чувствуй себя как дома.
+
+**Не нужно** специально вставлять южные выражения в каждую фразу. Одного-двух достаточно, чтобы речь оставалась естественной.
+
+### Твоя практика
+
+Представь, что я впервые у тебя дома.
+
+**Friend:**
+
+"Well, this is a nice entryway! Where do you usually keep your shoes and coats?"
+
+Ответь в **5–7 предложениях**.
+
+Постарайся упомянуть:
+1. Где ты хранишь обувь.
+2. Где ты вешаешь пальто.
+3. Есть ли у тебя скамейка или обувница.
+4. Где ты оставляешь ключи.
+5. Что делает твою прихожую удобной.
+
+Говори **естественно**, как будто показываешь другу свой дом.
+
+### Статус лексики
+
+- 🟢 **Активно:** `entryway`, `bench`, `coat hooks`, `bowl for keys`, `wall mirror`, `right by the door`, `take your shoes off`, `hang your coat up`, `everything has its place`, `it does the job`, `keeps the place neat`, `a whole lot easier`, `this here's`, `mighty handy`
+- 🟡 **Понимать:** `foyer` (входной холл), `shoe rack` (обувница), `doormat` (придверный коврик), `console table` (узкий пристенный столик), `make yourself at home` (чувствуй себя как дома)
+- 🔴 **Пассивно:** `mudroom` (помещение для грязной обуви и верхней одежды — узнавать), `mail tray` (лоток для почты — узнавать)
