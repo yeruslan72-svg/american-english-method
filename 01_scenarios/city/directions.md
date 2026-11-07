@@ -1,119 +1,286 @@
-# Сценарий: как спросить дорогу
+# Сценарий: как спросить дорогу в США
 
-## Ситуация
+## Как вежливо спросить — и понять ответ
 
-Ты в незнакомом американском городе. Тебе нужно купить продукты — ты ищешь ближайший супермаркет. Ты видишь прохожего: это может быть пожилой человек, молодая девушка, парень, кто угодно. Ты хочешь спросить **вежливо** и **понять ответ**.
+# Часть 1. Спроси прохожего
 
-## Диалог
+### 1. Ситуация
 
-> **You:** Excuse me, could you tell me where the nearest supermarket is? How do I get there?
->
-> **Passerby:** Sure, it's not far. Go straight until you hit the intersection, then turn left. If you look straight ahead, you'll see a big skyscraper with red towers — head right for it. To the right of it, you'll see a black building with a bright sign — a round logo on a yellow background. That's the Rainbow supermarket.
->
-> **You:** Thanks so much! I appreciate it.
+Ты в незнакомом американском городе. Тебе нужно купить продукты, ты ищешь ближайший супермаркет.
 
-## Формула вопроса
+Ты видишь прохожего. Ты не знаешь, спешит он или может помочь.
 
-Американский вопрос о дороге — это **три элемента**:
+Ты хочешь **вежливо** привлечь внимание, спросить дорогу и **понять ответ**.
 
-1. **Извинение** — `Excuse me` (обязательно, без него ты «врываешься»)
-2. **Вопрос** — `Could you tell me where the nearest... is?` / `How do I get to...?`
-3. **Благодарность** — `Thanks so much` / `I appreciate it`
+### 2. Живой американский диалог
 
-Пример: *«Excuse me, could you tell me where the nearest supermarket is?»*
+**You:**  
+"Excuse me, could you tell me where the nearest supermarket is?"
 
-## Почему так
+**Passerby:**  
+"Sure. It's not too far. Just go straight down this street until you get to the intersection. Then turn left. You'll see a tall building with red towers straight ahead. The supermarket is in the black building just to the right of it. Look for a yellow sign with a round logo. You can't miss it."
 
-Американец **не подходит молча** — он сначала «просит внимания» (`Excuse me`), потом задаёт вопрос. Это ритуал вежливости: ты не отвлекаешь человека, а **просишь разрешения** отвлечь.
+**You:**  
+"Got it. Thanks so much. I appreciate it!"
 
-## Как понять ответ
+**Passerby:**  
+"No problem. Have a good one!"
 
-Американцы объясняют дорогу **через ориентиры и повороты**:
+### 3. Базовая формула
 
-| Фраза | Что значит |
-|-------|------------|
-| `Go straight` | Иди прямо |
-| `until you hit the intersection` | до перекрёстка |
-| `turn left / right` | поверни налево / направо |
-| `look straight ahead` | посмотри прямо перед собой |
-| `head right for it` | иди прямо на него (ориентир) |
-| `to the right of it` | справа от него |
-| `It's across from...` | Это напротив... |
-| `It's next to...` | Это рядом с... |
-| `You can't miss it` | Ты не пропустишь (это очевидно) |
+Вежливая просьба о дороге состоит из **трёх частей**:
 
-## Ловушка для русскоязычного ученика
+**1. Привлечь внимание**
 
-- **Без `Excuse me`** — звучит как требование. Американец может проигнорировать.
-- **`Where is...?`** без `Excuse me` — слишком прямо. Лучше: `Excuse me, where's the nearest supermarket?`
-- **Не понять `blocks`** — в США расстояние измеряется **кварталами** (blocks), а не метрами. «Two blocks» — это примерно 200–300 метров.
-- **`You can't miss it`** — не «ты не сможешь пропустить» (запрет), а «это настолько очевидно, что ты не пропустишь».
-- **Ориентиры** — американцы часто объясняют через **здания, вывески, цвета**, а не через «поверни на второй улице». Ученик должен уметь **визуализировать** ориентир, а не просто запомнить «налево».
+- `Excuse me.`
+- `Hey, excuse me.`
 
-## Упражнение
+**2. Задать вопрос**
 
-1. Ты в незнакомом городе. Тебе нужно найти:
-   - ближайший супермаркет (`the nearest supermarket`);
-   - музей (`the museum`);
-   - кафе (`a coffee shop`).
-2. Спроси дорогу по формуле: `Excuse me` + вопрос + благодарность.
-3. Преподаватель отвечает как американец — с ориентирами (`skyscraper with red towers`, `black building with a round logo on yellow`). Ученик должен **понять** и **повторить** маршрут.
-4. Усложнение: попроси объяснить **два разных** маршрута (до супермаркета и до метро) и сравни, какие ориентиры используются.
+- `Could you tell me where the nearest supermarket is?`
+- `How do I get to the nearest supermarket?`
+- `Is there a grocery store around here?`
+- `Could you point me in the right direction?`
+
+**3. Поблагодарить**
+
+- `Thanks so much.`
+- `I really appreciate it.`
+- `Thanks, that's very helpful.`
+
+Не обязательно использовать все выражения каждый раз. Простое `Excuse me` + чёткий вопрос — это уже естественно.
+
+### 4. Понимание направлений
+
+| Выражение | Значение |
+|---|---|
+| `Go straight.` | Идите прямо. |
+| `Keep going.` | Продолжайте идти. |
+| `Go down this street.` | Идите по этой улице. |
+| `Turn left / right.` | Поверните налево / направо. |
+| `At the next intersection.` | На следующем перекрёстке. |
+| `At the traffic light.` | У светофора. |
+| `Go past the bank.` | Пройдите мимо банка. |
+| `It's on your left / right.` | Это будет слева / справа. |
+| `It's across from the hotel.` | Это напротив отеля. |
+| `It's next to the pharmacy.` | Это рядом с аптекой. |
+| `It's right around the corner.` | Это совсем рядом, за углом. |
+| `You can't miss it.` | Вы точно не пропустите. |
+| `It's a bit of a walk.` | Пешком идти довольно далеко. |
+
+### 5. Американские повседневные выражения
+
+**`Blocks`**
+
+Во многих американских городах расстояние измеряют **кварталами**.
+
+- `It's two blocks down the street.` — Это через два квартала.
+- `Walk three blocks and turn right.` — Пройдите три квартала и поверните направо.
+
+Квартал не имеет фиксированной длины. Его размер зависит от города.
+
+**`You can't miss it.`**
+
+Это не «вам запрещено пропустить». Это **успокаивающее выражение**: место легко узнать.
+
+**`Right around the corner.`**
+
+Очень частый способ сказать, что что-то **совсем рядом**.
+
+**`Head toward...`**
+
+Значит «двигаться в направлении чего-то».
+
+- `Head toward the tall building.` — Направляйтесь к высокому зданию.
+
+### 6. Полезный трюк: повтори маршрут
+
+Если тебе дали несколько инструкций, **повтори важную часть**, чтобы убедиться, что ты понял.
+
+Например:
+
+**Passerby:**  
+"Go straight for two blocks, then turn left at the traffic light."
+
+**You:**  
+"So, two blocks straight and then left at the traffic light?"
+
+**Passerby:**  
+"That's right."
+
+Это **естественный способ** подтвердить маршрут, не чувствуя неловкости.
+
+---
+
+# Часть 2. Спроси полицейского
+
+### 1. Ситуация
+
+Ты в Нью-Йорке. Ты хочешь увидеть **Метрополитен-музей**, но не можешь найти вход.
+
+Ты замечаешь полицейского на перекрёстке.
+
+Ты вежливо подходишь и просишь помочь.
+
+### 2. Живой американский диалог
+
+**You:**  
+"Excuse me, officer. I'm visiting New York, and I'm trying to find the Metropolitan Museum of Art. Could you point me in the right direction?"
+
+**Officer:**  
+"Sure thing. You're pretty close. Head north along Fifth Avenue. You'll pass Grand Army Plaza on your right. Keep going until you get to 82nd Street. The Met will be on your left. It's that big building with the columns out front. You'll see the main entrance at the top of the steps."
+
+**You:**  
+"Okay, so I just keep going up Fifth Avenue until I reach 82nd Street?"
+
+**Officer:**  
+"That's right. You can't miss it."
+
+**You:**  
+"Great. Thanks a lot, officer. I really appreciate it."
+
+**Officer:**  
+"No problem. Enjoy the museum. The American Wing is well worth seeing."
+
+### 3. Почему эти выражения работают
+
+| Выражение | Значение и использование |
+|---|---|
+| `Excuse me, officer.` | Вежливое обращение к полицейскому. |
+| `I'm visiting New York.` | Краткое объяснение ситуации. |
+| `I'm trying to find...` | Естественный способ сказать, что вы ищете место. |
+| `Could you point me in the right direction?` | Не могли бы вы подсказать, в какую сторону идти? |
+| `Sure thing.` | Конечно, без проблем. |
+| `Head north along Fifth Avenue.` | Двигайтесь на север вдоль Пятой авеню. |
+| `You'll pass... on your right.` | Вы пройдёте мимо ... справа. |
+| `Keep going until...` | Продолжайте идти, пока не... |
+| `The Met will be on your left.` | Метрополитен-музей будет слева. |
+| `Well worth seeing.` | Определённо стоит посмотреть. |
+
+### 4. Культурные заметки
+
+**Обращение к полицейскому `officer`**
+
+Это **стандартная и уважительная** форма обращения в США. Можно также сказать `sir` или `ma'am`, но `officer` особенно уместно.
+
+**`I'm sorry to bother you`**
+
+Это вежливое выражение, но **не обязательное** каждый раз. Можно использовать, когда чувствуешь, что отвлекаешь человека.
+
+Например:
+
+"Excuse me, officer. Sorry to bother you, but could you help me find the museum?"
+
+**`Sure thing`**
+
+Дружелюбный, естественный ответ. Похоже на «Of course» или «No problem».
+
+**`Something else`**
+
+Неформальное выражение, чтобы подчеркнуть, что что-то **впечатляет** или **необычно**.
+
+Например:
+
+"That museum is something else!" — Этот музей просто потрясающий!
+
+**`Well worth seeing`**
+
+Естественный способ **рекомендовать** место или достопримечательность.
+
+---
+
+# Часть 3. Практика
+
+Цель — не просто запомнить вопросы. Нужно **понимать направления**, когда их дают быстро и естественно.
+
+### Упражнение 1 — Спроси прохожего
+
+Представь, что ты в незнакомом американском городе.
+
+Спроси, как добраться до:
+
+1. Ближайшего супермаркета.
+2. Кофейни.
+3. Ближайшей аптеки.
+4. Вокзала.
+
+Начни с:
+
+"Excuse me, could you tell me how to get to...?"
+
+### Упражнение 2 — Пойми маршрут
+
+Я буду играть роль американского прохожего.
+
+Я дам directions, используя:
+
+- перекрёстки;
+- светофоры;
+- кварталы;
+- ориентиры;
+- здания и вывески.
+
+Твоя задача — **понять маршрут** и **объяснить его обратно** своими словами.
+
+### Упражнение 3 — Спроси полицейского
+
+Ты в Нью-Йорке.
+
+Ты хочешь найти:
+
+1. Метрополитен-музей.
+2. Центральный парк.
+3. Таймс-сквер.
+
+Начни с:
+
+"Excuse me, officer. Could you help me find...?"
+
+После получения directions **повтори маршрут**, чтобы подтвердить, что ты понял.
+
+### Упражнение 4 — Пойди дальше
+
+Полицейский или прохожий даёт directions и **рекомендует** другое место, которое стоит посетить.
+
+Например:
+
+"While you're there, you should check out the American Wing. It's well worth seeing."
+
+Твоя задача — **ответить естественно**, поблагодарить и **задать один дополнительный вопрос**.
+
+---
+
+# Твой активный словарь
+
+**Учи и тренируй эти выражения, пока они не станут естественными:**
+
+- `Excuse me.`
+- `Could you tell me where the nearest supermarket is?`
+- `How do I get to...?`
+- `Could you point me in the right direction?`
+- `I'm trying to find...`
+- `Go straight.`
+- `Keep going.`
+- `Turn left / right.`
+- `At the next intersection.`
+- `Go past...`
+- `It's on your left / right.`
+- `It's across from...`
+- `It's right around the corner.`
+- `You can't miss it.`
+- `Thanks so much.`
+- `I really appreciate it.`
+
+**Главный принцип:**
+
+Тебе не нужен сложный английский, чтобы спросить дорогу.
+
+Будь вежлив, задай чёткий вопрос, слушай ориентиры и **подтверди маршрут**, если нужно.
+
+**Хорошая коммуникация — это не про то, чтобы говорить больше. Это про то, чтобы понимать друг друга.**
 
 ## Статус лексики
-## Диалог 2: Спроси у полицейского
 
-### Ситуация
-
-Ты турист. Ты специально приехал в Нью-Йорк, чтобы посетить **Метрополитен-музей** — посмотреть на картины знаменитых американских художников и мировых мастеров. Но ты не можешь найти вход. Ты видишь полицейского на перекрёстке. Как спросить дорогу **вежливо** и **понять ответ**?
-
-### Диалог
-
-> **You:** Excuse me, officer. I'm sorry to bother you — I'm a tourist and I'm trying to find the Metropolitan Museum of Art. Could you point me in the right direction?
->
-> **Officer:** Sure thing. You're not far. Head up Fifth Avenue that way — you'll pass the Grand Army Plaza on your right. Keep going until you hit 82nd Street. The Met is right there on your left — big building with all them columns. You can't miss it. There's a wide set of stairs out front — that's the main entrance.
->
-> **You:** Thank you so much, officer. I really appreciate it.
->
-> **Officer:** No problem. Enjoy the museum — the American wing is something else.
-
-### Разбор
-
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `Excuse me, officer` | Обращение | К полицейскому — `officer`, не `sir` (хотя `sir` тоже можно). Это уважительно и точно |
-| `I'm sorry to bother you` | Извинение | Американец **признаёт**, что отвлекает человека. Это ритуал вежливости |
-| `I'm a tourist and I'm trying to find...` | Контекст | Американец **объясняет**, почему он спрашивает — это делает вопрос **естественным**, а не требовательным |
-| `Could you point me in the right direction?` | Косвенная просьба | Не «Where is...?», а «не могли бы вы направить меня». Мягко, вежливо |
-| `Sure thing` | Ответ | Живой, неформальный, но вежливый. Не «Yes», а «Конечно» |
-| `Head up Fifth Avenue` | Направление | `Head up` = «иди вверх по» (улице). Живой глагол движения |
-| `you'll pass... on your right` | Ориентир | Не «поверни», а «пройдёшь мимо... справа» — визуальный ориентир |
-| `until you hit 82nd Street` | Точка | `hit` = «дойдёшь до». Живое, разговорное |
-| `big building with all them columns` | Описание | `them` вместо `those` — лёгкий колорит. `Columns` = «колонны» — точная деталь |
-| `You can't miss it` | Успокоение | «Ты не пропустишь» — стандартная американская фраза |
-| `the American wing is something else` | Культурный код | `something else` = «нечто особенное». Полицейский **рекомендует**, а не просто отвечает — это по-американски |
-
-### Культурный код: почему полицейский так говорит
-
-- **`Officer`** — обращение к полицейскому в США. Не «мистер полицейский», не «сэр» (хотя можно), а именно `officer` — это **уважительно и точно**.
-- **`I'm sorry to bother you`** — американец **всегда** признаёт, что отвлекает. Это не «извинение за ошибку», а **ритуал уважения к времени** другого человека.
-- **`You can't miss it`** — стандартная фраза, которая значит «это настолько очевидно, что ты не пропустишь». Не запрет, а **успокоение**.
-- **`The American wing is something else`** — полицейский **выходит за рамки вопроса**: он не просто объясняет дорогу, а **рекомендует**, что посмотреть. Это американская привычка — быть **полезным сверх ожидаемого** (friendly helpfulness).
-
-### Упражнение
-
-1. Ты турист в Нью-Йорке. Тебе нужно найти:
-   - Метрополитен-музей (`the Metropolitan Museum of Art`);
-   - Центральный парк (`Central Park`);
-   - Таймс-сквер (`Times Square`).
-2. Спроси дорогу у **полицейского** по формуле:
-   - `Excuse me, officer`;
-   - `I'm sorry to bother you`;
-   - `I'm trying to find...`;
-   - `Could you point me in the right direction?`
-3. Преподаватель отвечает как американец-полицейский (с ориентирами: `columns`, `Fifth Avenue`, `82nd Street`). Ученик должен **понять** и **повторить** маршрут.
-4. Усложнение: полицейский **рекомендует**, что посмотреть (`the American wing is something else`). Ученик должен **отреагировать** — поблагодарить и, может быть, спросить, что ещё стоит увидеть.
-
-- 🟢 **Активно:** `Excuse me`, `Could you tell me where the nearest... is?`, `How do I get there?`, `Go straight`, `turn left/right`, `until you hit the intersection`, `look straight ahead`, `head right for it`, `to the right of it`, `Thanks so much`, `I appreciate it`
-- 🟡 **Понимать:** `It's a bit of a walk` (это неблизко, но дойти можно), `It's right around the corner` (совсем рядом), `You can't miss it` (это очевидно)
+- 🟢 **Активно:** `Excuse me`, `Could you tell me where the nearest... is?`, `How do I get to...?`, `Could you point me in the right direction?`, `I'm trying to find...`, `Go straight`, `Turn left/right`, `At the next intersection`, `Go past...`, `It's on your left/right`, `It's across from...`, `It's right around the corner`, `You can't miss it`, `Thanks so much`, `I really appreciate it`
+- 🟡 **Понимать:** `It's a bit of a walk` (пешком далековато), `Sure thing` (конечно), `Something else` (нечто особенное), `Well worth seeing` (стоит посмотреть)
 - 🔴 **Пассивно:** —
