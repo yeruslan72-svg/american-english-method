@@ -1,21 +1,22 @@
-# Using the Subway and Bus in the United States
-## How to Buy a Ticket, Find Your Route, and Get to the Right Stop
+# Сценарий: метро и автобус в США
 
-### 1. The Situation
+## Как купить билет, найти маршрут и выйти на нужной остановке
 
-You're in an unfamiliar American city.
+### 1. Ситуация
 
-You need to get to a museum, a hotel, or the airport. A taxi is too expensive, and walking would take too long.
+Ты в незнакомом американском городе.
 
-You decide to use public transportation.
+Тебе нужно доехать до музея, отеля или аэропорта. Такси дорого, пешком далеко.
 
-You need to know how to buy a ticket, find the right route, understand directions, and make sure you get off at the correct stop.
+Ты решаешь воспользоваться **общественным транспортом**.
+
+Тебе нужно знать, как **купить билет**, **найти нужный маршрут**, **понять направления** и **не пропустить свою остановку**.
 
 ---
 
-# Part 1. Buying a Subway Ticket
+# Часть 1. Покупка билета в метро
 
-### A Natural American Conversation
+### Живой американский диалог
 
 **You:**  
 "Excuse me, where can I buy a subway ticket?"
@@ -38,7 +39,7 @@ You need to know how to buy a ticket, find the right route, understand direction
 **You:**  
 "Okay, thanks for your help."
 
-### Useful Expressions
+### Полезные выражения
 
 - `Where can I buy a subway ticket?` — Где можно купить билет на метро?
 - `Is there a ticket machine nearby?` — Здесь есть автомат для покупки билетов?
@@ -49,17 +50,17 @@ You need to know how to buy a ticket, find the right route, understand direction
 - `How much is a single ride?` — Сколько стоит одна поездка?
 - `Is there a day pass?` — Есть проездной на день?
 
-**A useful distinction:**
+**Важное различие:**
 
-`Single ride` means one journey.
+`Single ride` — одна поездка.
 
-`Day pass` means a pass that allows travel for a specified period, usually one day. Check the local rules because some passes have restrictions.
+`Day pass` — проездной на определённый период, обычно на день. Проверь местные правила: у некоторых проездных есть ограничения.
 
 ---
 
-# Part 2. Taking the Bus
+# Часть 2. Поездка на автобусе
 
-### A Natural American Conversation
+### Живой американский диалог
 
 **You:**  
 "Excuse me, does this bus go to Central Park?"
@@ -82,7 +83,7 @@ You need to know how to buy a ticket, find the right route, understand direction
 **You:**  
 "Perfect. Thanks a lot."
 
-### Useful Expressions
+### Полезные выражения
 
 - `Does this bus go to...?` — Этот автобус идёт до...?
 - `Which bus do I need?` — Какой автобус мне нужен?
@@ -95,13 +96,13 @@ You need to know how to buy a ticket, find the right route, understand direction
 
 ---
 
-# Part 3. Understanding American Public Transportation
+# Часть 3. Как устроен американский общественный транспорт
 
-### 1. Subway, Metro, and Train
+### 1. Subway, Metro и Train
 
-In the United States, the names vary by city.
+В США названия различаются по городам.
 
-| Expression | Meaning |
+| Выражение | Значение |
 |---|---|
 | `Subway` | Метро, особенно в Нью-Йорке |
 | `Metro` | Метрополитен, например в Вашингтоне |
@@ -110,11 +111,11 @@ In the United States, the names vary by city.
 | `Commuter train` | Пригородный поезд |
 | `Bus` | Автобус |
 
-Don't assume every American city has a subway system.
+Не думай, что в каждом американском городе есть метро.
 
-### 2. Lines and Routes
+### 2. Линии и маршруты
 
-You may hear:
+Ты можешь услышать:
 
 - `Red Line`
 - `Blue Line`
@@ -123,38 +124,38 @@ You may hear:
 - `Bus 10`
 - `The M10`
 
-A subway line may be identified by a color, letter, or number. Bus routes usually have their own numbers or letters.
+Линия метро может обозначаться **цветом, буквой или номером**. Автобусные маршруты обычно имеют свои номера или буквы.
 
-### 3. Uptown and Downtown
+### 3. Uptown и Downtown
 
-These expressions describe directions or areas, but their meaning depends on the city.
+Эти выражения описывают направления или районы, но их значение зависит от города.
 
-In Manhattan, for example:
+В Манхэттене, например:
 
-- `Uptown` generally means north.
-- `Downtown` generally means south.
+- `Uptown` обычно означает **север**.
+- `Downtown` обычно означает **юг**.
 
-In other cities, they may refer more generally to central or northern/southern districts.
+В других городах они могут обозначать **центральные или северные/южные районы**.
 
-Useful expressions:
+Полезные выражения:
 
 - `I'm heading downtown.` — Я направляюсь в центр / в нижнюю часть города.
 - `This train is going uptown.` — Этот поезд идёт в северном направлении Манхэттена.
 - `Is this train going downtown?` — Этот поезд идёт в южном направлении?
 
-Always check the route and destination displayed on the train.
+Всегда проверяй **маршрут и пункт назначения** на табло в поезде.
 
 ---
 
-# Part 4. Asking Where to Get Off
+# Часть 4. Спроси, где выходить
 
-### The Situation
+### Ситуация
 
-You're on a bus. You're unfamiliar with the route and don't want to miss your stop.
+Ты в автобусе. Ты не знаешь маршрут и не хочешь пропустить свою остановку.
 
-You politely ask for help.
+Ты вежливо просишь помочь.
 
-### A Natural American Conversation
+### Живой американский диалог
 
 **You:**  
 "Excuse me, could you let me know when we get to the museum?"
@@ -168,7 +169,7 @@ You politely ask for help.
 **Driver:**  
 "No problem."
 
-A few minutes later:
+Через несколько минут:
 
 **Driver:**  
 "Next stop, Museum Station."
@@ -176,7 +177,7 @@ A few minutes later:
 **You:**  
 "Thank you!"
 
-### Useful Expressions
+### Полезные выражения
 
 - `Could you let me know when we get to...?` — Не могли бы вы дать знать, когда мы доедем до...?
 - `How many stops is it from here?` — Сколько остановок отсюда?
@@ -185,17 +186,17 @@ A few minutes later:
 - `Which stop should I get off at?` — На какой остановке мне выходить?
 - `Is the museum within walking distance from here?` — Отсюда до музея можно дойти пешком?
 
-**Important:** Don't rely entirely on the driver to remember your stop. Follow the route on the display or your phone, and listen for announcements.
+**Важно:** не полагайся полностью на водителя. Следи за маршрутом на табло или в телефоне и слушай объявления.
 
 ---
 
-# Part 5. Transfers and Connections
+# Часть 5. Пересадки
 
-Sometimes you need to change buses or trains.
+Иногда нужно менять автобус или поезд.
 
-This is called a `transfer`.
+Это называется `transfer`.
 
-### A Natural American Conversation
+### Живой американский диалог
 
 **You:**  
 "Excuse me, do I need to transfer to get to the airport?"
@@ -212,7 +213,7 @@ This is called a `transfer`.
 **You:**  
 "Perfect. Thanks for your help."
 
-### Useful Expressions
+### Полезные выражения
 
 - `Do I need to transfer?` — Мне нужна пересадка?
 - `Where do I transfer?` — Где мне делать пересадку?
@@ -223,9 +224,9 @@ This is called a `transfer`.
 
 ---
 
-# Part 6. Talking About Public Transportation
+# Часть 6. Разговор о транспорте
 
-### A Natural Conversation Between Friends
+### Живой диалог между друзьями
 
 **You:**  
 "I gotta say, I prefer taking the bus over the subway. It's cheaper, and you get to see the city."
@@ -236,9 +237,9 @@ This is called a `transfer`.
 **You:**  
 "True. But I don't mind. I can just sit back and enjoy the ride."
 
-### Expression Breakdown
+### Разбор выражений
 
-| Expression | Meaning |
+| Выражение | Значение |
 |---|---|
 | `I gotta say...` | Должен сказать... |
 | `I prefer the bus over the subway.` | Я предпочитаю автобус метро. |
@@ -249,90 +250,90 @@ This is called a `transfer`.
 
 ---
 
-# Part 7. Common Mistakes for Russian Speakers
+# Часть 7. Частые ошибки русскоязычных учеников
 
-**1. Don't confuse `subway` with `underground`.**
+**1. Не путай `subway` и `underground`.**
 
-`Subway` is common American English. `Underground` and `Tube` are especially associated with British English.
+`Subway` — распространённый американский вариант. `Underground` и `Tube` особенно связаны с британским английским.
 
-**2. Don't assume `uptown` always means north.**
+**2. Не думай, что `uptown` всегда означает север.**
 
-In Manhattan, this is generally true. In other cities, the meaning may be different.
+В Манхэттене это обычно так. В других городах значение может быть другим.
 
-**3. Understand the difference between `stop` and `station`.**
+**3. Понимай разницу между `stop` и `station`.**
 
 - `Bus stop` — автобусная остановка.
 - `Subway station` — станция метро.
 - `Next stop` — следующая остановка.
 
-**4. Don't confuse `get on` and `get off`.**
+**4. Не путай `get on` и `get off`.**
 
 - `Get on the bus.` — Сесть в автобус.
 - `Get off the bus.` — Выйти из автобуса.
 - `Get on the train.` — Сесть на поезд.
 - `Get off the train.` — Выйти из поезда.
 
-**5. Remember `transfer`.**
+**5. Запомни `transfer`.**
 
-`Transfer` means changing from one bus or train to another to continue your journey.
+`Transfer` означает переход с одного автобуса или поезда на другой, чтобы продолжить путь.
 
 ---
 
-# Part 8. Practical Training
+# Часть 8. Практика
 
-The objective is to handle a complete journey using public transportation.
+Цель — **справиться с полной поездкой** на общественном транспорте.
 
-### Exercise 1 — Buy a Ticket
+### Упражнение 1 — Купи билет
 
-You're at a subway station.
+Ты на станции метро.
 
-You want to get to a museum.
+Ты хочешь добраться до музея.
 
-Ask where to buy a ticket, how much a single ride costs, and whether a day pass is available.
+Спроси, где купить билет, сколько стоит одна поездка и есть ли проездной на день.
 
-Start with:
+Начни с:
 
 "Excuse me, where can I buy a subway ticket?"
 
-### Exercise 2 — Find the Right Bus
+### Упражнение 2 — Найди нужный автобус
 
-You're standing at a bus stop.
+Ты на автобусной остановке.
 
-You want to get to Central Park.
+Ты хочешь добраться до Центрального парка.
 
-Ask whether the bus goes there, which route you need, and how often it runs.
+Спроси, идёт ли этот автобус туда, какой маршрут нужен и как часто он ходит.
 
-Start with:
+Начни с:
 
 "Excuse me, does this bus go to Central Park?"
 
-### Exercise 3 — Don't Miss Your Stop
+### Упражнение 3 — Не пропусти остановку
 
-You're on a bus and need to get off at Museum Station.
+Ты в автобусе и тебе нужно выйти на Museum Station.
 
-Ask the driver to let you know when you reach the stop, but also follow the route display.
+Попроси водителя дать знать, когда будет остановка, но также следи за табло маршрута.
 
-Start with:
+Начни с:
 
 "Excuse me, could you let me know when we get to Museum Station?"
 
-### Exercise 4 — Make a Transfer
+### Упражнение 4 — Сделай пересадку
 
-You're travelling to the airport.
+Ты едешь в аэропорт.
 
-The route requires changing trains.
+Маршрут требует смены поездов.
 
-Ask where to transfer, which platform you need, and whether you need another ticket.
+Спроси, где пересадка, какая платформа нужна и нужен ли ещё один билет.
 
-Start with:
+Начни с:
 
 "Excuse me, do I need to transfer to get to the airport?"
 
 ---
 
-# Your Active Public Transportation Vocabulary
+# Твой активный словарь общественного транспорта
 
-**Learn these expressions until they come naturally:**
+**Учи эти выражения, пока они не станут естественными:**
 
 - `Where can I buy a ticket?`
 - `I'd like a day pass, please.`
@@ -350,10 +351,16 @@ Start with:
 - `It's across the street.`
 - `It's about five stops from here.`
 
-**The key principle:**
+**Главный принцип:**
 
-Public transportation is about knowing three things: where to get on, which route to take, and where to get off.
+Общественный транспорт — это про **три вещи**: где сесть, какой маршрут выбрать и где выйти.
 
-Ask clear questions, listen for route numbers and landmarks, and confirm your destination when you're unsure.
+Задавай чёткие вопросы, слушай номера маршрутов и ориентиры, подтверждай пункт назначения, если не уверен.
 
-**Don't just follow the crowd. Understand the route.**
+**Не просто иди за толпой. Понимай маршрут.**
+
+## Статус лексики
+
+- 🟢 **Активно:** `Where can I buy a ticket?`, `I'd like a day pass, please`, `Can I pay by card?`, `Which line should I take?`, `Does this bus go to...?`, `How often does it run?`, `Where do I get off?`, `How many stops is it from here?`, `Is this my stop?`, `Do I need to transfer?`, `Which platform do I need?`, `Get on the bus`, `Get off at the next stop`, `It's across the street`, `It's about five stops from here`
+- 🟡 **Понимать:** `Single ride` (одна поездка), `Day pass` (проездной на день), `Uptown/downtown` (направления, зависят от города), `Transfer` (пересадка), `Rush hour` (час пик), `I don't mind` (я не против)
+- 🔴 **Пассивно:** `Light rail` (лёгкое наземное метро — узнавать), `Commuter train` (пригородный поезд — узнавать)
