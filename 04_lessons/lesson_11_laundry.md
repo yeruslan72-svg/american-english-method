@@ -1,58 +1,102 @@
 # Урок 11: Опиши прачечную
 
-## Ситуация
+## Учимся описывать быт, технику и повседневные дела
 
-Ты гостишь у американского друга. Он говорит: «I need to throw a load in. The laundry room's just off the kitchen.» Ты хочешь описать прачечную — не перевести с русского, а **увидеть и почувствовать** её: что где стоит, как это работает, и почему это важно для дома.
+### Ситуация
 
-## Живой текст
+Ты гостишь у американского друга. Друг говорит:
 
-> This here's the laundry room — mighty handy to have one, ma'am. There's the washer and dryer, side by side. A big ol' basket for dirty clothes right next to 'em. Shelf above the machines — detergent, fabric softener, dryer sheets, all that. There's a folding table over there, and an ironing board on the wall. We hang up the delicates so they don't shrink. It's not a big room, but it keeps the house running. This is where the week gets reset, if you ask me.
+**"I need to throw a load in. The laundry room's just off the kitchen."**
 
-## Разбор
+Ты заходишь и осматриваешься. Там стиральная машина, сушильная машина, корзина с бельём и полки со средствами для стирки.
 
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `This here's the laundry room` | Южный маркер | `This here` = «вот эта». Звучит живо, не книжно |
-| `mighty handy to have one` | Усиление + оценка | `mighty` = «очень» (южный маркер), `handy` = «удобно». «Очень удобно, что она есть» |
-| `the washer and dryer, side by side` | Оборудование + положение | Не «стиральная машина и сушилка», а «рядом друг с другом» — связь |
-| `A big ol' basket for dirty clothes` | Деталь | `big ol'` = разговорный усилитель («большущая»). Не «корзина», а «для грязной одежды» — функция |
-| `right next to 'em` | Положение + разговорный маркер | `'em` = `them` — живая редукция. «Прямо рядом с ними» |
-| `Shelf above the machines` | Связь предметов | Не «полка», а «над машинами» — связь |
-| `detergent, fabric softener, dryer sheets, all that` | Перечисление | Живое, как будто показываешь пальцем. `all that` = «и всё такое» |
-| `a folding table over there` | Мебель + положение | Не «стол», а «для складывания белья» — функция |
-| `an ironing board on the wall` | Деталь | Не «гладильная доска», а «на стене» — связь |
-| `We hang up the delicates so they don't shrink` | Ритуал | Не «вешаем деликатные вещи», а «чтобы не сели» — живое объяснение |
-| `it keeps the house running` | Идиома | «Дом работает» — живая метафора |
-| `This is where the week gets reset` | Культурный код | Ваша мысль: прачечная — **сброс недели** |
+### Живой американский диалог
 
-## Почему так
+**Friend:** This here's the laundry room. Nothing fancy, but it's mighty handy.
 
-Американец описывает прачечную **через процесс и функцию**, а не через список предметов. Не «здесь стиральная машина, сушилка и полка», а «кладу бельё в машину, сушу, складываю на столе, деликатные вешаю, чтобы не сели». Это делает описание **живым** и **правдоподобным**.
+**You:** I see you've got the washer and dryer right next to each other.
 
-## Культурный код: прачечная в американском доме
+**Friend:** That's right. Makes doing the laundry a whole lot easier.
 
-Прачечная (laundry room) — это **отдельный ритуал**, а не просто место. Здесь:
-- **стиральная машина и сушилка** (washer and dryer) — часто **рядом** и **отдельно** от кухни или ванной;
-- **корзина для грязного белья** (laundry basket) — не просто ёмкость, а **начало процесса**;
-- **полка с порошком, кондиционером, салфетками** (detergent, fabric softener, dryer sheets) — ритуал ухода за одеждой;
-- **стол для складывания** (folding table) — не просто мебель, а **место порядка**;
-- **гладильная доска** (ironing board) — деталь, которая делает дом «собранным».
+**You:** And there's a big laundry basket over there.
 
-И главное: **«This is where the week gets reset»** — это американская мысль о том, что стирка — это **не бытовая мелочь**, а **способ начать неделю заново**.
+**Friend:** Yeah, that's where we keep the dirty clothes until it's time to wash 'em.
 
-## Упражнение
+**You:** What's on that shelf above the machines?
 
-1. Представь, что ты в прачечной (своей или друга).
-2. Опиши её в **5–7 предложениях** по-английски, используя:
-   - 1–2 предмета оборудования (`washer`, `dryer`, `folding table`);
-   - 1 предмет атмосферы (`laundry basket`, `shelf`, `ironing board`);
-   - 1 связь между предметами (`side by side`, `above the machines`, `next to 'em`);
-   - 1 процесс или ритуал (`throw a load in`, `hang up the delicates`, `fold the clothes`);
-   - 1 южный маркер из 🟢-уровня (`mighty`, `ma'am/sir`, `fixin' to`, `this here`).
-3. Прочитай вслух. Звучит ли это как живая речь — или как учебник?
+**Friend:** Laundry detergent, fabric softener, dryer sheets, all that stuff.
 
-## Статус лексики
+**You:** And what do you do with clothes that can't go in the dryer?
 
-- 🟢 **Активно:** `this here`, `mighty handy`, `side by side`, `next to 'em`, `throw a load in`, `keeps the house running`
-- 🟡 **Понимать:** `laundry room` (прачечная — узнавать), `detergent` (порошок — узнавать), `fabric softener` (кондиционер — узнавать), `dryer sheets` (салфетки для сушилки — узнавать)
+**Friend:** We hang those up to dry. Some things might shrink if you put 'em in the dryer.
+
+**You:** I see you've got a folding table over there, too.
+
+**Friend:** Sure do. That's where we fold everything before putting it away.
+
+**You:** Well, it's a small room, but it keeps the whole household running.
+
+**Friend:** You got that right!
+
+### Полезная лексика
+
+| English | Russian |
+|---|---|
+| laundry room | прачечная / помещение для стирки |
+| washer / washing machine | стиральная машина |
+| dryer / tumble dryer | сушильная машина |
+| laundry basket | корзина для белья |
+| laundry hamper | корзина для грязного белья |
+| laundry detergent | средство для стирки |
+| fabric softener | кондиционер для белья |
+| dryer sheets | листы для сушильной машины |
+| folding table | стол для складывания белья |
+| ironing board | гладильная доска |
+| iron | утюг |
+| clothesline | бельевая верёвка |
+| clothespin | прищепка |
+| drying rack | сушилка для белья |
+
+### Живые выражения
+
+- **Throw a load in.** — Закинуть бельё в стирку.
+- **Do the laundry.** — Заниматься стиркой.
+- **Run the washer.** — Запустить стиральную машину.
+- **Move the laundry to the dryer.** — Переложить бельё в сушилку.
+- **Hang the clothes up to dry.** — Развесить одежду сушиться.
+- **Fold the laundry.** — Сложить выстиранное бельё.
+- **Put everything away.** — Убрать всё на свои места.
+- **Catch up on the laundry.** — Разобраться с накопившейся стиркой.
+- **The clothes are still in the dryer.** — Одежда всё ещё в сушилке.
+
+### Немного южного колорита
+
+- **This here's the laundry room.** — Вот это наша прачечная.
+- **It's mighty handy.** — Очень удобно.
+- **Throw 'em in the washer.** — Закинь их в стиральную машину.
+- **We'll get to it in a minute.** — Сейчас займёмся этим.
+
+### Твоя практика
+
+Представь, что я у тебя дома и ты показываешь мне место для стирки.
+
+**Friend:**
+
+"Well, this is a pretty handy setup! Do you do your laundry here, or do you usually take it somewhere else?"
+
+Ответь в **5–7 предложениях**.
+
+Постарайся упомянуть:
+1. Где находится стиральная машина.
+2. Есть ли у тебя сушильная машина.
+3. Где ты хранишь средство для стирки.
+4. Как ты сушишь деликатные вещи.
+5. Что ты обычно делаешь с бельём после стирки.
+
+Говори **естественно**. Не просто перечисляй технику — **объясняй, как ты её используешь**.
+
+### Статус лексики
+
+- 🟢 **Активно:** `this here's`, `laundry room`, `washer`, `dryer`, `laundry basket`, `laundry detergent`, `fabric softener`, `dryer sheets`, `folding table`, `throw a load in`, `do the laundry`, `hang the clothes up to dry`, `fold the laundry`, `put everything away`, `mighty handy`
+- 🟡 **Понимать:** `laundry hamper` (корзина для грязного белья), `ironing board` (гладильная доска), `iron` (утюг), `clothesline` (бельевая верёвка), `clothespin` (прищепка), `drying rack` (сушилка для белья), `catch up on the laundry` (разобраться с накопившейся стиркой), `we'll get to it in a minute` (сейчас займёмся)
 - 🔴 **Пассивно:** —
