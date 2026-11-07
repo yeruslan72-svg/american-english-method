@@ -1,58 +1,109 @@
 # Урок 12: Опиши кладовую
 
-## Ситуация
+## Учимся описывать запасы, порядок и семейный уют
 
-Ты гостишь у американского друга. Он говорит: «Grab whatever you want — the pantry's right there.» Ты открываешь дверь и видишь полки с запасами. Ты хочешь описать кладовую — не перевести с русского, а **увидеть и почувствовать** её: что где стоит, как это связано, и почему это важно для дома.
+### Ситуация
 
-## Живой текст
+Ты в гостях у американского друга. Друг открывает дверь кладовой и говорит:
 
-> This here's the pantry — mighty handy, ma'am. Shelves floor to ceiling, all stocked up. Canned goods on one shelf — beans, corn, tomatoes. Dry goods on another — rice, pasta, flour, sugar. Snacks up top — chips, crackers, cookies. Spices on a little rack by the door. There's a basket for potatoes and onions on the floor. We keep it full, so we don't have to run to the store every day. A full pantry means a happy home, that's what my grandma used to say.
+**"Help yourself. The pantry's right over there."**
 
-## Разбор
+Ты заглядываешь внутрь. Там полки, полные еды, банок, консервов, пакетов и всяких вещей, которые семья использует каждый день.
 
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `This here's the pantry` | Южный маркер | `This here` = «вот эта». Звучит живо, не книжно |
-| `mighty handy` | Усиление + оценка | `mighty` = «очень» (южный маркер), `handy` = «удобно» |
-| `Shelves floor to ceiling` | Положение | Не «полки», а «от пола до потолка» — живая деталь |
-| `all stocked up` | Идиома | «Полностью запасена» — живая, понятная фраза |
-| `Canned goods on one shelf — beans, corn, tomatoes` | Перечисление | Не «консервы», а «бобы, кукуруза, томаты» — конкретика |
-| `Dry goods on another — rice, pasta, flour, sugar` | Перечисление | Не «крупы», а «рис, паста, мука, сахар» — конкретика |
-| `Snacks up top — chips, crackers, cookies` | Перечисление + положение | Не «снеки», а «чипсы, крекеры, печенье» — живая деталь |
-| `Spices on a little rack by the door` | Связь предметов | Не «специи», а «на маленькой полке у двери» — связь |
-| `a basket for potatoes and onions on the floor` | Деталь | Не «корзина», а «для картошки и лука» — функция |
-| `We keep it full, so we don't have to run to the store every day` | Ритуал | Не «запасаемся», а «держим полной, чтобы не бегать в магазин» — живое объяснение |
-| `A full pantry means a happy home` | Культурный код | Ваша мысль: полная кладовая = **счастливый дом** |
+### Живой американский диалог
 
-## Почему так
+**Friend:** This here's the pantry. Mighty handy to have everything in one place.
 
-Американец описывает кладовую **через запас и функцию**, а не через список предметов. Не «в кладовой есть полки и банки», а «полки от пола до потолка, консервы на одной, крупы на другой, снеки сверху, специи у двери». Это делает описание **живым** и **правдоподобным**.
+**You:** That's quite a lot of food! You've got shelves all the way up to the ceiling.
 
-## Культурный код: кладовая в американском доме
+**Friend:** Sure do. We keep the canned goods on this shelf — beans, corn, tomatoes, that kind of thing.
 
-Кладовая (pantry) — это **символ запаса и порядка**. Здесь:
-- **полки от пола до потолка** (shelves floor to ceiling) — не просто мебель, а **вместительность**;
-- **консервы** (canned goods) — бобы, кукуруза, томаты — **база**;
-- **сухие продукты** (dry goods) — рис, паста, мука, сахар — **основа**;
-- **снеки** (snacks) — чипсы, крекеры, печенье — **радость**;
-- **специи** (spices) — на отдельной полке у двери — **вкус**;
-- **корзина для картошки и лука** (basket for potatoes and onions) — **свежесть**.
+**You:** And what's on the next one?
 
-И главное: **«A full pantry means a happy home»** — это американская мысль о том, что запас — это **спокойствие и уют**, а не просто еда.
+**Friend:** Rice, pasta, flour, sugar — all the dry goods.
 
-## Упражнение
+**You:** I see you've got snacks up there, too.
 
-1. Представь, что ты открываешь кладовую (свою или друга).
-2. Опиши её в **5–7 предложениях** по-английски, используя:
-   - 1–2 предмета хранения (`shelves`, `basket`, `rack`);
-   - 1 категорию продуктов (`canned goods`, `dry goods`, `snacks`, `spices`);
-   - 1 связь между предметами (`on one shelf`, `on another`, `by the door`, `on the floor`);
-   - 1 функцию или ритуал (`keep it full`, `so we don't have to run to the store`);
-   - 1 южный маркер из 🟢-уровня (`mighty`, `ma'am/sir`, `fixin' to`, `this here`).
-3. Прочитай вслух. Звучит ли это как живая речь — или как учебник?
+**Friend:** You bet. Chips, crackers, cookies. The kids know exactly where to find 'em.
 
-## Статус лексики
+**You:** And all these little jars?
 
-- 🟢 **Активно:** `this here`, `mighty handy`, `stocked up`, `floor to ceiling`, `a full pantry means a happy home`
-- 🟡 **Понимать:** `pantry` (кладовая — узнавать), `canned goods` (консервы — узнавать), `dry goods` (сухие продукты — узнавать), `spices` (специи — узнавать)
+**Friend:** Spices. We keep those on a rack by the door so they're easy to reach when we're cooking.
+
+**You:** What about the potatoes and onions?
+
+**Friend:** They're in that basket on the floor. We keep a good supply of those, too.
+
+**You:** So you don't have to run to the grocery store every other day.
+
+**Friend:** Exactly. We like to keep the pantry well stocked. Makes life a whole lot easier.
+
+**You:** My grandma used to say that a well-stocked pantry brings peace of mind.
+
+**Friend:** Sounds like a wise woman!
+
+### Полезная лексика
+
+| English | Russian |
+|---|---|
+| pantry | кладовая для продуктов |
+| pantry shelves | полки в кладовой |
+| canned goods | консервированные продукты |
+| dry goods | сухие продукты |
+| groceries | продукты / покупки из продуктового магазина |
+| snacks | лёгкие закуски, снеки |
+| crackers | несладкие сухие крекеры |
+| chips | чипсы |
+| cookies | печенье |
+| flour | мука |
+| sugar | сахар |
+| spices | специи |
+| spice rack | подставка или полка для специй |
+| storage jars | банки для хранения |
+| food containers | контейнеры для продуктов |
+| grocery list | список покупок |
+
+### Живые выражения
+
+- **Help yourself.** — Угощайся, бери что хочешь.
+- **We're all stocked up.** — У нас есть все необходимые запасы.
+- **The pantry is well stocked.** — Кладовая хорошо заполнена запасами.
+- **Stock up on groceries.** — Закупиться продуктами впрок.
+- **We're running low on flour.** — У нас заканчивается мука.
+- **We're out of sugar.** — У нас закончился сахар.
+- **Put it back where you found it.** — Положи обратно на место.
+- **Keep everything within easy reach.** — Держать всё под рукой.
+- **A little bit of everything.** — Всего понемногу.
+- **It saves us a trip to the store.** — Это избавляет нас от лишней поездки в магазин.
+
+### Немного южного колорита
+
+- **This here's the pantry.** — Вот это наша кладовая.
+- **Mighty handy.** — Очень удобно.
+- **We've got plenty to go around.** — У нас всем хватит.
+- **Y'all help yourselves.** — Угощайтесь все.
+
+### Твоя практика
+
+Представь, что я у тебя дома и ты показываешь мне кладовую.
+
+**Friend:**
+
+"Well, you've got quite a bit of food in here! Do you usually buy everything in bulk, or just pick up what you need every week?"
+
+Ответь в **5–7 предложениях**.
+
+Постарайся упомянуть:
+1. Как ты организуешь продукты.
+2. Что ты хранишь на полках.
+3. Покупаешь ли ты продукты оптом.
+4. Как ты следишь за тем, что заканчивается.
+5. Почему иметь запасы дома удобно.
+
+Говори **естественно**, как будто показываешь другу дом.
+
+### Статус лексики
+
+- 🟢 **Активно:** `this here's`, `pantry`, `canned goods`, `dry goods`, `snacks`, `spices`, `spice rack`, `grocery list`, `help yourself`, `we're all stocked up`, `the pantry is well stocked`, `stock up on groceries`, `we're running low on`, `we're out of`, `keep everything within easy reach`, `it saves us a trip to the store`, `mighty handy`
+- 🟡 **Понимать:** `pantry shelves` (полки в кладовой), `groceries` (продукты), `crackers` (крекеры), `chips` (чипсы), `cookies` (печенье), `flour` (мука), `sugar` (сахар), `storage jars` (банки для хранения), `food containers` (контейнеры для продуктов), `a little bit of everything` (всего понемногу), `put it back where you found it` (положи обратно на место)
 - 🔴 **Пассивно:** —
