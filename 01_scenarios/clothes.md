@@ -1,131 +1,268 @@
-# Сценарий: покупка одежды
+# Сценарий: покупка одежды (техасский стиль)
 
 ## Ситуация
 
-Ты в американском магазине одежды. Ты решил полностью обновить гардероб — купить рубашку и джинсы в техасском стиле. Ты подходишь к продавцу (sales assistant) и просишь помочь. Это не просто «купить вещь» — это **ритуал выбора, примерки и общения**.
+Ты в мужском магазине одежды в Техасе. Ты хочешь собрать новый комплект в классическом западном стиле — вдохновлённый Чаком Норрисом из «Walker, Texas Ranger». Ты подходишь к продавцу-консультанту и просишь помочь.
 
 ## Диалог
 
-> **You:** Excuse me, I'd like to buy some new clothes. Could you help me out?
->
-> **Assistant:** Sure thing. What are you looking for?
->
-> **You:** I'd like a shirt and a pair of jeans — you know, the kind they wear down in Texas.
->
-> **Assistant:** Well, sir, you came to the right place. Our store is known for the best shirts and jeans — real American quality. Let's start with shirts. Come on over to the shirt section — look at all this variety. What color were you thinking, sir?
->
-> **You:** I'd like to dress like Chuck Norris in that Ranger movie. He had a light-colored shirt, the kind Texans like — made of heavy cotton.
->
-> **Assistant:** Oh, I hear you. Take a look at this one — looks like just what you need. What size are you?
->
-> **You:** I'm a medium.
->
-> **Assistant:** Perfect. Try this one on — looks like it'll fit. You can use the fitting room, there's a big mirror in there.
->
-> **You:** Thanks.
->
-> *(You go into the fitting room, close the curtain, take off your shirt, put on the new one, button it up and button the cuffs, look in the mirror, and call the assistant.)*
->
-> **You:** What do you think — does it suit me?
->
-> **Assistant:** Yes, it fits you perfectly — shows off your athletic build. The collar looks great, the shoulders are right, the sleeves are the right length — nothing needs to be taken in. The light blue color brightens you up.
->
-> **You:** You're right. I'll take this shirt. Let's pick out some jeans.
->
-> **Assistant:** Good. Keep the shirt on while we find the jeans — we'll see how they go together.
->
-> **You:** Agreed. Let's go.
->
-> *(You walk over to the jeans section.)*
->
-> **Assistant:** Take a look at these dark blue jeans — a real American brand. I'd bet good money Chuck Norris wore these exact jeans. Here's your size — try them on.
->
-> *(You take the jeans, go back to the fitting room, take off your old pants, put on the new jeans, look in the mirror, button them up and zip the fly, and call the assistant.)*
->
-> **Assistant:** Well, I'll be damned — I'd bet anyone you look even cooler than Chuck. You just need a good cowboy belt with a buffalo-head buckle, some quality leather cowboy boots, and a Mexican tie. And in the hat section, we'll find you a real cowboy hat.
->
-> **You:** Great, I'll take these jeans. Now show me a belt.
->
-> **Assistant:** Here's a fine brown crocodile-leather belt with a buffalo-head buckle. Put it on.
->
-> *(You put on the belt, adjust the length, and buckle it.)*
->
-> **Assistant:** *(whistles)* That's just great. Now let's find you some boots — since your belt is brown, your boots should be brown too. Take a look — I've got boots in crocodile leather too. Try them on. By the way, what size are you?
->
-> **You:** I'm a 42.
->
-> **Assistant:** Great, here's your size. Try them on — you can sit on the pouf, there's a mirror right there.
->
-> *(You sit on the pouf, take off your old shoes, and put on the new cowboy boots.)*
->
-> **Assistant:** Oh, that looks just great — you're ready for a rodeo.
->
-> **You:** I like my new look.
->
-> **Assistant:** Yeah, but you've gotta get a hat and a Mexican tie. And buy some sunglasses — the Texas sun is hot and bright, and there's dust too. Protect your eyes.
->
-> **You:** Which hat would you recommend?
->
-> **Assistant:** Take this dark brown one and these black sunglasses. The Mexican tie will be a gift from our store.
->
-> **You:** Great, I'll take it all. By the way, can you iron all this here?
->
-> **Assistant:** Yes, of course, no problem. Do you want to wear it all right away?
->
-> **You:** Yes, I want to put it all on right now.
->
-> **Assistant:** Great idea. Go to the fitting room and take off your clothes. Wait a bit and we'll bring you the pressed items.
->
-> *(You take off your clothes and hand them to the assistant. The assistant takes them to the ironing and tailoring section. Ten minutes later, they bring back the pressed new clothes. You put them on with great pleasure.)*
->
-> **You:** And I'd like to leave my old clothes here.
->
-> **Assistant:** No problem, leave them. Now go to the register — here's your receipt.
->
-> *(You go to the register, hand over the receipt. The cashier rings up the items and you tap your bank card on the terminal. Payment goes through, and they thank you for your purchase.)*
+**You:** Excuse me, could you help me out? I'm looking to put together a new outfit.
 
-## Формула
+**Sales Associate:** Absolutely, happy to help. What kind of look are you going for?
 
-Американская покупка одежды — это **четыре элемента**:
+**You:** Well, I'm after something with a classic Texas look. You know, something like what Chuck Norris wore in *Walker, Texas Ranger*.
 
-1. **Просьба о помощи** — `Could you help me out?` / `I'm looking for...`
-2. **Описание желаемого** — `I'd like...` / `the kind they wear in Texas` / `like Chuck Norris in that movie`
-3. **Примерка и оценка** — `Does it suit me?` / `What do you think?`
-4. **Оплата** — `I'll take it` / `Can you iron this?` / `I'll pay by card`
+**Sales Associate:** Oh, I know exactly what you mean! A good Western look. Are you thinking shirts, jeans, boots — the whole deal?
 
-## Почему так
+**You:** That's right. Let's start with a shirt. I'd like something light-colored, maybe light blue, made of good, heavyweight cotton.
 
-Американец **не просто покупает вещь** — он **общается** с продавцом, **обсуждает** фасон, **примеряет** и **оценивает** результат. Продавец, в свою очередь, **активно участвует**: предлагает, комментирует, шутит (`I'd bet good money Chuck Norris wore these`). Это **ритуал гостеприимства** — ты не «покупатель», а **гость**, которого обслуживают с удовольствием.
+**Sales Associate:** Gotcha. Something sturdy but comfortable. How about this one? It's a pearl-snap Western shirt. Take a look.
 
-## Культурный код: джинсы и Техас
+**You:** I like the color. What kind of cotton is it?
 
-- **Джинсы** — это **символ Америки**. Они «красивы, надёжны, никогда не выходят из моды». Это не просто одежда — это **культурный код**.
-- **Техасский стиль** — рубашка из плотного хлопка, ковбойский ремень с бляхой, сапоги из кожи, ковбойская шляпа. Это **образ**, который американец узнаёт сразу.
-- **Чак Норрис** — культурная икона. Упоминание его в диалоге — это **шутка**, которая делает разговор **живым**.
-- **`I'd bet good money`** — живая идиома: «готов поспорить на хорошие деньги». Американец любит **преувеличивать** для эффекта.
+**Sales Associate:** It's heavyweight cotton. Good quality, and it'll hold up well. What size do you usually wear?
 
-## Ловушка для русскоязычного ученика
+**You:** Medium.
 
-- **`Fitting room`** — примерочная. Не `changing room` (это британский вариант).
-- **`Does it suit me?`** — «мне идёт?». Не «подходит по размеру» (это `Does it fit?`), а **идёт по стилю**.
-- **`I'll take it`** — «я беру». Не «я покупаю» (`I buy`), а именно «беру» — живое, разговорное.
-- **`Tap your card`** — «приложи карту». В США оплата картой — **касанием** (`tap`), а не вставкой в терминал.
-- **`Keep the change`** — «сдачи не надо». В США чаевые **обязательны** в сфере услуг, но в магазине одежды — нет (это не ресторан).
+**Sales Associate:** All right, here's a medium. Why don't you try it on? The fitting rooms are right over there.
 
-## Упражнение
+**You:** Thanks. I'll give it a try.
 
-1. Ты в магазине одежды. Ты хочешь купить:
-   - рубашку (`a shirt`);
-   - джинсы (`a pair of jeans`);
-   - ремень (`a belt`).
-2. Попроси помощи: `Excuse me, could you help me out?`
-3. Опиши, что хочешь: `I'd like... the kind they wear in Texas` / `like Chuck Norris in that movie`.
-4. Примерь и спроси: `Does it suit me?` / `What do you think?`
-5. Оплати: `I'll take it` / `Can you iron this?` / `I'll pay by card`.
-6. Разыграйте диалог с преподавателем (он — продавец). Ученик должен **попросить помощи**, **описать желаемое**, **примерить**, **оценить** и **оплатить**.
+*(You go into the fitting room, take off your shirt and put on the new one. You button it up, fasten the cuffs and check yourself in the full-length mirror.)*
+
+**You:** Hey, what do you think? How does it look?
+
+**Sales Associate:** Looks pretty good! The shoulders fit nicely, the collar sits right, and the sleeves are just the right length.
+
+**You:** How about the fit around the waist?
+
+**Sales Associate:** Looks good to me. It's not too loose and not too tight. You've got room to move, which is what you want.
+
+**You:** I like it. I'll take this one.
+
+**Sales Associate:** Good choice. Now let's find you a pair of jeans to go with it.
+
+**You:** Sounds good. Let's see what you've got.
+
+*(You walk over to the jeans section.)*
+
+**Sales Associate:** Here we go. These dark-wash jeans would look great with that shirt. They're a classic straight-leg fit.
+
+**You:** I like the color. Are they comfortable?
+
+**Sales Associate:** Absolutely. They're made for everyday wear. Do you know your waist and inseam measurements?
+
+**You:** Not in American sizes. I usually wear a European size.
+
+**Sales Associate:** No problem. We can figure that out. Let's get your waist measured, and then we'll find the right length.
+
+*(The associate helps you find the right size.)*
+
+**Sales Associate:** Here you go. Try these on and see how they feel.
+
+*(You go back to the fitting room, take off your old pants and put on the jeans. You zip up the fly, button the waistband and check the fit in the mirror.)*
+
+**You:** What do you think? Do they look right?
+
+**Sales Associate:** They sure do. The waist sits nicely, and the length looks good. You don't want them bunching up too much around your boots.
+
+**You:** Yeah, I like the fit. I'll take them.
+
+**Sales Associate:** All right! Now, if we're going for that classic Texas look, we ought to find you a good belt.
+
+**You:** Definitely. Show me what you've got.
+
+**Sales Associate:** Take a look at this brown leather belt. It's got a nice Western buckle with a buffalo on it.
+
+**You:** That's exactly the kind of thing I had in mind. Is the leather genuine?
+
+**Sales Associate:** Yes, genuine leather. Good and sturdy, too. Try it on.
+
+*(You put on the belt, adjust it and fasten the buckle.)*
+
+**You:** How does that look?
+
+**Sales Associate:** Looks great! That buckle really brings the whole outfit together.
+
+**You:** I like it. Now, let's find some boots.
+
+**Sales Associate:** You got it. Since you've got a brown belt, I'd go with brown leather boots. Take a look at these.
+
+**You:** Those look pretty good. Do you have them in my size?
+
+**Sales Associate:** What shoe size do you wear?
+
+**You:** I'm a European size 42.
+
+**Sales Associate:** All right, we'll find the closest US size and check the fit. Here, try these on. There's a bench right over there.
+
+*(You sit down, take off your shoes and put on the cowboy boots.)*
+
+**Sales Associate:** Make sure you stand up and walk around a little. You want them snug around the instep, but your toes need room.
+
+**You:** They feel pretty comfortable. How do they look?
+
+**Sales Associate:** They look great! Now you're starting to look like a real Texas gentleman.
+
+**You:** Ha! That's what I'm going for.
+
+**Sales Associate:** There's just one more thing missing — a cowboy hat.
+
+**You:** I was thinking the same thing. What would you recommend?
+
+**Sales Associate:** I'd go with a dark brown Western hat. Let's see how this one looks on you.
+
+*(You try on the hat and look in the mirror.)*
+
+**You:** What do you think?
+
+**Sales Associate:** That's a good look on you. The color goes well with the boots and belt.
+
+**You:** I'll take it. And what about a bolo tie? Do you have any?
+
+**Sales Associate:** Sure do. We've got a few over here. This one has a silver-and-turquoise slide. It's a classic Western style.
+
+**You:** That's nice. I'll take that one too.
+
+**Sales Associate:** Excellent. Now you're all set!
+
+**You:** I think so! I'd also like a pair of sunglasses. Something that'll protect my eyes from the Texas sun.
+
+**Sales Associate:** Good idea. These should do the trick. They're polarized, too.
+
+**You:** Perfect. I'll take those as well.
+
+---
+
+## Подготовка вещей
+
+**You:** By the way, is there any chance you could steam or press these clothes for me? I'd like to wear the whole outfit out of the store.
+
+**Sales Associate:** We can certainly check. We offer steaming on some items. Give me a few minutes and I'll see what we can do.
+
+**You:** That'd be great, thanks.
+
+**Sales Associate:** No problem. Would you like to change into the new outfit while we get your old clothes ready?
+
+**You:** Yes, I'd like to wear the new stuff right away.
+
+**Sales Associate:** Sure thing. You can get changed in the fitting room. I'll bring your clothes back as soon as they're ready.
+
+*(You change into your new outfit. The associate returns your old clothes, neatly folded and packed in a bag.)*
+
+**You:** That's great. Could I leave my old clothes in this bag?
+
+**Sales Associate:** Absolutely. I'll put them in a bag for you.
+
+**You:** Thanks, I appreciate it.
+
+---
+
+## Оплата на кассе
+
+**Sales Associate:** All right, you're all set. I'll meet you at the register.
+
+*(You walk over to the checkout.)*
+
+**Cashier:** Did you find everything you were looking for?
+
+**You:** Sure did. I'm all set.
+
+**Cashier:** Great! Let me ring everything up for you.
+
+*(The cashier scans the items and gives you the total.)*
+
+**Cashier:** Your total comes to $...
+
+**You:** I'll pay by card.
+
+**Cashier:** No problem. You can tap right here.
+
+*(You tap your bank card on the payment terminal. The payment goes through.)*
+
+**Cashier:** You're all set. Here's your receipt.
+
+**You:** Thank you. I appreciate your help.
+
+**Cashier:** You're very welcome. Enjoy your new outfit!
+
+**You:** Thanks, y'all have a good one!
+
+**Cashier:** You too, sir. Take care!
+
+---
+
+## Полезные выражения
+
+| Выражение | Значение |
+|---|---|
+| I'm looking to put together an outfit. | Хочу собрать комплект одежды. |
+| I'm after something with a Western look. | Ищу что-нибудь в западном стиле. |
+| What kind of look are you going for? | Какой образ ты хочешь создать? |
+| That's exactly what I had in mind. | Именно это я и имел в виду. |
+| Why don't you try it on? | Почему бы тебе не примерить? |
+| How does it look? | Как выглядит? |
+| It fits just right. | Сидит как надо. |
+| It's a little tight around the waist. | Немного тесно в талии. |
+| Do you have this in my size? | Есть мой размер? |
+| I'll take this one. | Я возьму вот это. |
+| That should do the trick. | Это должно отлично подойти / решить задачу. |
+| I'm all set. | Всё, я закончил / мне больше ничего не нужно. |
+| You got it. | Конечно / без проблем. |
+| Have a good one! | Хорошего дня! |
+
+## Важная лексика одежды
+
+| English | Russian |
+|---|---|
+| Sales associate | Продавец-консультант |
+| Fitting room | Примерочная |
+| Full-length mirror | Зеркало во весь рост |
+| Pearl-snap shirt | Западная рубашка с кнопками |
+| Heavyweight cotton | Плотный хлопок |
+| Collar | Воротник |
+| Cuffs | Манжеты |
+| Shoulder fit | Посадка по плечам |
+| Waistband | Пояс джинсов |
+| Fly | Застёжка-молния на брюках |
+| Straight-leg jeans | Джинсы прямого кроя |
+| Inseam | Длина внутреннего шва брючин |
+| Western belt buckle | Западная пряжка ремня |
+| Genuine leather | Натуральная кожа |
+| Cowboy boots | Ковбойские сапоги |
+| Bolo tie | Западный шнурковый галстук с декоративной застёжкой |
+| Western hat | Ковбойская шляпа |
+| Polarized sunglasses | Поляризационные солнцезащитные очки |
+| Steam / press | Отпаривать / гладить |
+| Alterations | Подгонка и ремонт одежды |
+| Hem the jeans | Подшить джинсы |
+| Receipt | Чек |
+| Payment terminal | Платёжный терминал |
+
+## Четыре вещи, которые стоит запомнить
+
+1. **Does it fit?** — подходит ли по размеру и посадке.
+2. **Does it look good on me?** — хорошо ли выглядит на мне.
+3. **Does it suit me?** — идёт ли мне, подходит ли моему образу.
+4. **I'll take it.** — я беру эту вещь.
+
+## Практика активной речи
+
+Попробуй использовать эти выражения, не подглядывая в текст:
+
+- Could you help me out?
+- I'm looking to put together a new outfit.
+- I'm after something with a classic Texas look.
+- That's exactly what I had in mind.
+- How does it look?
+- I'll take this one.
+- Do you have these in my size?
+- I'd like to wear the whole outfit out of the store.
+- I'll pay by card.
+- Y'all have a good one!
 
 ## Статус лексики
 
-- 🟢 **Активно:** `Could you help me out?`, `I'm looking for...`, `I'd like...`, `Does it suit me?`, `What do you think?`, `I'll take it`, `fitting room`, `I'll pay by card`, `tap your card`
-- 🟡 **Понимать:** `I'd bet good money` (готов поспорить), `you came to the right place` (вы попали туда, куда надо), `I'll be damned` (вот чёрт — живое, но не для формальной речи)
-- 🔴 **Пассивно:** `take in` (ушить — понимать, но не обязательно использовать), `cowboy boots` (ковбойские сапоги — узнавать, но не для города)
+- 🟢 **Активно:** `Could you help me out?`, `I'm looking for...`, `I'd like...`, `How does it look?`, `I'll take it`, `fitting room`, `I'll pay by card`, `tap your card`, `Y'all have a good one!`
+- 🟡 **Понимать:** `I'd bet good money` (готов поспорить), `you came to the right place` (вы попали туда, куда надо), `That should do the trick` (это должно подойти)
+- 🔴 **Пассивно:** `take in` (ушить — понимать, но не обязательно использовать), `alterations` (подгонка — узнавать)
