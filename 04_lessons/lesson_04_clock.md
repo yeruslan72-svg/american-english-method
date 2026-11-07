@@ -1,55 +1,89 @@
 # Урок 4: Опиши часы
 
-## Ситуация
+## Учимся описывать звук, движение и функцию
 
-Ты дома с американским другом. Он замечает часы на стене и спрашивает: «That's a nice clock — is it old?» Ты хочешь описать часы — не перевести с русского, а **увидеть и почувствовать** их: какие они, как ходят, что для тебя значат.
+### Ситуация
 
-## Живой текст
+Ты дома с американским другом. Он замечает часы на стене и спрашивает:
 
-> This here's the clock in my living room. It's round, hangs right there on the wall. It's got a wooden frame and a real clear face — numbers, minute hand, second hand, hour hand. It ticks, and on the hour it strikes. Mighty loud, ma'am — you can hear it all through the house. Some clocks have a little door that opens so you can set the time by moving the hands. This one's not fancy, but it keeps good time. Rich or cheap, they all tell the same time — that's what I say.
+**"That's a nice clock. Is it old?"**
 
-## Разбор
+Ты хочешь описать их естественно — как они выглядят, как звучат, как работают и что они значат для тебя.
 
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `This here's the clock` | Южный маркер | `This here` = «вот эти». Звучит живо, не книжно |
-| `hangs right there on the wall` | Положение | Конкретное место, а не абстрактное «висит» |
-| `wooden frame` | Материал | Конкретно: деревянный корпус |
-| `a real clear face` | Деталь | `real` вместо `really` — разговорный маркер. «Понятный циферблат» |
-| `numbers, minute hand, second hand, hour hand` | Устройство | Перечисление — живое, как будто показываешь пальцем |
-| `It ticks, and on the hour it strikes` | Звук и движение | Два глагола — `tick` (тикают) и `strike` (бьют). Живая деталь |
-| `Mighty loud` | Усиление | `mighty` = «очень» (южный маркер) |
-| `a little door that opens so you can set the time` | Функция | Конкретное действие: открыть дверцу, подвигать стрелки |
-| `keeps good time` | Идиома | «Идут точно» — живая, понятная фраза |
-| `Rich or cheap, they all tell the same time` | Культурный код | Ваша финальная мысль: дорогие или дешёвые — время одно |
+### Живой американский диалог
 
-## Почему так
+**You:**
 
-Американец описывает часы **через движение, звук и функцию**, а не через ярлыки. Не «это красивые часы», а «они тикают, бьют каждый час, у них понятный циферблат». Это делает описание **живым** и **правдоподобным**.
+This here's the clock in my living room. It's round, with a wooden frame, and hangs right there on the wall. It's got a nice, clear clock face, so you can read it from across the room.
 
-## Культурный код: часы в американском доме
+You can hear it ticking when the house is quiet. And on the hour, it strikes — mighty loud, too. You can hear it all the way down the hall.
 
-Часы — это не просто предмет, а **ритм дома**. Они:
-- **висят на стене** (wall clock) или **стоят на камине** (mantel clock);
-- **бывают с кукушкой** (cuckoo clock) или **с декоративной головой оленя** (deer head clock) — особенно в домах на Юге и в сельской местности;
-- **бьют** (strike) — иногда так громко, что слышно во всём доме;
-- **показывают дату** (some show the date) — не только время, но и число.
+It's nothing fancy, but it keeps good time. I've had it for years, and I've gotten used to hearing it in the background. Makes the house feel a little more like home.
 
-И главное: **«Rich or cheap, they all tell the same time»** — это американская мысль о том, что ценность вещи не в цене, а в функции. Часы могут быть дорогими или дешёвыми, но время они показывают одно.
+### Полезные выражения
 
-## Упражнение
+| Выражение | Значение |
+|---|---|
+| `wall clock` | Настенные часы |
+| `wooden frame` | Деревянная рама / корпус |
+| `clock face` | Циферблат |
+| `hour hand` | Часовая стрелка |
+| `minute hand` | Минутная стрелка |
+| `second hand` | Секундная стрелка |
+| `tick` | Тикать |
+| `strike the hour` | Бить часы |
+| `chime` | Издавать перезвон |
+| `mighty loud` | Очень громко |
+| `keep good time` | Точно идти |
+| `nothing fancy` | Ничего особенного, без излишеств |
+| `get used to hearing something` | Привыкнуть что-то слышать |
+| `in the background` | На заднем плане, фоном |
+| `all the way down the hall` | Через весь коридор / до конца коридора |
 
-1. Возьми любой предмет в доме (часы, лампу, картину, вазу).
-2. Опиши его в **5 предложениях** по-английски, используя:
-   - 1 материал (`wooden`, `metal`, `glass`, `plastic`);
-   - 1 форму (`round`, `square`, `oval`);
-   - 1 движение или звук (`it ticks`, `it strikes`, `it hums`);
-   - 1 функцию (`it shows the time`, `it keeps good time`);
-   - 1 южный маркер из 🟢-уровня (`mighty`, `ma'am/sir`, `fixin' to`, `this here`).
-3. Прочитай вслух. Звучит ли это как живая речь — или как учебник?
+### Немного южного английского
 
-## Статус лексики
+- `This here's...` — разговорный региональный оттенок.
+- `Mighty loud` — выразительное усиление.
+- `Folks` — люди, народ; неформальное обращение.
+- `Fixing to` / `fixin' to` — собираться что-то сделать.
 
-- 🟢 **Активно:** `this here`, `mighty loud`, `keeps good time`, `it ticks`, `it strikes`, `wall clock`, `mantel clock`
-- 🟡 **Понимать:** `cuckoo clock` (с кукушкой — узнавать, но не обязательно говорить), `deer head clock` (декоративные часы с головой оленя — культурная деталь)
-- 🔴 **Пассивно:** —
+**Не нужно** специально вставлять южные выражения в каждое предложение. Они должны появляться естественно.
+
+### Культурная заметка: часы в американских домах
+
+- **Wall clock** — настенные часы.
+- **Mantel clock** — каминные или настольные часы, обычно стоящие на каминной полке.
+- **Grandfather clock** — высокие напольные часы с маятником.
+- **Cuckoo clock** — часы с кукушкой.
+- **Pendulum** — маятник.
+- **Winding key** — ключ для завода механических часов.
+
+У `grandfather clock` может быть маятник и перезвон каждый час. Некоторые старые часы нужно заводить вручную.
+
+### Твоя практика
+
+Представь, что друг показывает на часы в твоём доме.
+
+Опиши их в **пяти предложениях**:
+
+1. Какой они формы?
+2. Из чего они сделаны?
+3. Что ты слышишь?
+4. Они точно идут?
+5. Почему они тебе нравятся или что они тебе напоминают?
+
+Постарайся использовать **как минимум два выражения**:
+
+- `This here's...`
+- `mighty loud`
+- `keeps good time`
+- `nothing fancy`
+- `I've had it for years`
+
+**Цель:** не просто назвать предмет. Дай другу **увидеть** его, **услышать** его и **понять**, почему он для тебя важен.
+
+### Статус лексики
+
+- 🟢 **Активно:** `this here's`, `wall clock`, `wooden frame`, `clock face`, `tick`, `strike the hour`, `mighty loud`, `keep good time`, `nothing fancy`, `in the background`, `all the way down the hall`
+- 🟡 **Понимать:** `chime` (перезвон), `get used to hearing something` (привыкнуть слышать), `hour hand` / `minute hand` / `second hand` (стрелки)
+- 🔴 **Пассивно:** `grandfather clock` (напольные часы с маятником — узнавать), `cuckoo clock` (часы с кукушкой — узнавать), `pendulum` (маятник — узнавать), `winding key` (ключ для завода — узнавать)
