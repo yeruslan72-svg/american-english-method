@@ -1,65 +1,106 @@
-# Урок 8: Столовые приборы и праздничный стол
+# Урок 8: Накрой на стол для семейного праздника
 
-## Ситуация
+## Учимся описывать ритуал, приборы и праздничную атмосферу
 
-Ты помогаешь американскому другу накрывать на стол перед праздником — Рождеством или днём рождения. Собирается вся семья и друзья. Он говорит: «Can you set the table? Everything's in the drawer.» Ты открываешь ящик и видишь приборы. Ты хочешь не просто взять их, а **назвать** каждый, **понять**, куда его класть, и **почувствовать**, что это за событие.
+### Ситуация
 
-## Живой текст
+Ты помогаешь другу накрыть на стол для рождественского ужина. Придёт вся семья, и дел хватает.
 
-> Alright, let's set the table. Here's the fork — that goes on the left. The knife goes on the right, blade facing the plate. The spoon sits next to the knife. If there's a salad, you put a smaller fork on the outside. The napkin goes on the left, under the fork. And the glass goes up here, right above the knife. That's a real nice set, ma'am — mighty shiny. This is for Christmas dinner — the whole family's coming. We start with appetizers, then the main course, then dessert. There's music playing, folks are laughing, somebody's making a toast. After dinner, the kids start dancing. It's the best night of the year.
+Друг говорит:
 
-## Разбор
+**"Could you help me set the table? The silverware's in that drawer."**
 
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `set the table` | Действие | Не «накрыть на стол», а «поставить стол» — живая, частая фраза |
-| `the fork` / `the knife` / `the spoon` | Приборы | Основные приборы: вилка слева, нож справа, ложка рядом |
-| `blade facing the plate` | Деталь | Не «лезвием к тарелке», а «blade facing» — конкретное указание |
-| `a smaller fork on the outside` | Правило | Салатная вилка — снаружи, если есть салат |
-| `the napkin goes on the left, under the fork` | Деталь сервировки | Салфетка — слева, под вилкой |
-| `the glass goes up here, right above the knife` | Связь предметов | Стакан — справа сверху, над ножом |
-| `a real nice set` / `mighty shiny` | Оценка + усиление | `real nice` = «очень хороший», `mighty` = «очень» (южный маркер) |
-| `This is for Christmas dinner` | Культурный код | Праздничный стол — не просто еда, а **событие** |
-| `appetizers, then the main course, then dessert` | Очередь подачи | Не «еда», а «закуски → основное → десерт» — ритуал |
-| `music playing, folks are laughing, somebody's making a toast` | Атмосфера | Живые детали: музыка, смех, тост |
-| `the kids start dancing` | Деталь | Праздник не заканчивается за столом — дети танцуют |
-| `It's the best night of the year` | Культурный код | Ваша мысль: это **лучший вечер года** |
+### Живой американский диалог
 
-## Почему так
+**Friend:** Could you help me set the table?
 
-Американец описывает сервировку **через действие и событие**, а не через список. Не «вилка, нож, ложка», а «вилка слева, нож справа, а потом закуски, основное, десерт, музыка, тост, танцы». Это делает описание **живым** и **правдоподобным**.
+**You:** Sure. Where do you want everything?
 
-## Культурный код: праздничный стол в американском доме
+**Friend:** Let's start with the plates. Put one at each place setting.
 
-Праздничный стол — это **ритуал**, а не просто еда. Здесь:
-- **приборы** — не просто металл, а **часть церемонии** (вилка слева, нож справа, лезвием к тарелке);
-- **очередь подачи** — закуски (appetizers) → основное (main course) → десерт (dessert);
-- **музыка** (music playing) — фон, который создаёт настроение;
-- **смех** (folks are laughing) — живая атмосфера;
-- **тост** (somebody's making a toast) — ритуал поздравления;
-- **танцы** (the kids start dancing) — праздник продолжается после еды.
+**You:** Got it. Fork on the left, knife on the right?
 
-И главное: **«It's the best night of the year»** — это американская мысль о том, что праздник — не просто дата, а **событие, которое объединяет**.
+**Friend:** That's right. Make sure the blade faces the plate. Put the spoon next to the knife.
 
-## Упражнение
+**You:** What about the napkins?
 
-1. Представь, что ты накрываешь на праздничный стол (Рождество или день рождения).
-2. Назови каждый прибор по-английски и скажи, куда он кладётся:
-   - `fork` — on the left;
-   - `knife` — on the right, blade facing the plate;
-   - `spoon` — next to the knife;
-   - `napkin` — on the left, under the fork;
-   - `glass` — above the knife.
-3. Опиши праздничный стол в **5–7 предложениях**, используя:
-   - 1 материал (`stainless steel`, `silver`, `plastic`);
-   - 1 качество (`shiny`, `heavy`, `nice`);
-   - 1 очередь подачи (`appetizers, then the main course, then dessert`);
-   - 1 атмосферу (`music playing`, `folks are laughing`, `somebody's making a toast`);
-   - 1 южный маркер из 🟢-уровня (`mighty`, `ma'am/sir`, `this here`).
-4. Прочитай вслух. Звучит ли это как живая речь — или как учебник?
+**Friend:** You can fold those and put them beside the forks. And the glasses go up above the knives.
 
-## Статус лексики
+**You:** Looks good. This is a pretty nice set of silverware.
 
-- 🟢 **Активно:** `fork`, `knife`, `spoon`, `napkin`, `glass`, `set the table`, `blade facing the plate`, `mighty shiny`, `appetizers`, `main course`, `dessert`, `make a toast`
-- 🟡 **Понимать:** `salad fork` (салатная вилка — узнавать), `silverware` (столовое серебро — чуть формально, но живо)
-- 🔴 **Пассивно:** —
+**Friend:** It sure is. We only bring it out for special occasions.
+
+**You:** So, what's on the menu tonight?
+
+**Friend:** We're starting with appetizers, then we'll have the main course, and dessert comes last.
+
+**You:** Sounds like quite a feast!
+
+**Friend:** You bet. The whole family's coming. There'll be music, plenty of food, and somebody's bound to make a toast.
+
+**You:** Well, that's what makes Christmas special. Everybody gets together, has a good meal, and enjoys the evening.
+
+**Friend:** That's exactly right!
+
+### Полезная лексика
+
+| English | Russian |
+|---|---|
+| fork | вилка |
+| dinner knife | столовый нож |
+| spoon | ложка |
+| teaspoon | чайная ложка |
+| tablespoon | столовая ложка |
+| napkin | салфетка |
+| plate | тарелка |
+| dinner plate | обеденная тарелка |
+| glass | стакан |
+| wine glass | бокал для вина |
+| silverware | столовые приборы |
+| place setting | индивидуальная сервировка |
+| tablecloth | скатерть |
+| centerpiece | центральное украшение стола |
+| serving dish | блюдо для подачи еды |
+
+### Живые выражения
+
+- **Set the table** — накрыть на стол.
+- **Clear the table** — убрать со стола после еды.
+- **Lay out the silverware** — разложить столовые приборы.
+- **Bring out the good china** — достать праздничный фарфор.
+- **We're having people over.** — К нам придут гости.
+- **It's quite a feast!** — Вот это настоящее пиршество!
+- **Help yourself.** — Угощайся.
+- **Make a toast** — произнести тост.
+
+### Немного южного колорита
+
+- **Mighty nice** — очень мило / очень хорошо.
+- **This here's our Christmas table.** — Вот это наш рождественский стол.
+- **Y'all come on in!** — Заходите все!
+- **Come on, help yourself.** — Давай, угощайся.
+
+Эти выражения добавляют южный характер, не делая разговор преувеличенным.
+
+### Твоя практика
+
+Представь, что американский друг только что вошёл в столовую.
+
+**Friend:**
+
+"Well, this table looks mighty nice! Are we expecting the whole family tonight?"
+
+Ответь в **5–7 предложениях**. Расскажи другу:
+
+1. Какие столовые приборы ты используешь.
+2. Где ты разместил тарелки, вилки, ножи и стаканы.
+3. Что ты подаёшь на ужин.
+4. Что делает вечер особенным.
+
+Постарайся говорить **естественно**, как будто ты действительно разговариваешь с другом.
+
+### Статус лексики
+
+- 🟢 **Активно:** `set the table`, `clear the table`, `lay out the silverware`, `bring out the good china`, `fork`, `dinner knife`, `spoon`, `napkin`, `plate`, `glass`, `silverware`, `place setting`, `help yourself`, `make a toast`, `we're having people over`, `it's quite a feast`
+- 🟡 **Понимать:** `mighty nice` (очень мило), `y'all come on in` (заходите все), `come on, help yourself` (давай, угощайся), `somebody's bound to` (кто-нибудь обязательно), `that's exactly right` (именно так)
+- 🔴 **Пассивно:** `teaspoon` / `tablespoon` (чайная / столовая ложка — узнавать), `dinner plate` (обеденная тарелка — узнавать), `wine glass` (бокал для вина — узнавать), `tablecloth` (скатерть — узнавать), `centerpiece` (центральное украшение — узнавать), `serving dish` (блюдо для подачи — узнавать)
