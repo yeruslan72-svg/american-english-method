@@ -18,6 +18,7 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 - **Southern English as an additional layer** — regional expressions and speech patterns are introduced with clear usage guidance, not as universal American English.
 - **Connected speech** — forms such as `couldja`, `whatcha`, and `didja` are explored as natural features of spoken English.
 - **From description to action** — learners move from describing objects, rooms, and places to communicating confidently in real-life situations.
+- **Visual content architecture** — images support understanding and speaking, not decoration. `See → Understand → Describe → Speak.`
 
 ---
 
@@ -40,7 +41,7 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | Направление | Назначение | Материалы |
 |---|---|---|
 | **Everyday Scenarios** | Взаимодействие с людьми: отказ, просьба, телефонный разговор, экстренный вызов | `01_scenarios/` |
-| **City & Daily Life** | Повседневные ситуации: дорога, такси, транспорт, магазины, ресторан и другие места | `01_scenarios/city/` |
+| **City & Daily Life** | Повседневные ситуации: дорога, такси, транспорт, магазины, ресторан, больница, кино, зоопарк, пляж, аэропорт, поезд, паром, парк | `01_scenarios/city/` |
 | **Descriptive Lessons** | Описание окружающего мира: предметы, дом, город, звуки, запахи, чувства | `04_lessons/` |
 | **Southern English** | Региональные особенности речи: выражения, грамматика, произношение и интонация | `02_southern_layer/` |
 | **Connected Speech** | Звучание и восприятие естественной речи: слияния, сокращения и элизия | `03_phonetics/` |
@@ -57,10 +58,13 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `TEMPLATE.md` | Стандарт качества учебных материалов, v1.0 |
 | `LEARNING_PATHS.md` | Подробная карта пяти направлений |
 | `SOURCES_AND_METHODOLOGY.md` | Методологическая конституция: источники, принципы верификации, редакционные стандарты |
+| `VISUAL_INVENTORY.md` | Перечень иллюстраций для всех уроков и сценариев, v1.0 |
 
 `TEMPLATE.md` задаёт общий стандарт качества, но не превращает каждый урок в жёсткую формальную схему. Формат зависит от учебной задачи.
 
-`SOURCES_AND_METHODOLOGY.md` фиксирует, **на какие источники опирается проект** (CEFR, Cambridge Grammar, Merriam-Webster, COCA, академические работы по Southern English) и **какие принципы верификации** используются. Это защищает курс от «музейных» выражений, ложных обобщений и культурных стереотипов.
+`SOURCES_AND_METHODOLOGY.md` фиксирует, **на какие источники опирается проект** (CEFR, Cambridge Grammar, Merriam-Webster, COCA, академические работы по Southern English) и **какие принципы верификации** используются.
+
+`VISUAL_INVENTORY.md` определяет **визуальную архитектуру курса**: какие иллюстрации нужны, в каком стиле, как они хранятся и подключаются. Принцип: `See → Understand → Describe → Speak.`
 
 ---
 
@@ -85,11 +89,15 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `city/taxi.md` | Как заказать такси | ✅ |
 | `city/transit.md` | Метро и автобус | ✅ |
 | `city/clothes.md` | Покупка одежды | ✅ |
-| `city/shopping.md` | Повседневные покупки | ⏳ |
-| `city/haircut.md` | Посещение парикмахера | ⏳ |
-| `city/restaurant.md` | Общение в ресторане | ⏳ |
-| `city/hospital.md` | Общение в больнице | ⏳ |
-| `city/cinema.md` | Поход в кино | ⏳ |
+| `city/restaurant.md` | Общение в ресторане | ✅ |
+| `city/hospital.md` | Общение в больнице | ✅ |
+| `city/cinema.md` | Поход в кино | ✅ |
+| `city/zoo.md` | В зоопарке | ✅ |
+| `city/beach.md` | На пляже | ✅ |
+| `city/airport.md` | В аэропорту | ✅ |
+| `city/train.md` | На поезде (Amtrak) | ✅ |
+| `city/ferry.md` | На пароме | ✅ |
+| `city/park.md` | Прогулка в парке | ✅ |
 
 ### 02 — Southern English
 
@@ -152,18 +160,18 @@ Based on the materials listed above:
 | Area | Current status |
 |---|---|
 | Methodological foundation | Established |
-| Methodological documents | 4 available |
+| Methodological documents | 5 available |
+| Visual inventory | v1.0 ready |
 | Descriptive lessons | 14 published files |
-| General and city scenarios | 8 completed files |
-| Additional city scenarios | 5 planned files |
+| General and city scenarios | 17 completed files |
 | Southern English | Core patterns documented |
 | Connected Speech | Core reference available |
 
 The descriptive lesson collection currently contains **14 published files**, with gaps in its numbering.
 
-The scenario collection has **8 completed files** out of **13 listed items**.
+The scenario collection has **17 completed files** — all planned city scenarios are now ready.
 
-The project is moving from describing the world to interacting with it. The next stage is to expand practical city scenarios while maintaining the quality standard established by the reference lesson.
+The project is moving from content creation to platform building. The next stage is to prepare `WEBSITE_PLAN.md` and begin Astro development while integrating visual content according to `VISUAL_INVENTORY.md`.
 
 ---
 
