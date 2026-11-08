@@ -709,4 +709,93 @@ CBP — пограничная служба США, которая приним�
 
 - **Correction:** нужна конструкция `on vacation`.
 - **Natural Reformulation:** `I'm here on vacation.` — Я здесь в отпуске.
-- **Recall
+- **Recall:** повтори фразу самостоятельно.
+
+**Пример 3:**
+
+Ученик говорит: `I have one bag.`
+
+- **Correction:** грамматически правильно, но не уточняется, какой это багаж.
+- **Natural Reformulation:** `I have one checked bag and one carry-on.` — У меня один чемодан в багаж и одна сумка в ручную кладь.
+- **Recall:** повтори фразу.
+
+**Пример 4:**
+
+Ученик говорит: `Where is my plane?`
+
+- **Correction:** грамматически правильно, но в аэропорту вопрос слишком общий.
+- **Natural Reformulation:** `Where is my gate?` — Где мой выход на посадку?
+- **Recall:** повтори естественную формулировку.
+
+**Пример 5:**
+
+Ученик говорит: `My baggage is lost.`
+
+- **Correction:** понятно и грамматически возможно.
+- **Natural Reformulation:** `My luggage hasn't arrived.` — Мой багаж ещё не прибыл.
+- **Recall:** повтори естественный вариант.
+
+**Важно:** альтернативная формулировка не всегда означает исправление ошибки. Мы различаем грамматику, естественность, точность и ситуацию общения.
+
+---
+
+### 18. Статус лексики
+
+**🟢 Активно — использовать самостоятельно**
+
+- `I'd like to book a flight to...`
+- `One-way ticket`
+- `Round-trip ticket`
+- `I'd prefer a morning flight.`
+- `I'd like a window seat.`
+- `I'm checking in.`
+- `Do you have any bags to check?`
+- `Here's your boarding pass.`
+- `Where is Gate B12?`
+- `Is this the gate for...?`
+- `Have a good flight.`
+- `Could I get a glass of water?`
+- `What's the purpose of your visit?`
+- `I'm here on vacation.`
+- `How long do you plan to stay?`
+- `Where will you be staying?`
+- `Where is baggage claim?`
+- `My suitcase hasn't arrived.`
+- `Thanks for picking me up.`
+
+**🟡 Понимать — узнавать в контексте**
+
+- `TSA`
+- `CBP`
+- `Security screening`
+- `Carry-on`
+- `Checked luggage`
+- `Personal item`
+- `Connecting flight`
+- `Layover`
+- `Departure`
+- `Arrival`
+- `Baggage claim`
+- `Carousel`
+- `Boarding zone`
+- `Final call`
+- `Reference number`
+
+**🔴 Пассивно — узнавать, но пока не обязательно использовать**
+
+- `TSA PreCheck`
+- `Overhead bin`
+- `Baggage claim tag`
+- `Expedited removal`
+- `Admissibility`
+- `Flight itinerary`
+
+---
+
+## Принцип урока
+
+**Don't just get on a plane. Learn to navigate every step — from the ticket counter to the arrivals hall.**
+
+Не просто садись в самолёт. Научись ориентироваться на каждом этапе — от покупки билета до выхода из аэропорта прибытия.
+
+**Learn the language. Understand the procedure. Stay calm. Take the next step.**
