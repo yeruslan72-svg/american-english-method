@@ -1,113 +1,177 @@
 # American English Method
 
-**Living American English through scenario codes.**
+**Living American English through real-life scenarios.**
 
-A method for Russian-speaking learners who want to sound like a real American — not a textbook robot. We focus on cultural logic, high-frequency vocabulary, scenario patterns, and the flow of real speech.
+A practical method for Russian-speaking learners who want to understand and use natural, contemporary American English — beyond textbook patterns.
+
+We focus on cultural logic, high-frequency vocabulary, scenario patterns, and the flow of real speech.
 
 ---
 
-## What makes this different
+## What Makes This Different
 
-Most textbooks teach grammar rules and "museum" vocabulary. This project teaches **how Americans actually behave in language**: how they refuse politely, how they ask for things, how they answer the phone, how they describe the world around them.
+Most textbooks focus on grammar rules and vocabulary lists. This project focuses on **how Americans actually communicate**: how they refuse politely, ask for things, answer the phone, describe their surroundings, and interact in everyday situations.
 
-- **No museum words** — only high-frequency, neutral vocabulary. Archaic or narrow slang is marked "recognize, don't use".
-- **Cultural logic first** — every phrase is explained through the American mentality: *why* they say it, not just *what* it means.
-- **Scenario codes** — refusal, request, phone call, emergency, and city situations (directions, taxi, transit, shopping, restaurant, hospital, cinema).
-- **Southern flavor as seasoning** — `y'all`, `ma'am/sir`, `fixin' to` are safe; `I reckon` is cautious; "Bless your heart" is passive only.
-- **Connected speech** — `couldja`, `whatcha`, `didja` as a system, not as "weird words".
-- **From description to action** — lessons start with describing the world (a glass, a knife, a table, a city) and move to acting in it (asking directions, ordering, shopping).
+- **Living language** — contemporary, high-frequency vocabulary. Archaic, dated, or narrowly regional expressions are clearly identified.
+- **Cultural logic first** — every expression is explained through context: *why* people say it, *when* they use it, and *what* it communicates.
+- **Scenario-based learning** — refusal, requests, phone calls, emergencies, and everyday city situations.
+- **Southern English as an additional layer** — regional expressions and speech patterns are introduced with clear usage guidance, not as universal American English.
+- **Connected speech** — forms such as `couldja`, `whatcha`, and `didja` are explored as natural features of spoken English.
+- **From description to action** — learners move from describing objects, rooms, and places to communicating confidently in real-life situations.
 
 ---
 
 ## Для кого этот проект
 
 Для русскоязычных учеников, которые:
-- знают слова и правила, но говорят «как роботы»;
-- не понимают живых носителей в потоке речи;
-- путаются в вариантах английского и не чувствуют, что уместно;
-- хотят звучать естественно, а не «по учебнику».
+- знают слова и грамматические правила, но пока говорят неестественно;
+- испытывают трудности с пониманием живой американской речи;
+- путаются в вариантах английского и не всегда чувствуют, что уместно в конкретной ситуации;
+- хотят говорить естественнее, а не просто строить грамматически правильные предложения.
 
-Проект ведётся на русском языке (объяснения) с английскими примерами. Это осознанный выбор: опора на родной язык ускоряет понимание культурных кодов.
+Проект ведётся на русском языке с английскими примерами и диалогами. Это осознанный методический выбор: объяснение культурной логики на родном языке помогает быстрее понять не только значение выражения, но и его реальное употребление.
 
 ---
 
 ## Пять направлений обучения
 
-Курс построен вокруг **пяти направлений** — это не пять папок, а **пять слоёв языка**:
+Курс построен вокруг **пяти направлений**. Это не пять последовательных уровней и не просто пять папок, а **пять взаимосвязанных слоёв языка**.
 
-| Направление | Назначение | Файлы |
+| Направление | Назначение | Материалы |
 |---|---|---|
-| **Everyday Scenarios** | Как взаимодействовать с людьми: отказ, просьба, звонок, 911 | `01_scenarios/` |
-| **City & Daily Life** | Как действовать в повседневной среде: дорога, такси, транспорт, магазины, ресторан | `01_scenarios/city/` |
-| **Descriptive Lessons** | Как описывать окружающий мир: предметы, дом, город | `04_lessons/` |
-| **Southern English** | Региональный характер речи: `y'all`, `fixin' to`, `might could`, `bless your heart` | `02_southern_layer/` |
-| **Connected Speech** | Звучание и восприятие речи: `couldja`, `whatcha`, `didja` | `03_phonetics/` |
+| **Everyday Scenarios** | Взаимодействие с людьми: отказ, просьба, телефонный разговор, экстренный вызов | `01_scenarios/` |
+| **City & Daily Life** | Повседневные ситуации: дорога, такси, транспорт, магазины, ресторан и другие места | `01_scenarios/city/` |
+| **Descriptive Lessons** | Описание окружающего мира: предметы, дом, город и повседневная среда | `04_lessons/` |
+| **Southern English** | Региональные особенности речи: выражения, грамматика, произношение и интонация | `02_southern_layer/` |
+| **Connected Speech** | Звучание и восприятие естественной речи: слияния, сокращения и элизия | `03_phonetics/` |
 
-Ученик может изучать их **параллельно**, а не строго последовательно.
+Направления можно изучать **параллельно**. Ученик не обязан проходить их в строгой последовательности.
 
 ---
-MANIFESTO.md — философия метода и три уровня английского
-TEMPLATE.md — стандарт качества урока (v1.0)
-LEARNING_PATHS.md — карта пяти направлений
-01_scenarios/ — сценарные коды
-02_southern_layer/ — южный слой: паттерны и уровни
-03_phonetics/ — поток речи: слияния и элизия
-04_lessons/ — уроки описания
+
+## Методические документы
+
+| Файл | Назначение |
+|---|---|
+| `MANIFESTO.md` | Философия метода и три уровня английского |
+| `TEMPLATE.md` | Стандарт качества учебных материалов, v1.0 |
+| `LEARNING_PATHS.md` | Подробная карта пяти направлений |
+
+`TEMPLATE.md` задаёт общий стандарт качества, но не превращает каждый урок в жёсткую формальную схему. Формат зависит от учебной задачи.
+
+---
 
 ## Структура репозитория
 
-### Что уже готово
+### 01 — Everyday Scenarios & City Life
+
+**Общие сценарии**
 
 | Файл | Содержание | Статус |
-|------|------------|--------|
-| `MANIFESTO.md` | Философия метода, три уровня, категории лексики | ✅ |
-| `TEMPLATE.md` | Стандарт качества урока (v1.0) | ✅ |
-| `LEARNING_PATHS.md` | Карта пяти направлений | ✅ |
+|---|---|---|
 | `01_scenarios/refusal.md` | Вежливый отказ | ✅ |
 | `01_scenarios/request.md` | Вежливая просьба | ✅ |
-| `01_scenarios/phone.md` | Ответ на звонок | ✅ |
+| `01_scenarios/phone.md` | Ответ на телефонный звонок | ✅ |
 | `01_scenarios/emergency.md` | Экстренный вызов 911 | ✅ |
-| `01_scenarios/city/directions.md` | Как спросить дорогу | ✅ |
-| `01_scenarios/city/taxi.md` | Как заказать такси | ✅ |
-| `01_scenarios/city/transit.md` | Метро и автобус | ✅ |
-| `01_scenarios/city/clothes.md` | Покупка одежды (техасский стиль) | ✅ |
-| `02_southern_layer/patterns.md` | Южный слой: паттерны и уровни | ✅ |
-| `03_phonetics/connected_speech.md` | Поток речи: слияния и элизия | ✅ |
-| `04_lessons/lesson_01_glass.md` | Урок 1: «Опиши стакан» | ✅ |
-| `04_lessons/lesson_02_knife.md` | Урок 2: «Опиши нож» | ✅ |
-| `04_lessons/lesson_03_table.md` | Урок 3: «Опиши стол» | ✅ |
-| `04_lessons/lesson_04_city.md` | Урок 4: «Опиши город» | ✅ |
-| `04_lessons/lesson_05_living_room.md` | Урок 5: «Опиши гостиную» | ✅ |
-| `04_lessons/lesson_06_bedroom.md` | Урок 6: «Опиши спальню» | ✅ |
-| `04_lessons/lesson_07_bathroom.md` | Урок 7: «Опиши ванную» | ✅ |
-| `04_lessons/lesson_08_setting_the_table.md` | Урок 8: «Накрой на стол» | ✅ |
-| `04_lessons/lesson_10_entryway.md` | Урок 10: «Опиши прихожую» | ✅ |
-| `04_lessons/lesson_11_laundry_room.md` | Урок 11: «Опиши прачечную» | ✅ |
-| `04_lessons/lesson_12_pantry.md` | Урок 12: «Опиши кладовую» | ✅ |
-| `04_lessons/lesson_14_terrace.md` | Урок 14: «Опиши террасу» — **эталон** | ✅ |
 
-### Эталонный урок
-
-`04_lessons/lesson_14_terrace.md` — **Reference Lesson — Descriptive Type v1.0**. Он соответствует стандарту `TEMPLATE.md` v1.0: живая ситуация, естественный диалог, разбор употребления, самостоятельная практика, обратная связь, статус лексики.
-
-### Что в планах
+**Городские сценарии**
 
 | Файл | Содержание | Статус |
-|------|------------|--------|
-| `01_scenarios/city/shopping.md` | Как сделать покупки | ⏳ план |
-| `01_scenarios/city/haircut.md` | Как постричься у парикмахера | ⏳ план |
-| `01_scenarios/city/restaurant.md` | Как вести себя в ресторане | ⏳ план |
-| `01_scenarios/city/hospital.md` | Как вести себя в больнице | ⏳ план |
-| `01_scenarios/city/cinema.md` | Как купить билет в кино | ⏳ план |
+|---|---|---|
+| `city/directions.md` | Как спросить дорогу | ✅ |
+| `city/taxi.md` | Как заказать такси | ✅ |
+| `city/transit.md` | Метро и автобус | ✅ |
+| `city/clothes.md` | Покупка одежды | ✅ |
+| `city/shopping.md` | Повседневные покупки | ⏳ |
+| `city/haircut.md` | Посещение парикмахера | ⏳ |
+| `city/restaurant.md` | Общение в ресторане | ⏳ |
+| `city/hospital.md` | Общение в больнице | ⏳ |
+| `city/cinema.md` | Поход в кино | ⏳ |
+
+### 02 — Southern English
+
+| Файл | Содержание | Статус |
+|---|---|---|
+| `patterns.md` | Южные речевые паттерны и уровни употребления | ✅ |
+
+### 03 — Connected Speech
+
+| Файл | Содержание | Статус |
+|---|---|---|
+| `connected_speech.md` | Слияния, сокращения и элизия в потоке речи | ✅ |
+
+### 04 — Descriptive Lessons
+
+| Файл | Содержание | Статус |
+|---|---|---|
+| `lesson_01_glass.md` | Урок 1: «Опиши стакан» | ✅ |
+| `lesson_02_knife.md` | Урок 2: «Опиши нож» | ✅ |
+| `lesson_03_table.md` | Урок 3: «Опиши стол» | ✅ |
+| `lesson_04_city.md` | Урок 4: «Опиши город» | ✅ |
+| `lesson_05_living_room.md` | Урок 5: «Опиши гостиную» | ✅ |
+| `lesson_06_bedroom.md` | Урок 6: «Опиши спальню» | ✅ |
+| `lesson_07_bathroom.md` | Урок 7: «Опиши ванную» | ✅ |
+| `lesson_08_setting_the_table.md` | Урок 8: «Накрой на стол» | ✅ |
+| `lesson_10_entryway.md` | Урок 10: «Опиши прихожую» | ✅ |
+| `lesson_11_laundry_room.md` | Урок 11: «Опиши прачечную» | ✅ |
+| `lesson_12_pantry.md` | Урок 12: «Опиши кладовую» | ✅ |
+| `lesson_14_terrace.md` | Урок 14: «Опиши террасу» | ✅ |
+
+*The collection currently contains 12 published files; numbers 9 and 13 are reserved for future lessons.*
 
 ---
 
-## Статус
+## Reference Lesson
 
-**Каркас метода готов. Уроки описания — 12 из 12. Сценарии — 7 из 12.** Проект переходит к городским сценариям: от описания мира к действию в нём. Эталонный урок (`lesson_14_terrace.md`) задаёт стандарт качества для всех новых материалов.
+**`04_lessons/lesson_14_terrace.md`**
+
+**Reference Lesson — Descriptive Type v1.0**
+
+This lesson serves as a reference example for the Descriptive Lessons direction. It demonstrates the principles established in `TEMPLATE.md`:
+
+- A realistic everyday situation.
+- Natural American dialogue.
+- Context-based explanation of expressions.
+- Independent learner practice.
+- A structured feedback cycle.
+- Clear lexical status: active, understand, or passive.
+
+The lesson is a quality reference, not a mandatory script for every lesson type.
 
 ---
 
-## Лицензия
+## Current Project Status
 
-MIT — используйте, адаптируйте, распространяйте с указанием авторства.
+Based on the materials listed above:
+
+| Area | Current status |
+|---|---|
+| Methodological foundation | Established |
+| Methodological documents | 3 available |
+| Descriptive lessons | 12 published files |
+| General and city scenarios | 8 completed files |
+| Additional city scenarios | 5 planned files |
+| Southern English | Core patterns documented |
+| Connected Speech | Core reference available |
+
+The descriptive lesson collection currently contains **12 published files**, with gaps in its numbering.
+
+The scenario collection has **8 completed files** out of **13 listed items**.
+
+The project is moving from describing the world to interacting with it. The next stage is to expand practical city scenarios while maintaining the quality standard established by the reference lesson.
+
+---
+
+## Learning Principle
+
+The goal is not to memorize isolated expressions.
+
+The goal is to **understand how language works in context**, recognize what sounds natural, and use it independently.
+
+**Practice → Feedback → Natural Reformulation → Recall → Transfer**
+
+---
+
+## License
+
+MIT — see the `LICENSE` file for the applicable terms.
