@@ -41,7 +41,7 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 |---|---|---|
 | **Everyday Scenarios** | Взаимодействие с людьми: отказ, просьба, телефонный разговор, экстренный вызов | `01_scenarios/` |
 | **City & Daily Life** | Повседневные ситуации: дорога, такси, транспорт, магазины, ресторан и другие места | `01_scenarios/city/` |
-| **Descriptive Lessons** | Описание окружающего мира: предметы, дом, город и повседневная среда | `04_lessons/` |
+| **Descriptive Lessons** | Описание окружающего мира: предметы, дом, город, звуки, запахи, чувства | `04_lessons/` |
 | **Southern English** | Региональные особенности речи: выражения, грамматика, произношение и интонация | `02_southern_layer/` |
 | **Connected Speech** | Звучание и восприятие естественной речи: слияния, сокращения и элизия | `03_phonetics/` |
 
@@ -56,8 +56,11 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `MANIFESTO.md` | Философия метода и три уровня английского |
 | `TEMPLATE.md` | Стандарт качества учебных материалов, v1.0 |
 | `LEARNING_PATHS.md` | Подробная карта пяти направлений |
+| `SOURCES_AND_METHODOLOGY.md` | Методологическая конституция: источники, принципы верификации, редакционные стандарты |
 
 `TEMPLATE.md` задаёт общий стандарт качества, но не превращает каждый урок в жёсткую формальную схему. Формат зависит от учебной задачи.
+
+`SOURCES_AND_METHODOLOGY.md` фиксирует, **на какие источники опирается проект** (CEFR, Cambridge Grammar, Merriam-Webster, COCA, академические работы по Southern English) и **какие принципы верификации** используются. Это защищает курс от «музейных» выражений, ложных обобщений и культурных стереотипов.
 
 ---
 
@@ -116,8 +119,10 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `lesson_11_laundry_room.md` | Урок 11: «Опиши прачечную» | ✅ |
 | `lesson_12_pantry.md` | Урок 12: «Опиши кладовую» | ✅ |
 | `lesson_14_terrace.md` | Урок 14: «Опиши террасу» | ✅ |
+| `lesson_15_sounds_and_smells.md` | Урок 15: «Звуки и запахи» | ✅ |
+| `lesson_16_feelings.md` | Урок 16: «Опиши чувства» | ✅ |
 
-*The collection currently contains 12 published files; numbers 9 and 13 are reserved for future lessons.*
+*The collection currently contains 14 published files; numbers 9 and 13 are reserved for future lessons.*
 
 ---
 
@@ -147,14 +152,14 @@ Based on the materials listed above:
 | Area | Current status |
 |---|---|
 | Methodological foundation | Established |
-| Methodological documents | 3 available |
-| Descriptive lessons | 12 published files |
+| Methodological documents | 4 available |
+| Descriptive lessons | 14 published files |
 | General and city scenarios | 8 completed files |
 | Additional city scenarios | 5 planned files |
 | Southern English | Core patterns documented |
 | Connected Speech | Core reference available |
 
-The descriptive lesson collection currently contains **12 published files**, with gaps in its numbering.
+The descriptive lesson collection currently contains **14 published files**, with gaps in its numbering.
 
 The scenario collection has **8 completed files** out of **13 listed items**.
 
