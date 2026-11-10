@@ -18,6 +18,7 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 - **Southern English as an additional layer** — regional expressions and speech patterns are introduced with clear usage guidance, not as universal American English.
 - **Connected speech** — forms such as `couldja`, `whatcha`, and `didja` are explored as natural features of spoken English.
 - **From description to action** — learners move from describing objects, rooms, and places to communicating confidently in real-life situations.
+- **Nationwide idioms and everyday expressions** — selected according to the `IDIOMS_FILTER.md` standard: 🇺🇸 Nationwide / 🟡 Regional / 🔴 Rare.
 - **Visual content architecture** — images support understanding and speaking, not decoration. `See → Understand → Describe → Speak.`
 
 ---
@@ -34,17 +35,19 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 
 ---
 
-## Пять направлений обучения
+## Семь направлений обучения
 
-Курс построен вокруг **пяти направлений**. Это не пять последовательных уровней и не просто пять папок, а **пять взаимосвязанных слоёв языка**.
+Курс построен вокруг **семи направлений**. Это не семь последовательных уровней и не просто семь папок, а **семь взаимосвязанных слоёв языка**.
 
 | Направление | Назначение | Материалы |
 |---|---|---|
 | **Everyday Scenarios** | Взаимодействие с людьми: отказ, просьба, телефонный разговор, экстренный вызов | `01_scenarios/` |
-| **City & Daily Life** | Повседневные ситуации: дорога, такси, транспорт, магазины, ресторан, больница, кино, зоопарк, пляж, парк, аэропорт, самолёт, поезд, паром | `01_scenarios/city/` |
+| **City & Daily Life** | Повседневные ситуации: дорога, такси, транспорт, магазины, ресторан, больница, кино, зоопарк, пляж, аэропорт, поезд, паром, парк | `01_scenarios/city/` |
 | **Descriptive Lessons** | Описание окружающего мира: предметы, дом, город, звуки, запахи, чувства | `04_lessons/` |
 | **Southern English** | Региональные особенности речи: выражения, грамматика, произношение и интонация | `02_southern_layer/` |
 | **Connected Speech** | Звучание и восприятие естественной речи: слияния, сокращения и элизия | `03_phonetics/` |
+| **Idioms** | Идиомы и устойчивые выражения по стандарту `IDIOMS_FILTER.md` | `05_idioms/` |
+| **Everyday Expressions** | Готовые речевые конструкции для повседневного общения | `06_everyday_expressions/` |
 
 Направления можно изучать **параллельно**. Ученик не обязан проходить их в строгой последовательности.
 
@@ -56,15 +59,18 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 |---|---|
 | `MANIFESTO.md` | Философия метода и три уровня английского |
 | `TEMPLATE.md` | Стандарт качества учебных материалов, v1.0 |
-| `LEARNING_PATHS.md` | Подробная карта пяти направлений |
+| `LEARNING_PATHS.md` | Подробная карта направлений |
 | `SOURCES_AND_METHODOLOGY.md` | Методологическая конституция: источники, принципы верификации, редакционные стандарты |
 | `VISUAL_INVENTORY.md` | Перечень иллюстраций для всех уроков и сценариев, v1.0 |
+| `IDIOMS_FILTER.md` | Редакционный стандарт для коллекции идиом: Nationwide / Regional / Rare |
 
 `TEMPLATE.md` задаёт общий стандарт качества, но не превращает каждый урок в жёсткую формальную схему. Формат зависит от учебной задачи.
 
 `SOURCES_AND_METHODOLOGY.md` фиксирует, **на какие источники опирается проект** (CEFR, Cambridge Grammar, Merriam-Webster, COCA, академические работы по Southern English) и **какие принципы верификации** используются.
 
 `VISUAL_INVENTORY.md` определяет **визуальную архитектуру курса**: какие иллюстрации нужны, в каком стиле, как они хранятся и подключаются. Принцип: `See → Understand → Describe → Speak.`
+
+`IDIOMS_FILTER.md` определяет **стандарт отбора идиом**: 🇺🇸 Nationwide / 🟡 Regional / 🔴 Rare. Принцип: «Nationwide first. Regional second. Rare — out».
 
 ---
 
@@ -136,6 +142,20 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 
 *The collection currently contains 14 published files; numbers 9 and 13 are reserved for future lessons.*
 
+### 05 — Idioms
+
+| Файл | Содержание | Статус |
+|---|---|---|
+| `IDIOMS_FILTER.md` | Редакционный стандарт отбора идиом | ✅ |
+| `lesson_01_bad_day.md` | Урок 1: «A Bad Day» — эмоции и реакции | ✅ |
+| `lesson_02_fear_surprise.md` | Урок 2: «Fear, Surprise & Strong Emotions» | ✅ |
+
+### 06 — Everyday Expressions
+
+| Файл | Содержание | Статус |
+|---|---|---|
+| `lesson_01_ability_confidence.md` | Урок 1: «Ability, Confidence & Possibilities» | ✅ |
+
 ---
 
 ## Reference Lesson
@@ -164,16 +184,23 @@ Based on the materials listed above:
 | Area | Current status |
 |---|---|
 | Methodological foundation | Established |
-| Methodological documents | 5 available |
+| Methodological documents | 6 available |
 | Visual inventory | v1.0 ready |
+| Idioms filter | v2.0 ready |
 | Descriptive lessons | 14 published files |
 | General and city scenarios | 21 completed files |
+| Idioms lessons | 2 published files |
+| Everyday expressions lessons | 1 published file |
 | Southern English | Core patterns documented |
 | Connected Speech | Core reference available |
 
 The descriptive lesson collection currently contains **14 published files**, with gaps in its numbering.
 
-The scenario collection has **21 completed files** — all planned general and city scenarios are now ready.
+The scenario collection has **21 completed files** — all planned city scenarios and journey scenarios are now ready.
+
+The idioms collection is growing according to `IDIOMS_FILTER.md` (Nationwide first).
+
+The everyday expressions collection has started with **Ability, Confidence & Possibilities**.
 
 The project is moving from content creation to platform building. The next stage is to prepare `WEBSITE_PLAN.md` and begin Astro development while integrating visual content according to `VISUAL_INVENTORY.md`.
 
