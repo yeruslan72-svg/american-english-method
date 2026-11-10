@@ -159,6 +159,18 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `lesson_03_opinions_doubts.md` | Урок 3: «Opinions, Doubts & Personal Views» | ✅ |
 | `lesson_04_agreement_disagreement.md` | Урок 4: «Agreement, Disagreement & Conversation» | ✅ |
 | `lesson_05_reactions_responses.md` | Урок 5: «Everyday Reactions & Responses» | ✅ |
+| `lesson_06_problems_frustration.md` | Урок 6: «Problems, Frustration & Everyday Complaints» | ✅ |
+| `lesson_07_requests_favors.md` | Урок 7: «Requests, Favors & Polite Everyday Communication» | ✅ |
+| `lesson_08_invitations_plans.md` | Урок 8: «Invitations, Plans & Making Arrangements» | ✅ |
+| `lesson_09_time_delays.md` | Урок 9: «Time, Delays & Being Late» | ✅ |
+| `lesson_10_phone_texting.md` | Урок 10: «Phone Calls, Texting & Staying in Touch» | ✅ |
+| `lesson_11_shopping_prices.md` | Урок 11: «Shopping, Prices & Everyday Transactions» | ✅ |
+| `lesson_12_restaurants_ordering.md` | Урок 12: «Restaurants, Ordering Food & Dining Out» | ✅ |
+| `lesson_13_hotels_checkin.md` | Урок 13: «Hotels, Check-in & Staying at a Hotel» | ✅ |
+| `lesson_14_doctor_pharmacy.md` | Урок 14: «At the Doctor's Office & Pharmacy» | ✅ |
+| `lesson_15_bank_atm.md` | Урок 15: «At the Bank, ATMs & Everyday Money Matters» | ✅ |
+| `lesson_16_renting_car_driving.md` | Урок 16: «Renting a Car, Driving & Roadside Assistance» | ✅ |
+| `lesson_17_airport_problems.md` | Урок 17: «At the Airport: Flight Delays, Cancellations & Travel Problems» | ✅ |
 
 ---
 
@@ -194,7 +206,7 @@ Based on the materials listed above:
 | Descriptive lessons | 14 published files |
 | General and city scenarios | 21 completed files |
 | Idioms lessons | 2 published files |
-| Everyday expressions lessons | 5 published files |
+| Everyday expressions lessons | 17 published files |
 | Southern English | Core patterns documented |
 | Connected Speech | Core reference available |
 
@@ -204,7 +216,25 @@ The scenario collection has **21 completed files** — all planned city scenario
 
 The idioms collection is growing according to `IDIOMS_FILTER.md` (Nationwide first).
 
-The everyday expressions collection has **5 published lessons**: Ability & Confidence, Confusion & Understanding, Opinions & Doubts, Agreement & Disagreement, and Everyday Reactions & Responses.
+The everyday expressions collection has **17 published lessons**:
+
+1. Ability & Confidence
+2. Confusion & Understanding
+3. Opinions & Doubts
+4. Agreement & Disagreement
+5. Everyday Reactions & Responses
+6. Problems & Frustration
+7. Requests & Favors
+8. Invitations & Plans
+9. Time & Delays
+10. Phone & Texting
+11. Shopping & Prices
+12. Restaurants & Ordering
+13. Hotels & Check-in
+14. Doctor & Pharmacy
+15. Bank & ATM
+16. Renting a Car & Driving
+17. Airport Problems
 
 The project is moving from content creation to platform building. The next stage is to prepare `WEBSITE_PLAN.md` and begin Astro development while integrating visual content according to `VISUAL_INVENTORY.md`.
 
