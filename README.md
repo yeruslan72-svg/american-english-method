@@ -41,7 +41,7 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | Направление | Назначение | Материалы |
 |---|---|---|
 | **Everyday Scenarios** | Взаимодействие с людьми: отказ, просьба, телефонный разговор, экстренный вызов | `01_scenarios/` |
-| **City & Daily Life** | Повседневные ситуации: дорога, такси, транспорт, магазины, ресторан, больница, кино, зоопарк, пляж, аэропорт, поезд, паром, парк | `01_scenarios/city/` |
+| **City & Daily Life** | Повседневные ситуации: дорога, такси, транспорт, магазины, ресторан, больница, кино, зоопарк, пляж, парк, аэропорт, самолёт, поезд, паром | `01_scenarios/city/` |
 | **Descriptive Lessons** | Описание окружающего мира: предметы, дом, город, звуки, запахи, чувства | `04_lessons/` |
 | **Southern English** | Региональные особенности речи: выражения, грамматика, произношение и интонация | `02_southern_layer/` |
 | **Connected Speech** | Звучание и восприятие естественной речи: слияния, сокращения и элизия | `03_phonetics/` |
@@ -89,15 +89,19 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `city/taxi.md` | Как заказать такси | ✅ |
 | `city/transit.md` | Метро и автобус | ✅ |
 | `city/clothes.md` | Покупка одежды | ✅ |
+| `city/haircut.md` | У парикмахера | ✅ |
 | `city/restaurant.md` | Общение в ресторане | ✅ |
 | `city/hospital.md` | Общение в больнице | ✅ |
 | `city/cinema.md` | Поход в кино | ✅ |
 | `city/zoo.md` | В зоопарке | ✅ |
 | `city/beach.md` | На пляже | ✅ |
-| `city/airport.md` | В аэропорту | ✅ |
-| `city/train.md` | На поезде (Amtrak) | ✅ |
-| `city/ferry.md` | На пароме | ✅ |
 | `city/park.md` | Прогулка в парке | ✅ |
+| `city/airport.md` | В аэропорту | ✅ |
+| `city/airplane.md` | В самолёте | ✅ |
+| `city/train.md` | На поезде (Amtrak) | ✅ |
+| `city/train_journey.md` | Поездка на поезде | ✅ |
+| `city/ferry.md` | На пароме | ✅ |
+| `city/ferry_journey.md` | Путешествие на пароме | ✅ |
 
 ### 02 — Southern English
 
@@ -163,13 +167,13 @@ Based on the materials listed above:
 | Methodological documents | 5 available |
 | Visual inventory | v1.0 ready |
 | Descriptive lessons | 14 published files |
-| General and city scenarios | 17 completed files |
+| General and city scenarios | 21 completed files |
 | Southern English | Core patterns documented |
 | Connected Speech | Core reference available |
 
 The descriptive lesson collection currently contains **14 published files**, with gaps in its numbering.
 
-The scenario collection has **17 completed files** — all planned city scenarios are now ready.
+The scenario collection has **21 completed files** — all planned general and city scenarios are now ready.
 
 The project is moving from content creation to platform building. The next stage is to prepare `WEBSITE_PLAN.md` and begin Astro development while integrating visual content according to `VISUAL_INVENTORY.md`.
 
