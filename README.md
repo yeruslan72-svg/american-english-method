@@ -155,6 +155,10 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | Файл | Содержание | Статус |
 |---|---|---|
 | `lesson_01_ability_confidence.md` | Урок 1: «Ability, Confidence & Possibilities» | ✅ |
+| `lesson_02_confusion_understanding.md` | Урок 2: «Confusion, Understanding & Complications» | ✅ |
+| `lesson_03_opinions_doubts.md` | Урок 3: «Opinions, Doubts & Personal Views» | ✅ |
+| `lesson_04_agreement_disagreement.md` | Урок 4: «Agreement, Disagreement & Conversation» | ✅ |
+| `lesson_05_reactions_responses.md` | Урок 5: «Everyday Reactions & Responses» | ✅ |
 
 ---
 
@@ -190,7 +194,7 @@ Based on the materials listed above:
 | Descriptive lessons | 14 published files |
 | General and city scenarios | 21 completed files |
 | Idioms lessons | 2 published files |
-| Everyday expressions lessons | 1 published file |
+| Everyday expressions lessons | 5 published files |
 | Southern English | Core patterns documented |
 | Connected Speech | Core reference available |
 
@@ -200,7 +204,7 @@ The scenario collection has **21 completed files** — all planned city scenario
 
 The idioms collection is growing according to `IDIOMS_FILTER.md` (Nationwide first).
 
-The everyday expressions collection has started with **Ability, Confidence & Possibilities**.
+The everyday expressions collection has **5 published lessons**: Ability & Confidence, Confusion & Understanding, Opinions & Doubts, Agreement & Disagreement, and Everyday Reactions & Responses.
 
 The project is moving from content creation to platform building. The next stage is to prepare `WEBSITE_PLAN.md` and begin Astro development while integrating visual content according to `VISUAL_INVENTORY.md`.
 
