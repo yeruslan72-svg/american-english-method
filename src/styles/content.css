@@ -69,3 +69,5 @@
   .lesson-toc ol { columns: 1; }
   .lesson-toc details { padding: 15px 17px; }
 }
+
+.catalogue-count { margin-top: 18px; color: var(--gold); font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; }
