@@ -1,207 +1,209 @@
-# CONTENT_AUDIT.md v1.1
+# CONTENT_AUDIT.md v1.2
 
-## Полная инвентаризация материалов American English Method
+## Инвентаризация материалов American English Method
 
-**Дата:** Ноябрь 2026  
-**Статус:** Content Audit v1.1 (обновлён)  
-**Назначение:** зафиксировать реальное состояние репозитория, выявить пробелы и определить приоритеты перед разработкой сайта.
+**Дата:** 11 ноября 2026  
+**Статус:** Content Audit v1.2 — сверено с деревом репозитория `main`  
+**Назначение:** зафиксировать фактический состав материалов перед разработкой сайта.
 
----
-
-## 1. Общая картина
-
-| Направление | Файлов | Статус | Комментарий |
-|---|---|---|---|
-| **01_scenarios/** | 4 | ✅ готово | refusal, request, phone, emergency |
-| **01_scenarios/city/** | 17 | ✅ готово | directions, taxi, transit, clothes, haircut, restaurant, hospital, cinema, zoo, beach, park, airport, airplane, train, train_journey, ferry, ferry_journey |
-| **02_southern_layer/** | 1 | ✅ готово | patterns.md |
-| **03_phonetics/** | 1 | ✅ готово | connected_speech.md |
-| **04_lessons/** | 14 | ✅ готово | lesson_01–08, 10–12, 14–16 (пропущены 9 и 13) |
-| **05_idioms/** | 2 + фильтр | ✅ готово | lesson_01_bad_day, lesson_02_fear_surprise, IDIOMS_FILTER.md |
-| **06_everyday_expressions/** | 17 | ✅ готово | lesson_01–17 (см. детали ниже) |
-| **Методические документы** | 6 | ✅ готово | MANIFESTO, TEMPLATE, LEARNING_PATHS, SOURCES_AND_METHODOLOGY, VISUAL_INVENTORY, IDIOMS_FILTER |
-| **README.md** | 1 | ✅ готово | описывает 7 направлений |
-
-**Итого:** 63 контентных файла + 6 методических документов.
+> Этот документ фиксирует наличие и расположение файлов. Наличие файла само по себе не означает, что его содержание прошло независимую языковую, методическую или фактологическую проверку.
 
 ---
 
-## 2. Детальная инвентаризация по направлениям
+## 1. Сводная инвентаризация
 
-### 2.1. Everyday Scenarios (01_scenarios/)
+| Направление | Файлов Markdown | Путь |
+|---|---:|---|
+| Everyday Scenarios + City & Daily Life | 22 | `01_scenarios/` |
+| Southern English | 1 | `02_southern_layer/` |
+| Connected Speech | 1 | `03_phonetics/` |
+| Descriptive Lessons | 16 | `04_lessons/` |
+| Idioms, включая фильтр | 3 | `05_idioms/` |
+| Everyday Expressions | 17 | `06_everyday_expressions/` |
+| Документы в корне репозитория, включая этот аудит и план сайта | 8 | корень |
+| **Всего Markdown-файлов** | **68** | |
 
-| Файл | Содержание | Статус | Качество |
-|---|---|---|---|
-| `refusal.md` | Вежливый отказ | ✅ | соответствует TEMPLATE v1.0 |
-| `request.md` | Вежливая просьба | ✅ | соответствует TEMPLATE v1.0 |
-| `phone.md` | Ответ на звонок | ✅ | соответствует TEMPLATE v1.0 |
-| `emergency.md` | Экстренный вызов 911 | ✅ | расширенный, с CBP/ER |
+Дополнительно в репозитории обнаружено **14 графических файлов**: 6 изображений для урока о стакане, 4 для сценария о пляже и 4 для сценария об аэропорте.
 
-### 2.2. City & Daily Life (01_scenarios/city/)
+В подсчёт входят файлы Markdown, находящиеся в перечисленных каталогах и в корне. `LICENSE` не является Markdown-файлом и в число 68 не включён.
 
-| Файл | Содержание | Статус | Качество |
-|---|---|---|---|
-| `directions.md` | Как спросить дорогу | ✅ | соответствует TEMPLATE v1.0 |
-| `taxi.md` | Такси | ✅ | соответствует TEMPLATE v1.0 |
-| `transit.md` | Метро и автобус | ✅ | соответствует TEMPLATE v1.0 |
-| `clothes.md` | Покупка одежды | ✅ | техасский стиль, расширенный |
-| `haircut.md` | У парикмахера | ✅ | соответствует TEMPLATE v1.0 |
-| `restaurant.md` | Ресторан | ✅ | расширенный, с резервацией |
-| `hospital.md` | Больница | ✅ | расширенный, с 911 и страховкой |
-| `cinema.md` | Кино | ✅ | соответствует TEMPLATE v1.0 |
-| `zoo.md` | Зоопарк | ✅ | соответствует TEMPLATE v1.0 |
-| `beach.md` | Пляж | ✅ | расширенный, с флагами и rip currents |
-| `park.md` | Парк | ✅ | расширенный, с пикником |
-| `airport.md` | Аэропорт | ✅ | расширенный, с TSA и CBP |
-| `airplane.md` | В самолёте | ✅ | расширенный, с безопасностью |
-| `train.md` | На поезде (Amtrak) | ✅ | расширенный, с Quiet Car |
-| `train_journey.md` | Поездка на поезде | ✅ | атмосферный, с пейзажами |
-| `ferry.md` | На пароме | ✅ | расширенный, с безопасностью |
-| `ferry_journey.md` | Путешествие на пароме | ✅ | атмосферный, с палубой |
+## 2. Детальная инвентаризация
 
-### 2.3. Southern English (02_southern_layer/)
+### 2.1. Everyday Scenarios — `01_scenarios/`
 
-| Файл | Содержание | Статус | Качество |
-|---|---|---|---|
-| `patterns.md` | Южные паттерны и уровни | ✅ | соответствует IDIOMS_FILTER |
+**5 файлов:**
 
-### 2.4. Connected Speech (03_phonetics/)
+- `clothes.md`
+- `emergency.md`
+- `phone.md`
+- `refusal.md`
+- `request.md`
 
-| Файл | Содержание | Статус | Качество |
-|---|---|---|---|
-| `connected_speech.md` | Слияния и элизия | ✅ | соответствует TEMPLATE v1.0 |
+### 2.2. City & Daily Life — `01_scenarios/city/`
 
-### 2.5. Descriptive Lessons (04_lessons/)
+**17 файлов:**
 
-| Файл | Содержание | Статус | Качество |
-|---|---|---|---|
-| `lesson_01_glass.md` | Стакан | ✅ | базовый |
-| `lesson_02_knife.md` | Нож | ✅ | базовый |
-| `lesson_03_table.md` | Стол | ✅ | расширенный, с Рождеством |
-| `lesson_04_city.md` | Город | ✅ | расширенный, с контрастом |
-| `lesson_05_living_room.md` | Гостиная | ✅ | базовый |
-| `lesson_06_bedroom.md` | Спальня | ✅ | базовый |
-| `lesson_07_bathroom.md` | Ванная | ✅ | базовый |
-| `lesson_08_setting_the_table.md` | Сервировка | ✅ | базовый |
-| `lesson_10_entryway.md` | Прихожая | ✅ | базовый |
-| `lesson_11_laundry_room.md` | Прачечная | ✅ | базовый |
-| `lesson_12_pantry.md` | Кладовая | ✅ | базовый |
-| `lesson_14_terrace.md` | Терраса | ✅ | **эталон** (Reference Lesson v1.0) |
-| `lesson_15_sounds_and_smells.md` | Звуки и запахи | ✅ | расширенный, с сенсорикой |
-| `lesson_16_feelings.md` | Чувства | ✅ | расширенный, с эмоциями |
+- `airport.md`
+- `airplane.md`
+- `beach.md`
+- `cinema.md`
+- `directions.md`
+- `ferry.md`
+- `ferry_journey.md`
+- `haircut.md`
+- `hospital.md`
+- `park.md`
+- `restaurant.md`
+- `taxi.md`
+- `train.md`
+- `train_journey.md`
+- `transit.md`
+- `zoo.md`
+- `clothes.md` is located in the parent `01_scenarios/` directory, not in `city/`.
 
-**Пробелы:** уроки 9 и 13 отсутствуют (зарезервированы).
+### 2.3. Southern English — `02_southern_layer/`
 
-### 2.6. Idioms (05_idioms/)
+- `patterns.md`
 
-| Файл | Содержание | Статус | Качество |
-|---|---|---|---|
-| `IDIOMS_FILTER.md` | Фильтр отбора идиом | ✅ | v2.0, Nationwide first |
-| `lesson_01_bad_day.md` | A Bad Day | ✅ | соответствует фильтру |
-| `lesson_02_fear_surprise.md` | Fear, Surprise | ✅ | соответствует фильтру |
+### 2.4. Connected Speech — `03_phonetics/`
 
-### 2.7. Everyday Expressions (06_everyday_expressions/)
+- `connected_speech.md`
 
-| Файл | Содержание | Статус | Качество |
-|---|---|---|---|
-| `lesson_01_ability_confidence.md` | Ability & Confidence | ✅ | соответствует TEMPLATE v1.0 |
-| `lesson_02_confusion_understanding.md` | Confusion & Understanding | ✅ | соответствует TEMPLATE v1.0 |
-| `lesson_03_opinions_doubts.md` | Opinions & Doubts | ✅ | соответствует TEMPLATE v1.0 |
-| `lesson_04_agreement_disagreement.md` | Agreement & Disagreement | ✅ | соответствует TEMPLATE v1.0 |
-| `lesson_05_reactions_responses.md` | Reactions & Responses | ✅ | соответствует TEMPLATE v1.0 |
-| `lesson_06`–`lesson_16` | Остальные тематические уроки | ✅ | (по данным репозитория) |
-| `lesson_17_airport_problems.md` | At the Airport: Flight Delays, Cancellations & Travel Problems | ✅ | (по данным репозитория) |
+### 2.5. Descriptive Lessons — `04_lessons/`
 
-**Итого:** 17 уроков.
+**16 files currently present:**
 
-### 2.8. Методические документы
+- `lesson_01_glass.md`
+- `lesson_02_knife.md`
+- `lesson_03_table.md`
+- `lesson_04_city.md`
+- `lesson_04_clock.md`
+- `lesson_05_living_room.md`
+- `lesson_06_bedroom.md`
+- `lesson_07_bathroom.md`
+- `lesson_08_tableware.md`
+- `lesson_10_entryway.md`
+- `lesson_11_laundry.md`
+- `lesson_12_pantry.md`
+- `lesson_14_terrace.md`
+- `lesson_15_sounds_and_smells.md`
+- `lesson_16_feelings.md`
+- `lesson_17_feelings_and_inner_feelings.md`
 
-| Файл | Назначение | Статус | Расположение |
-|---|---|---|---|
-| `MANIFESTO.md` | Философия метода | ✅ | корень |
-| `TEMPLATE.md` | Стандарт урока | ✅ v1.0 | корень |
-| `LEARNING_PATHS.md` | Карта направлений | ✅ | корень |
-| `SOURCES_AND_METHODOLOGY.md` | Источники и принципы | ✅ | корень |
-| `VISUAL_INVENTORY.md` | Перечень иллюстраций | ✅ v1.0 | корень |
-| `IDIOMS_FILTER.md` | Фильтр идиом | ✅ v2.0 | `05_idioms/` |
+**Inventory note:** numbering is not a unique sequential index: there are two files numbered 04, and no files numbered 09 or 13. The repository currently contains 16 files; do not infer that lesson numbers correspond one-to-one with file count.
 
-**Важно:** `IDIOMS_FILTER.md` находится **только** в `05_idioms/`. В README он указан как методический документ, но физически расположен в папке направления.
+### 2.6. Idioms — `05_idioms/`
 
----
+**3 files:**
 
-## 3. Пробелы и приоритеты
+- `IDIOMS_FILTER.md`
+- `lesson_01_bad_day.md`
+- `lesson_02_fear_surprise.md`
 
-### 3.1. Контентные пробелы
+The filter is stored in `05_idioms/`; there is no root-level `IDIOMS_FILTER.md`.
 
-| Пробел | Приоритет | Что делать |
+### 2.7. Everyday Expressions — `06_everyday_expressions/`
+
+**17 lesson files:**
+
+- `lesson_01_ability_confidence.md`
+- `lesson_02_confusion_understanding.md`
+- `lesson_03_opinions_doubts.md`
+- `lesson_04_agreement_disagreement.md`
+- `lesson_05_reactions_responses.md`
+- `lesson_06_problems_frustration.md`
+- `lesson_07_requests_favors.md`
+- `lesson_08_invitations_plans.md`
+- `lesson_09_time_delays.md`
+- `lesson_10_phone_texting.md`
+- `lesson_11_shopping_prices.md`
+- `lesson_12_restaurants_ordering.md`
+- `lesson_13_hotels_checkin.md`
+- `lesson_14_doctor_pharmacy.md`
+- `lesson_15_bank_atm.md`
+- `lesson_16_renting_car_driving.md`
+- `lesson_17_airport_problems.md`
+
+## 3. Root-level Markdown documents
+
+The current root contains these 8 Markdown documents:
+
+- `CONTENT_AUDIT.md`
+- `LEARNING_PATHS.md`
+- `MANIFESTO.md`
+- `README.md`
+- `SOURCES_AND_METHODOLOGY.md`
+- `TEMPLATE.md`
+- `VISUAL_STYLE_GUIDE.md`
+- `WEBSITE_PLAN.md`
+
+`VISUAL_INVENTORY.md` is referenced in older documentation but was not present in the inspected `main` branch tree. It must not be described as an existing file until it is restored or created.
+
+## 4. Image assets
+
+**14 image files were found:**
+
+### Glass lesson — `images/lessons/objects/glass/`
+
+- `object-glass-01.jpg`
+- `object-glass-02.jpg`
+- `object-glass-03.jpg`
+- `object-glass-04.jpg`
+- `object-glass-05.jpg`
+- `object-glass-06.jpg`
+
+### Beach scenario — `images/scenarios/beach/`
+
+- `beach-access.png`
+- `beach-lifeguard.png`
+- `beach-rip-current.png`
+- `beach-warning-flag.png`
+
+### Airport scenario — `images/scenarios/airport/`
+
+- `airport-boarding.png`
+- `airport-check-in.png`
+- `airport-security.png`
+- `airport-terminal.png`
+
+The image references in the following three Markdown files were checked against the repository paths and found to match existing assets:
+
+- `04_lessons/lesson_01_glass.md`
+- `01_scenarios/city/beach.md`
+- `01_scenarios/city/airport.md`
+
+This check does not certify image resolution, file size, licensing, alt text, or visual quality.
+
+## 5. Documentation discrepancies to resolve
+
+| Item | Finding | Action |
 |---|---|---|
-| Уроки 9 и 13 в Descriptive Lessons | 🟡 средний | Зарезервированы; можно заполнить позже |
-| Idioms: только 2 урока | 🟡 средний | Продолжать по фильтру |
-| Southern English: только patterns.md | 🟡 средний | Можно добавить pronunciation, grammar |
-| Connected Speech: только connected_speech.md | 🟡 средний | Можно добавить reduction, rhythm |
+| `LEARNING_PATHS.md` | Describes five directions, while `README.md` and the current course structure describe seven | Align to seven directions |
+| `README.md` | Contains outdated descriptive-lesson filenames and count | Update paths and count |
+| `VISUAL_INVENTORY.md` | Referenced but absent from the current tree | Decide whether to create it or remove references |
+| Previous audit counts | Old counts and filenames do not match the current tree | This version replaces the earlier inventory figures |
+| Visual image requirements | Style guide specifies minimum dimensions and target file size | Check actual image metadata before optimizing |
 
-### 3.2. Визуальные пробелы
+## 6. Website readiness — inventory view
 
-**Предварительная оценка:** ~100 изображений.
+| Area | Repository observation |
+|---|---|
+| Learning content | 60 Markdown files across the seven learning directions |
+| Root documentation | 8 Markdown documents, including the website plan |
+| Visual assets | 14 image files in the current tree |
+| Reference pages | Glass, beach, and airport pages have verified local image references |
+| Website framework | No Astro project files were present in the audited tree before implementation |
+| Deployment workflow | No existing website deployment configuration was identified in the audited tree |
 
-**Детализация по Descriptive Lessons (пример):**
+The 60 learning-content files are the sum of the six learning-directory counts in Section 1. This is a file inventory, not a rating of completeness or quality.
 
-| Тип изображения | Назначение | Пример |
-|---|---|---|
-| Общий вид предмета | Ученик видит предмет целиком | Стакан на столе |
-| Детали и части | Ученик описывает детали | Грани стакана, рукоять ножа |
-| Положение в пространстве | Ученик описывает расположение | Стакан слева от тарелки |
-| Окружающая обстановка | Ученик описывает контекст | Стакан в кафе на Юге |
-| Ситуация использования | Ученик описывает действие | Человек пьёт чай со льдом |
-| Изображение для описания | Ученик самостоятельно описывает | Пустой стакан на столе |
+## 7. Principles for the next stage
 
-**Это не «30 изображений», а 6 типов для каждого урока.**
+1. Preserve existing lesson files as the canonical content source.
+2. Align repository documentation with actual paths and counts.
+3. Do not invent lesson metadata, levels, or quality ratings that are not present in the source.
+4. Define the content registry and route rules before implementing the website.
+5. Validate every local image and internal link during the site build.
+6. Treat missing visual inventory documentation as an open task, not as a completed deliverable.
 
-### 3.3. Технические пробелы
-
-| Пробел | Приоритет | Что делать |
-|---|---|---|
-| Astro-проект | 🟢 высокий | Создать после `WEBSITE_PLAN.md` и `CONTENT_MODEL.md` |
-| GitHub Pages | 🟢 высокий | Настроить после Astro |
-| Поиск по сайту | 🟡 средний | Добавить на этапе MVP |
-| Аудио | 🟡 средний | Добавить позже |
-
----
-
-## 4. Качество контента
-
-### 4.1. Соответствие TEMPLATE.md v1.0
-
-| Направление | Соответствие | Комментарий |
-|---|---|---|
-| Scenarios | ✅ | все сценарии имеют ситуацию, диалог, разбор, практику |
-| Descriptive Lessons | ✅ | эталон — lesson_14_terrace.md |
-| Idioms | ✅ | соответствуют IDIOMS_FILTER.md |
-| Everyday Expressions | ✅ | соответствуют TEMPLATE.md |
-
-### 4.2. Соответствие IDIOMS_FILTER.md
-
-| Урок | Nationwide | Regional | Rare |
-|---|---|---|---|
-| lesson_01_bad_day | ✅ | — | — |
-| lesson_02_fear_surprise | ✅ | — | — |
-
-**Вывод:** все идиомы проходят фильтр.
-
----
-
-## 5. Рекомендации перед сайтом
-
-1. **Зафиксировать `CONTENT_AUDIT.md` v1.1** как точку отсчёта.
-2. **Создать `VISUAL_STYLE_GUIDE.md`** — стандарт визуального стиля.
-3. **Создать `CONTENT_MODEL.md`** — единый формат уроков.
-4. **Создать `WEBSITE_PLAN.md`** — архитектура сайта.
-5. **Только после этого — Astro MVP.**
-
----
-
-## 6. Принцип
-
-**Сначала аудит. Потом визуальная система. Потом модель контента. Потом архитектура. Потом код.**
-
-Мы не увеличиваем количество уроков любой ценой. Мы делаем так, чтобы **уже созданная база** превратилась в **удобную, логичную и масштабируемую систему обучения**.
+**Sequence:** verified inventory → documentation alignment → content model → website implementation.
