@@ -105,7 +105,7 @@
 
 Регистрацию обычно можно пройти онлайн или непосредственно в аэропорту. Это зависит от авиакомпании и условий путешествия.
 
-<image-placeholder></image-placeholder>
+![Airport check-in](../../images/scenarios/airport/airport-check-in.png)
 
 **Диалог — At the Check-in Counter**
 
@@ -171,7 +171,7 @@
 
 Процедуры могут отличаться в зависимости от аэропорта, оборудования и типа линии досмотра. Поэтому главное правило — внимательно слушать инструкции сотрудника.
 
-<image-placeholder></image-placeholder>
+![Airport security](../../images/scenarios/airport/airport-security.png)
 
 **Диалог — At the Security Checkpoint**
 
@@ -235,7 +235,7 @@
 
 Информация о выходе и времени посадки указывается на посадочном талоне и электронных табло. Выход может измениться, поэтому проверяй объявления и экраны.
 
-<image-placeholder></image-placeholder>
+![Airport terminal](../../images/scenarios/airport/airport-terminal.png)
 
 **Диалог — Finding the Gate**
 
@@ -332,7 +332,7 @@
 
 ### 7. Этап 6. В самолёте — On the Plane
 
-<image-placeholder></image-placeholder>
+![Airport boarding](../../images/scenarios/airport/airport-boarding.png)
 
 **Диалог — On Board**
 
@@ -520,8 +520,6 @@ CBP — пограничная и таможенная служба США. Им
 
 После паспортного контроля следуй указателям `Baggage Claim`.
 
-<image-placeholder></image-placeholder>
-
 **Диалог — At Baggage Claim**
 
 **You:** Excuse me, where can I find baggage claim?
@@ -688,4 +686,49 @@ CBP — пограничная и таможенная служба США. Им
 
 ---
 
-### 14. Реги
+### 14. Региональный слой — Southern English
+
+В аэропорту основным языком общения остаётся нейтральный американский английский. Но в непринуждённом разговоре с другими пассажирами или знакомыми можно услышать региональные выражения.
+
+**Y'all** — разговорное обращение к нескольким людям, особенно характерное для южных штатов.
+
+Пример:
+
+**Passenger:** Y'all flying to Dallas, too?
+
+**You:** Yeah, we're on the same flight.
+
+Перевод:
+
+**Пассажир:** Вы тоже летите в Даллас?
+
+**Ты:** Да, мы на одном рейсе.
+
+**Важно:**
+
+- `Y'all` — не исключительно техасское выражение, но особенно характерно для Юга США.
+- Оно широко понятно американцам.
+- В официальном общении с сотрудниками аэропорта лучше использовать нейтральные формы.
+- Не нужно специально вставлять `y'all` в каждую фразу.
+
+---
+
+### 15. Connected Speech — Как звучит разговорный американский английский
+
+В повседневной речи американцы часто соединяют слова и сокращают звуки. Это не означает, что нужно писать их так же, как они звучат.
+
+| Обычная форма | Разговорное звучание | Пример |
+|---|---|---|
+| `Could you...?` | `Couldja...?` | `Couldja help me with my bag?` |
+| `Would you...?` | `Wouldja...?` | `Wouldja like something to drink?` |
+| `What are you...?` | `Whatcha...?` | `Whatcha looking for?` |
+| `Did you...?` | `Didja...?` | `Didja get your bags?` |
+| `Going to` | `Gonna` | `I'm gonna check in.` |
+
+**Запомни:**
+
+`Couldja`, `whatcha`, `didja` и `gonna` — это условная передача разговорного произношения. В обычной письменной речи используй стандартные формы:
+
+- `Could you help me?`
+- `What are you looking for?`
+-
