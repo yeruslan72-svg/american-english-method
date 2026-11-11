@@ -1,6 +1,6 @@
 ---
-import BaseLayout from "../../layouts/BaseLayout.astro";
-import { lessons, sections } from "../../data/content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { lessons, sections } from "../data/content";
 ---
 <BaseLayout title="Search the course" description="Search all American English Method lessons and learning resources.">
   <section class="section">
@@ -17,7 +17,7 @@ import { lessons, sections } from "../../data/content";
       <div class="search-results" id="search-results">
         {lessons.map((lesson) => {
           const section = sections.find((item) => item.id === lesson.section);
-          const haystack = [lesson.displayTitle, lesson.title, lesson.description, lesson.source, section?.title].join(" ").toLowerCase();
+          const haystack = [lesson.displayTitle, lesson.title, lesson.description, lesson.source, section?.title, lesson.markdown.replace(/[#>*_`|]/g, " ")].join(" ").toLowerCase();
           return (
             <a
               class="search-result"
