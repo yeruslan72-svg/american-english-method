@@ -129,18 +129,20 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `lesson_02_knife.md` | Урок 2: «Опиши нож» | ✅ |
 | `lesson_03_table.md` | Урок 3: «Опиши стол» | ✅ |
 | `lesson_04_city.md` | Урок 4: «Опиши город» | ✅ |
+| `lesson_04_clock.md` | Дополнительный файл с номером 04: часы | ✅ |
 | `lesson_05_living_room.md` | Урок 5: «Опиши гостиную» | ✅ |
 | `lesson_06_bedroom.md` | Урок 6: «Опиши спальню» | ✅ |
 | `lesson_07_bathroom.md` | Урок 7: «Опиши ванную» | ✅ |
-| `lesson_04_clock.md` | Дополнительный урок о часах | ✅ |
-| `lesson_10_entryway.md` | Урок 10: «Опиши прихожую» | ✅ |
-| `lesson_08_tableware.md` | Урок 8: «Посуда / сервировка» | ✅ |
+| `lesson_08_tableware.md` | Урок 8: посуда | ✅ |
 | `lesson_10_entryway.md` | Урок 10: «Опиши прихожую» | ✅ |
 | `lesson_11_laundry.md` | Урок 11: «Опиши прачечную» | ✅ |
 | `lesson_12_pantry.md` | Урок 12: «Опиши кладовую» | ✅ |
 | `lesson_14_terrace.md` | Урок 14: «Опиши террасу» | ✅ |
+| `lesson_15_sounds_and_smells.md` | Урок 15: «Звуки и запахи» | ✅ |
+| `lesson_16_feelings.md` | Урок 16: «Опиши чувства» | ✅ |
+| `lesson_17_feelings_and_inner_feelings.md` | Урок 17: «Чувства и внутренние состояния» | ✅ |
 
-| `lesson_15_sounds_and_smells.md` | Урок 15: «Звуки и запахи» | ✅ |\n| `lesson_16_feelings.md` | Урок 16: «Опиши чувства» | ✅ |\n| `lesson_17_feelings_and_inner_feelings.md` | Урок 17: «Чувства и внутренние состояния» | ✅ |\n\n*В каталоге находятся 16 файлов. Нумерация содержит два файла с номером 04; номера 09 и 13 отсутствуют.*
+*В каталоге находятся 16 файлов. Нумерация содержит два файла с номером 04; номера 09 и 13 отсутствуют.*
 
 ### 05 — Idioms
 
@@ -210,7 +212,7 @@ Based on the materials listed above:
 | Southern English | Core patterns documented |
 | Connected Speech | Core reference available |
 
-The descriptive lesson collection currently contains **14 published files**, with gaps in its numbering.
+The descriptive lesson directory currently contains **16 Markdown files**. Its filenames include two files numbered 04; numbers 09 and 13 are absent.
 
 The scenario collection has **21 completed files** — all planned city scenarios and journey scenarios are now ready.
 
@@ -236,7 +238,7 @@ The everyday expressions collection has **17 published lessons**:
 16. Renting a Car & Driving
 17. Airport Problems
 
-The project is moving from content creation to platform building. The next stage is to prepare `WEBSITE_PLAN.md` and begin Astro development while integrating visual content according to `VISUAL_INVENTORY.md`.
+The project is moving from content creation to platform building. The website architecture and MVP plan are documented in `WEBSITE_PLAN.md`. The visual implementation follows `VISUAL_STYLE_GUIDE.md`; a separate `VISUAL_INVENTORY.md` has not yet been added.
 
 ---
 
