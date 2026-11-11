@@ -80,6 +80,6 @@ export const lessons = Object.entries(markdownFiles)
       markdown
     };
   })
-  .sort((a, b) => a.source.localeCompare(b.source));
+  .sort((a, b) => a.source.localeCompare(b.source, undefined, { numeric: true }));
 
 export type SectionId = typeof sections[number]["id"];
