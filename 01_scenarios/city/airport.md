@@ -731,4 +731,239 @@ CBP — пограничная и таможенная служба США. Им
 
 - `Could you help me?`
 - `What are you looking for?`
--
+- `Did you get your bags?`
+- `I'm going to check in.`
+
+---
+
+### 16. Практика — Practice
+
+**Упражнение 1. Покупка билета и регистрация**
+
+Ситуация: ты покупаешь билет до Нью-Йорка.
+
+**Agent:** Where would you like to fly?
+
+**You:** *(Назови направление и скажи, что хочешь билет в одну сторону.)*
+
+**Agent:** When would you like to travel?
+
+**You:** *(Назови дату и предпочтительное время.)*
+
+**Agent:** Would you prefer a window seat or an aisle seat?
+
+**You:** *(Выбери место.)*
+
+**Agent:** Do you have any bags to check?
+
+**You:** *(Скажи, сколько у тебя чемоданов.)*
+
+**Твоя задача:** провести разговор от выбора рейса до получения посадочного талона.
+
+---
+
+**Упражнение 2. Паспортный контроль**
+
+**CBP Officer:** Passport, please.
+
+**You:** *(Передай паспорт.)*
+
+**CBP Officer:** What's the purpose of your visit?
+
+**You:** *(Объясни настоящую цель поездки.)*
+
+**CBP Officer:** How long do you plan to stay?
+
+**You:** *(Назови срок.)*
+
+**CBP Officer:** Where will you be staying?
+
+**You:** *(Назови место проживания.)*
+
+**CBP Officer:** Have you been to the United States before?
+
+**You:** *(Ответь правдиво.)*
+
+**Твоя задача:** отвечать коротко, понятно и естественно. Не нужно добавлять лишние объяснения, если их не спрашивают.
+
+---
+
+**Упражнение 3. Проблема в аэропорту**
+
+Выбери одну ситуацию и разыграй диалог.
+
+**Situation A — Ты не можешь найти выход на посадку.**
+
+Используй:
+
+- `Excuse me...`
+- `Where is Gate...?`
+- `Is it far from here?`
+
+**Situation B — Ты опоздал на стыковочный рейс.**
+
+Используй:
+
+- `I missed my connection.`
+- `What should I do?`
+- `Can the airline rebook me?`
+
+**Situation C — Твой чемодан не прибыл.**
+
+Используй:
+
+- `My suitcase hasn't arrived.`
+- `Could you help me?`
+- `Here's my baggage claim tag.`
+
+**Твоя задача:** не просто повторить готовый диалог, а самостоятельно объяснить проблему и попросить помощи.
+
+---
+
+**Упражнение 4. Объясни дорогу**
+
+Представь, что другой пассажир не может найти свой выход на посадку.
+
+Объясни ему, как пройти:
+
+- прямо;
+- налево;
+- направо;
+- до следующего терминала.
+
+Используй:
+
+- `Go straight ahead.`
+- `Turn left.`
+- `Turn right.`
+- `Follow the signs.`
+- `It's about a five-minute walk.`
+
+---
+
+### 17. Обратная связь после практики — Feedback
+
+Работаем по циклу:
+
+**Practice → Learner's Response → Correction → Natural Reformulation → Recall**
+
+**Пример 1**
+
+Ученик говорит:
+
+`I want a ticket to New York.`
+
+- **Correction:** грамматически правильно.
+- **Natural Reformulation:** `I'd like a ticket to New York, please.` — более мягкая и вежливая формулировка.
+- **Recall:** повтори естественный вариант.
+
+**Пример 2**
+
+Ученик говорит:
+
+`I go to vacation.`
+
+- **Correction:** нужна конструкция `on vacation`.
+- **Natural Reformulation:** `I'm here on vacation.` — Я здесь в отпуске.
+- **Recall:** повтори фразу самостоятельно.
+
+**Пример 3**
+
+Ученик говорит:
+
+`I have one bag.`
+
+- **Correction:** грамматически правильно, но не уточняется, какой это багаж.
+- **Natural Reformulation:** `I have one checked bag and one carry-on.` — У меня один чемодан в багаж и одна сумка в ручную кладь.
+- **Recall:** повтори фразу.
+
+**Пример 4**
+
+Ученик говорит:
+
+`Where is my plane?`
+
+- **Correction:** грамматически правильно, но в аэропорту вопрос слишком общий.
+- **Natural Reformulation:** `Where is my gate?` — Где мой выход на посадку?
+- **Recall:** повтори естественную формулировку.
+
+**Пример 5**
+
+Ученик говорит:
+
+`My baggage is lost.`
+
+- **Correction:** понятно и грамматически возможно.
+- **Natural Reformulation:** `My luggage hasn't arrived.` — Мой багаж ещё не прибыл.
+- **Recall:** повтори естественный вариант.
+
+**Важно:** альтернативная формулировка не всегда означает исправление ошибки. Мы различаем грамматику, естественность, точность и ситуацию общения.
+
+---
+
+### 18. Статус лексики — Vocabulary Status
+
+**🟢 Активно — использовать самостоятельно**
+
+- `I'd like to book a flight to...`
+- `One-way ticket`
+- `Round-trip ticket`
+- `I'd prefer a morning flight.`
+- `I'd like a window seat.`
+- `I'm checking in.`
+- `Do you have any bags to check?`
+- `Here's your boarding pass.`
+- `Where is Gate B12?`
+- `Is this the gate for...?`
+- `Have a good flight.`
+- `Could I get a glass of water?`
+- `What's the purpose of your visit?`
+- `I'm here on vacation.`
+- `How long do you plan to stay?`
+- `Where will you be staying?`
+- `Where is baggage claim?`
+- `My suitcase hasn't arrived.`
+- `Thanks for picking me up.`
+- `I missed my connection.`
+- `Could you repeat that, please?`
+
+**🟡 Понимать — узнавать в контексте**
+
+- `TSA`
+- `CBP`
+- `Security screening`
+- `Carry-on`
+- `Checked luggage`
+- `Personal item`
+- `Connecting flight`
+- `Layover`
+- `Departure`
+- `Arrival`
+- `Baggage claim`
+- `Carousel`
+- `Boarding zone`
+- `Final call`
+- `Reference number`
+- `Overhead bin`
+- `Baggage claim tag`
+- `TSA PreCheck`
+
+**🔴 Пассивная специализированная лексика — узнавать при необходимости**
+
+- `Admissibility` — допустимость въезда.
+- `Expedited removal` — ускоренная процедура выдворения.
+- `Flight itinerary` — маршрут перелёта.
+
+Эти термины относятся к более специализированному контексту и не являются необходимыми для обычного общения пассажира в аэропорту.
+
+---
+
+## Принцип урока
+
+**Don't just get on a plane. Learn to navigate every step — from the ticket counter to the arrivals hall.**
+
+Не просто садись в самолёт. Научись ориентироваться на каждом этапе — от покупки билета до выхода из аэропорта прибытия.
+
+**Learn the language. Understand the procedure. Stay calm. Take the next step.**
+
+*Learn the language. Understand the context. Express yourself naturally.*
