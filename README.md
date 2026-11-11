@@ -61,7 +61,7 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `TEMPLATE.md` | Стандарт качества учебных материалов, v1.0 |
 | `LEARNING_PATHS.md` | Подробная карта направлений |
 | `SOURCES_AND_METHODOLOGY.md` | Методологическая конституция: источники, принципы верификации, редакционные стандарты |
-| `VISUAL_INVENTORY.md` | Перечень иллюстраций для всех уроков и сценариев, v1.0 |
+| `VISUAL_STYLE_GUIDE.md` | Планируемый перечень иллюстраций; файла пока нет в репозитории |
 | `IDIOMS_FILTER.md` | Редакционный стандарт для коллекции идиом: Nationwide / Regional / Rare |
 
 `TEMPLATE.md` задаёт общий стандарт качества, но не превращает каждый урок в жёсткую формальную схему. Формат зависит от учебной задачи.
@@ -94,7 +94,7 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `city/directions.md` | Как спросить дорогу | ✅ |
 | `city/taxi.md` | Как заказать такси | ✅ |
 | `city/transit.md` | Метро и автобус | ✅ |
-| `city/clothes.md` | Покупка одежды | ✅ |
+| `../clothes.md` | Покупка одежды (файл находится в `01_scenarios/`) | ✅ |
 | `city/haircut.md` | У парикмахера | ✅ |
 | `city/restaurant.md` | Общение в ресторане | ✅ |
 | `city/hospital.md` | Общение в больнице | ✅ |
@@ -132,15 +132,15 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `lesson_05_living_room.md` | Урок 5: «Опиши гостиную» | ✅ |
 | `lesson_06_bedroom.md` | Урок 6: «Опиши спальню» | ✅ |
 | `lesson_07_bathroom.md` | Урок 7: «Опиши ванную» | ✅ |
-| `lesson_08_setting_the_table.md` | Урок 8: «Накрой на стол» | ✅ |
+| `lesson_04_clock.md` | Дополнительный урок о часах | ✅ |
 | `lesson_10_entryway.md` | Урок 10: «Опиши прихожую» | ✅ |
-| `lesson_11_laundry_room.md` | Урок 11: «Опиши прачечную» | ✅ |
+| `lesson_08_tableware.md` | Урок 8: «Посуда / сервировка» | ✅ |
+| `lesson_10_entryway.md` | Урок 10: «Опиши прихожую» | ✅ |
+| `lesson_11_laundry.md` | Урок 11: «Опиши прачечную» | ✅ |
 | `lesson_12_pantry.md` | Урок 12: «Опиши кладовую» | ✅ |
 | `lesson_14_terrace.md` | Урок 14: «Опиши террасу» | ✅ |
-| `lesson_15_sounds_and_smells.md` | Урок 15: «Звуки и запахи» | ✅ |
-| `lesson_16_feelings.md` | Урок 16: «Опиши чувства» | ✅ |
 
-*The collection currently contains 14 published files; numbers 9 and 13 are reserved for future lessons.*
+| `lesson_15_sounds_and_smells.md` | Урок 15: «Звуки и запахи» | ✅ |\n| `lesson_16_feelings.md` | Урок 16: «Опиши чувства» | ✅ |\n| `lesson_17_feelings_and_inner_feelings.md` | Урок 17: «Чувства и внутренние состояния» | ✅ |\n\n*В каталоге находятся 16 файлов. Нумерация содержит два файла с номером 04; номера 09 и 13 отсутствуют.*
 
 ### 05 — Idioms
 
