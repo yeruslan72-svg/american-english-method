@@ -118,3 +118,30 @@
 .search-status { margin: 12px 0 0; color: var(--muted); font-size: 12px; }
 .search-result[hidden] { display: none; }
 .search-empty[hidden] { display: none; }
+
+
+/* Language-layer markers inside lesson content */
+.markdown-content .nationwide-layer,
+.markdown-content .southern-layer,
+.markdown-content .speech-layer {
+  margin-left: -14px;
+  padding: 13px 18px;
+  border-left: 3px solid var(--gold);
+  background: #f1eee6;
+}
+.markdown-content .nationwide-layer::before,
+.markdown-content .southern-layer::before,
+.markdown-content .speech-layer::before {
+  display: block;
+  margin-bottom: 5px;
+  font: 700 9px "DM Sans", sans-serif;
+  letter-spacing: .15em;
+}
+.markdown-content .nationwide-layer::before { content: "NATIONWIDE AMERICAN ENGLISH"; color: #315d79; }
+.markdown-content .southern-layer::before { content: "REGIONAL LANGUAGE · SOUTHERN UNITED STATES"; color: #8b6b31; }
+.markdown-content .speech-layer::before { content: "NATURAL SPOKEN ENGLISH"; color: #536d58; }
+@media(max-width:650px) {
+  .markdown-content .nationwide-layer,
+  .markdown-content .southern-layer,
+  .markdown-content .speech-layer { margin-left: 0; }
+}
