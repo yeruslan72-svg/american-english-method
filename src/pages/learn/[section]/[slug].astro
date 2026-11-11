@@ -11,6 +11,10 @@ export function getStaticPaths() {
 }
 const { lesson } = Astro.props;
 const section = sections.find((item) => item.id === lesson.section);
+const sectionLessons = lessons.filter((item) => item.section === lesson.section);
+const lessonIndex = sectionLessons.findIndex((item) => item.id === lesson.id);
+const previousLesson = lessonIndex > 0 ? sectionLessons[lessonIndex - 1] : undefined;
+const nextLesson = lessonIndex >= 0 && lessonIndex < sectionLessons.length - 1 ? sectionLessons[lessonIndex + 1] : undefined;
 const markdown = lesson.markdown.replace(/(!\[[^\]]*\]\()((?:\.\.\/)+images\/)/g, "$1/american-english-method/images/");
 const headingSource = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
   const plain = match[1].replace(/\[([^\]]+)\]\([^)]*\)/g, "$1").replace(/[*_~]/g, "").trim();
