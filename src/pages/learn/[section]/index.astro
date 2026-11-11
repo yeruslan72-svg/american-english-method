@@ -1,0 +1,39 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { sections, lessons } from "../../../data/content";
+
+export function getStaticPaths() {
+  return sections.map((section) => ({ params: { section: section.id }, props: { section } }));
+}
+const { section } = Astro.props;
+const sectionLessons = lessons.filter((lesson) => lesson.section === section.id);
+---
+<BaseLayout title={section.title} description={section.description}>
+  <section class="section">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/">← Home</a>
+      <div class="eyebrow">Learning direction</div>
+      <h1 class="page-title">{section.title}</h1>
+      <p class="page-lead">{section.intro}</p>
+      {sectionLessons.length > 0 ? (
+        <div class="lesson-list">
+          {sectionLessons.map((lesson) => (
+            <a class="lesson-row" href={`/american-english-method/learn/${lesson.section}/${lesson.slug}/`}>
+              <div>
+                <span class="lesson-type">{lesson.type.replaceAll("-", " ")}</span>
+                <h2>{lesson.displayTitle}</h2>
+                <p>{lesson.description}</p>
+              </div>
+              <span class="lesson-arrow">↗</span>
+            </a>
+          ))}
+        </div>
+      ) : (
+        <div class="catalogue-note">
+          <h2>The learning direction is part of the course.</h2>
+          <p>The existing materials for this direction will be connected to the website catalogue in the next integration pass. The original Markdown lessons remain in the repository.</p>
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>
