@@ -1,0 +1,31 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import { lessons, sections } from "../../../data/content";
+
+export function getStaticPaths() {
+  return lessons.map((lesson) => ({
+    params: { section: lesson.section, slug: lesson.slug },
+    props: { lesson }
+  }));
+}
+const { lesson } = Astro.props;
+const section = sections.find((item) => item.id === lesson.section);
+const markdown = lesson.markdown.replace(/(!\[[^\]]*\]\()((?:\.\.\/)+images\/)/g, "$1/american-english-method/images/");
+const html = marked.parse(markdown);
+---
+<BaseLayout title={lesson.displayTitle} description={lesson.description}>
+  <article class="section lesson-page">
+    <div class="container">
+      <a class="back-link" href={`/american-english-method/learn/${lesson.section}/`}>← {section?.title ?? "Learning direction"}</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">{section?.title}</span>
+        <span class="source-path">{lesson.source}</span>
+      </div>
+      <div class="markdown-content" set:html={html} />
+      <div class="lesson-end">
+        <a href={`/american-english-method/learn/${lesson.section}/`}>Back to {section?.title} →</a>
+      </div>
+    </div>
+  </article>
+</BaseLayout>
