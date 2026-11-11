@@ -13,7 +13,7 @@
 ### 2. Живое описание с южным колоритом
 
 > "I got me a glass of iced tea here. It's ice cold — cold enough to freeze my fingers. It's got these little facets on it, and when the sunlight hits the glass, it throws little flashes of light all over the place. Mighty pretty, if you ask me."
-
+![A glass of iced tea](../images/lessons/objects/glass/object-glass-01.jpg)
 ### 3. Разбор
 
 | Выражение | Значение | Как работает |
