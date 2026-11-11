@@ -109,3 +109,12 @@
   .lesson-navigation { grid-template-columns: 1fr; }
   .lesson-nav-item.next { text-align: left; align-items: flex-start; }
 }
+
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
+  overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0;
+}
+.search-status { margin: 12px 0 0; color: var(--muted); font-size: 12px; }
+.search-result[hidden] { display: none; }
+.search-empty[hidden] { display: none; }
