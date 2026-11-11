@@ -34,7 +34,7 @@ The website is a presentation and learning layer over the existing content repos
 
 ## 3. Audited repository baseline
 
-The repository tree on the `main` branch was inspected on November 11, 2026.
+The repository tree on the `main` branch was inspected and reconciled on November 11, 2026.
 
 | Area | Markdown files |
 |---|---:|
@@ -45,7 +45,7 @@ The repository tree on the `main` branch was inspected on November 11, 2026.
 | `05_idioms/` including the filter | 3 |
 | `06_everyday_expressions/` | 17 |
 | Root-level Markdown documents | 7 |
-| **Total** | **67** |
+| **Total** | **70** |
 
 The repository also contains **14 image assets**:
 - 6 glass lesson images;
@@ -55,7 +55,7 @@ The repository also contains **14 image assets**:
 The following points must be respected during implementation:
 
 - The actual root-level visual document is `VISUAL_STYLE_GUIDE.md`.
-- `VISUAL_INVENTORY.md` was referenced in the existing audit but was not present in the inspected repository tree.
+- `VISUAL_INVENTORY.md` now records the 14 existing image assets and their repository byte sizes; pixel dimensions and visual quality remain to be verified.
 - The actual descriptive lesson filenames include `lesson_04_clock.md`, `lesson_08_tableware.md`, `lesson_11_laundry.md`, and `lesson_17_feelings_and_inner_feelings.md`.
 - `01_scenarios/clothes.md` exists in addition to the city scenario files.
 - The existing `CONTENT_AUDIT.md` contains stale counts and some outdated filenames. It should be updated as a separate documentation task.
@@ -266,7 +266,7 @@ Automated checks should include:
 
 ## 11. GitHub Pages deployment
 
-The intended public URL is expected to use the repository's GitHub Pages configuration. Before deployment, verify:
+The repository metadata currently reports GitHub Pages as **not enabled** (`has_pages: false`). The intended public URL and deployment mode must therefore be confirmed and configured before deployment. Before deployment, verify:
 
 - Whether the repository is configured for GitHub Pages.
 - Whether it is deployed from GitHub Actions or another source.
@@ -284,7 +284,7 @@ Astro's `site` and `base` settings must match the actual deployment URL. Do not 
 - Decide whether to restore/create `VISUAL_INVENTORY.md` or remove stale references to it.
 - Define the content registry and route naming rules.
 
-**Exit condition:** content inventory and public section map agree with the repository.
+**Exit condition:** content inventory, visual inventory, content model, and public section map agree with the repository.
 
 ### Phase 1 — Astro foundation
 - Add the Astro project and dependencies.
