@@ -44,3 +44,28 @@
   .markdown-content table { display: block; overflow-x: auto; white-space: normal; }
   .markdown-content th, .markdown-content td { min-width: 125px; }
 }
+
+
+.lesson-toc {
+  max-width: 860px;
+  margin: 0 auto 34px;
+  border: 1px solid var(--line);
+  background: var(--white);
+}
+.lesson-toc details { padding: 18px 22px; }
+.lesson-toc summary {
+  color: var(--navy);
+  cursor: pointer;
+  font: 600 18px "Playfair Display", serif;
+}
+.lesson-toc ol { margin: 14px 0 0; padding-left: 22px; columns: 2; column-gap: 36px; }
+.lesson-toc li { break-inside: avoid; margin: 7px 0; color: var(--muted); font-size: 13px; line-height: 1.5; }
+.lesson-toc li a { color: var(--ink); }
+.lesson-toc li a:hover { color: var(--gold); }
+.lesson-toc .toc-subsection { margin-left: 12px; list-style-type: circle; }
+.markdown-content h2, .markdown-content h3 { scroll-margin-top: 24px; }
+.lesson-end { display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap; }
+@media(max-width: 650px) {
+  .lesson-toc ol { columns: 1; }
+  .lesson-toc details { padding: 15px 17px; }
+}
