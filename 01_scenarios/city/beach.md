@@ -58,7 +58,7 @@
 
 **Ты:** Отлично. Я предпочитаю купаться там, где дежурит спасатель.
 
-![Beach access](../images/scenarios/beach/beach-access.png)
+![Beach access](../../public/images/scenarios/beach/beach-access.png)
 
 ### Useful Expressions
 
@@ -123,7 +123,7 @@
 
 **Друг:** Согласен. Нужно оставаться в обозначенной зоне для купания и следовать указаниям спасателя.
 
-![Beach lifeguard](../images/scenarios/beach/beach-lifeguard.png)
+![Beach lifeguard](../../public/images/scenarios/beach/beach-lifeguard.png)
 
 ### Useful Expressions
 
@@ -171,7 +171,7 @@
 | 🟣 Purple | Возможное присутствие опасных морских обитателей |
 | 🔴🟡 Red over Yellow | Во многих системах обозначает зону для купания под наблюдением спасателей |
 
-![Beach warning flag](../images/scenarios/beach/beach-warning-flag.png)
+![Beach warning flag](../../public/images/scenarios/beach/beach-warning-flag.png)
 
 **Важно:**
 
@@ -188,7 +188,7 @@
 
 Оно может быстро унести человека от берега. Даже хороший пловец может оказаться в опасной ситуации.
 
-![Rip current diagram](../images/scenarios/beach/beach-rip-current.png)
+![Rip current diagram](../../public/images/scenarios/beach/beach-rip-current.png)
 
 ### If You Get Caught in a Rip Current
 
