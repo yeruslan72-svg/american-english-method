@@ -61,14 +61,14 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `TEMPLATE.md` | Стандарт качества учебных материалов, v1.0 |
 | `LEARNING_PATHS.md` | Подробная карта направлений |
 | `SOURCES_AND_METHODOLOGY.md` | Методологическая конституция: источники, принципы верификации, редакционные стандарты |
-| `VISUAL_STYLE_GUIDE.md` | Планируемый перечень иллюстраций; файла пока нет в репозитории |
-| `IDIOMS_FILTER.md` | Редакционный стандарт для коллекции идиом: Nationwide / Regional / Rare |
+| `VISUAL_STYLE_GUIDE.md` | Визуальный стиль, композиционные правила и технические требования к изображениям |
+| `05_idioms/IDIOMS_FILTER.md` | Редакционный стандарт для коллекции идиом: Nationwide / Regional / Rare |
 
 `TEMPLATE.md` задаёт общий стандарт качества, но не превращает каждый урок в жёсткую формальную схему. Формат зависит от учебной задачи.
 
 `SOURCES_AND_METHODOLOGY.md` фиксирует, **на какие источники опирается проект** (CEFR, Cambridge Grammar, Merriam-Webster, COCA, академические работы по Southern English) и **какие принципы верификации** используются.
 
-`VISUAL_STYLE_GUIDE.md` определяет визуальный стиль и технические требования к изображениям. Отдельный `VISUAL_INVENTORY.md` пока отсутствует; решение о его создании остаётся открытым. Принцип: `See → Understand → Describe → Speak.`
+`VISUAL_STYLE_GUIDE.md` определяет визуальный стиль и технические требования к изображениям. `VISUAL_INVENTORY.md` фиксирует фактически имеющиеся изображения, их расположение и известные технические параметры. Принцип: `See → Understand → Describe → Speak.`
 
 `IDIOMS_FILTER.md` определяет **стандарт отбора идиом**: 🇺🇸 Nationwide / 🟡 Regional / 🔴 Rare. Принцип: «Nationwide first. Regional second. Rare — out».
 
@@ -85,7 +85,7 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `01_scenarios/refusal.md` | Вежливый отказ | ✅ |
 | `01_scenarios/request.md` | Вежливая просьба | ✅ |
 | `01_scenarios/phone.md` | Ответ на телефонный звонок | ✅ |
-| `01_scenarios/emergency.md` | Экстренный вызов 911 | ✅ |
+| `01_scenarios/emergency.md` | Экстренный вызов 911 | ✅ |\n| `01_scenarios/clothes.md` | Покупка одежды | ✅ |
 
 **Городские сценарии**
 
@@ -203,10 +203,10 @@ Based on the materials listed above:
 |---|---|
 | Methodological foundation | Established |
 | Methodological documents | 6 available |
-| Visual inventory | v1.0 ready |
+| Visual inventory | v1.0 — 14 assets inventoried |
 | Idioms filter | v2.0 ready |
 | Descriptive lessons | 16 Markdown files |
-| General and city scenarios | 21 completed files |
+| General and city scenarios | 22 Markdown files |
 | Idioms lessons | 2 published files |
 | Everyday expressions lessons | 17 published files |
 | Southern English | Core patterns documented |
@@ -214,7 +214,7 @@ Based on the materials listed above:
 
 The descriptive lesson directory currently contains **16 Markdown files**. Its filenames include two files numbered 04; numbers 09 and 13 are absent.
 
-The scenario collection has **21 completed files** — all planned city scenarios and journey scenarios are now ready.
+The scenario directories contain **22 Markdown files**: 5 general scenarios and 17 city scenarios. File presence does not by itself certify pedagogical review or completion.
 
 The idioms collection is growing according to `IDIOMS_FILTER.md` (Nationwide first).
 
@@ -238,7 +238,7 @@ The everyday expressions collection has **17 published lessons**:
 16. Renting a Car & Driving
 17. Airport Problems
 
-The project is moving from content creation to platform building. The website architecture and MVP plan are documented in `WEBSITE_PLAN.md`. The visual implementation follows `VISUAL_STYLE_GUIDE.md`; a separate `VISUAL_INVENTORY.md` has not yet been added.
+The project is moving from content creation to platform building. The website architecture and MVP plan are documented in `WEBSITE_PLAN.md`; content organization and route rules are defined in `CONTENT_MODEL.md`. Visual implementation follows `VISUAL_STYLE_GUIDE.md`, while `VISUAL_INVENTORY.md` records the current 14 image assets.
 
 ---
 
