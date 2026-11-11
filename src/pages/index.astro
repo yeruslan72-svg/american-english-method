@@ -1,0 +1,96 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const directions = [
+  { number: "01", title: "Everyday Scenarios", description: "Refusals, requests, phone calls, and communication when it matters.", href: "#directions" },
+  { number: "02", title: "City & Daily Life", description: "Practical English for travel, public places, services, and everyday situations.", href: "#visual-lessons" },
+  { number: "03", title: "Descriptive Lessons", description: "Learn to notice and describe objects, rooms, places, sounds, and feelings.", href: "#visual-lessons" },
+  { number: "04", title: "Southern English", description: "A clearly marked regional layer — never confused with nationwide usage.", href: "#directions" },
+  { number: "05", title: "Connected Speech", description: "Understand how natural American speech flows, links, and reduces sounds.", href: "#directions" },
+  { number: "06", title: "Idioms", description: "Useful expressions selected for real conversational value and reach.", href: "#directions" },
+  { number: "07", title: "Everyday Expressions", description: "High-frequency conversational patterns for ordinary interaction.", href: "#directions" }
+];
+---
+<BaseLayout description="A practical method for Russian-speaking learners to understand and use natural, contemporary American English through real-life scenarios.">
+  <section class="hero">
+    <div class="container">
+      <div class="eyebrow">A practical method for real communication</div>
+      <h1>Learn the English people actually use.</h1>
+      <p class="hero-copy">Understand how Americans communicate in everyday life — from simple descriptions to real situations, natural reactions, and the flow of spoken language.</p>
+      <div class="hero-rule"></div>
+      <div class="hero-principle">Nationwide everyday English · Regional language in context</div>
+    </div>
+  </section>
+
+  <section class="section" id="method">
+    <div class="container">
+      <div class="section-heading">
+        <div class="eyebrow">The learning approach</div>
+        <h2>Language makes sense in context.</h2>
+        <p>American English Method connects vocabulary, cultural logic, visual understanding, and real conversational use. The goal is not to memorize isolated phrases, but to recognize what sounds natural — and know when to use it.</p>
+      </div>
+      <div class="method-strip" style="margin-inline: calc((min(var(--content), 100vw - 48px) - 100vw) / 2);">
+        <div class="container method-inner">
+          <div class="method-title">From seeing to speaking.</div>
+          <div class="method-steps">See <span aria-hidden="true">→</span> Understand <span aria-hidden="true">→</span> Describe <span aria-hidden="true">→</span> Speak</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="directions">
+    <div class="container">
+      <div class="section-heading">
+        <div class="eyebrow">The course structure</div>
+        <h2>Seven connected learning directions.</h2>
+        <p>These are complementary layers of the language, not seven rigid levels. Learners can explore them in parallel and build practical ability step by step.</p>
+      </div>
+      <div class="direction-grid">
+        {directions.map((item) => (
+          <a class="direction-card" href={item.href}>
+            <span class="direction-number">{item.number} / LEARNING DIRECTION</span>
+            <h3>{item.title}</h3>
+            <p>{item.description}</p>
+            <span class="arrow">Explore direction ↗</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="section featured" id="visual-lessons">
+    <div class="container">
+      <div class="section-heading">
+        <div class="eyebrow">Learn through real situations</div>
+        <h2>Start with the visual lessons.</h2>
+        <p>Photographs are part of the teaching process: they help learners observe details, understand context, and find the words to describe what they see.</p>
+      </div>
+      <div class="featured-grid">
+        <article class="feature-card">
+          <img src="/american-english-method/images/lessons/objects/glass/object-glass-01.jpg" alt="A clear drinking glass photographed for an object-description lesson" loading="lazy" />
+          <div class="feature-copy">
+            <span>Descriptive lesson</span>
+            <h3>Describe a Glass</h3>
+            <p>Notice shape, material, details, and the language used to describe an everyday object.</p>
+          </div>
+        </article>
+        <article class="feature-card">
+          <img src="/american-english-method/images/scenarios/beach/beach-access.png" alt="A public access path leading onto a beach" loading="lazy" />
+          <div class="feature-copy">
+            <span>City & daily life</span>
+            <h3>At the Beach</h3>
+            <p>Understand beach settings, safety information, and useful language for a day by the water.</p>
+          </div>
+        </article>
+        <article class="feature-card">
+          <img src="/american-english-method/images/scenarios/airport/airport-terminal.png" alt="An airport terminal interior" loading="lazy" />
+          <div class="feature-copy">
+            <span>City & daily life</span>
+            <h3>At the Airport</h3>
+            <p>Build practical language for check-in, security, boarding, and moving through an airport.</p>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
