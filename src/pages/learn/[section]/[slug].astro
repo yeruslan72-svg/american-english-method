@@ -11,8 +11,17 @@ export function getStaticPaths() {
 }
 const { lesson } = Astro.props;
 const section = sections.find((item) => item.id === lesson.section);
-const markdown = lesson.markdown.replace(/(!\[[^\]]*\]\()((?:\.\.\/)+images\/)/g, "$1/american-english-method/images/");
-const html = marked.parse(markdown) as string;
+const markdown = lesson.markdown.replace(/(!\\[[^\\]]*\\]\\()((?:\\.\\.\\/)+images\\/)/g, "$1/american-english-method/images/");
+const headingSource = [...markdown.matchAll(/^#{2,3}\\s+(.+)$/gm)].map((match, index) => {
+  const plain = match[1].replace(/\\[([^\\]]+)\\]\\([^)]*\\)/g, "$1").replace(/[\\*_~`]/g, "").trim();
+  const base = plain.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") || `section-${index + 1}`;
+  return { text: plain, id: `${base}-${index + 1}`, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const html = (marked.parse(markdown) as string).replace(/<h([23])>/g, (_match, level) => {
+  const heading = headingSource[headingIndex++];
+  return heading ? `<h${level} id="${heading.id}">` : `<h${level}>`;
+});
 ---
 <BaseLayout title={lesson.displayTitle} description={lesson.description}>
   <article class="section lesson-page">
@@ -22,9 +31,24 @@ const html = marked.parse(markdown) as string;
         <span class="eyebrow">{section?.title}</span>
         <span class="source-path">{lesson.source}</span>
       </div>
+      {headingSource.length > 2 && (
+        <nav class="lesson-toc" aria-label="Lesson contents">
+          <details open>
+            <summary>In this lesson</summary>
+            <ol>
+              {headingSource.map((heading) => (
+                <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                  <a href={`#${heading.id}`}>{heading.text}</a>
+                </li>
+              ))}
+            </ol>
+          </details>
+        </nav>
+      )}
       <div class="markdown-content" set:html={html} />
       <div class="lesson-end">
         <a href={`/american-english-method/learn/${lesson.section}/`}>Back to {section?.title} →</a>
+        <a href="#top" onclick="window.scrollTo({top:0,behavior:'smooth'}); return false;">Back to top ↑</a>
       </div>
     </div>
   </article>
