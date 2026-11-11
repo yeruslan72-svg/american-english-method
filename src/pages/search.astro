@@ -1,0 +1,54 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { lessons, sections } from "../../data/content";
+---
+<BaseLayout title="Search the course" description="Search all American English Method lessons and learning resources.">
+  <section class="section">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/">← Home</a>
+      <div class="eyebrow">Course library</div>
+      <h1 class="page-title">Find a lesson.</h1>
+      <p class="page-lead">Search lesson titles, topics, and learning directions across the course.</p>
+      <div class="search-form">
+        <label class="sr-only" for="course-search">Search course materials</label>
+        <input class="search-input" id="course-search" type="search" placeholder="Try “airport”, “feelings”, “requests”…" autocomplete="off" />
+        <p class="search-status" id="search-status" aria-live="polite">{lessons.length} learning resources available</p>
+      </div>
+      <div class="search-results" id="search-results">
+        {lessons.map((lesson) => {
+          const section = sections.find((item) => item.id === lesson.section);
+          const haystack = [lesson.displayTitle, lesson.title, lesson.description, lesson.source, section?.title].join(" ").toLowerCase();
+          return (
+            <a
+              class="search-result"
+              href={"/american-english-method/learn/" + lesson.section + "/" + lesson.slug + "/"}
+              data-search={haystack}
+            >
+              <span class="search-section">{section?.title} · {lesson.type.replaceAll("-", " ")}</span>
+              <h2>{lesson.displayTitle}</h2>
+              <p>{lesson.description}</p>
+            </a>
+          );
+        })}
+      </div>
+      <p class="search-empty" id="search-empty" hidden>No matching lessons. Try a different word or a broader topic.</p>
+    </div>
+  </section>
+  <script>
+    const input = document.querySelector<HTMLInputElement>("#course-search");
+    const results = Array.from(document.querySelectorAll<HTMLElement>(".search-result"));
+    const status = document.querySelector<HTMLElement>("#search-status");
+    const empty = document.querySelector<HTMLElement>("#search-empty");
+    input?.addEventListener("input", () => {
+      const query = (input.value || "").trim().toLowerCase();
+      let visible = 0;
+      for (const item of results) {
+        const match = !query || (item.dataset.search || "").includes(query);
+        item.hidden = !match;
+        if (match) visible++;
+      }
+      if (status) status.textContent = query ? visible + " matching " + (visible === 1 ? "resource" : "resources") : results.length + " learning resources available";
+      if (empty) empty.hidden = visible > 0;
+    });
+  </script>
+</BaseLayout>
