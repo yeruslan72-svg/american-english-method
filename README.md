@@ -68,7 +68,7 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 
 `SOURCES_AND_METHODOLOGY.md` фиксирует, **на какие источники опирается проект** (CEFR, Cambridge Grammar, Merriam-Webster, COCA, академические работы по Southern English) и **какие принципы верификации** используются.
 
-`VISUAL_INVENTORY.md` определяет **визуальную архитектуру курса**: какие иллюстрации нужны, в каком стиле, как они хранятся и подключаются. Принцип: `See → Understand → Describe → Speak.`
+`VISUAL_STYLE_GUIDE.md` определяет визуальный стиль и технические требования к изображениям. Отдельный `VISUAL_INVENTORY.md` пока отсутствует; решение о его создании остаётся открытым. Принцип: `See → Understand → Describe → Speak.`
 
 `IDIOMS_FILTER.md` определяет **стандарт отбора идиом**: 🇺🇸 Nationwide / 🟡 Regional / 🔴 Rare. Принцип: «Nationwide first. Regional second. Rare — out».
 
@@ -205,7 +205,7 @@ Based on the materials listed above:
 | Methodological documents | 6 available |
 | Visual inventory | v1.0 ready |
 | Idioms filter | v2.0 ready |
-| Descriptive lessons | 14 published files |
+| Descriptive lessons | 16 Markdown files |
 | General and city scenarios | 21 completed files |
 | Idioms lessons | 2 published files |
 | Everyday expressions lessons | 17 published files |
