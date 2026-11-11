@@ -1,9 +1,9 @@
-# CONTENT_AUDIT.md v1.2
+# CONTENT_AUDIT.md v1.3
 
 ## Инвентаризация материалов American English Method
 
 **Дата:** 11 ноября 2026  
-**Статус:** Content Audit v1.2 — сверено с деревом репозитория `main`  
+**Статус:** Content Audit v1.3 — сверено с деревом репозитория `main`  
 **Назначение:** зафиксировать фактический состав материалов перед разработкой сайта.
 
 > Этот документ фиксирует наличие и расположение файлов. Наличие файла само по себе не означает, что его содержание прошло независимую языковую, методическую или фактологическую проверку.
@@ -20,12 +20,12 @@
 | Descriptive Lessons | 16 | `04_lessons/` |
 | Idioms, включая фильтр | 3 | `05_idioms/` |
 | Everyday Expressions | 17 | `06_everyday_expressions/` |
-| Документы в корне репозитория, включая этот аудит и план сайта | 8 | корень |
-| **Всего Markdown-файлов** | **68** | |
+| Документы в корне репозитория, включая этот аудит, план сайта, модель контента и визуальный реестр | 10 | корень |
+| **Всего Markdown-файлов** | **70** | |
 
 Дополнительно в репозитории обнаружено **14 графических файлов**: 6 изображений для урока о стакане, 4 для сценария о пляже и 4 для сценария об аэропорте.
 
-В подсчёт входят файлы Markdown, находящиеся в перечисленных каталогах и в корне. `LICENSE` не является Markdown-файлом и в число 68 не включён.
+В подсчёт входят файлы Markdown, находящиеся в перечисленных каталогах и в корне. `LICENSE` не является Markdown-файлом и в число 70 не включён.
 
 ## 2. Детальная инвентаризация
 
@@ -126,7 +126,7 @@ The filter is stored in `05_idioms/`; there is no root-level `IDIOMS_FILTER.md`.
 
 ## 3. Root-level Markdown documents
 
-The current root contains these 8 Markdown documents:
+The current root contains these 10 Markdown documents:
 
 - `CONTENT_AUDIT.md`
 - `LEARNING_PATHS.md`
@@ -137,7 +137,7 @@ The current root contains these 8 Markdown documents:
 - `VISUAL_STYLE_GUIDE.md`
 - `WEBSITE_PLAN.md`
 
-`VISUAL_INVENTORY.md` is referenced in older documentation but was not present in the inspected `main` branch tree. It must not be described as an existing file until it is restored or created.
+`VISUAL_INVENTORY.md` is now present. It records the 14 image assets and their repository file sizes; pixel dimensions and visual quality remain unverified.
 
 ## 4. Image assets
 
@@ -181,7 +181,7 @@ This check does not certify image resolution, file size, licensing, alt text, or
 | `LEARNING_PATHS.md` | Describes five directions, while `README.md` and the current course structure describe seven | Align to seven directions |
 | `README.md` | Contains outdated descriptive-lesson filenames and count | Update paths and count |
 | `VISUAL_INVENTORY.md` | Referenced but absent from the current tree | Decide whether to create it or remove references |
-| Previous audit counts | Old counts and filenames do not match the current tree | This version replaces the earlier inventory figures |
+
 | Visual image requirements | Style guide specifies minimum dimensions and target file size | Check actual image metadata before optimizing |
 
 ## 6. Website readiness — inventory view
@@ -189,7 +189,7 @@ This check does not certify image resolution, file size, licensing, alt text, or
 | Area | Repository observation |
 |---|---|
 | Learning content | 60 Markdown files across the seven learning directions |
-| Root documentation | 8 Markdown documents, including the website plan |
+| Root documentation | 10 Markdown documents, including the website plan, content model, and visual inventory |
 | Visual assets | 14 image files in the current tree |
 | Reference pages | Glass, beach, and airport pages have verified local image references |
 | Website framework | No Astro project files were present in the audited tree before implementation |
@@ -204,6 +204,6 @@ The 60 learning-content files are the sum of the six learning-directory counts i
 3. Do not invent lesson metadata, levels, or quality ratings that are not present in the source.
 4. Define the content registry and route rules before implementing the website.
 5. Validate every local image and internal link during the site build.
-6. Treat missing visual inventory documentation as an open task, not as a completed deliverable.
+6. Keep the visual inventory synchronized as new image assets are added.
 
-**Sequence:** verified inventory → documentation alignment → content model → website implementation.
+**Sequence:** verified repository inventory → documentation alignment → content model → website implementation.
