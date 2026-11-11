@@ -24,7 +24,7 @@ const html = (marked.parse(markdown) as string).replace(/<h([23])>/g, (_match, l
 });
 ---
 <BaseLayout title={lesson.displayTitle} description={lesson.description}>
-  <article class="section lesson-page">
+  <article class="section lesson-page" id="top">
     <div class="container">
       <a class="back-link" href={`/american-english-method/learn/${lesson.section}/`}>← {section?.title ?? "Learning direction"}</a>
       <div class="lesson-meta">
@@ -48,7 +48,6 @@ const html = (marked.parse(markdown) as string).replace(/<h([23])>/g, (_match, l
       <div class="markdown-content" set:html={html} />
       <div class="lesson-end">
         <a href={`/american-english-method/learn/${lesson.section}/`}>Back to {section?.title} →</a>
-        <a href="#top" onclick="window.scrollTo({top:0,behavior:'smooth'}); return false;">Back to top ↑</a>
       </div>
     </div>
   </article>
