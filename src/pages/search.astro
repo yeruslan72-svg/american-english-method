@@ -15,21 +15,17 @@ import { lessons, sections } from "../data/content";
         <p class="search-status" id="search-status" aria-live="polite">{lessons.length} learning resources available</p>
       </div>
       <div class="search-results" id="search-results">
-        {lessons.map((lesson) => {
-          const section = sections.find((item) => item.id === lesson.section);
-          const haystack = [lesson.displayTitle, lesson.title, lesson.description, lesson.source, section?.title, lesson.markdown.replace(/[#>*_`|]/g, " ")].join(" ").toLowerCase();
-          return (
-            <a
-              class="search-result"
-              href={"/american-english-method/learn/" + lesson.section + "/" + lesson.slug + "/"}
-              data-search={haystack}
-            >
-              <span class="search-section">{section?.title} · {lesson.type.replaceAll("-", " ")}</span>
-              <h2>{lesson.displayTitle}</h2>
-              <p>{lesson.description}</p>
-            </a>
-          );
-        })}
+        {lessons.map((lesson) => (
+          <a
+            class="search-result"
+            href={"/american-english-method/learn/" + lesson.section + "/" + lesson.slug + "/"}
+            data-search={[lesson.displayTitle, lesson.title, lesson.description, lesson.source, sections.find((item) => item.id === lesson.section)?.title, lesson.markdown.replace(/[#>*_`|]/g, " ")].join(" ").toLowerCase()}
+          >
+            <span class="search-section">{sections.find((item) => item.id === lesson.section)?.title} · {lesson.type.replaceAll("-", " ")}</span>
+            <h2>{lesson.displayTitle}</h2>
+            <p>{lesson.description}</p>
+          </a>
+        ))}
       </div>
       <p class="search-empty" id="search-empty" hidden>No matching lessons. Try a different word or a broader topic.</p>
     </div>
