@@ -24,7 +24,10 @@ const headingSource = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, in
 let headingIndex = 0;
 const html = (marked.parse(markdown) as string).replace(/<h([23])>/g, (_match, level) => {
   const heading = headingSource[headingIndex++];
-  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+  if (!heading) return "<h" + level + ">";
+  const normalized = heading.text.toLowerCase();
+  const layer = normalized.includes("nationwide") ? "nationwide-layer" : normalized.includes("southern") ? "southern-layer" : normalized.includes("connected speech") ? "speech-layer" : "";
+  return '<h' + level + ' id="' + heading.id + '"' + (layer ? ' class="' + layer + '"' : "") + '>';
 });
 ---
 <BaseLayout title={lesson.displayTitle} description={lesson.description}>
@@ -50,10 +53,23 @@ const html = (marked.parse(markdown) as string).replace(/<h([23])>/g, (_match, l
         </nav>
       )}
       <div class="markdown-content" set:html={html} />
-      <div class="lesson-end">
-        <a href={"/american-english-method/learn/" + lesson.section + "/"}>Back to {section?.title} →</a>
-        <a href="#top">Back to top ↑</a>
-      </div>
+      <nav class="lesson-navigation" aria-label="Lesson navigation">
+        {previousLesson ? (
+          <a class="lesson-nav-item" href={"/american-english-method/learn/" + previousLesson.section + "/" + previousLesson.slug + "/"}>
+            <span>← Previous lesson</span><strong>{previousLesson.displayTitle}</strong>
+          </a>
+        ) : <span />}
+        {nextLesson ? (
+          <a class="lesson-nav-item next" href={"/american-english-method/learn/" + nextLesson.section + "/" + nextLesson.slug + "/"}>
+            <span>Next lesson →</span><strong>{nextLesson.displayTitle}</strong>
+          </a>
+        ) : (
+          <a class="lesson-nav-item next" href={"/american-english-method/learn/" + lesson.section + "/"}>
+            <span>All lessons</span><strong>{section?.title}</strong>
+          </a>
+        )}
+      </nav>
+      <div class="lesson-end"><a href="#top">Back to top ↑</a></div>
     </div>
   </article>
 </BaseLayout>
