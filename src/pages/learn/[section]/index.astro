@@ -15,6 +15,7 @@ const sectionLessons = lessons.filter((lesson) => lesson.section === section.id)
       <div class="eyebrow">Learning direction</div>
       <h1 class="page-title">{section.title}</h1>
       <p class="page-lead">{section.intro}</p>
+      <p class="catalogue-count">{sectionLessons.length} {sectionLessons.length === 1 ? "learning resource" : "learning resources"} in this direction.</p>
       {sectionLessons.length > 0 ? (
         <div class="lesson-list">
           {sectionLessons.map((lesson) => (
