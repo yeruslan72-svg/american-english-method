@@ -27,9 +27,9 @@ We provide photographer credits voluntarily. A photo copyright license does not 
 | Feelings | Vitaly Gariev | [Photo 36813441](https://www.pexels.com/photo/expressive-reactions-of-a-surprised-couple-36813441/) | Facial expressions of surprise |
 | City | David Yu | [Photo 10184977](https://www.pexels.com/photo/buildings-in-a-city-downtown-10184977/) | New York cityscape with modern and historic buildings |
 | Inner feelings | Letícia Alvares | [Photo 31428991](https://www.pexels.com/photo/contemplative-man-at-window-with-cup-31428991/) | Quiet introspection and reflection |
-| Texas clothing scenario — outfit | Umar Faruq | [Photo 35060422](https://www.pexels.com/photo/stylish-cowboy-in-denim-outfit-outdoors-35060422/) | Man in denim outfit, cowboy hat, and boots |
+| Texas clothing scenario — outfit | Safa Bakırcı | [Photo 9523233](https://www.pexels.com/photo/man-in-black-coat-wearing-white-cowboy-hat-9523233/) | White man in a Western-style outfit and white cowboy hat |
 | Texas clothing scenario — store | Daniel Maurício Bertoli | [Photo 37595189](https://www.pexels.com/photo/western-store-interior-with-cowboy-boots-display-37595189/) | Western store interior with boots, hats, and belts |
-| Texas clothing scenario — boots and belt | Alexander Mass | [Photo 19553458](https://www.pexels.com/photo/leather-boots-and-belt-19553458/) | Western leather boots and matching belt |
+| Texas clothing scenario — boots display | Rachel Claire | [Photo 6752430](https://www.pexels.com/photo/cowboy-boots-on-shelves-6752430/) | Authentic cowboy boots displayed on shelves inside a footwear store |
 
 ## Implementation note
 
