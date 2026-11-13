@@ -1,8 +1,16 @@
 # Сценарий: покупка одежды (техасский стиль)
 
+![A man wearing a denim outfit, cowboy hat, and boots in a modern Western-inspired look](https://images.pexels.com/photos/35060422/pexels-photo-35060422/free-photo-of-stylish-cowboy-in-denim-outfit-outdoors.jpeg?auto=compress&dpr=1&h=750&w=1260)
+
+*Photo: Umar Faruq via [Pexels](https://www.pexels.com/photo/stylish-cowboy-in-denim-outfit-outdoors-35060422/).*
+
 ## Ситуация
 
 Ты в мужском магазине одежды в Техасе. Ты хочешь собрать новый комплект в классическом западном стиле — вдохновлённый Чаком Норрисом из «Walker, Texas Ranger». Ты подходишь к продавцу-консультанту и просишь помочь.
+
+![A Western clothing store interior with cowboy boots, hats, and belts on display](https://images.pexels.com/photos/37595189/pexels-photo-37595189/free-photo-of-western-store-interior-with-cowboy-boots-display.jpeg?auto=compress&dpr=1&h=750&w=1260)
+
+*Photo: Daniel Maurício Bertoli via [Pexels](https://www.pexels.com/photo/western-store-interior-with-cowboy-boots-display-37595189/).*
 
 ## Диалог
 
@@ -189,6 +197,10 @@
 **You:** Thanks, y'all have a good one!
 
 **Cashier:** You too, sir. Take care!
+
+![A pair of Western leather boots with a matching leather belt](https://images.pexels.com/photos/19553458/pexels-photo-19553458/free-photo-of-leather-boots-and-belt.jpeg?auto=compress&dpr=1&h=750&w=1260)
+
+*Photo: Alexander Mass via [Pexels](https://www.pexels.com/photo/leather-boots-and-belt-19553458/).*
 
 ---
 
