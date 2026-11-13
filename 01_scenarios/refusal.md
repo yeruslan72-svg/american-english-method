@@ -1,5 +1,10 @@
 # Сценарий: вежливый отказ
 
+
+![Friends gathered in a living room](https://images.pexels.com/photos/8275697/pexels-photo-8275697.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Ron Lach via [Pexels](https://www.pexels.com/photo/a-group-of-people-in-a-living-room-8275697/).*
+
 ## Ситуация
 
 Друг приглашает тебя на вечеринку в субботу, но ты занят. Ты хочешь отказать так, чтобы **не обидеть** и **сохранить отношения**. Как это делает американец?
