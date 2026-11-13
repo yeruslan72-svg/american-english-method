@@ -1,5 +1,10 @@
 # Урок 8: Накрой на стол для семейного праздника
 
+![A dining table set with plates, glasses, folded napkins, and cutlery](https://images.pexels.com/photos/27391333/pexels-photo-27391333.jpeg?cs=srgb&dl=pexels-planka-27391333.jpg&fm=jpg)
+
+*Photo: Natalia S via [Pexels](https://www.pexels.com/photo/a-white-table-with-black-placemats-and-silverware-27391333/).*
+
+
 ## Учимся описывать ритуал, приборы и праздничную атмосферу
 
 ### Ситуация
