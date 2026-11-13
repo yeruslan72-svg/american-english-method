@@ -1,5 +1,10 @@
 # Сценарий: ответ на звонок
 
+
+![A man speaking on the phone](https://images.pexels.com/photos/7581130/pexels-photo-7581130.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: RDNE Stock project via [Pexels](https://www.pexels.com/photo/man-talking-on-the-phone-7581130/).*
+
 ## Ситуация
 
 Звонит телефон. Ты снимаешь трубку. Что сказать, чтобы звучать как американец — а не как человек, который переводит «Алло» на английский?
