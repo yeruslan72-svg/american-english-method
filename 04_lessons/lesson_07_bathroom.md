@@ -1,5 +1,10 @@
 # Урок 7: Опиши ванную
 
+![A bright modern bathroom with a tiled shower, sink, and mirror](https://images.pexels.com/photos/19991843/pexels-photo-19991843.jpeg?cs=srgb&dl=pexels-alex-tyson-919593032-19991843.jpg&fm=jpg)
+
+*Photo: Alex Tyson via [Pexels](https://www.pexels.com/photo/interior-of-a-modern-bathroom-19991843/).*
+
+
 ## Учимся описывать комфорт, ежедневные ритуалы и расслабление
 
 ### Ситуация
