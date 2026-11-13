@@ -60,6 +60,7 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `MANIFESTO.md` | Философия метода и три уровня английского |
 | `TEMPLATE.md` | Стандарт качества учебных материалов, v1.0 |
 | `LANGUAGE_PRESENTATION_STANDARD.md` | Единый стандарт оформления фраз, значений, произношения и языковых вариантов, v1.0 |
+| `EDITORIAL_AUDIT_REPORT.md` | Результаты редакционного аудита уроков Glass, Airport и Beach |
 | `LEARNING_PATHS.md` | Подробная карта направлений |
 | `SOURCES_AND_METHODOLOGY.md` | Методологическая конституция: источники, принципы верификации, редакционные стандарты |
 | `VISUAL_STYLE_GUIDE.md` | Визуальный стиль, композиционные правила и технические требования к изображениям |
