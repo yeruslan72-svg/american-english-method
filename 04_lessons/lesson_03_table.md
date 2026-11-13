@@ -2,55 +2,69 @@
 
 ## Ситуация
 
-Ты дома с американским другом. Он спрашивает: «Is this table new?» Ты хочешь описать стол — не перевести с русского, а **увидеть и почувствовать** его: какой материал, какая форма, для чего он, и почему он важен.
+Ты дома с американским другом. Он спрашивает: **Is this table new?** Ты хочешь описать стол — не переводить русские слова буквально, а рассказать о материале, форме, истории и о том, что он значит для семьи.
 
-## Живой текст
+## Живой текст — Nationwide American English
 
-> This here's my kitchen table. It's solid wood — mighty heavy, so it doesn't move much. It's round, and it's old — my grandparents had it before me. It's seen a lot of dinners, ma'am. The whole family gathers around it. We cover it with a white tablecloth and set it real nice for the holidays. At Christmas, we put out the good china, the silver, and all the Southern favorites — ham, sweet potatoes, pecan pie. It's not just a table — it's the heart of the house.
+> This is our kitchen table. It's made of solid wood, so it's pretty heavy and doesn't move around much. It's round, and it's been in the family for years — my grandparents had it before me. It's seen a lot of family dinners. We cover it with a white tablecloth and set it nicely for the holidays. At Christmas, we bring out the good china and the silver. It's not just a table — it's the heart of the house.
 
-## Разбор
+### A Southern-tinged alternative
 
-| Фраза | Что это | Почему так |
-|-------|---------|------------|
-| `This here's my...` | Неформальная регионально окрашенная конструкция | В нейтральной речи используй `This is my...` |
-| `solid wood` | Материал | Не просто «wooden», а «цельное дерево» — качество |
-| `pretty heavy` | Нейтральное разговорное выражение | `pretty` здесь означает «довольно» |\n| `mighty heavy` | Выразительное усиление с региональным оттенком | `mighty` означает «очень»; особенно узнаваемо в традиционной южной речи |
-| `it's round` | Форма | Конкретная деталь: круглый, а не «какой-то» |
-| `it's old — my grandparents had it` | История | Не «старый», а «старый, ещё у бабушки с дедушкой» — живая деталь |
-| `It's seen a lot of dinners` | Идиома | «Он повидал много обедов» — одушевление, тёплая фраза |
-| `cover it with a white tablecloth` | Ритуал | Не «накрыть», а «покрыть белой скатертью» — конкретное действие |
-| `set it nicely` | Нейтральная форма | Аккуратно и красиво сервировать стол |\n| `set it real nice` | Неформальная разговорная форма | `real` вместо `really` встречается в непринуждённой речи; не нужна в формальном письме |
-| `the good china, the silver` | Праздничная посуда | «Хороший фарфор», «серебро» — культурная деталь, не просто «посуда» |
-| `Southern favorites — ham, sweet potatoes, pecan pie` | Культурный код | Конкретные блюда южного рождественского стола — живая деталь |
-| `the heart of the house` | Идиома | «Сердце дома» — метафора, понятная всем |
+> This here's our kitchen table. It's solid wood — mighty heavy, too. My grandparents had it before me, and it's seen a whole lot of family dinners. We set it real nice for Christmas and bring out the good china. It's the heart of the house, if you ask me.
+
+Второй вариант намеренно более непринуждённый и регионально окрашенный. `This here's`, `mighty` и `real nice` не следует считать нейтральной моделью для любого региона США.
+
+## Разбор полезных фраз
+
+| Фраза | Значение и употребление |
+|---|---|
+| `solid wood` | массив дерева, цельная древесина |
+| `pretty heavy` | довольно тяжёлый; нейтральное разговорное выражение |
+| `mighty heavy` | очень тяжёлый; выразительное усиление с традиционным южным оттенком |
+| `It's been in the family for years` | Он много лет принадлежит семье |
+| `It's seen a lot of family dinners` | За ним прошло много семейных обедов и ужинов |
+| `cover it with a tablecloth` | накрыть его скатертью |
+| `set the table` | накрыть на стол, подготовить стол к еде |
+| `the good china` | хорошая / праздничная фарфоровая посуда |
+| `the silver` | столовое серебро или серебряные приборы |
+| `the heart of the house` | сердце дома; образное описание важного места |
+
+### Важное различие
+
+- **Set the table** — накрыть на стол: поставить тарелки, приборы и стаканы.
+- **Set it nicely** — красиво или аккуратно сервировать его.
+- **A tablecloth** — скатерть.
+- **A dining table** — обеденный стол.
+- **A coffee table** — журнальный столик.
+
+## Культурный контекст: праздничный стол
+
+В некоторых семьях американского Юга на Рождество подают ham (запечённый окорок), sweet potatoes (батат) и pecan pie (пирог с пеканом). Это узнаваемые региональные примеры, а не обязательное меню каждой южной семьи. Праздничная посуда — `the good china` — может доставаться по особым случаям, но семейные традиции сильно различаются.
 
 ## Почему так
 
-Американец описывает предмет **через историю, ритуал и чувство**, а не через ярлыки. Не «это хороший стол», а «он тяжёлый, старый, за ним собирается вся семья, на Рождество мы накрываем его белой скатертью и ставим хороший фарфор». Это делает описание **живым** и **правдоподобным**.
-
-## Культурный код: рождественский стол на Юге
-
-На Юге США рождественский ужин — это **ритуал**. На столе:
-- **Ham** (окорок) — часто главное блюдо, а не индейка (индейка — это Thanksgiving).
-- **Sweet potatoes** (сладкий картофель) — часто с marshmallow сверху.
-- **Pecan pie** (пирог с пеканом) — южный десерт, символ региона.
-- **White tablecloth, good china, silver** — «хорошая» посуда, которая достаётся только на праздники.
-
-Это не просто еда — это **способ сказать: «мы вместе, у нас есть традиция»**.
+В живом описании предмет можно показать через историю, привычки и чувства. Не только «стол круглый и деревянный», но и «он много лет в семье, за ним собираются близкие». Так описание становится конкретным и личным.
 
 ## Упражнение
 
-1. Возьми любой предмет в доме (стол, стул, окно, чашку).
-2. Опиши его в **5 предложениях** по-английски, используя:
-   - 1 материал (`solid wood`, `glass`, `metal`, `plastic`);
-   - 1 качество (`heavy`, `light`, `sturdy`, `fragile`);
-   - 1 форму или деталь (`round`, `square`, `a few scratches`);
-   - 1 ритуал или функцию (`we cover it with a white tablecloth`, `the family gathers around it`);
-   - 1 южный маркер из 🟢-уровня (`mighty`, `ma'am/sir`, `fixin' to`, `this here`).
-3. Прочитай вслух. Звучит ли это как живая речь — или как учебник?
+1. Выбери любой стол, который хорошо знаешь.
+2. Опиши его в **пяти предложениях**, используя:
+   - материал (`solid wood`, `glass`, `metal`, `plastic`);
+   - качество (`heavy`, `light`, `sturdy`, `fragile`);
+   - форму или деталь (`round`, `square`, `a few scratches`);
+   - функцию (`we eat dinner here`, `I work at this table`);
+   - личную деталь или историю.
+3. Прочитай вслух. Звучит ли это естественно?
+
+Если хочешь, добавь один регионально окрашенный элемент, когда он действительно подходит. Не нужно специально использовать Southern English в каждом ответе.
 
 ## Статус лексики
 
-- 🟢 **Активно:** `solid wood`, `mighty heavy`, `this here`, `the heart of the house`, `white tablecloth`, `the good china`, `set it real nice`
-- 🟡 **Понимать:** `It's seen better days` (о вещи, которая износилась — чуть неформально), `Southern favorites` (культурный код, но понятен)
-- 🔴 **Пассивно:** —
+- 🟢 **Активно:** `solid wood`, `pretty heavy`, `round`, `It's been in the family for years`, `set the table`, `tablecloth`, `the heart of the house`.
+- 🟡 **Понимать:** `This here's`, `mighty heavy`, `set it real nice` (неформальные разговорные формы), `the good china`, `pecan pie` (культурный контекст).
+
+## Главное
+
+**Describe the object — and the life around it.**
+
+Описывай не только предмет, но и жизнь вокруг него.
