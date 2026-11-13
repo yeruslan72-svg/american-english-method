@@ -1,5 +1,10 @@
 # Сценарий: как спросить дорогу в США
 
+
+![A traveler studying a city transit map](https://images.pexels.com/photos/6642546/pexels-photo-6642546.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Enric Cruz López via [Pexels](https://www.pexels.com/photo/crop-person-choosing-route-near-map-6642546/).*
+
 ## Как вежливо спросить — и понять ответ
 
 # Часть 1. Спроси прохожего
