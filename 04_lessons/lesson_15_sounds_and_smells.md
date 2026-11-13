@@ -1,5 +1,10 @@
 # Урок 15: Звуки и запахи — Sounds and Smells
 
+![A quiet road winding through a green forest just after rain](https://images.pexels.com/photos/8747679/pexels-photo-8747679.jpeg?cs=srgb&dl=pexels-roman-odintsov-8747679.jpg&fm=jpg)
+
+*Photo: ROMAN ODINTSOV via [Pexels](https://www.pexels.com/photo/a-road-between-the-trees-8747679/).*
+
+
 ## Учимся описывать окружающий мир через слух и обоняние
 
 ### 1. Ситуация
