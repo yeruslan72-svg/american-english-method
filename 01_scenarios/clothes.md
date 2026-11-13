@@ -1,8 +1,8 @@
 # Сценарий: покупка одежды (техасский стиль)
 
-![A white man wearing a white cowboy hat and dark Western-style outfit outdoors](https://images.pexels.com/photos/9523233/pexels-photo-9523233.jpeg?auto=compress&dpr=1&h=750&w=1260)
+![A white male cowboy with a beard wearing a traditional cowboy hat, photographed against a rustic wooden background](https://images.pexels.com/photos/2250519/pexels-photo-2250519.jpeg?auto=compress&dpr=1&h=750&w=1260)
 
-*Photo: Safa Bakırcı via [Pexels](https://www.pexels.com/photo/man-in-black-coat-wearing-white-cowboy-hat-9523233/).*
+*Photo: Brett Sayles via [Pexels](https://www.pexels.com/photo/man-wearing-cowboy-hat-2250519/).*
 
 ## Ситуация
 
