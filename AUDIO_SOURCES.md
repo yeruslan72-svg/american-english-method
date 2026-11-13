@@ -29,7 +29,7 @@ The audio player links directly to the original VOA audio file. The original art
 
 ### Editorial note
 
-This is an authentic listening resource, not a custom recording of every dialogue in our lesson. Learners are directed to listen for selected airport expressions and compare them with the independently authored dialogues in American English Method.
+This is an original VOA Learning English educational broadcast with clear, learner-oriented narration, not a spontaneous airport conversation or a custom recording of every dialogue in our lesson. VOA describes its Learning English programs as being read about one-third slower than normal English speed. Use this as a clear first listening stage; add faster, spontaneous American speech as a separate, clearly labeled listening layer. Learners are directed to listen for selected airport expressions and compare them with the independently authored dialogues in American English Method.
 
 ### Review checklist
 
