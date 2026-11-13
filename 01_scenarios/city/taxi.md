@@ -1,5 +1,10 @@
 # Сценарий: такси в США
 
+
+![Yellow taxis on a New York street](https://images.pexels.com/photos/6064993/pexels-photo-6064993.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Volker Meyer via [Pexels](https://www.pexels.com/photo/yellow-taxi-cab-on-the-street-6064993/).*
+
 ## Как заказать машину, поговорить с водителем и оплатить поездку
 
 ### 1. Ситуация
