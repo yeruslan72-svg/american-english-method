@@ -1,5 +1,10 @@
 # Сценарий: покупка одежды
 
+
+![Cowboy boots, hats, and belts displayed inside a Western store](https://images.pexels.com/photos/37595189/pexels-photo-37595189.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Daniel Maurício Bertoli via [Pexels](https://www.pexels.com/photo/western-store-interior-with-cowboy-boots-display-37595189/).*
+
 ## Ситуация
 
 Ты в американском магазине одежды. Ты решил полностью обновить гардероб — купить рубашку и джинсы в техасском стиле. Ты подходишь к продавцу (sales assistant) и просишь помочь. Это не просто «купить вещь» — это **ритуал выбора, примерки и общения**.
