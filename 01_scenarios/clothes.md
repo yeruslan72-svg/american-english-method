@@ -1,8 +1,8 @@
 # Сценарий: покупка одежды (техасский стиль)
 
-![A man wearing a denim outfit, cowboy hat, and boots in a modern Western-inspired look](https://images.pexels.com/photos/35060422/pexels-photo-35060422/free-photo-of-stylish-cowboy-in-denim-outfit-outdoors.jpeg?auto=compress&dpr=1&h=750&w=1260)
+![A white man wearing a white cowboy hat and dark Western-style outfit outdoors](https://images.pexels.com/photos/9523233/pexels-photo-9523233.jpeg?auto=compress&dpr=1&h=750&w=1260)
 
-*Photo: Umar Faruq via [Pexels](https://www.pexels.com/photo/stylish-cowboy-in-denim-outfit-outdoors-35060422/).*
+*Photo: Safa Bakırcı via [Pexels](https://www.pexels.com/photo/man-in-black-coat-wearing-white-cowboy-hat-9523233/).*
 
 ## Ситуация
 
@@ -198,9 +198,9 @@
 
 **Cashier:** You too, sir. Take care!
 
-![A pair of Western leather boots with a matching leather belt](https://images.pexels.com/photos/19553458/pexels-photo-19553458/free-photo-of-leather-boots-and-belt.jpeg?auto=compress&dpr=1&h=750&w=1260)
+![Rows of authentic leather cowboy boots displayed on shelves inside a Western footwear store](https://images.pexels.com/photos/6752430/pexels-photo-6752430.jpeg?auto=compress&dpr=1&h=750&w=1260)
 
-*Photo: Alexander Mass via [Pexels](https://www.pexels.com/photo/leather-boots-and-belt-19553458/).*
+*Photo: Rachel Claire via [Pexels](https://www.pexels.com/photo/cowboy-boots-on-shelves-6752430/).*
 
 ---
 
