@@ -1,5 +1,10 @@
 # Сценарий: ресторанный опыт — заказ, бронирование и оплата
 
+
+![A waiter serving customers in a restaurant](https://images.pexels.com/photos/19595138/pexels-photo-19595138.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Marcus Queiroga Silva via [Pexels](https://www.pexels.com/photo/waiter-standing-by-table-in-restaurant-19595138/).*
+
 ## Restaurant Experience — Ordering, Reservations & Paying
 
 ### 1. Ситуация
