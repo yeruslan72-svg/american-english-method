@@ -6,17 +6,17 @@
 
 **You:**
 
-This here's my everyday kitchen knife. It's got a stainless steel blade, and it's mighty sharp. The handle's made of wood, and it feels real comfortable in your hand. I use it for just about everything — cutting meat, slicing vegetables, and chopping up onions. It's a handy thing to have around the kitchen. I sharpen it myself, so I always keep it in good shape.
+This is my everyday kitchen knife. It's got a stainless steel blade, and it's really sharp. The handle is made of wood, and it feels comfortable in your hand. I use it for a lot of kitchen prep — cutting meat, slicing vegetables, and chopping onions. It's a handy thing to have around the kitchen. I sharpen it myself, so I keep it in good shape. I always use it on a cutting board and keep my fingers clear of the blade.
 
 ## Полезные выражения
 
 | Выражение | Значение |
 |---|---|
-| `This here's...` | Вот этот... |
+| `This here's...` | Вот этот...; неформальная регионально окрашенная конструкция |
 | `stainless steel blade` | Лезвие из нержавеющей стали |
-| `mighty sharp` | Очень острый |
+| `really sharp` | Очень острый; нейтральный разговорный вариант |\n| `mighty sharp` | Очень острый; выразительное усиление с региональным оттенком |
 | `the handle's made of wood` | Рукоять сделана из дерева |
-| `feels real comfortable` | Очень удобно ощущается |
+| `feels comfortable` | Удобно лежит в руке |\n| `feels real comfortable` | Разговорная диалектная форма; в нейтральной речи лучше `feels really comfortable` |
 | `just about everything` | Практически всё |
 | `chop up onions` | Нарезать лук |
 | `a handy thing to have around` | Полезная вещь под рукой |
@@ -43,7 +43,7 @@ This here's my everyday kitchen knife. It's got a stainless steel blade, and it'
 4. Для чего ты его используешь.
 5. Как ты за ним ухаживаешь.
 
-Постарайся использовать `mighty`, `handy` или `this here`.
+Сначала опиши нож нейтральным разговорным английским. Если ситуация располагает, можешь добавить один регионально окрашенный элемент — например, `mighty sharp`.
 
 **Помни:** описывай то, что видишь, что чувствуешь и что ты **на самом деле делаешь** с предметом.
 
