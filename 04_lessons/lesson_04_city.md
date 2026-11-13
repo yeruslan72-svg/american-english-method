@@ -1,5 +1,10 @@
 # Урок 4: Опиши город
 
+![Modern New York City skyline with historic and contemporary downtown buildings](https://images.pexels.com/photos/10184977/pexels-photo-10184977.jpeg?cs=srgb&dl=pexels-psad-10184977.jpg&fm=jpg)
+
+*Photo: David Yu via [Pexels](https://www.pexels.com/photo/buildings-in-a-city-downtown-10184977/).*
+
+
 ## Видим город через американский английский
 
 ### Ситуация
