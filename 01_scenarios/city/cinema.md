@@ -1,5 +1,10 @@
 # Сценарий: поход в кино — Going to the Movies
 
+
+![People enjoying a movie in a theater](https://images.pexels.com/photos/7234217/pexels-photo-7234217.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Pavel Danilyuk via [Pexels](https://www.pexels.com/photo/people-sitting-in-movie-theater-7234217/).*
+
 ## Как купить билет, выбрать место и обсудить фильм
 
 ### 1. Ситуация
