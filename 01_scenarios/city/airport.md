@@ -496,6 +496,7 @@
 - `Are you traveling alone?` — Вы путешествуете один?
 - `Who are you visiting?` — К кому вы приехали?
 - `How much money are you bringing with you?` — Сколько денег вы привезли с собой?
+- `Are you carrying more than $10,000 in currency or monetary instruments?` — Вы перевозите более 10 000 долларов наличными или в других денежных инструментах?
 
 **Если ты не понял вопрос:**
 
