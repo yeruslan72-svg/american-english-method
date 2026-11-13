@@ -1,5 +1,10 @@
 # Урок 10: Опиши прихожую
 
+![A warm home entryway with wooden doors, a mirror, and a small console table](https://images.pexels.com/photos/35997622/pexels-photo-35997622.jpeg?cs=srgb&dl=pexels-algrey-35997622.jpg&fm=jpg)
+
+*Photo: Alexander Zvir via [Pexels](https://www.pexels.com/photo/elegant-hallway-interior-with-wooden-doors-and-decor-35997622/).*
+
+
 ## Учимся описывать порядок, удобство и входную зону
 
 ### Ситуация
