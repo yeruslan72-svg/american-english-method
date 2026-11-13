@@ -1,5 +1,10 @@
 # Урок 3: Опиши стол
 
+![A warm vintage kitchen with a large wooden table in the foreground](https://images.pexels.com/photos/35996737/pexels-photo-35996737.jpeg?cs=srgb&dl=pexels-alexander-f-ungerer-157458816-35996737.jpg&fm=jpg)
+
+*Photo: Alexander F. Ungerer via [Pexels](https://www.pexels.com/photo/cozy-vintage-kitchen-interior-with-rustic-table-35996737/).*
+
+
 ## Ситуация
 
 Ты дома с американским другом. Он спрашивает: **Is this table new?** Ты хочешь описать стол — не переводить русские слова буквально, а рассказать о материале, форме, истории и о том, что он значит для семьи.
