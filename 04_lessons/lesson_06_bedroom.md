@@ -1,5 +1,10 @@
 # Урок 6: Опиши спальню
 
+![A simple bedroom with a neatly made bed and natural light](https://images.pexels.com/photos/37833409/pexels-photo-37833409.jpeg?cs=srgb&dl=pexels-kenneth-dave-asto-1633731290-37833409.jpg&fm=jpg)
+
+*Photo: Kenneth Dave Asto via [Pexels](https://www.pexels.com/photo/cozy-bedroom-interior-with-natural-light-37833409/).*
+
+
 ## Учимся описывать комфорт, отдых и личное пространство
 
 ### Ситуация
