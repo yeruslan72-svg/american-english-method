@@ -1,5 +1,10 @@
 # Сценарий: у парикмахера — At the Barbershop / Hair Salon
 
+
+![A barber cutting a customer's hair](https://images.pexels.com/photos/14011984/pexels-photo-14011984.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Sohail Bakhshi via [Pexels](https://www.pexels.com/photo/barber-cutting-hair-of-a-man-sitting-on-a-barber-chair-14011984/).*
+
 ## Как записаться, объяснить, что хочешь, и не уйти разочарованным
 
 ### 1. Ситуация
