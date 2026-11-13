@@ -119,3 +119,41 @@ Complete a second pass on:
 ### Official reference points consulted
 - NOAA / National Weather Service rip-current safety guidance.
 - U.S. Customs and Border Protection guidance on currency and monetary instruments.
+
+
+## Third editorial pass — Lessons 2–4 (13 November 2026)
+
+### Lesson 2: Describe a Knife
+**File:** `04_lessons/lesson_02_knife.md`
+
+- Replaced the main sample with a natural nationwide conversational model: `This is...`, `really sharp`, and `feels comfortable in your hand`.
+- Retained regional and informal forms as a separate recognition layer rather than presenting them as the default American voice.
+- Added practical vocabulary for a cutting board and a brief safe-use sentence.
+- Expanded active vocabulary around blade, handle, sharpness, slicing, chopping, and care.
+
+### Lesson 3: Describe a Table
+**File:** `04_lessons/lesson_03_table.md`
+
+- Added a nationwide English version and retained a shorter Southern-tinged alternative.
+- Removed the unnatural insertion of `ma'am` into the descriptive sample.
+- Distinguished neutral forms (`pretty heavy`, `set it nicely`) from informal/regional alternatives (`mighty heavy`, `set it real nice`, `this here's`).
+- Removed the requirement to force a Southern marker into every learner's practice response.
+- Kept the Christmas-table details as a cultural example rather than a universal description of every American household.
+
+### Lesson 4: Describe a City
+**File:** `04_lessons/lesson_04_city.md`
+
+- Made the main description more neutral and natural across the United States.
+- Replaced the overgeneralized claim about gated communities with a more precise description of restricted access and variable security.
+- Clarified that public transportation differs by city: subway/metro, buses, light rail, and cars all have different roles.
+- Added a note that `folks` and `big ol'` are informal expressions heard across regions and should not automatically be labelled exclusively Southern.
+- Kept the descriptive, conversational tone and the learner's personal-response task.
+
+### Visual audit status
+
+- Glass, Airport, and Beach already have repository image groups.
+- Knife, Table, and City still need dedicated thematic assets and Markdown image placement.
+- A photorealistic knife still-life has been generated and optimized locally, but it has **not yet been committed to the GitHub repository**. No lesson is given a broken image reference.
+- The next visual step is to transfer the image asset into `images/lessons/objects/knife/`, then prepare matching Table and City visuals and verify all image paths in the built site.
+
+**Editorial principle reaffirmed:** nationwide natural speech first; regional language is an optional contextual layer, never a compulsory performance.
