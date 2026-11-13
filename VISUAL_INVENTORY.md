@@ -26,7 +26,7 @@ The images are original repository assets and should remain the canonical source
 
 ## 1A. Additional lesson visuals — Pexels
 
-Fifteen Pexels photographs were already embedded in lesson Markdown. Three additional Pexels photographs have now been added to the Texas clothing scenario, bringing the total to eighteen externally hosted Pexels photographs. Each has visible photographer credit and a source link in its lesson. They are not counted in the 14 locally stored image files above.
+Fifteen Pexels photographs were already embedded in lesson Markdown. Three additional photographs were added to the main Texas clothing scenario. Eighteen more scenario visuals have now been added, and one existing phone-call visual has been included in the register, bringing the current total to thirty-seven externally hosted Pexels photographs. Each has visible photographer credit and a source link in its lesson. They are not counted in the 14 locally stored image files above.
 
 | Lesson | Visual subject | Source register |
 |---|---|---|
@@ -48,6 +48,35 @@ Fifteen Pexels photographs were already embedded in lesson Markdown. Three addit
 | Texas clothing scenario | Western-style outfit, Western store interior, cowboy boots displayed on shelves | `IMAGE_CREDITS.md` |
 
 **Licensing and hosting note:** Pexels photos are embedded from the Pexels CDN and are not yet copied into the repository. Photographer credits and original source-page links are recorded in `IMAGE_CREDITS.md`. External hosting means the site depends on the source CDN remaining available. A later optimization pass should download approved assets, store them locally, compress them to the Visual Style Guide target, and verify the local copies against the source register.
+
+
+## 1B. Everyday scenario visuals — Pexels
+
+The scenario catalogue now has a contextual lead image on each page. Airport and beach retain their four original local images each; the main Texas clothing scenario retains its three selected Western visuals. New or previously unregistered Pexels images are linked from the following scenario pages:
+
+| Scenario page | Visual subject | Photographer | Source register |
+|---|---|---|---|
+| 911 emergency | Ambulance responding on a city street | Arian Fernandez | `IMAGE_CREDITS.md` |
+| Phone call | Man speaking on the phone | RDNE Stock project | `IMAGE_CREDITS.md` |
+| Polite refusal | Friends gathered in a living room | Ron Lach | `IMAGE_CREDITS.md` |
+| Polite request | Colleagues discussing a request | Yan Krukau | `IMAGE_CREDITS.md` |
+| Airplane | Passengers seated inside an airplane cabin | Daniel Frese | `IMAGE_CREDITS.md` |
+| Cinema | People enjoying a movie in a theater | Pavel Danilyuk | `IMAGE_CREDITS.md` |
+| Earlier clothing scenario | Western store with cowboy boots and hats | Daniel Maurício Bertoli | `IMAGE_CREDITS.md` |
+| Asking directions | Traveler studying a city transit map | Enric Cruz López | `IMAGE_CREDITS.md` |
+| Ferry | Passengers on the open deck of a ferry | serkan atay | `IMAGE_CREDITS.md` |
+| Ferry journey | Passengers enjoying a ferry crossing | Ahmet Polat | `IMAGE_CREDITS.md` |
+| Barbershop | Barber cutting a customer's hair | Sohail Bakhshi | `IMAGE_CREDITS.md` |
+| Hospital | Doctor consulting with a patient | Antoni Shkraba | `IMAGE_CREDITS.md` |
+| Park | Quiet city park walkway and bench | Anderson Wei | `IMAGE_CREDITS.md` |
+| Restaurant | Waiter serving customers | Marcus Queiroga Silva | `IMAGE_CREDITS.md` |
+| Taxi | Yellow taxis on a city street | Volker Meyer | `IMAGE_CREDITS.md` |
+| Train | Passengers on a railway platform | Pew Nguyen | `IMAGE_CREDITS.md` |
+| Train journey | Passenger train at a station | Martijn Stoof | `IMAGE_CREDITS.md` |
+| Public transit | City bus at a stop | Guillermo Quiñones | `IMAGE_CREDITS.md` |
+| Zoo | Family observing a giraffe | Roderick Salatan | `IMAGE_CREDITS.md` |
+
+These are externally hosted editorial photographs, not locally stored repository assets. The photo sources and voluntary photographer credits are recorded in `IMAGE_CREDITS.md`.
 
 ## 2. Glass — Descriptive Lesson
 
