@@ -25,7 +25,7 @@ We provide photographer credits voluntarily. A photo copyright license does not 
 | Terrace | Matheus Bertelli | [Photo 13871238](https://www.pexels.com/photo/house-with-terrace-13871238/) | Outdoor home terrace |
 | Sounds and smells | ROMAN ODINTSOV | [Photo 8747679](https://www.pexels.com/photo/a-road-between-the-trees-8747679/) | Forest road after rain — sensory context |
 | Feelings | Vitaly Gariev | [Photo 36813441](https://www.pexels.com/photo/expressive-reactions-of-a-surprised-couple-36813441/) | Facial expressions of surprise |
-| Inner feelings | Letícia Alvares | [Photo 31428991](https://www.pexels.com/photo/contemplative-man-at-window-with-cup-31428991/) | Quiet introspection and reflection |
+| City | David Yu | [Photo 10184977](https://www.pexels.com/photo/buildings-in-a-city-downtown-10184977/) | New York cityscape with modern and historic buildings |\n| Inner feelings | Letícia Alvares | [Photo 31428991](https://www.pexels.com/photo/contemplative-man-at-window-with-cup-31428991/) | Quiet introspection and reflection |
 
 ## Implementation note
 
