@@ -43,6 +43,41 @@ This is an original VOA Learning English educational broadcast with clear, learn
 - [ ] Test playback on the deployed website and on mobile browsers.
 - [ ] Recheck source URL and rights statement during future content audits.
 
+
+
+## 2. VOA Learning English — Describing Pets
+
+| Field | Record |
+|---|---|
+| Lesson | `04_lessons/lesson_01_glass.md` |
+| Publisher | Voice of America (VOA), Learning English |
+| Program | “Describing Pets” |
+| Publication date | November 23, 2023 |
+| Original page | https://learningenglish.voanews.com/a/describing-pets/7364518.html |
+| Audio | https://voa-audio.voanews.eu/vle/2023/11/21/01000000-c0a8-0242-d51e-08dbeacdc735_hq.mp3 |
+| Duration | 6:00 |
+| Format | MP3, 128 kbps |
+| Attribution | Audio: VOA Learning English, “Describing Pets” (November 23, 2023). |
+| Rights reference | https://learningenglish.voanews.com/p/6861.html |
+| Use on our site | External HTML5 audio player; audio is streamed from the original VOA audio host, not copied into this repository. |
+
+### Rights review
+
+VOA Learning English states that its Learning English texts, MP3s, photos, and videos are in the public domain and may be reprinted for educational and commercial purposes with credit to learningenglish.voanews.com. Third-party news-agency materials remain copyrighted and are not republished here.
+
+### Editorial note
+
+This recording is about describing pets, not describing a glass. It is included as transferable listening practice for physical-description vocabulary and adjective order (size, color, shape, age, texture and opinion). It is a clear VOA Learning English educational recording, not spontaneous conversation and not a Southern-accent sample. The lesson explicitly explains this distinction and provides a transfer task using the glass.
+
+### Review checklist
+
+- [x] Original publisher and program identified.
+- [x] Original page and direct MP3 URL recorded.
+- [x] VOA Learning English public-domain reuse policy checked.
+- [x] Attribution included in the lesson.
+- [x] Player streams from the original VOA audio host; no local copy.
+- [ ] Test playback on the deployed website and on mobile browsers.
+
 ## Future audio entries
 
 Add a new entry for every external recording. Record the exact program page, direct media URL, creator/publisher, date, license or permission, attribution wording, and whether the asset is embedded, linked, or hosted locally. Do not assume that an audio file is reusable merely because it is publicly accessible or embedded in a broadcaster's page.
