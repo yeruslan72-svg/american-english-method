@@ -20,3 +20,9 @@ We provide photographer credits voluntarily. The license for each image applies 
 ## Implementation note
 
 The Markdown pages currently embed the Pexels CDN image URLs directly and link to each original Pexels photo page. This keeps photographer/source credit visible. If assets are later downloaded and stored locally, retain this register and verify that the downloaded files match the listed source pages.
+
+| Bedroom | Kenneth Dave Asto | [Photo 37833409](https://www.pexels.com/photo/cozy-bedroom-interior-with-natural-light-37833409/) | Bedroom interior |
+| Bathroom | Alex Tyson | [Photo 19991843](https://www.pexels.com/photo/interior-of-a-modern-bathroom-19991843/) | Modern bathroom |
+| Tableware | Natalia S | [Photo 27391333](https://www.pexels.com/photo/a-white-table-with-black-placemats-and-silverware-27391333/) | Dining table setting |
+| Laundry | Alex Tyson | [Photo 19980200](https://www.pexels.com/photo/a-laundry-room-19980200/) | Laundry room and washer |
+| Pantry | Théo Cold | [Photo 34005910](https://www.pexels.com/photo/organized-kitchen-pantry-with-storage-containers-34005910/) | Organized pantry storage |
