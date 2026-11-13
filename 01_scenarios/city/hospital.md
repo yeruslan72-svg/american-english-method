@@ -1,5 +1,10 @@
 # Сценарий: в больнице — At the Hospital
 
+
+![A doctor checking a patient's blood pressure during a consultation](https://images.pexels.com/photos/5214997/pexels-photo-5214997.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Antoni Shkraba via [Pexels](https://www.pexels.com/photo/a-patient-having-a-consultation-with-her-doctor-5214997/).*
+
 ## Как объяснить, что случилось, и получить медицинскую помощь
 
 ### 1. Ситуация
