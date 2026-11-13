@@ -1,5 +1,10 @@
 # Урок 12: Опиши кладовую
 
+![Organized pantry shelves with reusable food storage containers](https://images.pexels.com/photos/34005910/pexels-photo-34005910.jpeg?cs=srgb&dl=pexels-theo-cold-814199886-34005910.jpg&fm=jpg)
+
+*Photo: Théo Cold via [Pexels](https://www.pexels.com/photo/organized-kitchen-pantry-with-storage-containers-34005910/).*
+
+
 ## Учимся описывать запасы, порядок и семейный уют
 
 ### Ситуация
