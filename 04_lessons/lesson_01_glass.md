@@ -91,7 +91,7 @@
 
 ---
 
-## 5. Сравниваем два варианта
+## 4. Сравниваем два варианта
 
 | Nationwide American English | Southern-tinged wording | Что меняется |
 |---|---|---|
@@ -356,7 +356,7 @@
 
 ---
 
-## 12. Your Speaking Challenge
+## 10. Your Speaking Challenge
 
 Представь, что твой американский знакомый сидит напротив тебя в кафе и спрашивает:
 
@@ -390,7 +390,7 @@
 
 ---
 
-## 12. Active and Recognition Vocabulary
+## 11. Active and Recognition Vocabulary
 
 Мы разделяем выражения не только по значению, но и по тому, как ученик должен ими пользоваться.
 
