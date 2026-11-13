@@ -1,5 +1,10 @@
 # Урок 5: Опиши гостиную
 
+![A bright modern living room with a large sofa and natural light](https://images.pexels.com/photos/8089170/pexels-photo-8089170.jpeg?cs=srgb&dl=pexels-artbovich-8089170.jpg&fm=jpg)
+
+*Photo: Max Vakhtbovych via [Pexels](https://www.pexels.com/photo/an-interior-of-a-living-room-8089170/).*
+
+
 ## Учимся описывать пространство, уют и семейную жизнь
 
 ### Ситуация
