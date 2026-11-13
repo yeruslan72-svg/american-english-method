@@ -20,7 +20,7 @@ We provide photographer credits voluntarily. The license for each image applies 
 | Entryway | Alexander Zvir | [Photo 35997622](https://www.pexels.com/photo/elegant-hallway-interior-with-wooden-doors-and-decor-35997622/) | Home hallway and entryway |
 | Terrace | Matheus Bertelli | [Photo 13871238](https://www.pexels.com/photo/house-with-terrace-13871238/) | Outdoor home terrace |
 | Sounds and smells | ROMAN ODINTSOV | [Photo 8747679](https://www.pexels.com/photo/a-road-between-the-trees-8747679/) | Forest road after rain — sensory context |
-| Feelings | Vitaly Gariev | [Photo 36813441](https://www.pexels.com/photo/expressive-reactions-of-a-surprised-couple-36813441/) | Facial expressions of surprise |
+| Inner feelings | Letícia Alvares | [Photo 31428991](https://www.pexels.com/photo/contemplative-man-at-window-with-cup-31428991/) | Quiet introspection and reflection |\n| Feelings | Vitaly Gariev | [Photo 36813441](https://www.pexels.com/photo/expressive-reactions-of-a-surprised-couple-36813441/) | Facial expressions of surprise |
 
 ## Implementation note
 
