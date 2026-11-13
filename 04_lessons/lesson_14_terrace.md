@@ -1,5 +1,10 @@
 # Урок 14: Опиши заднюю террасу
 
+![A sunny home terrace with outdoor seating and a wooden deck](https://images.pexels.com/photos/13871238/pexels-photo-13871238.jpeg?cs=srgb&dl=pexels-bertellifotografia-13871238.jpg&fm=jpg)
+
+*Photo: Matheus Bertelli via [Pexels](https://www.pexels.com/photo/house-with-terrace-13871238/).*
+
+
 ## Учимся описывать утро, тишину и покой
 
 ### 1. Ситуация
