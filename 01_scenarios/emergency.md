@@ -1,5 +1,10 @@
 # Сценарий: экстренный вызов (911)
 
+
+![An ambulance responding on a city street](https://images.pexels.com/photos/34330566/pexels-photo-34330566.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Arian Fernandez via [Pexels](https://www.pexels.com/photo/emergency-ambulance-vehicle-on-urban-street-34330566/).*
+
 ## Как попросить о помощи в США
 
 ### 1. Ситуация
