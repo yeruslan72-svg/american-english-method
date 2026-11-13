@@ -1,5 +1,10 @@
 # Урок 4: Опиши часы
 
+![An antique wooden wall clock with a clearly visible clock face](https://images.pexels.com/photos/17789843/pexels-photo-17789843.jpeg?cs=srgb&dl=pexels-radwanmenzer-17789843.jpg&fm=jpg)
+
+*Photo: Radwan Menzer via [Pexels](https://www.pexels.com/photo/a-clock-on-a-wall-17789843/).*
+
+
 ## Учимся описывать звук, движение и функцию
 
 ### Ситуация
