@@ -14,15 +14,15 @@
 
 **You:**
 
-This city is a whole different world. It's a big ol' metropolis — millions of people, traffic everywhere, noise, exhaust fumes, and all the hustle and bustle.
+This city feels like a whole different world. It's a huge metropolis — millions of people, traffic, noise, exhaust fumes, and all the hustle and bustle.
 
-Sometimes, in a city this big, you can feel pretty small. But there's a lot to like about it, too. You've got museums, theaters, beautiful parks, fountains, monuments, and all kinds of things to see and do.
+Sometimes, in a city this big, you can feel pretty small. But there's a lot to like about it, too. There are museums, theaters, beautiful parks, fountains, monuments, and all kinds of things to see and do.
 
-There's plenty of work and opportunity here, so young folks come from all over looking to make a better life for themselves. Some of the best universities and colleges are here, too.
+There are plenty of jobs and opportunities here, so people come from all over looking to build a better life. The city also has several colleges and universities.
 
-You've got these fancy gated communities where wealthy people live in big houses with private security and luxury cars. Not everybody can afford that kind of lifestyle, of course. Some people admire it, some resent it, and some would love to be in their shoes. I guess that's just human nature.
+You'll also see gated communities, where access is restricted and some homes have private security. Not everybody can afford that kind of lifestyle, of course. Some people admire it, some resent it, and some would love to be in their shoes. I guess that's just human nature.
 
-The roads are wide, the lane markings are clear, and the traffic lights are modern. Cars and buses are zipping around everywhere, and a lot of people rely on public transportation, especially the subway in cities that have one.
+The roads are wide, the lane markings are clear, and the traffic lights are modern. Cars and buses are zipping around, and many people rely on public transportation. In cities with a subway or metro system, people may use that to get around; in other places, buses, light rail, or cars may be more common.
 
 All in all, it's a busy place, but there's something exciting about it. You never really know what the day might bring.
 
@@ -49,7 +49,7 @@ All in all, it's a busy place, but there's something exciting about it. You neve
 | `rely on public transportation` | Полагаться на общественный транспорт |
 | `all in all` | В целом, в общем |
 
-### Несколько важных деталей американского английского
+### Nationwide English and informal regional flavor\n\nОсновной текст использует разговорный английский, понятный по всей стране. Некоторые выражения ниже не являются исключительно южными: `folks` и `big ol'` встречаются в разных регионах США, хотя в определённых контекстах могут звучать по-южному или особенно непринуждённо. Не нужно считать их обязательными признаками южного акцента.\n\n### Несколько важных деталей американского английского
 
 **1. `Folks`**
 
@@ -92,7 +92,7 @@ All in all, it's a busy place, but there's something exciting about it. You neve
 
 ### Культурные заметки: американские города
 
-- **Gated communities:** существуют во многих частях США. Это частные жилые комплексы с контролируемым доступом. Уровень безопасности varies.
+- **Gated communities:** встречаются в разных частях США. Это жилые комплексы с ограниченным или контролируемым доступом; устройство и уровень охраны различаются.
 - **Public transportation:** Нью-Йорк, Бостон, Чикаго и Вашингтон имеют развитые системы метро или скоростного транспорта. Другие города могут больше полагаться на автобусы, лёгкое метро и частные машины.
 - **Downtown:** часто относится к центральному деловому или коммерческому району города, но точное значение зависит от города.
 - **Opportunities:** американские города привлекают людей, ищущих работу, образование, бизнес-возможности и другой образ жизни. Но стоимость жизни может быть высокой.
@@ -108,7 +108,7 @@ All in all, it's a busy place, but there's something exciting about it. You neve
 1. Один контраст: `busy but exciting`, `quiet but beautiful`.
 2. Одно чувство: `It makes you feel alive`, `You can feel a little overwhelmed`.
 3. Одну особенность: `wide roads`, `old buildings`, `gated communities`, `public transportation`.
-4. Одно выражение: `hustle and bustle`, `folks`, `flock here`, `all in all`.
+4. Одно выражение: `hustle and bustle`, `come from all over`, `all in all`.
 5. Одно разговорное выражение: `big ol'`, `a lot to like`, или `that's just how it is`.
 
 **Не пытайся звучать как учебник.** Представь, что ты сидишь рядом с американским другом, смотришь в окно машины и говоришь ему, что ты **на самом деле думаешь**.
