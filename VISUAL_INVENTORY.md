@@ -45,7 +45,7 @@ Fifteen Pexels photographs were already embedded in lesson Markdown. Three addit
 | Feelings | Surprise expressions | `IMAGE_CREDITS.md` |
 | City | New York cityscape | `IMAGE_CREDITS.md` |
 | Inner feelings | Thoughtful person at a window | `IMAGE_CREDITS.md` |
-| Texas clothing scenario | Western outfit, store display, boots and belt | `IMAGE_CREDITS.md` |
+| Texas clothing scenario | Western-style outfit, Western store interior, cowboy boots displayed on shelves | `IMAGE_CREDITS.md` |
 
 **Licensing and hosting note:** Pexels photos are embedded from the Pexels CDN and are not yet copied into the repository. Photographer credits and original source-page links are recorded in `IMAGE_CREDITS.md`. External hosting means the site depends on the source CDN remaining available. A later optimization pass should download approved assets, store them locally, compress them to the Visual Style Guide target, and verify the local copies against the source register.
 
