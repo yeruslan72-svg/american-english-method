@@ -1,5 +1,10 @@
 # Сценарий: в зоопарке — At the Zoo
 
+
+![A family observing a giraffe at a zoo](https://images.pexels.com/photos/29619938/pexels-photo-29619938.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Roderick Salatan via [Pexels](https://www.pexels.com/photo/family-feeding-giraffe-at-zoo-exhibit-29619938/).*
+
 ## Как купить билеты, найти животных и объяснить правила детям
 
 ### 1. Ситуация
