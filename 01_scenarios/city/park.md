@@ -1,5 +1,10 @@
 # Сценарий: прогулка в парке — A Walk in the Park
 
+
+![A quiet city park walkway with a bench](https://images.pexels.com/photos/34861850/pexels-photo-34861850.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Anderson Wei via [Pexels](https://www.pexels.com/photo/peaceful-urban-park-walkway-with-bench-34861850/).*
+
 ## Как найти парк, чем заняться и провести время с удовольствием
 
 ### 1. Ситуация
