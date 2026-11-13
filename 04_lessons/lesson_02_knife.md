@@ -1,5 +1,10 @@
 # Урок 2: Опиши нож
 
+![Close-up of a cook slicing a tomato with a kitchen knife on a cutting board](https://images.pexels.com/photos/6294411/pexels-photo-6294411.jpeg?cs=srgb&dl=pexels-klaus-nielsen-6294411.jpg&fm=jpg)
+
+*Photo: Klaus Nielsen via [Pexels](https://www.pexels.com/photo/chef-cutting-tomato-with-knife-on-wooden-cutting-board-6294411/).*
+
+
 ## Живой американский диалог
 
 **Friend:** What's that knife for?
