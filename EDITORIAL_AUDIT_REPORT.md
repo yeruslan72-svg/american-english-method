@@ -96,3 +96,26 @@ Complete a second pass on:
 3. Glass: final consistency of vocabulary status and the regional-language practice instructions.
 
 **Editorial principle:** Natural first. Regional only when justified. Explain the context. Never teach an artificial dialect.
+
+
+## Second editorial pass — 13 November 2026
+
+### Airport: currency and customs wording
+- Retained the natural general question `How much money are you bringing with you?` as a possible officer question.
+- Added the more precise learner-facing question: `Are you carrying more than $10,000 in currency or monetary instruments?`
+- Editorial note for the site: do not imply that there is a maximum amount of money a traveler may bring. The U.S. reporting requirement concerns amounts exceeding $10,000 in currency/monetary instruments; travelers should consult current CBP instructions and applicable declaration forms. The threshold and reporting details can change, so the lesson should link to official guidance rather than present itself as legal advice.
+
+### Beach: rip-current response
+- Reworked the sequence to avoid presenting swimming parallel to shore as a universal instruction for every swimmer.
+- The revised advice prioritizes staying calm, floating/treading water, not fighting the current, and signaling for help.
+- Swimming parallel to shore or toward breaking waves is now conditional on the person's swimming ability and conditions.
+- The advice for helping another person now explicitly says to alert a lifeguard/call 911 and throw flotation if possible; do not enter the water for an untrained rescue.
+
+### Glass: active and recognition vocabulary
+- The existing division is appropriate: broadly useful phrases such as `ice-cold`, `it's got`, `next to`, and `if you ask me` remain active-use items.
+- Southern-associated or informal listening forms such as `mighty pretty`, `fixin' to`, `y'all`, and pronunciation respellings remain primarily recognition items.
+- No further content change is needed in this pass. Learners may use regional forms when they understand the context, but should not be required to imitate them.
+
+### Official reference points consulted
+- NOAA / National Weather Service rip-current safety guidance.
+- U.S. Customs and Border Protection guidance on currency and monetary instruments.
