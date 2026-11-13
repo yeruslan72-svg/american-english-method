@@ -1,5 +1,10 @@
 # Сценарий: вежливая просьба
 
+
+![Colleagues discussing a request in an office](https://images.pexels.com/photos/7792868/pexels-photo-7792868.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Yan Krukau via [Pexels](https://www.pexels.com/photo/colleagues-discussing-ideas-while-in-the-office-7792868/).*
+
 ## Ситуация
 
 Ты в офисе. Тебе нужно, чтобы коллега прислал отчёт. Ты хочешь попросить так, чтобы **не звучать как начальник** и **не выглядеть подобострастно**. Как это делает американец?
