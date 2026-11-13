@@ -1,5 +1,10 @@
 # Сценарий: путешествие на пароме — On the Ferry
 
+
+![Passengers enjoying a ferry crossing](https://images.pexels.com/photos/9288666/pexels-photo-9288666.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Ahmet Polat via [Pexels](https://www.pexels.com/photo/people-riding-a-ferry-boat-9288666/).*
+
 ## От посадки на борт до прибытия в порт назначения
 
 ### 1. Ситуация
