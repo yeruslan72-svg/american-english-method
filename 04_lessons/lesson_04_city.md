@@ -10,7 +10,7 @@
 
 Ты хочешь описать то, что видишь, что чувствуешь и что делает город особенным.
 
-### Живой американский диалог
+### Живой американский диалог — Nationwide American English
 
 **You:**
 
@@ -18,7 +18,7 @@ This city feels like a whole different world. It's a huge metropolis — million
 
 Sometimes, in a city this big, you can feel pretty small. But there's a lot to like about it, too. There are museums, theaters, beautiful parks, fountains, monuments, and all kinds of things to see and do.
 
-There are plenty of jobs and opportunities here, so people come from all over looking to build a better life. The city also has several colleges and universities.
+There are plenty of jobs and opportunities here, so people come from all over looking to build a better life. The city also has colleges and universities.
 
 You'll also see gated communities, where access is restricted and some homes have private security. Not everybody can afford that kind of lifestyle, of course. Some people admire it, some resent it, and some would love to be in their shoes. I guess that's just human nature.
 
@@ -33,7 +33,7 @@ All in all, it's a busy place, but there's something exciting about it. You neve
 | Выражение | Значение и употребление |
 |---|---|
 | `a whole different world` | Совсем другой мир |
-| `a big ol' metropolis` | Огромный мегаполис; разговорное усиление |
+| `a huge metropolis` | Огромный мегаполис; разговорное усиление |
 | `hustle and bustle` | Городская суета и движение |
 | `exhaust fumes` | Выхлопные газы |
 | `you feel pretty small` | Чувствуешь себя совсем маленьким |
@@ -49,7 +49,11 @@ All in all, it's a busy place, but there's something exciting about it. You neve
 | `rely on public transportation` | Полагаться на общественный транспорт |
 | `all in all` | В целом, в общем |
 
-### Nationwide English and informal regional flavor\n\nОсновной текст использует разговорный английский, понятный по всей стране. Некоторые выражения ниже не являются исключительно южными: `folks` и `big ol'` встречаются в разных регионах США, хотя в определённых контекстах могут звучать по-южному или особенно непринуждённо. Не нужно считать их обязательными признаками южного акцента.\n\n### Несколько важных деталей американского английского
+### Nationwide English and informal regional flavor
+
+Основной текст использует разговорный английский, понятный по всей стране. Некоторые выражения ниже не являются исключительно южными: `folks` и `big ol'` встречаются в разных регионах США, хотя в определённых контекстах могут звучать по-южному или особенно непринуждённо. Не нужно считать их обязательными признаками южного акцента.
+
+### Несколько важных деталей американского английского
 
 **1. `Folks`**
 
@@ -109,7 +113,7 @@ All in all, it's a busy place, but there's something exciting about it. You neve
 2. Одно чувство: `It makes you feel alive`, `You can feel a little overwhelmed`.
 3. Одну особенность: `wide roads`, `old buildings`, `gated communities`, `public transportation`.
 4. Одно выражение: `hustle and bustle`, `come from all over`, `all in all`.
-5. Одно разговорное выражение: `big ol'`, `a lot to like`, или `that's just how it is`.
+5. Одно разговорное выражение: `a lot to like`, `that's just how it is`; `big ol'` можно узнавать как очень неформальный вариант.
 
 **Не пытайся звучать как учебник.** Представь, что ты сидишь рядом с американским другом, смотришь в окно машины и говоришь ему, что ты **на самом деле думаешь**.
 
@@ -117,18 +121,17 @@ All in all, it's a busy place, but there's something exciting about it. You neve
 
 **🟢 Активно**
 - `hustle and bustle`
-- `young folks`
-- `flock here`
+- `come from all over`
 - `zip around`
-- `take the subway`
+- `rely on public transportation`
 - `human nature`
 - `be in someone's shoes`
 - `all in all`
-- `make a better life`
+- `build a better life`
 
 **🟡 Понимать**
-- `big ol'`
-- `fancy`
+- `big ol'` (очень неформальное усиление)
+- `folks` (неформальное слово для людей)
 - `gated community`
 - `resent`
 - `exhaust fumes`
