@@ -26,7 +26,7 @@ The images are original repository assets and should remain the canonical source
 
 ## 1A. Additional lesson visuals — Pexels
 
-Fifteen Pexels photographs are now embedded in lesson Markdown as externally hosted images, with visible photographer credit and a source link in each lesson. They are not counted in the 14 locally stored image files above.
+Fifteen Pexels photographs were already embedded in lesson Markdown. Three additional Pexels photographs have now been added to the Texas clothing scenario, bringing the total to eighteen externally hosted Pexels photographs. Each has visible photographer credit and a source link in its lesson. They are not counted in the 14 locally stored image files above.
 
 | Lesson | Visual subject | Source register |
 |---|---|---|
@@ -45,6 +45,7 @@ Fifteen Pexels photographs are now embedded in lesson Markdown as externally hos
 | Feelings | Surprise expressions | `IMAGE_CREDITS.md` |
 | City | New York cityscape | `IMAGE_CREDITS.md` |
 | Inner feelings | Thoughtful person at a window | `IMAGE_CREDITS.md` |
+| Texas clothing scenario | Western outfit, store display, boots and belt | `IMAGE_CREDITS.md` |
 
 **Licensing and hosting note:** Pexels photos are embedded from the Pexels CDN and are not yet copied into the repository. Photographer credits and original source-page links are recorded in `IMAGE_CREDITS.md`. External hosting means the site depends on the source CDN remaining available. A later optimization pass should download approved assets, store them locally, compress them to the Visual Style Guide target, and verify the local copies against the source register.
 
