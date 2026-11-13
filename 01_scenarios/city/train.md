@@ -1,5 +1,10 @@
 # Сценарий: на поезде — On the Train (Amtrak)
 
+
+![Passengers walking along a railway platform](https://images.pexels.com/photos/16112871/pexels-photo-16112871.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Pew Nguyen via [Pexels](https://www.pexels.com/photo/people-walking-on-a-platform-at-the-train-station-16112871/).*
+
 ## Как купить билет, найти свой поезд, занять место и чувствовать себя уверенно во время поездки
 
 ### 1. Ситуация
