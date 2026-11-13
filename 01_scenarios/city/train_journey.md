@@ -1,5 +1,10 @@
 # Сценарий: поездка на поезде — The Train Journey
 
+
+![A passenger train waiting at a station platform](https://images.pexels.com/photos/32993883/pexels-photo-32993883.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Martijn Stoof via [Pexels](https://www.pexels.com/photo/modern-train-at-a-european-station-platform-32993883/).*
+
 ## Отправляемся в путешествие и наслаждаемся дорогой
 
 ### 1. Ситуация
