@@ -24,6 +24,29 @@ The repository currently contains **14 image files** in three teaching groups:
 
 The images are original repository assets and should remain the canonical source files.
 
+## 1A. Additional lesson visuals — Pexels
+
+Fourteen Pexels photographs are now embedded in lesson Markdown as externally hosted images, with visible photographer credit and a source link in each lesson. They are not counted in the 14 locally stored image files above.
+
+| Lesson | Visual subject | Source register |
+|---|---|---|
+| Knife | Knife in use on a cutting board | `IMAGE_CREDITS.md` |
+| Table | Wooden kitchen table | `IMAGE_CREDITS.md` |
+| Clock | Vintage wall clock | `IMAGE_CREDITS.md` |
+| Living room | Bright living-room interior | `IMAGE_CREDITS.md` |
+| Bedroom | Bedroom interior | `IMAGE_CREDITS.md` |
+| Bathroom | Modern bathroom | `IMAGE_CREDITS.md` |
+| Tableware | Dining table setting | `IMAGE_CREDITS.md` |
+| Entryway | Home hallway | `IMAGE_CREDITS.md` |
+| Laundry | Laundry room | `IMAGE_CREDITS.md` |
+| Pantry | Organized pantry shelves | `IMAGE_CREDITS.md` |
+| Terrace | Outdoor home terrace | `IMAGE_CREDITS.md` |
+| Sounds and smells | Forest road after rain | `IMAGE_CREDITS.md` |
+| Feelings | Surprise expressions | `IMAGE_CREDITS.md` |
+| Inner feelings | Thoughtful person at a window | `IMAGE_CREDITS.md` |
+
+**Licensing and hosting note:** Pexels photos are embedded from the Pexels CDN and are not yet copied into the repository. Photographer credits and original source-page links are recorded in `IMAGE_CREDITS.md`. External hosting means the site depends on the source CDN remaining available. A later optimization pass should download approved assets, store them locally, compress them to the Visual Style Guide target, and verify the local copies against the source register.
+
 ## 2. Glass — Descriptive Lesson
 
 **Source lesson:** `04_lessons/lesson_01_glass.md`  
