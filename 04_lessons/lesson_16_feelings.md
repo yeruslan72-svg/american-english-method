@@ -5,6 +5,11 @@
 *Photo: Vitaly Gariev via [Pexels](https://www.pexels.com/photo/expressive-reactions-of-a-surprised-couple-36813441/).*
 
 
+![Two people showing surprised facial expressions](https://images.pexels.com/photos/36813441/pexels-photo-36813441.jpeg?cs=srgb&dl=pexels-silverkblack-36813441.jpg&fm=jpg)
+
+*Photo: Vitaly Gariev via [Pexels](https://www.pexels.com/photo/expressive-reactions-of-a-surprised-couple-36813441/).*
+
+
 ## Учимся говорить о внутреннем мире человека
 
 **Тема:** любовь, ненависть, радость, печаль, гордость, вина, раскаяние, страх, предчувствие, надежда и облегчение.
