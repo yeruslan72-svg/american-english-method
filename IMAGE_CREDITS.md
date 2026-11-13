@@ -17,6 +17,11 @@ We provide photographer credits voluntarily. The license for each image applies 
 | Clock | Radwan Menzer | [Photo 17789843](https://www.pexels.com/photo/a-clock-on-a-wall-17789843/) | Vintage wooden wall clock |
 | Living room | Max Vakhtbovych | [Photo 8089170](https://www.pexels.com/photo/an-interior-of-a-living-room-8089170/) | Living room interior |
 
+| Entryway | Alexander Zvir | [Photo 35997622](https://www.pexels.com/photo/elegant-hallway-interior-with-wooden-doors-and-decor-35997622/) | Home hallway and entryway |
+| Terrace | Matheus Bertelli | [Photo 13871238](https://www.pexels.com/photo/house-with-terrace-13871238/) | Outdoor home terrace |
+| Sounds and smells | ROMAN ODINTSOV | [Photo 8747679](https://www.pexels.com/photo/a-road-between-the-trees-8747679/) | Forest road after rain — sensory context |
+| Feelings | Vitaly Gariev | [Photo 36813441](https://www.pexels.com/photo/expressive-reactions-of-a-surprised-couple-36813441/) | Facial expressions of surprise |
+
 ## Implementation note
 
 The Markdown pages currently embed the Pexels CDN image URLs directly and link to each original Pexels photo page. This keeps photographer/source credit visible. If assets are later downloaded and stored locally, retain this register and verify that the downloaded files match the listed source pages.
