@@ -1,0 +1,22 @@
+# Image credits and licensing
+
+American English Method uses selected photographs from Pexels in addition to original repository visuals.
+
+## Pexels license
+
+Pexels states that its photos are free to use for personal and commercial purposes, attribution is not required, and images may be modified. Restrictions include not selling unaltered copies, not redistributing images as a stock-photo service, and not implying endorsement by depicted people or brands. Review the current [Pexels License](https://www.pexels.com/legal-pages/license/) and [Pexels usage rules](https://help.pexels.com/hc/en-us/articles/360042332714-What-are-the-rules-for-using-Pexels-photos-or-videos) before any materially different use.
+
+We provide photographer credits voluntarily. The license for each image applies to the photograph itself; separate rights may still apply to recognizable people, trademarks, artwork, and private property. For that reason, lesson visuals are selected to avoid prominent logos and identifiable people wherever practical.
+
+## Current image register
+
+| Lesson | Photographer | Pexels source | Subject |
+|---|---|---|---|
+| Knife | Klaus Nielsen | [Photo 6294411](https://www.pexels.com/photo/chef-cutting-tomato-with-knife-on-wooden-cutting-board-6294411/) | Kitchen knife in use on a cutting board |
+| Table | Alexander F. Ungerer | [Photo 35996737](https://www.pexels.com/photo/cozy-vintage-kitchen-interior-with-rustic-table-35996737/) | Wooden kitchen table and kitchen setting |
+| Clock | Radwan Menzer | [Photo 17789843](https://www.pexels.com/photo/a-clock-on-a-wall-17789843/) | Vintage wooden wall clock |
+| Living room | Max Vakhtbovych | [Photo 8089170](https://www.pexels.com/photo/an-interior-of-a-living-room-8089170/) | Living room interior |
+
+## Implementation note
+
+The Markdown pages currently embed the Pexels CDN image URLs directly and link to each original Pexels photo page. This keeps photographer/source credit visible. If assets are later downloaded and stored locally, retain this register and verify that the downloaded files match the listed source pages.
