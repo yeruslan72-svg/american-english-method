@@ -1,5 +1,10 @@
 # Урок 11: Опиши прачечную
 
+![A clean home laundry room with a washing machine, shelves, and storage](https://images.pexels.com/photos/19980200/pexels-photo-19980200.jpeg?cs=srgb&dl=pexels-alex-tyson-919593032-19980200.jpg&fm=jpg)
+
+*Photo: Alex Tyson via [Pexels](https://www.pexels.com/photo/a-laundry-room-19980200/).*
+
+
 ## Учимся описывать быт, технику и повседневные дела
 
 ### Ситуация
