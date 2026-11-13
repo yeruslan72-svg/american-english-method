@@ -44,17 +44,17 @@
 
 У меня здесь стакан холодного чая со льдом. Он ледяной, а снаружи на нём образовался конденсат. У стакана есть небольшие грани, которые ловят солнечный свет и создают крошечные световые блики на столе. Очень даже неплохо, если хотите знать моё мнение.
 
-### Version B — Southern English
+### Version B — A Southern-Tinged Description
 
-**A Southern-Style Description**
+**A conversational description with a regional Southern touch**
 
 > Well, that's a mighty pretty glass. It's ice-cold — cold enough to make my fingers ache. It's got these little facets, and when the sunlight hits it, it throws little flashes of light across the table. Pretty, if you ask me.
 
 **Перевод:**
 
-Вот у меня стакан холодного чая со льдом. Он ледяной — пальцы замёрзнут! На нём такие маленькие грани, и когда солнечный свет падает на стекло, оно разбрасывает маленькие блики повсюду. Очень уж красивый, если хотите знать моё мнение.
+Ну и красивый же стакан. Он ледяной — от него пальцы могут заныть от холода. На нём такие маленькие грани, а когда солнечный свет падает на стекло, оно отбрасывает маленькие блики на стол. Красиво, если хотите знать моё мнение.
 
-**Важно:** второй текст намеренно передаёт южную разговорную окраску. Не каждое выражение в нём исключительно южное, и не все жители Юга говорят именно так.
+**Важно:** второй текст не изображает отдельный «южный акцент». Основная фразировка остаётся понятной по всей стране; региональная окраска создаётся прежде всего выражением `mighty pretty`. В реальной речи жители Юга не говорят все одинаково.
 
 ---
 
@@ -62,7 +62,7 @@
 
 | Nationwide American English | Southern English | Что меняется |
 |---|---|---|
-| `I've got a glass` | `I've got a glass` | Обычная общенациональная конструкция; различия здесь нет |
+| `I've got a glass` | — | Обычная общенациональная конструкция; отдельной региональной пары здесь нет |
 | `The glass has...` | `It's got...` | Оба варианта естественны в американской разговорной речи |
 | `create tiny flashes` | `throws little flashes` | Разный выбор глагола, а не устойчивое региональное правило |
 | `Pretty nice` | `Mighty pretty` | Более характерная южная окраска |
@@ -322,9 +322,9 @@
 
 > It's a nice glass. It's got a simple shape, but the little facets make it look interesting. It's cold to the touch, and the sunlight makes it sparkle.
 
-### Example B — Southern-Style English
+### Example B — A Southern-Tinged Conversational Version
 
-> Well, it's a mighty pretty glass. It's got these little facets on it, and the sunlight makes it sparkle. I really like it, y'all.
+> Well, that's a mighty pretty glass. It's got these little facets, and the sunlight makes it sparkle. I really like it.
 
 Это учебные примеры, а не единственно возможные способы говорить.
 
@@ -360,15 +360,12 @@
 | `when the sunlight hits it...` | когда солнечный свет падает на него... |
 | `pretty nice` | довольно неплохо |
 | `if you ask me` | по-моему |
-| `all over the place` | повсюду |
-
 ### 🟡 KNOW IT! — Узнавай и понимай
 
 Эти выражения важно узнавать в разговоре. Некоторые можно использовать самостоятельно, если подходит контекст:
 
 | Expression | Meaning |
 |---|---|
-| `I got me a glass` | разговорная регионально окрашенная конструкция |
 | `mighty pretty` | очень красивый, с южной окраской |
 | `fixin' to` | собираться что-либо сделать |
 | `y'all` | вы, вы все |
@@ -377,7 +374,6 @@
 | `couldja` | разговорное произношение could you |
 | `whatcha` | разговорное произношение what are you |
 | `didja` | разговорное произношение did you |
-| `all over the place` | повсюду |
 
 
 ---
