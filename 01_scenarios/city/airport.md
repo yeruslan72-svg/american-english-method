@@ -6,6 +6,41 @@
 
 ---
 
+## 🎧 Audio Practice — Listen to Real American English
+
+Начнём с настоящей американской аудиозаписи VOA Learning English. В программе разбираются типичные ситуации в аэропорту: регистрация, документы, сдача багажа, досмотр, пересадки и задержки рейсов.
+
+**Listen to the full program (7:06)**
+
+<audio controls preload="none" style="display:block;width:100%;max-width:680px;margin:16px 0;">
+  <source src="https://voa-audio.voanews.eu/vle/2018/12/12/57384861-be09-4a1c-b005-b8686f39f423_hq.mp3" type="audio/mpeg">
+  Your browser does not support the audio player. <a href="https://learningenglish.voanews.com/a/words-to-travel-with-part-2-airports/4697903.html">Open the original VOA audio lesson</a>.
+</audio>
+
+**Your listening task**
+
+При первом прослушивании не пытайся понять каждое слово. Определи, какие этапы путешествия обсуждаются. При втором прослушивании обрати внимание на эти реальные фразы из программы:
+
+| Phrase | Значение |
+|---|---|
+| “May I see your ID?” | Можно посмотреть ваше удостоверение личности? |
+| “Will you be checking any bags today?” | Вы будете сдавать багаж сегодня? |
+| “Please place your bag on the scale.” | Пожалуйста, поставьте сумку на весы |
+| “Please have your IDs and boarding passes out.” | Приготовьте документы и посадочные талоны |
+| “Are you traveling with any liquids?” | Вы провозите жидкости? |
+| “I missed my connecting flight.” | Я опоздал на стыковочный рейс |
+
+**Now practise**
+
+1. Выбери две фразы, которые особенно полезны для тебя.
+2. Прослушай соответствующий фрагмент в оригинальной программе и повтори фразу вслух.
+3. Закрой английский текст и попробуй воспроизвести фразу по памяти.
+4. Сравни услышанное с нашим диалогом ниже: какие выражения совпадают, а какие сформулированы иначе?
+
+**Source:** VOA Learning English, “Words to Travel With, Part 2: Airports” (December 13, 2018). The original VOA Learning English MP3 is used with attribution. The recording opens on the VOA audio server; the full transcript and original publication are available at the source link: [Read the original VOA lesson](https://learningenglish.voanews.com/a/words-to-travel-with-part-2-airports/4697903.html).
+
+---
+
 ### 1. Ситуация — The Situation
 
 Ты летишь в США. Тебе предстоит пройти несколько этапов путешествия:
