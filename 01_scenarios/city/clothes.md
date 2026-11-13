@@ -1,7 +1,7 @@
 # Сценарий: покупка одежды
 
 
-![Cowboy boots, hats, and belts displayed inside a Western store](https://images.pexels.com/photos/37595189/pexels-photo-37595189.jpeg?auto=compress&cs=tinysrgb&w=1600)
+![Cowboy boots, hats, and belts displayed inside a Western store](https://images.pexels.com/photos/37595189/free-photo-of-western-store-interior-with-cowboy-boots-display.jpeg?auto=compress&dpr=1&h=750&w=1260)
 
 *Photo: Daniel Maurício Bertoli via [Pexels](https://www.pexels.com/photo/western-store-interior-with-cowboy-boots-display-37595189/).*
 
