@@ -1,5 +1,10 @@
 # Урок 17: Чувства и внутренние ощущения — Feelings and Inner Feelings
 
+![A man quietly looking out of a window while holding a cup, appearing thoughtful](https://images.pexels.com/photos/31428991/pexels-photo-31428991.jpeg?cs=srgb&dl=pexels-leticia-alvares-1805702-31428991.jpg&fm=jpg)
+
+*Photo: Letícia Alvares via [Pexels](https://www.pexels.com/photo/contemplative-man-at-window-with-cup-31428991/).*
+
+
 ## Учимся говорить о внутреннем мире
 
 ### 1. Ситуация
