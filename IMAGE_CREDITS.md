@@ -27,6 +27,9 @@ We provide photographer credits voluntarily. A photo copyright license does not 
 | Feelings | Vitaly Gariev | [Photo 36813441](https://www.pexels.com/photo/expressive-reactions-of-a-surprised-couple-36813441/) | Facial expressions of surprise |
 | City | David Yu | [Photo 10184977](https://www.pexels.com/photo/buildings-in-a-city-downtown-10184977/) | New York cityscape with modern and historic buildings |
 | Inner feelings | Letícia Alvares | [Photo 31428991](https://www.pexels.com/photo/contemplative-man-at-window-with-cup-31428991/) | Quiet introspection and reflection |
+| Texas clothing scenario — outfit | Umar Faruq | [Photo 35060422](https://www.pexels.com/photo/stylish-cowboy-in-denim-outfit-outdoors-35060422/) | Man in denim outfit, cowboy hat, and boots |
+| Texas clothing scenario — store | Daniel Maurício Bertoli | [Photo 37595189](https://www.pexels.com/photo/western-store-interior-with-cowboy-boots-display-37595189/) | Western store interior with boots, hats, and belts |
+| Texas clothing scenario — boots and belt | Alexander Mass | [Photo 19553458](https://www.pexels.com/photo/leather-boots-and-belt-19553458/) | Western leather boots and matching belt |
 
 ## Implementation note
 
