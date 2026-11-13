@@ -8,38 +8,49 @@
 
 This is my everyday kitchen knife. It's got a stainless steel blade, and it's really sharp. The handle is made of wood, and it feels comfortable in your hand. I use it for a lot of kitchen prep — cutting meat, slicing vegetables, and chopping onions. It's a handy thing to have around the kitchen. I sharpen it myself, so I keep it in good shape. I always use it on a cutting board and keep my fingers clear of the blade.
 
-## Полезные выражения
+## Полезные слова и выражения
 
-| Выражение | Значение |
+| English | Значение |
 |---|---|
-| `This here's...` | Вот этот...; неформальная регионально окрашенная конструкция |
-| `stainless steel blade` | Лезвие из нержавеющей стали |
-| `really sharp` | Очень острый; нейтральный разговорный вариант |\n| `mighty sharp` | Очень острый; выразительное усиление с региональным оттенком |
-| `the handle's made of wood` | Рукоять сделана из дерева |
-| `feels comfortable` | Удобно лежит в руке |\n| `feels real comfortable` | Разговорная диалектная форма; в нейтральной речи лучше `feels really comfortable` |
-| `just about everything` | Практически всё |
-| `chop up onions` | Нарезать лук |
-| `a handy thing to have around` | Полезная вещь под рукой |
-| `keep it in good shape` | Поддерживать в хорошем состоянии |
-| `I sharpen it myself` | Я сам его точу |
+| a kitchen knife | кухонный нож |
+| a blade | лезвие |
+| stainless steel | нержавеющая сталь |
+| a handle | рукоять |
+| sharp / dull | острый / тупой |
+| a cutting board | разделочная доска |
+| to slice vegetables | нарезать овощи ломтиками |
+| to chop onions | рубить / нарезать лук |
+| to sharpen a knife | точить нож |
+| to keep something in good shape | поддерживать что-либо в хорошем состоянии |
+| handy | полезный, удобный под рукой |
 
-## Немного южного колорита
+### Обрати внимание
 
-- `This here's...` — разговорная региональная конструкция.
-- `Mighty sharp` — выразительное усиление.
-- `Y'all` — обращение к нескольким людям.
-- `Fixin' to` — собираюсь что-то сделать или вот-вот сделаю.
+- **Blade** — металлическая часть ножа.
+- **Handle** — часть, за которую держат нож.
+- **Sharp** — острый; **dull** — затупившийся.
+- **Slice** обычно подчёркивает нарезание ломтиками или тонкими кусочками; **chop** — более грубую нарезку.
 
-**Не нужно** вставлять все эти выражения в каждый разговор. Одного-двух достаточно, чтобы речь звучала естественно.
+## Nationwide English and a Southern touch
+
+Для повседневной речи по всей стране используй нейтральные варианты из основного диалога: `This is...`, `really sharp`, `feels comfortable in your hand`.
+
+В непринуждённой речи можно услышать и более окрашенные формы:
+
+- `This here's...` — неформальная регионально окрашенная конструкция; в нейтральной речи используй `This is...`.
+- `mighty sharp` — выразительное «очень острый»; `mighty` может придавать фразе традиционный южный оттенок, но не является исключительно южным.
+- `y'all` — обращение к нескольким людям; широко ассоциируется с Югом, но употребляется и за его пределами.
+- `fixin' to` — характерная южная разговорная форма со значением «собираться / вот-вот».
+
+Не нужно специально вставлять эти выражения в каждый разговор. Сначала освой естественный общенациональный вариант.
 
 ## Твоя практика
 
-Представь, что ты показываешь американскому другу кухонный нож.
+Представь, что ты показываешь американскому другу кухонный нож. Опиши:
 
-Опиши:
 1. Из чего он сделан.
-2. Как выглядит лезвие.
-3. Как ощущается рукоять.
+2. Как выглядят лезвие и рукоять.
+3. Удобно ли его держать.
 4. Для чего ты его используешь.
 5. Как ты за ним ухаживаешь.
 
@@ -49,6 +60,11 @@ This is my everyday kitchen knife. It's got a stainless steel blade, and it's re
 
 ## Статус лексики
 
-- 🟢 **Активно:** `this here's`, `stainless steel blade`, `mighty sharp`, `feels real comfortable`, `just about everything`, `chop up onions`, `a handy thing to have around`, `keep it in good shape`, `I sharpen it myself`
-- 🟡 **Понимать:** `y'all` (вы все — обращение к нескольким), `fixin' to` (вот-вот что-то сделаю)
-- 🔴 **Пассивно:** —
+- 🟢 **Активно:** `kitchen knife`, `stainless steel blade`, `handle`, `really sharp`, `dull`, `cutting board`, `slice vegetables`, `chop onions`, `handy`, `sharpen a knife`, `keep it in good shape`.
+- 🟡 **Понимать:** `This here's` (неформальная региональная конструкция), `mighty sharp` (выразительное усиление), `y'all` (обращение к нескольким), `fixin' to` (южная разговорная форма).
+
+## Главное
+
+**A good description gives the listener something to picture.**
+
+Хорошее описание помогает собеседнику ясно представить предмет.
