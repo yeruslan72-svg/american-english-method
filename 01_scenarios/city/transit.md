@@ -1,5 +1,10 @@
 # Сценарий: метро и автобус в США
 
+
+![A city bus stopping for passengers](https://images.pexels.com/photos/17994718/pexels-photo-17994718.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Guillermo Quiñones via [Pexels](https://www.pexels.com/photo/a-bus-on-the-street-in-city-17994718/).*
+
 ## Как купить билет, найти маршрут и выйти на нужной остановке
 
 ### 1. Ситуация
