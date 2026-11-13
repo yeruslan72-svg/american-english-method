@@ -1,5 +1,10 @@
 # Сценарий: на пароме — On the Ferry
 
+
+![Passengers on the open deck of a ferry](https://images.pexels.com/photos/18113572/pexels-photo-18113572.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: serkan atay via [Pexels](https://www.pexels.com/photo/people-standing-on-decks-of-a-ferry-boat-18113572/).*
+
 ## Как купить билет, найти причал, подняться на борт и насладиться поездкой
 
 ### 1. Ситуация
