@@ -1,5 +1,10 @@
 # Сценарий: в самолёте — On the Airplane
 
+
+![Passengers seated inside an airplane cabin](https://images.pexels.com/photos/1547739/pexels-photo-1547739.jpeg?auto=compress&cs=tinysrgb&w=1600)
+
+*Photo: Daniel Frese via [Pexels](https://www.pexels.com/photo/interior-of-airplane-with-passengers-1547739/).*
+
 ## От посадки на борт до приземления
 
 ### 1. Ситуация
