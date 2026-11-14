@@ -2,23 +2,27 @@
 import BaseLayout from "../layouts/BaseLayout.astro";
 
 const directions = [
-  { number: "01", title: "Everyday Scenarios", description: "Refusals, requests, phone calls, and communication when it matters.", href: "/american-english-method/learn/everyday-scenarios/" },
-  { number: "02", title: "City & Daily Life", description: "Practical English for travel, public places, services, and everyday situations.", href: "/american-english-method/learn/city-daily-life/" },
-  { number: "03", title: "Descriptive Lessons", description: "Learn to notice and describe objects, rooms, places, sounds, and feelings.", href: "/american-english-method/learn/descriptive-lessons/" },
-  { number: "04", title: "Southern English", description: "A clearly marked regional layer — never confused with nationwide usage.", href: "/american-english-method/learn/southern-english/" },
-  { number: "05", title: "Connected Speech", description: "Understand how natural American speech flows, links, and reduces sounds.", href: "/american-english-method/learn/connected-speech/" },
-  { number: "06", title: "Idioms", description: "Useful expressions selected for real conversational value and reach.", href: "/american-english-method/learn/idioms/" },
-  { number: "07", title: "Everyday Expressions", description: "High-frequency conversational patterns for ordinary interaction.", href: "/american-english-method/learn/everyday-expressions/" }
+  { number: "01", title: "Everyday Scenarios", ruTitle: "Повседневные ситуации", description: "Refusals, requests, phone calls, and communication when it matters.", ruDescription: "Отказы, просьбы, телефонные разговоры и общение в важных ситуациях.", href: "/american-english-method/learn/everyday-scenarios/" },
+  { number: "02", title: "City & Daily Life", ruTitle: "Город и повседневная жизнь", description: "Practical English for travel, public places, services, and everyday situations.", ruDescription: "Практический английский для поездок, общественных мест, услуг и обычных дел.", href: "/american-english-method/learn/city-daily-life/" },
+  { number: "03", title: "Descriptive Lessons", ruTitle: "Учимся описывать", description: "Learn to notice and describe objects, rooms, places, sounds, and feelings.", ruDescription: "Учимся замечать детали и описывать предметы, помещения, места, звуки и ощущения.", href: "/american-english-method/learn/descriptive-lessons/" },
+  { number: "04", title: "Southern English", ruTitle: "Южный вариант английского", description: "A clearly marked regional layer — never confused with nationwide usage.", ruDescription: "Региональные особенности юга США — отдельно от общепринятого американского английского.", href: "/american-english-method/learn/southern-english/" },
+  { number: "05", title: "Connected Speech", ruTitle: "Связная разговорная речь", description: "Understand how natural American speech flows, links, and reduces sounds.", ruDescription: "Понимаем, как в живой американской речи слова соединяются, а звуки сокращаются.", href: "/american-english-method/learn/connected-speech/" },
+  { number: "06", title: "Idioms", ruTitle: "Идиомы и устойчивые выражения", description: "Useful expressions selected for real conversational value and reach.", ruDescription: "Выражения, которые действительно часто встречаются в повседневном общении.", href: "/american-english-method/learn/idioms/" },
+  { number: "07", title: "Everyday Expressions", ruTitle: "Разговорные выражения", description: "High-frequency conversational patterns for ordinary interaction.", ruDescription: "Частотные речевые модели для естественного общения каждый день.", href: "/american-english-method/learn/everyday-expressions/" }
 ];
 ---
 <BaseLayout description="A practical method for Russian-speaking learners to understand and use natural, contemporary American English through real-life scenarios.">
   <section class="hero">
     <div class="container">
       <div class="eyebrow">A practical method for real communication</div>
+      <p class="ru-kicker">Практическая методика для живого общения</p>
       <h1>Learn the English people actually use.</h1>
+      <p class="hero-translation">Изучайте английский, которым американцы действительно пользуются в повседневной жизни.</p>
       <p class="hero-copy">Understand how Americans communicate in everyday life — from simple descriptions to real situations, natural reactions, and the flow of spoken language.</p>
+      <p class="ru-copy">Учитесь понимать, как американцы общаются в обычной жизни: описывают предметы, реагируют на ситуации, выражают мысли и поддерживают разговор.</p>
       <div class="hero-rule"></div>
       <div class="hero-principle">Nationwide everyday English · Regional language in context</div>
+      <p class="ru-principle">Общепринятый американский английский · Региональные особенности в контексте</p>
     </div>
   </section>
 
@@ -27,12 +31,18 @@ const directions = [
       <div class="section-heading">
         <div class="eyebrow">The learning approach</div>
         <h2>Language makes sense in context.</h2>
+        <p class="section-translation">Как устроена наша методика</p>
         <p>American English Method connects vocabulary, cultural logic, visual understanding, and real conversational use. The goal is not to memorize isolated phrases, but to recognize what sounds natural — and know when to use it.</p>
+        <p class="ru-copy">Мы соединяем лексику, культурный контекст, визуальное восприятие и живую разговорную практику. Наша цель — не заучивание отдельных фраз, а понимание того, что звучит естественно и в какой ситуации это уместно.</p>
       </div>
       <div class="method-strip" style="margin-inline: calc((min(var(--content), 100vw - 48px) - 100vw) / 2);">
         <div class="container method-inner">
-          <div class="method-title">From seeing to speaking.</div>
+          <div>
+            <div class="method-title">From seeing to speaking.</div>
+            <div class="method-title-ru">От наблюдения к свободной речи</div>
+          </div>
           <div class="method-steps">See <span aria-hidden="true">→</span> Understand <span aria-hidden="true">→</span> Describe <span aria-hidden="true">→</span> Speak</div>
+          <div class="method-steps-ru">Увидеть <span aria-hidden="true">→</span> Понять <span aria-hidden="true">→</span> Описать <span aria-hidden="true">→</span> Сказать</div>
         </div>
       </div>
     </div>
@@ -43,15 +53,21 @@ const directions = [
       <div class="section-heading">
         <div class="eyebrow">The course structure</div>
         <h2>Seven connected learning directions.</h2>
+        <p class="section-translation">Семь взаимосвязанных направлений обучения</p>
         <p>These are complementary layers of the language, not seven rigid levels. Learners can explore them in parallel and build practical ability step by step.</p>
+        <p class="ru-copy">Это не семь последовательных уровней, а взаимодополняющие направления. Их можно изучать параллельно, постепенно развивая практические навыки.</p>
       </div>
       <div class="direction-grid">
         {directions.map((item) => (
           <a class="direction-card" href={item.href}>
             <span class="direction-number">{item.number} / LEARNING DIRECTION</span>
+            <span class="direction-number-ru">НАПРАВЛЕНИЕ ОБУЧЕНИЯ</span>
             <h3>{item.title}</h3>
+            <p class="direction-title-ru">{item.ruTitle}</p>
             <p>{item.description}</p>
+            <p class="ru-copy">{item.ruDescription}</p>
             <span class="arrow">Explore direction ↗</span>
+            <span class="arrow-ru">Перейти к разделу ↗</span>
           </a>
         ))}
       </div>
@@ -63,7 +79,9 @@ const directions = [
       <div class="section-heading">
         <div class="eyebrow">Learn through real situations</div>
         <h2>Start with the visual lessons.</h2>
+        <p class="section-translation">Начните с наглядных уроков</p>
         <p>Photographs are part of the teaching process: they help learners observe details, understand context, and find the words to describe what they see.</p>
+        <p class="ru-copy">Фотографии — часть обучения: они помогают замечать детали, понимать ситуацию и находить слова для описания увиденного.</p>
       </div>
       <div class="featured-grid">
         <a class="feature-card" href="/american-english-method/learn/descriptive-lessons/glass/">
@@ -71,7 +89,9 @@ const directions = [
           <div class="feature-copy">
             <span>Descriptive lesson</span>
             <h3>Describe a Glass</h3>
+            <p class="feature-title-ru">Опишите стакан</p>
             <p>Notice shape, material, details, and the language used to describe an everyday object.</p>
+            <p class="ru-copy">Обратите внимание на форму, материал и детали. Научитесь описывать обычный предмет по-английски.</p>
           </div>
         </a>
         <a class="feature-card" href="/american-english-method/learn/city-daily-life/beach/">
@@ -79,7 +99,9 @@ const directions = [
           <div class="feature-copy">
             <span>City & daily life</span>
             <h3>At the Beach</h3>
+            <p class="feature-title-ru">На пляже</p>
             <p>Understand beach settings, safety information, and useful language for a day by the water.</p>
+            <p class="ru-copy">Изучите лексику о пляже, правила безопасности и выражения, которые пригодятся у воды.</p>
           </div>
         </a>
         <a class="feature-card" href="/american-english-method/learn/city-daily-life/airport/">
@@ -87,7 +109,9 @@ const directions = [
           <div class="feature-copy">
             <span>City & daily life</span>
             <h3>At the Airport</h3>
+            <p class="feature-title-ru">В аэропорту</p>
             <p>Build practical language for check-in, security, boarding, and moving through an airport.</p>
+            <p class="ru-copy">Освойте полезные фразы для регистрации, досмотра, посадки и перемещения по аэропорту.</p>
           </div>
         </a>
       </div>
