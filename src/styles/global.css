@@ -113,3 +113,33 @@ img { display: block; max-width: 100%; }
   .direction-card { min-height: 0; }
   .method-inner { align-items: flex-start; flex-direction: column; }
 }
+
+
+/* Bilingual presentation: English remains primary, Russian provides learner support. */
+.ru-kicker, .hero-translation, .ru-copy, .ru-principle,
+.section-translation, .method-title-ru, .method-steps-ru,
+.direction-number-ru, .direction-title-ru, .arrow-ru, .feature-title-ru {
+  font-family: "DM Sans", sans-serif;
+}
+.ru-kicker { margin: 10px 0 0; color: var(--gold-soft); font-size: 14px; letter-spacing: .03em; }
+.hero-translation { max-width: 700px; margin: 0 0 20px; color: var(--gold-soft); font-size: 17px; line-height: 1.55; }
+.ru-copy { margin: 9px 0 0; color: var(--muted); font-size: 14px; line-height: 1.7; }
+.hero .ru-copy { max-width: 650px; color: #c5cdd6; font-size: 15px; }
+.ru-principle { margin: 10px 0 0; color: #c5cdd6; font-size: 11px; letter-spacing: .04em; }
+.section-translation { margin: -3px 0 14px !important; color: var(--gold) !important; font-size: 15px; font-weight: 600; }
+.method-title-ru { margin-top: 7px; color: #c8d0d9; font-size: 13px; }
+.method-steps-ru { margin-top: 8px; color: #c8d0d9; font-size: 11px; letter-spacing: .08em; text-transform: uppercase; }
+.direction-number-ru { display: block; margin-top: 5px; color: var(--muted); font-size: 9px; letter-spacing: .12em; }
+.direction-title-ru { margin: -3px 0 10px !important; color: var(--gold) !important; font-size: 14px !important; font-weight: 600; }
+.direction-card .ru-copy { font-size: 13px; }
+.direction-card .arrow-ru { display: block; margin-top: 7px; color: var(--muted); font-size: 11px; font-weight: 600; }
+.feature-title-ru { margin: -2px 0 9px !important; color: var(--gold) !important; font-size: 13px !important; font-weight: 600; }
+.feature-copy .ru-copy { font-size: 12px; }
+.main-nav a { display: flex; flex-direction: column; gap: 3px; line-height: 1.2; }
+.main-nav a small { color: #aeb8c3; font-size: 10px; font-weight: 400; }
+.main-nav a:hover small { color: var(--gold-soft); }
+@media (max-width: 760px) {
+  .hero-translation { font-size: 15px; }
+  .method-steps-ru { line-height: 1.8; }
+  .main-nav { align-items: flex-start; }
+}
