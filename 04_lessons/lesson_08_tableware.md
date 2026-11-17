@@ -1,8 +1,8 @@
 # Урок 8: Накрой на стол для семейного праздника
 
-![A warmly lit Christmas dining room at home, with a decorated tree and festive table settings](https://images.pexels.com/photos/5037280/pexels-photo-5037280.jpeg?auto=compress&dpr=1&h=750&w=1260)
+![A welcoming family dining room at Christmas, with a long wooden table, dining chairs, festive food, greenery, and place settings](https://cdn.shopify.com/s/files/1/0275/8390/5878/files/BLOG_IN-TEXT_IMAGES_2_copy_2.png?v=1666729018)
 
-*Photo: Leeloo The First via [Pexels](https://www.pexels.com/photo/a-dining-table-with-chairs-and-table-cloth-during-the-christmas-season-5037280/).*
+*Photo: [Omaze UK](https://omaze.co.uk/blogs/news/take-a-tour-of-the-lake-district-house) — a festive family dining table in a home.*
 
 
 ## Учимся описывать ритуал, приборы и праздничную атмосферу
