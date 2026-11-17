@@ -47,6 +47,12 @@
 
 **Emma — Friend:** That's exactly right!
 
+### Audio Practice
+
+**Emma — Friend & Brian — You:**
+
+<audio controls preload="none"><source src="/american-english-method/audio/setting_the_table/speechma_audio_Emma%20Multilingual%20%26%20Brian%20Multilingual%20(dialogue)_at_4_26_04%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ### Полезная лексика
 
 | English | Russian |
