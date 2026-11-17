@@ -13,6 +13,17 @@
 
 This is my everyday kitchen knife. It's got a stainless steel blade, and it's really sharp. The handle is made of wood, and it feels comfortable in your hand. I use it for a lot of kitchen prep — cutting meat, slicing vegetables, and chopping onions. It's a handy thing to have around the kitchen. I sharpen it myself, so I keep it in good shape. I always use it on a cutting board and keep my fingers clear of the blade.
 
+
+## Audio Practice — Brian & Emma
+
+**1. Brian — Friend**
+
+<audio controls preload="none"><source src="/american-english-method/audio/knife/speechma_audio_Brian%20Multilingual_at_1_35_08%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**2. Emma — You**
+
+<audio controls preload="none"><source src="/american-english-method/audio/knife/speechma_audio_Emma%20Multilingual_at_1_43_06%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ## Полезные слова и выражения
 
 | English | Значение |
