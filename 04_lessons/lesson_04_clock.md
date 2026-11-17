@@ -25,6 +25,16 @@ You can hear it ticking when the house is quiet. And on the hour, it strikes —
 
 It's nothing fancy, but it keeps good time. I've had it for years, and I've gotten used to hearing it in the background. Makes the house feel a little more like home.
 
+## Audio Practice — Emma & Brian
+
+**1. Emma — Friend**
+
+<audio controls preload="none"><source src="/american-english-method/audio/clock/speechma_audio_Emma%20Multilingual_at_2_46_05%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**2. Brian — You**
+
+<audio controls preload="none"><source src="/american-english-method/audio/clock/speechma_audio_Brian%20Multilingual_at_2_49_13%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ### Полезные выражения
 
 | Выражение | Значение |
