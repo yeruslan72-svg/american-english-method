@@ -31,6 +31,16 @@ The roads are wide, the lane markings are clear, and the traffic lights are mode
 
 All in all, it's a busy place, but there's something exciting about it. You never really know what the day might bring.
 
+## Audio Practice — Brian & Emma
+
+**1. Brian — Friend**
+
+<audio controls preload="none"><source src="/american-english-method/audio/city/speechma_audio_Brian%20Multilingual_at_2_24_06%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**2. Emma — You**
+
+<audio controls preload="none"><source src="/american-english-method/audio/city/speechma_audio_Emma%20Multilingual_at_2_27_18%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ---
 
 ### Лексика и выражения
