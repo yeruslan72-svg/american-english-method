@@ -33,16 +33,6 @@ Over on that side, there's a big window with some nice curtains. There's a chand
 
 It's nothing too fancy, but it's warm and comfortable. This is where we spend time together. That's what makes it special.
 
-### Audio Practice
-
-**Emma — Friend**
-
-<audio controls preload="none"><source src="/american-english-method/audio/living_room/speechma_audio_Emma%20Multilingual_at_2_46_05%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
-
-**Brian — You**
-
-<audio controls preload="none"><source src="/american-english-method/audio/living_room/speechma_audio_Brian%20Multilingual_at_2_49_13%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
-
 ### Полезные выражения
 
 | Выражение | Значение |
