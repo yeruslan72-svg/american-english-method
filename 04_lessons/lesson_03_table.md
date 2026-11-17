@@ -19,6 +19,16 @@
 
 Второй вариант намеренно более непринуждённый и регионально окрашенный. `This here's`, `mighty` и `real nice` не следует считать нейтральной моделью для любого региона США.
 
+## Audio Practice — Brian & Emma
+
+**1. Brian — Nationwide American English**
+
+<audio controls preload="none"><source src="/american-english-method/audio/table/speechma_audio_Brian%20Multilingual_at_2_07_50%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**2. Emma — Southern American English**
+
+<audio controls preload="none"><source src="/american-english-method/audio/table/speechma_audio_Emma%20Multilingual_at_2_10_09%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ## Разбор полезных фраз
 
 | Фраза | Значение и употребление |
