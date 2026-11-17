@@ -17,7 +17,11 @@
 
 ### Живой американский диалог
 
-**You:**
+**Emma — Friend:**
+
+"Your bathroom looks so relaxing. What's in there?"
+
+**Brian — You:**
 
 This here's our bathroom. It's a pretty important room, if you ask me.
 
@@ -30,6 +34,16 @@ On the shelf next to the tub, we keep the soap, shampoo, conditioner, shaving cr
 After a long, hard day, there's nothing better than filling up the tub with warm water, adding some bubble bath, and just soaking for a while.
 
 Now that's what I call relaxing!
+
+### Audio Practice
+
+**Emma — Friend:**
+
+<audio controls preload="none"><source src="/american-english-method/audio/bathroom/speechma_audio_Emma%20Multilingual_at_4_01_43%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**Brian — You:**
+
+<audio controls preload="none"><source src="/american-english-method/audio/bathroom/speechma_audio_Brian%20Multilingual_at_4_03_33%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 ### Полезные выражения
 
