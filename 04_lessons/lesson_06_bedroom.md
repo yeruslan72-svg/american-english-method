@@ -17,7 +17,11 @@
 
 ### Живой американский диалог
 
-**You:**
+**Friend (Brian):**
+
+"This looks so peaceful. Tell me about it."
+
+**You (Emma):**
 
 This here's our bedroom. It's probably the quietest room in the house, and that's just the way I like it.
 
@@ -28,6 +32,16 @@ Right next to the bed, there's a nightstand with an alarm clock and a little lam
 There's a small rug right in front of the bed, so it's nice and soft under your feet when you get up.
 
 Nothing too fancy. Just a comfortable, quiet place where you can get a good night's sleep.
+
+### Audio Practice
+
+**Brian — Friend:**
+
+<audio controls preload="none"><source src="/american-english-method/audio/bedroom/speechma_audio_Brian%20Multilingual_at_3_42_58%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**Emma — You:**
+
+<audio controls preload="none"><source src="/american-english-method/audio/bedroom/speechma_audio_Emma%20Multilingual_at_3_44_47%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 ### Полезные выражения
 
