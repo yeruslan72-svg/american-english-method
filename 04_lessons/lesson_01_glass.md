@@ -62,6 +62,95 @@
 
 Это учебный пример с лёгкой южной окраской, а не попытка изобразить единый «южный акцент». В реальной речи жители Юга говорят по-разному.
 
+
+### Dialogue Practice — Brian & Emma
+
+Послушай короткий диалог двух собеседников. Брайан описывает стакан, а Эмма задаёт вопросы и помогает уточнить детали. Каждый фрагмент можно включать отдельно: сначала прослушай реплику целиком, затем повтори её вслух.
+
+**Part 1 — Nationwide American English**
+
+**1. Brian**
+
+> I've got a glass of iced tea here. It's ice-cold, and there's condensation on the outside.
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Brian%20Multilingual_1.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**2. Emma**
+
+> Condensation? You mean those little drops of water on the glass?
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Emma%20Multilingual_2.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**3. Brian**
+
+> That's right. The glass has little facets that catch the sunlight and create tiny flashes of light on the table.
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Brian%20Multilingual_3.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**4. Emma**
+
+> Oh, I see. That's a nice detail. The glass must look pretty interesting in the sunlight.
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Emma%20Multilingual_4.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**5. Brian**
+
+> It does. Pretty nice, if you ask me.
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Brian%20Multilingual_5.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**6. Emma**
+
+> Now let's try a version with a little Southern flavor.
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Emma%20Multilingual_6.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**Part 2 — A Southern-Tinged Description**
+
+**7. Brian**
+
+> Well, that's a mighty pretty glass of sweet tea.
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Brian%20Multilingual_7.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**8. Emma**
+
+> It's ice-cold, and the glass is sweating!
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Emma%20Multilingual_8.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**9. Brian**
+
+> Those little facets catch the sunlight and throw tiny flashes of light across the table.
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Brian%20Multilingual_9.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**10. Emma**
+
+> I sure do like that.
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Emma%20Multilingual_10.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**11. Brian**
+
+> Notice the difference? "Sweet tea" and "mighty pretty" give the description a Southern touch.
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Brian%20Multilingual_11.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**12. Emma**
+
+> But "the glass is sweating" is natural conversational English across the United States, not just in the South.
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Emma%20Multilingual_at_12.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**13. Brian**
+
+> Exactly. Don't just name the object. Describe the experience.
+
+<audio controls preload="none"><source src="/american-english-method/audio/glass/speechma_audio_Brian%20Multilingual_13.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**Как тренироваться:** сначала прослушай диалог по порядку, не читая текст. Затем включай каждую реплику отдельно и повторяй за диктором. В конце попробуй воспроизвести весь разговор без подсказки.
+
 ---
 
 ## 3. Listening Practice — Describing Appearance
