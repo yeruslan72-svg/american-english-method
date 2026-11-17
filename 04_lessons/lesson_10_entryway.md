@@ -43,6 +43,10 @@
 
 **You:** Well, it's mighty handy, that's for sure!
 
+### Аудиодиалог
+
+<audio controls preload="none"><source src="/american-english-method/audio/entryway/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20%28dialogue%29_at_4_51_30%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ### Полезная лексика
 
 | English | Russian |
