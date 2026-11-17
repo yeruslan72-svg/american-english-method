@@ -17,7 +17,11 @@
 
 ### Живой американский диалог
 
-**You:**
+**Friend (Emma):**
+
+Wow, this is cozy. Tell me about this room.
+
+**You (Brian):**
 
 This here's our living room. It's where the whole family gets together in the evening.
 
@@ -28,6 +32,16 @@ We sit around, talk about our day, or watch a good movie together. The kids love
 Over on that side, there's a big window with some nice curtains. There's a chandelier hanging from the ceiling, and above the couch we've got a painting of a beautiful landscape.
 
 It's nothing too fancy, but it's warm and comfortable. This is where we spend time together. That's what makes it special.
+
+### Audio Practice
+
+**Emma — Friend**
+
+<audio controls preload="none"><source src="/american-english-method/audio/living_room/speechma_audio_Emma%20Multilingual_at_2_46_05%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+**Brian — You**
+
+<audio controls preload="none"><source src="/american-english-method/audio/living_room/speechma_audio_Brian%20Multilingual_at_2_49_13%20PM_on_November_17th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 ### Полезные выражения
 
