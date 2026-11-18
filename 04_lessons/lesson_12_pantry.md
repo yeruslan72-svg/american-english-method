@@ -47,6 +47,10 @@
 
 **Friend:** Sounds like a wise woman!
 
+### Аудиодиалог
+
+<audio controls preload="none"><source src="/american-english-method/audio/pantry/speechma_audio_Emma%20Multilingual%20%26%20Brian%20Multilingual%20(dialogue)_at_11_11_34%20AM_on_November_18th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ### Полезная лексика
 
 | English | Russian |
