@@ -55,6 +55,10 @@
 
 **You:** Absolutely. We don't just hear sounds and smell things. We experience the world through them.
 
+
+### Аудиодиалог
+
+<audio controls preload="none"><source src="/american-english-method/audio/sounds_and_smells/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20%28dialogue%29_at_9_39_06%20PM_on_November_18th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 ---
 
 ### 3. Разбираем язык звуков
