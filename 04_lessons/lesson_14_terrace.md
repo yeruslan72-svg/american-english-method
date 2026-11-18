@@ -36,6 +36,10 @@
 
 **Friend:** You got that right. It's a mighty nice way to start the day.
 
+### Аудиодиалог
+
+<audio controls preload="none"><source src="/american-english-method/audio/terrace/speechma_audio_Emma%20Multilingual%20%26%20Brian%20Multilingual%20%28dialogue%29_at_8_55_20%20PM_on_November_18th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ### 3. Разбор
 
 | Выражение | Значение | Естественное употребление |
