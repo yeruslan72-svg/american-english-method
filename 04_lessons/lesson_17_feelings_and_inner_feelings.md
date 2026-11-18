@@ -279,6 +279,10 @@ And sometimes, we feel something without knowing exactly what it is.
 
 That's part of being human.
 
+### Аудиорассказ
+
+<audio controls preload="none"><source src="/american-english-method/audio/feelings_and_inner_feelings/speechma_audio_Emma%20Multilingual_at_1_49_15%20AM_on_November_19th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 **Перевод:**
 
 Каждый день люди испытывают множество разных чувств. Иногда мы счастливы, воодушевлены и благодарны. В другое время мы можем испытывать грусть, тревогу или разочарование.
