@@ -115,4 +115,4 @@
 
 - 🟢 **Активно:** `this here's`, `pantry`, `canned goods`, `dry goods`, `snacks`, `spices`, `spice rack`, `grocery list`, `help yourself`, `we're all stocked up`, `the pantry is well stocked`, `stock up on groceries`, `we're running low on`, `we're out of`, `keep everything within easy reach`, `it saves us a trip to the store`, `mighty handy`
 - 🟡 **Понимать:** `pantry shelves` (полки в кладовой), `groceries` (продукты), `crackers` (крекеры), `chips` (чипсы), `cookies` (печенье), `flour` (мука), `sugar` (сахар), `storage jars` (банки для хранения), `food containers` (контейнеры для продуктов), `a little bit of everything` (всего понемногу), `put it back where you found it` (положи обратно на место)
-- 🔴 **Пассивно:** —
+- 🔴 **Пассивно:** `that kind of thing` (всё в таком духе), `keep a good supply of` (держать хороший запас), `every other day` (через день), `peace of mind` (душевное спокойствие), `sounds like a wise woman` (похоже, она была мудрой женщиной)
