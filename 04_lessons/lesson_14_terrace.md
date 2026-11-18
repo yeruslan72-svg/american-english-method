@@ -1,9 +1,6 @@
 # Урок 14: Опиши заднюю террасу
 
-![A sunny home terrace with outdoor seating and a wooden deck](https://images.pexels.com/photos/13871238/pexels-photo-13871238.jpeg?cs=srgb&dl=pexels-bertellifotografia-13871238.jpg&fm=jpg)
-
-*Photo: Matheus Bertelli via [Pexels](https://www.pexels.com/photo/house-with-terrace-13871238/).*
-
+![A traditional Southern-style American porch with white columns, rocking chairs, a porch swing, and a shaded lawn](/american-english-method/images/terrace/%D0%A3%D1%8E%D1%82%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B5%D1%80%D0%B0%D0%BD%D0%B4%D0%B0%20%D0%B2%20%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%BC%20%D1%81%D1%82%D0%B8%D0%BB%D0%B5.png)
 
 ## Учимся описывать утро, тишину и покой
 
