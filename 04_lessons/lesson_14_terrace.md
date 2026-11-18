@@ -94,7 +94,7 @@
 
 - 🟢 **Активно:** `been up long`, `pretty peaceful`, `there's a little breeze`, `sit back`, `sip your coffee`, `watch the sun come up`, `nothing better than this`, `you got that right`
 - 🟡 **Понимать:** `mighty nice` (южное усиление, «очень приятно»), `sit a spell` (посидеть немного — региональное)
-- 🔴 **Пассивно:** —
+- 🔴 **Пассивно:** `nowhere you need to be` (никуда не нужно спешить или идти), `in the distance` (вдалеке), `when the weather's nice` (когда погода хорошая)
 
 ---
 
