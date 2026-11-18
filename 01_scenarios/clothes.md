@@ -176,6 +176,10 @@
 
 **You:** Thanks, I appreciate it.
 
+### Аудиодиалог — часть 4
+
+<audio controls preload="none"><source src="/american-english-method/audio/clothes/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20%28dialogue%29_4.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ---
 
 ## Оплата на кассе
