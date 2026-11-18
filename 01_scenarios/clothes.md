@@ -140,6 +140,18 @@
 
 **You:** Perfect. I'll take those as well.
 
+### Аудиодиалог — часть 1
+
+<audio controls preload="none"><source src="/american-english-method/audio/clothes/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20%28dialogue%29_1.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+### Аудиодиалог — часть 2
+
+<audio controls preload="none"><source src="/american-english-method/audio/clothes/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20%28dialogue%29_2.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+### Аудиодиалог — часть 3
+
+<audio controls preload="none"><source src="/american-english-method/audio/clothes/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20%28dialogue%29_3.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ---
 
 ## Подготовка вещей
