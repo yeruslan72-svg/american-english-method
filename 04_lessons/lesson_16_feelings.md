@@ -68,6 +68,11 @@
 
 **You:** Me too. It feels good to talk about things that really matter.
 
+
+### Аудиодиалог
+
+<audio controls preload="none"><source src="/american-english-method/audio/feelings/speechma_audio_Emma%20Multilingual%20%26%20Brian%20Multilingual%20%28dialogue%29_at_1_32_18%20AM_on_November_19th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ---
 
 ## 3. Разбор живой речи
