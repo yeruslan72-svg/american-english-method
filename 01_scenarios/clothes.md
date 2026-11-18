@@ -214,6 +214,10 @@
 
 **Cashier:** You too, sir. Take care!
 
+### Аудиодиалог — часть 5
+
+<audio controls preload="none"><source src="/american-english-method/audio/clothes/speechma_audio_Ava%20Multilingual%20%26%20Brian%20Multilingual%205.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ![Rows of authentic leather cowboy boots displayed on shelves inside a Western footwear store](https://images.pexels.com/photos/6752430/pexels-photo-6752430.jpeg?auto=compress&dpr=1&h=750&w=1260)
 
 *Photo: Rachel Claire via [Pexels](https://www.pexels.com/photo/cowboy-boots-on-shelves-6752430/).*
