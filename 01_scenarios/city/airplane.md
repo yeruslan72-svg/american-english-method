@@ -245,6 +245,9 @@ Thank you for your attention. We wish you a pleasant flight."
 - **Could you turn down the air vent?** — Не могли бы вы уменьшить поток воздуха из вентиляции?
 - **Where's the restroom?** — Где туалет?
 
+
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20%28dialogue%29_at_13.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 ### 8. Разговор с соседями — Talking to Your Seatmate
 
 Самолёт — ещё одно место, где можно познакомиться с интересными людьми.
@@ -281,6 +284,9 @@ Thank you for your attention. We wish you a pleasant flight."
 - **I'm here on vacation.** — Я здесь в отпуске.
 - **How long are you staying?** — Как долго вы собираетесь здесь оставаться?
 - **I hope you enjoy your trip.** — Надеюсь, вам понравится поездка.
+
+
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20%28dialogue%29_14.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 ### 9. Турбулентность — Turbulence
 
