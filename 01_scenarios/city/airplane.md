@@ -75,8 +75,6 @@
 
 **Passenger:** Will do.
 
-### Аудио — заключительные пять реплик
-
 <audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20(dialogue)_11.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 ### 3. Устроиться на своём месте — Getting Settled In
