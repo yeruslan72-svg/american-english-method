@@ -87,6 +87,12 @@
 
 ---
 
+<audio controls preload="none"><source src="/american-english-method/audio/beach/speechma_audio_Emma%20Multilingual%20%26%20Brian%20Multilingual%20%28dialogue%29_1.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+---
+
+
+
 ## 3. Finding a Spot — Выбираем место на пляже
 
 **You:** This looks like a nice spot. Let's set up here.
@@ -152,6 +158,12 @@
 
 ---
 
+<audio controls preload="none"><source src="/american-english-method/audio/beach/speechma_audio_Emma%20Multilingual%20%26%20Brian%20Multilingual%20%28dialogue%29_2.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+---
+
+
+
 ## 4. Beach Flags and Safety — Пляжные флаги и безопасность
 
 На многих пляжах США используют цветные флаги, чтобы предупреждать посетителей об условиях для купания.
@@ -216,6 +228,12 @@
 | Call 911! | Позвоните 911! |
 
 ---
+
+<audio controls preload="none"><source src="/american-english-method/audio/beach/speechma_audio_Emma%20Multilingual_at_1_58_34%20AM_on_November_20th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+---
+
+
 
 ## 5. Sun Protection — Защита от солнца
 
@@ -285,6 +303,12 @@
 На упаковках водостойких средств обычно указывают продолжительность водостойкости — 40 или 80 минут. Полностью водонепроницаемых солнцезащитных кремов не существует.
 
 ---
+
+<audio controls preload="none"><source src="/american-english-method/audio/beach/speechma_audio_Emma%20Multilingual%20%26%20Brian%20Multilingual%20%28dialogue%29_at_1_54_18%20AM_on_November_20th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+---
+
+
 
 ## 6. Beach Essentials — Пляжные принадлежности
 
@@ -430,6 +454,12 @@
 Это пример разговорной южной окраски, а не обязательная модель речи для всех жителей Юга.
 
 ---
+
+<audio controls preload="none"><source src="/american-english-method/audio/beach/speechma_audio_Emma%20Multilingual%20%26%20Brian%20Multilingual%20%28dialogue%29_at_1_56_13%20AM_on_November_20th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+---
+
+
 
 ## 10. Connected Speech — Как американцы соединяют слова
 
