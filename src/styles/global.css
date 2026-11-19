@@ -33,17 +33,16 @@ img { display: block; max-width: 100%; }
   border-bottom: 1px solid rgba(232, 220, 193, .22);
 }
 .header-inner {
-  min-height: 78px;
+  min-height: 94px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 28px;
 }
-.brand { display: flex; align-items: center; gap: 13px; }
-.brand-mark {
-  width: 38px; height: 38px; display: grid; place-items: center;
-  border: 1px solid var(--gold); color: var(--gold);
-  font-family: "Playfair Display", serif; font-size: 20px;
+.brand { display: flex; align-items: center; gap: 15px; flex-shrink: 0; }
+.brand-emblem {
+  width: 112px; height: 63px; object-fit: cover; object-position: left center;
+  border: 1px solid rgba(184,149,82,.7);
 }
 .brand-name { font-family: "Playfair Display", serif; font-size: 18px; letter-spacing: .02em; }
 .main-nav { display: flex; gap: 25px; align-items: center; color: #e6e8eb; font-size: 13px; }
@@ -103,7 +102,8 @@ img { display: block; max-width: 100%; }
 .site-footer strong { color: var(--gold-soft); font-weight: 500; }
 
 @media (max-width: 760px) {
-  .header-inner { padding: 15px 0; align-items: flex-start; flex-direction: column; gap: 13px; }
+  .header-inner { padding: 13px 0; align-items: flex-start; flex-direction: column; gap: 13px; }
+  .brand-emblem { width: 100px; height: 56px; }
   .main-nav { gap: 17px; flex-wrap: wrap; font-size: 12px; }
   .header-note { display: none; }
   .hero { padding: 70px 0 66px; }
