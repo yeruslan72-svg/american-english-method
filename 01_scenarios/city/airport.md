@@ -89,6 +89,8 @@
 
 **You:** Thank you.
 
+<audio controls preload="none"><source src="/american-english-method/audio/airport/speechma_audio_Emma%20Multilingual%20%26%20Brian%20Multilingual%20(dialogue)_at_4_15_44%20PM_on_November_19th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 #### Разбор выражений
 
 | Выражение | Значение | Употребление |
@@ -165,6 +167,8 @@
 **You:** Thank you. Where do I go for security?
 
 **Airline Agent:** Just follow the signs to the security checkpoint.
+
+<audio controls preload="none"><source src="/american-english-method/audio/airport/speechma_audio_Emma%20Multilingual%20%26%20Brian%20Multilingual%20(dialogue)_at_4_20_55%20PM_on_November_19th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 #### Разбор выражений
 
@@ -509,6 +513,8 @@
 **CBP Officer:** All right. Welcome to the United States.
 
 **You:** Thank you.
+
+<audio controls preload="none"><source src="/american-english-method/audio/airport/speechma_audio_Emma%20Multilingual%20%26%20Brian%20Multilingual%20(dialogue)_at_4_25_43%20PM_on_November_19th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 #### Разбор выражений
 
