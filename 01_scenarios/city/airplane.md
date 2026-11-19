@@ -163,6 +163,8 @@ If you're seated near an emergency exit, please review the special instructions 
 
 Thank you for your attention. We wish you a pleasant flight."
 
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Andrew%20Multilingual_at_12.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 **Перевод основных инструкций:**
 
 - **Please fasten your seat belt.** — Пожалуйста, пристегните ремень безопасности.
