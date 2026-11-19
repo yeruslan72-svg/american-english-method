@@ -456,6 +456,8 @@
 
 **You:** All right. Thank you.
 
+<audio controls preload="none"><source src="/american-english-method/audio/airport/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20(dialogue)_at_4.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 #### Разбор выражений
 
 | Выражение | Значение | Употребление |
@@ -515,6 +517,8 @@
 **CBP Officer:** All right. Welcome to the United States.
 
 **You:** Thank you.
+
+<audio controls preload="none"><source src="/american-english-method/audio/airport/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20(dialogue)_at_5.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 #### Разбор выражений
 
@@ -580,6 +584,10 @@ CBP — пограничная и таможенная служба США. Им
 
 **Friend:** Great. Let's head out.
 
+<audio controls preload="none"><source src="/american-english-method/audio/airport/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20(dialogue)_at_6.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
+<audio controls preload="none"><source src="/american-english-method/audio/airport/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20(dialogue)_at_7.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 #### Разбор выражений
 
 | Выражение | Значение | Употребление |
@@ -623,6 +631,8 @@ CBP — пограничная и таможенная служба США. Им
 **Airline Staff:** We'll give you a reference number and contact information.
 
 **You:** Thank you for your help.
+
+<audio controls preload="none"><source src="/american-english-method/audio/airport/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20(dialogue)_8.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 #### Разбор выражений
 
@@ -669,6 +679,8 @@ CBP — пограничная и таможенная служба США. Им
 **Friend:** No problem. Let's head out. The car's parked outside.
 
 **You:** Sounds good. Thanks again for the ride.
+
+<audio controls preload="none"><source src="/american-english-method/audio/airport/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20(dialogue)_9.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 #### Разбор выражений
 
