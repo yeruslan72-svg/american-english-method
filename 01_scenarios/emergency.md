@@ -40,6 +40,10 @@
 - `There are two people injured.` — Два человека пострадали.
 - `Everyone is okay.` — Все в порядке.
 
+### Аудиотренировка
+
+<audio controls preload="none"><source src="/american-english-method/audio/emergency/speechma_audio_Emma%20Multilingual_at_3_07_47%20AM_on_November_19th_2026.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 **Пример:**
 
 *«I need an ambulance. I'm at 123 Main Street, apartment 4B. My father is having severe chest pain.»*
