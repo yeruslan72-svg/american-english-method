@@ -27,23 +27,43 @@
 
 **Flight Attendant:** Good afternoon! Welcome aboard.
 
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Emma%20Multilingual_1.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 **Passenger:** Good afternoon!
+
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Brian%20Multilingual_2.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 **Flight Attendant:** May I see your boarding pass, please?
 
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Emma%20Multilingual_3.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 **Passenger:** Sure. Here you go.
+
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Brian%20Multilingual_4.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 **Flight Attendant:** Thank you. You're in seat 18A. That's on your left, by the window.
 
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Emma%20Multilingual_5.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 **Passenger:** Great, thank you.
+
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Brian%20Multilingual_6.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 **Passenger:** Excuse me, could I get past you? My seat is by the window.
 
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Brian%20Multilingual_7.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 **Other Passenger:** Oh, sure. Let me move my bag.
+
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Andrew%20Multilingual_8.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 **Passenger:** Thanks, I appreciate it.
 
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Brian%20Multilingual_9.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
+
 **Other Passenger:** No problem.
+
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Andrew%20Multilingual_10.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 **Passenger:** Excuse me, could you help me with my carry-on?
 
@@ -54,6 +74,10 @@
 **Flight Attendant:** You're welcome. Please make sure your bag is securely stowed.
 
 **Passenger:** Will do.
+
+### Аудио — заключительные пять реплик
+
+<audio controls preload="none"><source src="/american-english-method/audio/boarding/speechma_audio_Brian%20Multilingual%20%26%20Emma%20Multilingual%20(dialogue)_11.mp3" type="audio/mpeg">Your browser does not support audio playback.</audio>
 
 ### 3. Устроиться на своём месте — Getting Settled In
 
