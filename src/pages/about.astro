@@ -1,0 +1,65 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+<BaseLayout title="About AEM" description="Discover why American English Method was created, who it is for, and how it helps learners understand contemporary American English.">
+  <section class="intro-hero">
+    <div class="container">
+      <p class="eyebrow">ABOUT AMERICAN ENGLISH METHOD</p>
+      <h1>More than learning words. Understanding how Americans communicate.</h1>
+      <p class="lead">American English Method was created to make learning practical, meaningful, and connected to real life.</p>
+      <p class="translation">Не просто учить слова, а понимать, как американцы действительно общаются.</p>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container content">
+      <a class="back-link" href="/american-english-method/">← Home</a>
+      <h2>Why AEM was created</h2>
+      <p>I wanted to build a place where learners could move beyond isolated vocabulary lists and textbook examples. Real communication depends on context: what is happening, what a speaker means, how people respond, and which words sound natural in that situation.</p>
+      <p class="translation">Я хотел создать пространство, где изучение языка выходит за рамки отдельных слов и учебных примеров. Живое общение зависит от контекста: что происходит, что человек имеет в виду, как собеседники реагируют и какие выражения естественны в конкретной ситуации.</p>
+      <p>That is why AEM brings together visual lessons, everyday scenarios, listening practice, spoken expressions, pronunciation awareness, and cultural context.</p>
+      <h2>Who is it for?</h2>
+      <div class="cards">
+        <article><h3>English learners</h3><p>People who want to understand and use contemporary American English in everyday communication.</p></article>
+        <article><h3>Returning learners</h3><p>People who have studied English before but want to make their knowledge more active, natural, and useful.</p></article>
+        <article><h3>Travellers and curious minds</h3><p>People preparing to visit the United States or simply interested in American life, language, and culture.</p></article>
+      </div>
+      <h2>What makes the approach different?</h2>
+      <ul>
+        <li><strong>Context before memorisation.</strong> Language is presented in situations, not as disconnected lists.</li>
+        <li><strong>Useful American English.</strong> We prioritise common, natural expressions understood across the United States.</li>
+        <li><strong>Active use.</strong> Learners are encouraged to describe, respond, repeat, recall, and speak.</li>
+        <li><strong>Culture matters.</strong> Language, customs, literature, art, and everyday life help explain one another.</li>
+      </ul>
+      <h2>Our language standard</h2>
+      <p>The foundation is contemporary, widely understood American English. Regional features, including Southern English, are identified as regional rather than presented as universal usage. We aim for practical accuracy, natural examples, and clear explanations.</p>
+      <div class="closing">
+        <p class="eyebrow">THE AEM IDEA</p>
+        <h2>See → Understand → Describe → Speak</h2>
+        <p>Learn the language. Feel the culture. Speak naturally.</p>
+        <a class="cta" href="/american-english-method/start-here/">Find your starting point →</a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+<style>
+.intro-hero{padding:78px 0 84px;background:linear-gradient(120deg,#0d1929,#1b304a);color:#fffefa}
+.intro-hero .container,.content{max-width:940px}
+.eyebrow{color:#c5a267;font-size:11px;font-weight:700;letter-spacing:.18em}
+h1{max-width:850px;margin:18px 0;font:600 clamp(38px,6vw,62px)/1.12 "Playfair Display",serif}
+.lead{max-width:760px;color:#e0e4e9;font-size:20px;line-height:1.65}
+.translation{color:#8a929b;font-size:14px;line-height:1.7}
+.intro-hero .translation{color:#c5cdd6}
+.content{padding-top:34px;padding-bottom:80px}
+.content h2{margin:48px 0 16px;color:#172538;font:600 30px "Playfair Display",serif}
+.content p,.content li{font-size:16px;line-height:1.8;color:#354253}
+.content li{margin:10px 0}
+.cards{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.cards article{padding:22px;border:1px solid #e2ded5;border-top:3px solid #b89552;background:#fffefa}
+.cards h3{margin:0 0 10px;color:#172538}
+.cards p{margin:0;font-size:14px}
+.closing{margin-top:56px;padding:34px;background:#0d1929;color:#fffefa}
+.closing h2{margin:12px 0;color:#fffefa}
+.closing p{color:#d7dce2}
+.cta{display:inline-block;margin-top:12px;padding:12px 18px;background:#b89552;color:#101c2b;text-decoration:none;font-weight:700}
+@media(max-width:700px){.cards{grid-template-columns:1fr}.intro-hero{padding:58px 0}.content h2{font-size:26px}}
+</style>
