@@ -117,4 +117,44 @@ const directions = [
       </div>
     </div>
   </section>
+
+  <section class="section discovery-section">
+    <div class="container">
+      <div class="section-heading">
+        <div class="eyebrow">Go beyond the language</div>
+        <h2>Explore the story and culture of America.</h2>
+        <p class="section-translation">Откройте для себя историю и культуру Америки</p>
+        <p>Language is part of a much bigger story. Discover the history, peoples, literature, art, and traditions that have shaped the United States.</p>
+        <p class="ru-copy">Язык — часть большой истории. Знакомьтесь с историей страны, её народами, литературой, искусством и традициями.</p>
+      </div>
+      <div class="discovery-grid">
+        <a class="discovery-card" href="/american-english-method/learn/history-heritage/">
+          <span>HISTORY · PEOPLES · HERITAGE</span>
+          <h3>American History & Heritage</h3>
+          <p>From the many Indigenous nations of North America to the events and ideas that shaped the United States.</p>
+          <p class="ru-copy">От истории коренных народов до событий и идей, сформировавших Соединённые Штаты.</p>
+          <strong>Explore history ↗</strong>
+        </a>
+        <a class="discovery-card" href="/american-english-method/learn/culture-arts/">
+          <span>LITERATURE · ART · MUSIC</span>
+          <h3>American Culture & Arts</h3>
+          <p>Meet American writers, poets, artists, musicians, filmmakers, and performers.</p>
+          <p class="ru-copy">Знакомьтесь с американскими писателями, поэтами, художниками, музыкантами и артистами.</p>
+          <strong>Explore culture ↗</strong>
+        </a>
+      </div>
+    </div>
+  </section>
+  <style>
+    .discovery-section{background:#f4f1eb}
+    .discovery-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+    .discovery-card{display:block;padding:30px;border:1px solid var(--line);background:var(--white);transition:background .2s,border-color .2s}
+    .discovery-card:hover{background:#fbf8f0;border-color:var(--gold)}
+    .discovery-card>span{color:var(--gold);font-size:10px;font-weight:700;letter-spacing:.14em}
+    .discovery-card h3{margin:13px 0 10px;color:var(--navy);font:600 26px "Playfair Display",serif}
+    .discovery-card p{color:var(--muted);font-size:14px;line-height:1.7}
+    .discovery-card strong{display:inline-block;margin-top:12px;color:#8b6b32;font-size:11px;letter-spacing:.08em;text-transform:uppercase}
+    @media(max-width:700px){.discovery-grid{grid-template-columns:1fr}.discovery-card{padding:23px}}
+  </style>
+
 </BaseLayout>
