@@ -4,7 +4,7 @@ American English Method combines original repository visuals with selected free 
 
 ## Pexels license
 
-Pexels states that its photos are free to use for personal and commercial purposes, attribution is not required, and images may be modified. Restrictions include not selling unaltered copies, not redistributing images as a stock-photo service, and not implying endorsement by depicted people or brands. Review the current [Pexels License](https://www.pexels.com/legal-pages/license/) and [Pexels usage rules](https://help.pexels.com/hc/en-us/articles/360042332714-What-are-the-rules-for-using-Pexels-photos-or-videos) before any materially different use.
+Pexels states that its photos are free to use for personal and commercial purposes, attribution is not required, and images may be modified. Restrictions include not selling unaltered copies, not redistributing images as a stock-photo service, and not implying endorsement by depicted people or brands. Review the current [Pexels License](https://www.pexels.com/license/), [full Terms of Service](https://www.pexels.com/terms-of-service/), and [Pexels usage rules](https://help.pexels.com/hc/en-us/articles/360042332714-What-are-the-rules-for-using-Pexels-photos-or-videos) before any materially different use. The current Terms also prohibit bulk/systematic copying without permission and compiling Pexels content to replicate a competing service.
 
 We provide photographer credits voluntarily. A photo copyright license does not automatically clear every separate right that may apply to recognizable people, trademarks, artwork, or private property. We therefore avoid prominent logos and use people-focused images only where they directly support the lesson.
 
@@ -54,3 +54,12 @@ We provide photographer credits voluntarily. A photo copyright license does not 
 ## Implementation note
 
 The lesson Markdown currently embeds Pexels CDN image URLs directly and links to each original Pexels photo page. This preserves visible photographer/source credit. If assets are later downloaded and stored locally, retain this register and verify that each local file matches the listed source page.
+
+
+## Rights review record
+
+- **Checked:** 20 November 2026.
+- **Commercial use:** Pexels' current license and Terms permit commercial use of individual photos, subject to prohibited-use restrictions.
+- **Separate rights:** The license does not automatically clear identifiable people, trademarks/logos, artwork, buildings/architecture, privacy, publicity, or property rights. Review the actual image and context.
+- **Use in AEM:** Individual lesson illustrations with attribution and meaningful educational context. Do not redistribute images as standalone files, create a stock-photo collection, or perform bulk/systematic copying.
+- **Status:** The 37 listed source pages are inventoried; each remains conditional pending asset-level review of depicted third-party rights and deployed-file matching.
