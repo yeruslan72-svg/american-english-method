@@ -27,12 +27,12 @@ jobs:
       - name: Prepare local Founding Fathers portraits
         run: |
           mkdir -p public/images/founders
-          curl -fL --retry 4 --retry-delay 2 -A "AmericanEnglishMethod/1.0" "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gilbert_Stuart_-_George_Washington_-_WGA21945.jpg/900px-Gilbert_Stuart_-_George_Washington_-_WGA21945.jpg" -o public/images/founders/washington.jpg
-          curl -fL --retry 4 --retry-delay 2 -A "AmericanEnglishMethod/1.0" "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Rembrandt_Peale_-_Thomas_Jefferson_-_Google_Art_Project.jpg/900px-Rembrandt_Peale_-_Thomas_Jefferson_-_Google_Art_Project.jpg" -o public/images/founders/jefferson.jpg
-          curl -fL --retry 4 --retry-delay 2 -A "AmericanEnglishMethod/1.0" "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/900px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg" -o public/images/founders/franklin.jpg
-          curl -fL --retry 4 --retry-delay 2 -A "AmericanEnglishMethod/1.0" "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/John_Adams_Portrait.jpg/900px-John_Adams_Portrait.jpg" -o public/images/founders/adams.jpg
-          curl -fL --retry 4 --retry-delay 2 -A "AmericanEnglishMethod/1.0" "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/James_Madison_by_Gilbert_Stuart.jpg/900px-James_Madison_by_Gilbert_Stuart.jpg" -o public/images/founders/madison.jpg
-          curl -fL --retry 4 --retry-delay 2 -A "AmericanEnglishMethod/1.0" "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg/900px-John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg" -o public/images/founders/hamilton.jpg
+          curl -fL --retry 4 --retry-delay 2 -A "AmericanEnglishMethod/1.0" "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Gilbert_Stuart_-_George_Washington_-_WGA21945.jpg/960px-Gilbert_Stuart_-_George_Washington_-_WGA21945.jpg" -o public/images/founders/washington.jpg
+          curl -fL --retry 4 --retry-delay 2 -A "AmericanEnglishMethod/1.0" "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Rembrandt_Peale_-_Thomas_Jefferson_-_Google_Art_Project.jpg/960px-Rembrandt_Peale_-_Thomas_Jefferson_-_Google_Art_Project.jpg" -o public/images/founders/jefferson.jpg
+          curl -fL --retry 4 --retry-delay 2 -A "AmericanEnglishMethod/1.0" "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg/960px-Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg" -o public/images/founders/franklin.jpg
+          curl -fL --retry 4 --retry-delay 2 -A "AmericanEnglishMethod/1.0" "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/John_Adams_Portrait.jpg/960px-John_Adams_Portrait.jpg" -o public/images/founders/adams.jpg
+          curl -fL --retry 4 --retry-delay 2 -A "AmericanEnglishMethod/1.0" "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/James_Madison_by_Gilbert_Stuart.jpg/960px-James_Madison_by_Gilbert_Stuart.jpg" -o public/images/founders/madison.jpg
+          curl -fL --retry 4 --retry-delay 2 -A "AmericanEnglishMethod/1.0" "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg/960px-John_Trumbull_-_Alexander_Hamilton_-_Google_Art_Project.jpg" -o public/images/founders/hamilton.jpg
       - name: Install dependencies
         run: npm install
       - name: Check Astro and TypeScript
