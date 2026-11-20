@@ -78,7 +78,7 @@ This recording is about describing pets, not describing a glass. It is included 
 - [x] Player streams from the original VOA audio host; no local copy.
 - [ ] Test playback on the deployed website and on mobile browsers.
 
-## Future audio entries
+## General guidance
 
 Add a new entry for every external recording. Record the exact program page, direct media URL, creator/publisher, date, license or permission, attribution wording, and whether the asset is embedded, linked, or hosted locally. Do not assume that an audio file is reusable merely because it is publicly accessible or embedded in a broadcaster's page.
 
