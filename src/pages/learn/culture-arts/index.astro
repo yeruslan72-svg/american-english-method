@@ -1,0 +1,59 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+---
+<BaseLayout title="American Culture & Arts" description="Explore American literature, poetry, visual art, music, film, and performing arts while learning the language in cultural context.">
+  <section class="culture-hero"><div class="container">
+    <p class="eyebrow">EXPLORE THE CULTURE</p>
+    <h1>American Culture & Arts</h1>
+    <p class="lead">Meet the writers, poets, artists, musicians, and performers whose work helps tell the story of America.</p>
+    <p class="translation">Знакомство с американской литературой, поэзией, живописью, музыкой, кино и театром.</p>
+  </div></section>
+  <section class="section"><div class="container culture-content">
+    <a class="back-link" href="/american-english-method/">← Home</a>
+    <p class="intro">Language lives inside culture. Stories, poems, paintings, music, and films reveal how people see the world, express emotion, use humour, and describe everyday life. This section brings cultural discovery together with practical English learning.</p>
+    <p class="translation">Культура помогает глубже понять язык: художественные произведения, музыка и кино показывают, как люди думают, чувствуют, шутят и выражают свои мысли.</p>
+    <div class="culture-grid">
+      <article><div class="number">01</div><h2>American Writers</h2><p>Discover novels, short stories, essays, and the voices that shaped American literature.</p><p class="examples">Mark Twain · Ernest Hemingway · Harper Lee · John Steinbeck</p></article>
+      <article><div class="number">02</div><h2>American Poetry</h2><p>Read poems in the original, explore their meaning, and notice imagery, rhythm, and language.</p><p class="examples">Walt Whitman · Emily Dickinson · Robert Frost · Maya Angelou</p></article>
+      <article><div class="number">03</div><h2>American Artists</h2><p>Explore paintings, illustration, photography, and the stories behind influential works.</p><p class="examples">Georgia O’Keeffe · Edward Hopper · Norman Rockwell · Jackson Pollock</p></article>
+      <article><div class="number">04</div><h2>Music & Musicians</h2><p>Discover the cultural roots and influence of jazz, blues, country, rock, and other American music traditions.</p><p class="examples">Louis Armstrong · Bessie Smith · Johnny Cash · Aretha Franklin</p></article>
+      <article><div class="number">05</div><h2>Film & Acting</h2><p>Explore American cinema, memorable performances, storytelling, and everyday language on screen.</p><p class="examples">Film history · Actors · Directors · Screen language</p></article>
+      <article><div class="number">06</div><h2>Theatre & Performing Arts</h2><p>Meet Broadway, American theatre, dance, and performers who brought stories to the stage.</p><p class="examples">Broadway · Musical theatre · Stage traditions</p></article>
+    </div>
+    <h2 class="section-title">How each feature will work</h2>
+    <div class="feature-list">
+      <p><strong>Discover:</strong> a concise introduction to the person, period, or cultural movement.</p>
+      <p><strong>Experience:</strong> a carefully selected artwork, poem, or short literary passage.</p>
+      <p><strong>Understand:</strong> Russian translation where appropriate, plus context and explanation.</p>
+      <p><strong>Learn:</strong> useful vocabulary, natural expressions, and notes on style and meaning.</p>
+      <p><strong>Respond:</strong> a small speaking or writing activity to help make the language your own.</p>
+    </div>
+    <div class="copyright-note"><strong>A note on texts and images.</strong> We will use public-domain works where possible and respect copyright for modern writing, translations, recordings, and artwork. Each feature will identify its sources and permissions where applicable.</div>
+    <div class="closing"><p class="eyebrow">LANGUAGE THROUGH CULTURE</p><h2>Read. Look. Listen. Understand.</h2><p>Explore America through the people and works that continue to shape its culture.</p></div>
+  </div></section>
+</BaseLayout>
+<style>
+.culture-hero{padding:78px 0 84px;background:linear-gradient(120deg,#0d1929,#1b304a);color:#fffefa}
+.culture-hero .container,.culture-content{max-width:1040px}
+.eyebrow{color:#c5a267;font-size:11px;font-weight:700;letter-spacing:.18em}
+h1{margin:18px 0;font:600 clamp(42px,6vw,64px)/1.1 "Playfair Display",serif}
+.lead{max-width:780px;color:#e0e4e9;font-size:20px;line-height:1.7}
+.translation{color:#89929d;font-size:14px;line-height:1.7}
+.culture-hero .translation{color:#c5cdd6}
+.culture-content{padding-top:34px;padding-bottom:80px}
+.intro{max-width:900px;margin-top:30px;font-size:18px;line-height:1.8;color:#26364a}
+.culture-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px;margin-top:36px}
+.culture-grid article{padding:26px;border:1px solid #e2ded5;background:#fffefa}
+.number{color:#b89552;font:600 26px "Playfair Display",serif}
+.culture-grid h2{margin:8px 0;color:#172538;font:600 25px "Playfair Display",serif}
+.culture-grid p{color:#465363;line-height:1.7}
+.examples{font-size:13px;font-weight:600;color:#8b6b32!important}
+.section-title{margin:52px 0 20px;color:#172538;font:600 30px "Playfair Display",serif}
+.feature-list{padding:24px 28px;background:#f4f1eb}
+.feature-list p{margin:9px 0;color:#354253;line-height:1.7}
+.copyright-note{margin-top:24px;padding:20px;border-left:3px solid #b89552;background:#faf8f3;color:#465363;line-height:1.7;font-size:14px}
+.closing{margin-top:48px;padding:32px;background:#0d1929;color:#fffefa}
+.closing h2{margin:12px 0;color:#fffefa;font:600 30px "Playfair Display",serif}
+.closing p{color:#d7dce2}
+@media(max-width:700px){.culture-grid{grid-template-columns:1fr}.culture-hero{padding:58px 0}.section-title{font-size:26px}}
+</style>
