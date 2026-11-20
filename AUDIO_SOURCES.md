@@ -81,3 +81,93 @@ This recording is about describing pets, not describing a glass. It is included 
 ## Future audio entries
 
 Add a new entry for every external recording. Record the exact program page, direct media URL, creator/publisher, date, license or permission, attribution wording, and whether the asset is embedded, linked, or hosted locally. Do not assume that an audio file is reusable merely because it is publicly accessible or embedded in a broadcaster's page.
+
+## 3. Speechma-generated AEM audio — 69 local MP3 files
+
+**Provider terms checked:** [Speechma Terms of Service](https://speechma.com/terms) (last updated 5 October 2026), [Acceptable Use Policy](https://speechma.com/acceptable-use), and [Speechma FAQ](https://speechma.com/faq). Section 7 of the Terms grants a worldwide, non-exclusive, perpetual, royalty-free license to use, copy, edit, publish, distribute, and monetize generated outputs for lawful personal or commercial purposes. No Speechma attribution is required. The license does not override third-party rights in submitted scripts, recordings, or voices, and Speechma does not promise that outputs are copyright-exclusive or independently copyrightable.
+
+**AEM conditions:** retain the original AEM scripts used to generate each clip; confirm that standard Speechma library voices were selected and no real person's voice was cloned without clear, informed consent; manually review pronunciation, meaning, and audio quality; comply with any applicable AI/synthetic-media disclosure rules. The current filenames strongly indicate Speechma generation, but the generation history and exact selected voice settings should be retained as internal evidence.
+
+**Status:** CONDITIONAL — the provider's current terms expressly allow commercial use, subject to input rights and the conditions above.
+
+| File | Lesson folder | Rights status |
+|---|---|---|
+| `audio/airport/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_8.mp3` | `airport` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/airport/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_9.mp3` | `airport` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/airport/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_at_4.mp3` | `airport` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/airport/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_at_5.mp3` | `airport` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/airport/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_at_6.mp3` | `airport` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/airport/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_at_7.mp3` | `airport` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/airport/speechma_audio_Emma Multilingual & Brian Multilingual (dialogue)_at_4_15_44 PM_on_November_19th_2026.mp3` | `airport` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/airport/speechma_audio_Emma Multilingual & Brian Multilingual (dialogue)_at_4_20_55 PM_on_November_19th_2026.mp3` | `airport` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/airport/speechma_audio_Emma Multilingual & Brian Multilingual (dialogue)_at_4_25_43 PM_on_November_19th_2026.mp3` | `airport` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/bathroom/speechma_audio_Brian Multilingual_at_4_03_33 PM_on_November_17th_2026.mp3` | `bathroom` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/bathroom/speechma_audio_Emma Multilingual_at_4_01_43 PM_on_November_17th_2026.mp3` | `bathroom` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/beach/speechma_audio_Emma Multilingual & Brian Multilingual (dialogue)_1.mp3` | `beach` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/beach/speechma_audio_Emma Multilingual & Brian Multilingual (dialogue)_2.mp3` | `beach` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/beach/speechma_audio_Emma Multilingual & Brian Multilingual (dialogue)_at_1_54_18 AM_on_November_20th_2026.mp3` | `beach` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/beach/speechma_audio_Emma Multilingual & Brian Multilingual (dialogue)_at_1_56_13 AM_on_November_20th_2026.mp3` | `beach` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/beach/speechma_audio_Emma Multilingual_at_1_58_34 AM_on_November_20th_2026.mp3` | `beach` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/bedroom/speechma_audio_Brian Multilingual_at_3_42_58 PM_on_November_17th_2026.mp3` | `bedroom` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/bedroom/speechma_audio_Emma Multilingual_at_3_44_47 PM_on_November_17th_2026.mp3` | `bedroom` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Andrew Multilingual_10.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Andrew Multilingual_8.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_11.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_14.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_at_13.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Brian Multilingual_2.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Brian Multilingual_4.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Brian Multilingual_6.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Brian Multilingual_7.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Brian Multilingual_9.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Emma Multilingual_1.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Emma Multilingual_3.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Emma Multilingual_5.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/boarding/speechma_audio_Emma Multilingual_at_12.mp3` | `boarding` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/city/speechma_audio_Brian Multilingual_at_2_24_06 PM_on_November_17th_2026.mp3` | `city` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/city/speechma_audio_Emma Multilingual_at_2_27_18 PM_on_November_17th_2026.mp3` | `city` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/clock/speechma_audio_Brian Multilingual_at_2_49_13 PM_on_November_17th_2026.mp3` | `clock` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/clock/speechma_audio_Emma Multilingual_at_2_46_05 PM_on_November_17th_2026.mp3` | `clock` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/clothes/speechma_audio_Ava Multilingual & Brian Multilingual 5.mp3` | `clothes` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/clothes/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_1.mp3` | `clothes` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/clothes/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_2.mp3` | `clothes` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/clothes/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_3.mp3` | `clothes` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/clothes/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_4.mp3` | `clothes` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/emergency/speechma_audio_Emma Multilingual_at_3_07_47 AM_on_November_19th_2026.mp3` | `emergency` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/entryway/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_at_4_51_30 PM_on_November_17th_2026.mp3` | `entryway` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/feelings/speechma_audio_Emma Multilingual & Brian Multilingual (dialogue)_at_1_32_18 AM_on_November_19th_2026.mp3` | `feelings` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/feelings_and_inner_feelings/speechma_audio_Emma Multilingual_at_1_49_15 AM_on_November_19th_2026.mp3` | `feelings_and_inner_feelings` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Brian Multilingual_1.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Brian Multilingual_11.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Brian Multilingual_13.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Brian Multilingual_3.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Brian Multilingual_5.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Brian Multilingual_7.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Brian Multilingual_9.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Emma Multilingual_10.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Emma Multilingual_2.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Emma Multilingual_4.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Emma Multilingual_6.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Emma Multilingual_8.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/glass/speechma_audio_Emma Multilingual_at_12.mp3` | `glass` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/knife/speechma_audio_Brian Multilingual_at_1_35_08 PM_on_November_17th_2026.mp3` | `knife` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/knife/speechma_audio_Emma Multilingual_at_1_43_06 PM_on_November_17th_2026.mp3` | `knife` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/laundry/speechma_audio_Emma Multilingual & Brian Multilingual (dialogue)_at_10_06_21 AM_on_November_18th_2026.mp3` | `laundry` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/living_room/speechma_audio_Brian Multilingual_at_3_07_50 PM_on_November_17th_2026.mp3` | `living_room` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/living_room/speechma_audio_Emma Multilingual_at_3_05_36 PM_on_November_17th_2026.mp3` | `living_room` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/pantry/speechma_audio_Emma Multilingual & Brian Multilingual (dialogue)_at_11_11_34 AM_on_November_18th_2026.mp3` | `pantry` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/setting_the_table/speechma_audio_Emma Multilingual & Brian Multilingual (dialogue)_at_4_26_04 PM_on_November_17th_2026.mp3` | `setting_the_table` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/sounds_and_smells/speechma_audio_Brian Multilingual & Emma Multilingual (dialogue)_at_9_39_06 PM_on_November_18th_2026.mp3` | `sounds_and_smells` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/table/speechma_audio_Brian Multilingual_at_2_07_50 PM_on_November_17th_2026.mp3` | `table` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/table/speechma_audio_Emma Multilingual_at_2_10_09 PM_on_November_17th_2026.mp3` | `table` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+| `audio/terrace/speechma_audio_Emma Multilingual & Brian Multilingual (dialogue)_at_8_55_20 PM_on_November_18th_2026.mp3` | `terrace` | CONDITIONAL — Speechma output license; verify source script and standard library voice |
+
+## 4. Unidentified local audio
+
+| File | Source / creator | License | Status |
+|---|---|---|---|
+| `audio/boarding/flight_safety_announcement.mp3` | Not identified in repository records | Not identified | **HOLD** — do not use in a paid/public lesson until the source and reuse rights are documented, or replace it with an AEM script and a licensed recording. |
+
+## 5. Future audio entries
+
+Add a new entry for every external recording or generated audio asset. Record the exact source page, direct media URL, creator/provider, date, license or permission, attribution wording, whether the asset is embedded, linked, or hosted locally, and the script/input rights. Do not assume that an audio file is reusable merely because it is publicly accessible or embedded in a broadcaster's page.
