@@ -1,0 +1,70 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+<BaseLayout
+  title="Contact Us"
+  description="Get in touch with American English Method. Questions, feedback, and collaboration are welcome."
+>
+  <section class="contact-hero">
+    <div class="container contact-inner">
+      <p class="contact-eyebrow">AMERICAN ENGLISH METHOD</p>
+      <h1>Let's Stay in Touch.</h1>
+      <p class="contact-lead">Have a question about a lesson, an idea, or feedback to share? We'd be glad to hear from you.</p>
+      <div class="contact-rule"></div>
+      <h2>Get in Touch</h2>
+      <p>For questions, suggestions, or collaboration, please email us:</p>
+      <a class="contact-email" href="mailto:yeruslan72@gmail.com">yeruslan72@gmail.com</a>
+      <p class="contact-note">We welcome learners' feedback and suggestions for making American English Method more useful.</p>
+      <p class="contact-translation">Есть вопрос, предложение или отзыв? Напишите нам — будем рады обратной связи.</p>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .contact-hero {
+    min-height: 570px;
+    padding: 86px 0 100px;
+    color: #fffefa;
+    background: linear-gradient(120deg, #0d1929, #1b304a);
+  }
+  .contact-inner { max-width: 850px; }
+  .contact-eyebrow {
+    margin: 0 0 18px;
+    color: #b89552;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: .2em;
+  }
+  h1 {
+    margin: 0 0 20px;
+    font: 600 clamp(42px, 6vw, 64px)/1.1 "Playfair Display", serif;
+  }
+  .contact-lead {
+    max-width: 650px;
+    color: #d5dbe2;
+    font-size: 18px;
+    line-height: 1.75;
+  }
+  .contact-rule { width: 76px; height: 2px; margin: 34px 0; background: #b89552; }
+  h2 { margin: 0 0 12px; font: 600 28px "Playfair Display", serif; }
+  .contact-inner > p:not(.contact-eyebrow) { line-height: 1.7; }
+  .contact-email {
+    display: inline-block;
+    margin: 7px 0 14px;
+    color: #e8dcc1;
+    font-size: clamp(20px, 3vw, 26px);
+    border-bottom: 1px solid #b89552;
+    padding-bottom: 5px;
+  }
+  .contact-email:hover { color: #fffefa; }
+  .contact-note { max-width: 620px; color: #c5cdd6; font-size: 14px; }
+  .contact-translation {
+    margin-top: 38px;
+    color: #b9c0c8;
+    font-size: 14px;
+  }
+  @media (max-width: 760px) {
+    .contact-hero { min-height: 0; padding: 64px 0 76px; }
+    .contact-lead { font-size: 16px; }
+  }
+</style>
