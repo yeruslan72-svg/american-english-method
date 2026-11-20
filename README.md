@@ -63,6 +63,7 @@ Most textbooks focus on grammar rules and vocabulary lists. This project focuses
 | `EDITORIAL_AUDIT_REPORT.md` | Результаты редакционного аудита уроков Glass, Airport и Beach |
 | `LEARNING_PATHS.md` | Подробная карта направлений |
 | `SOURCES_AND_METHODOLOGY.md` | Методологическая конституция: источники, принципы верификации, редакционные стандарты |
+| `SOURCE_LIBRARY.md` | Каталог надёжных американских источников, первичных документов, научных данных и правил проверки прав на материалы |
 | `VISUAL_STYLE_GUIDE.md` | Визуальный стиль, композиционные правила и технические требования к изображениям |
 | `05_idioms/IDIOMS_FILTER.md` | Редакционный стандарт для коллекции идиом: Nationwide / Regional / Rare |
 
