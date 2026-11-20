@@ -480,3 +480,9 @@ It seeks to help learners understand how English works, recognize how people act
 **American English Method**
 
 *Learn the language. Understand the context. Express yourself naturally.*
+
+## 13. Institutional Research and Content Rights
+
+The project maintains a separate **[AEM Source Library](./SOURCE_LIBRARY.md)** for authoritative U.S. institutions, primary-source collections, research datasets, and item-level content-reuse guidance.
+
+The Source Library complements this methodological document; it does not replace lesson-specific citations or the central [Content Rights Register](./CONTENT_RIGHTS_REGISTER.md). Research reliability and permission to reproduce an asset are assessed independently. A source may be suitable for factual research while its photographs, recordings, graphics, or contributed texts remain restricted.
