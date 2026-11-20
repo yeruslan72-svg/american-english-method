@@ -68,6 +68,40 @@ import BaseLayout from "../../../../layouts/BaseLayout.astro";
         <p class="ru">Одна из важнейших идей документа — законная власть должна опираться на согласие народа, которым она управляет.</p>
         <a href="https://www.archives.gov/founding-docs/declaration-transcript" target="_blank" rel="noopener noreferrer">Read the original transcription at the National Archives ↗</a>
       </div>
+
+      <section class="history-audio-panel" aria-labelledby="declaration-audio-title">
+        <p class="eyebrow">THE SOUND OF AMERICAN HISTORY · LISTENING PRACTICE</p>
+        <h3 id="declaration-audio-title">Hear the Declaration of Independence</h3>
+        <p>Listen to a short reading about the adoption of the Declaration and one of its most famous passages.</p>
+        <audio controls preload="none">
+          <source src="/american-english-method/audio/history/declaration-of-independence-reading.mp3" type="audio/mpeg" />
+          Your browser does not support the audio element. <a href="/american-english-method/audio/history/declaration-of-independence-reading.mp3">Listen to the MP3 file</a>.
+        </audio>
+        <div class="history-audio-transcript">
+          <h4>Transcript</h4>
+          <p>On July fourth, seventeen seventy-six, the Continental Congress adopted the Declaration of Independence.</p>
+          <p>One of its most famous passages begins:</p>
+          <blockquote>“We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.”</blockquote>
+          <p class="ru">Четвёртого июля 1776 года Континентальный конгресс принял Декларацию независимости. Один из её самых известных фрагментов начинается словами: «Мы считаем самоочевидными следующие истины: все люди созданы равными и наделены своим Создателем определёнными неотъемлемыми правами, к числу которых относятся жизнь, свобода и стремление к счастью».</p>
+        </div>
+        <div class="history-audio-vocab">
+          <h4>Key expressions</h4>
+          <dl>
+            <div><dt>self-evident</dt><dd>самоочевидный</dd></div>
+            <div><dt>created equal</dt><dd>созданы равными</dd></div>
+            <div><dt>endowed with</dt><dd>наделённый чем-либо</dd></div>
+            <div><dt>unalienable</dt><dd>неотъемлемый</dd></div>
+            <div><dt>the pursuit of Happiness</dt><dd>стремление к счастью</dd></div>
+          </dl>
+        </div>
+        <div class="history-audio-task">
+          <h4>Your listening task</h4>
+          <p>Listen once without reading. Then listen again while following the transcript. Which three rights are named in the quotation?</p>
+          <p class="ru">Сначала прослушайте запись без текста. Затем включите её ещё раз и следите за транскрипцией. Какие три права названы в этой цитате?</p>
+        </div>
+        <p class="history-audio-note">Historical note: these words expressed powerful political ideals, but those ideals were not applied equally to everyone in 1776. Continue to section 04, “Ideals and Reality,” for the historical context.</p>
+        <p class="history-audio-credit">Audio: AEM educational reading, generated with a Speechma library voice (Brian). The recording is provided for language-learning practice.</p>
+      </section>
     </section>
 
     <section class="lesson-section">
@@ -389,4 +423,20 @@ h1{margin:18px 0;font:600 clamp(40px,6vw,64px)/1.1 "Playfair Display",serif}
       .wider-story-section .perspectives-grid { grid-template-columns: 1fr; }
     }
 
-  </style>
+  
+.history-audio-panel{margin:34px 0 8px;padding:28px;border:1px solid #d9d1c1;border-top:4px solid #b89552;background:linear-gradient(145deg,#f8f6f1,#fffefa)}
+.history-audio-panel h3{margin:8px 0 12px;color:#172538;font:600 clamp(23px,3vw,30px)/1.25 "Playfair Display",serif}
+.history-audio-panel>p:not(.eyebrow){color:#465363;line-height:1.75}
+.history-audio-panel audio{display:block;width:100%;margin:20px 0 24px}
+.history-audio-transcript,.history-audio-vocab,.history-audio-task{margin-top:22px;padding-top:18px;border-top:1px solid #e5dfd4}
+.history-audio-panel h4{margin:0 0 12px;color:#172538;font-size:15px}
+.history-audio-transcript p,.history-audio-task p{color:#465363;line-height:1.8}
+.history-audio-transcript blockquote{margin:16px 0;padding:14px 18px;border-left:3px solid #b89552;background:#fffefa;color:#26364a;font:italic 17px/1.8 Georgia,serif}
+.history-audio-vocab dl{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 22px;margin:0}
+.history-audio-vocab dl div{padding:10px 12px;background:#fffefa}
+.history-audio-vocab dt{color:#172538;font-weight:700}
+.history-audio-vocab dd{margin:3px 0 0;color:#687382;font-size:13px}
+.history-audio-panel .history-audio-note{margin-top:22px;padding:14px 16px;background:#f0ece3;color:#4b5663;font-size:13px}
+.history-audio-panel .history-audio-credit{margin:12px 0 0;color:#89929d;font-size:11px}
+@media(max-width:640px){.history-audio-panel{padding:20px}.history-audio-vocab dl{grid-template-columns:1fr}}
+</style>
