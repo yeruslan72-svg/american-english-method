@@ -171,3 +171,18 @@ Add a new entry for every external recording. Record the exact program page, dir
 ## 5. Future audio entries
 
 Add a new entry for every external recording or generated audio asset. Record the exact source page, direct media URL, creator/provider, date, license or permission, attribution wording, whether the asset is embedded, linked, or hosted locally, and the script/input rights. Do not assume that an audio file is reusable merely because it is publicly accessible or embedded in a broadcaster's page.
+
+## 6. AEM historical reading — Declaration of Independence
+
+| Field | Record |
+|---|---|
+| Lesson | `src/pages/learn/history-heritage/founding-of-america/index.astro` |
+| Audio file | `audio/history/declaration-of-independence-reading.mp3` |
+| Script | `audio/history/declaration-of-independence-reading.md` |
+| Provider | Speechma text-to-speech; Brian Multilingual library voice (as supplied for this recording) |
+| Format | MP3; approximately 33 seconds |
+| Use on our site | Locally hosted HTML5 audio player with transcript, Russian translation, vocabulary, and a listening task. |
+| Attribution | “Audio: AEM educational reading, generated with a Speechma library voice (Brian).” |
+| Rights status | CONDITIONAL — Speechma's terms permit use of generated outputs subject to the rights in submitted text and voice-selection conditions. Retain the source script and generation details; verify that a standard library voice was selected and not a cloned real person's voice. |
+
+The recording reads the introductory historical sentence and the Declaration quotation. The lesson separately provides historical context explaining that the ideals expressed in 1776 were not applied equally to everyone. The Declaration quotation is a primary-source excerpt; the surrounding AEM narration and learning materials are original educational content.
