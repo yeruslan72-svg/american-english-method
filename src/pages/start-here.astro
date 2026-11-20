@@ -1,0 +1,63 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+<BaseLayout title="Start Here" description="A practical beginner-friendly roadmap for studying American English with American English Method.">
+  <section class="roadmap-hero"><div class="container">
+    <p class="eyebrow">YOUR LEARNING ROADMAP</p>
+    <h1>Not sure where to begin? Start here.</h1>
+    <p class="lead">A flexible path to help you build understanding, useful vocabulary, listening skills, and confidence in spoken American English.</p>
+    <p class="translation">Понятный маршрут, который поможет постепенно развивать понимание, словарный запас, аудирование и разговорные навыки.</p>
+  </div></section>
+  <section class="section"><div class="container roadmap">
+    <a class="back-link" href="/american-english-method/">← Home</a>
+    <h2>A practical order to follow</h2>
+    <p class="intro">You do not have to complete one direction before exploring another. This suggested sequence gives you a steady starting point; adjust it to your level and interests.</p>
+    <div class="steps">
+      <article><span>01</span><div><h3><a href="/american-english-method/learn/descriptive-lessons/">Descriptive Lessons</a></h3><p>Begin by describing familiar objects, rooms, places, sounds, and feelings. This builds the habit of forming your own sentences.</p><p class="translation">Начните с описания знакомых предметов, комнат, мест, звуков и ощущений.</p></div></article>
+      <article><span>02</span><div><h3><a href="/american-english-method/learn/everyday-scenarios/">Everyday Scenarios</a></h3><p>Practise requests, responses, phone calls, and everyday interactions. Focus on what people say and why.</p></div></article>
+      <article><span>03</span><div><h3><a href="/american-english-method/learn/city-daily-life/">City & Daily Life</a></h3><p>Build practical language for airports, travel, public places, services, and ordinary activities.</p></div></article>
+      <article><span>04</span><div><h3><a href="/american-english-method/learn/everyday-expressions/">Everyday Expressions</a> & <a href="/american-english-method/learn/idioms/">Idioms</a></h3><p>Learn common conversational patterns and idioms in context. Prioritise expressions you can actually use.</p></div></article>
+      <article><span>05</span><div><h3><a href="/american-english-method/learn/connected-speech/">Connected Speech</a></h3><p>Train your ear to recognise linking, reductions, rhythm, and the flow of natural speech.</p></div></article>
+      <article><span>06</span><div><h3><a href="/american-english-method/learn/southern-english/">Southern English</a></h3><p>Explore regional expressions and pronunciation as an additional cultural and linguistic layer.</p></div></article>
+    </div>
+    <h2>How to study each lesson</h2>
+    <div class="study-grid">
+      <article><h3>1. Listen first</h3><p>Listen once for the general meaning. Listen again and notice how the speakers connect their words.</p></article>
+      <article><h3>2. Repeat aloud</h3><p>Pause the audio and repeat complete phrases. Pay attention to stress, rhythm, and intonation.</p></article>
+      <article><h3>3. Make it yours</h3><p>Write down a few useful expressions and create your own sentences with them.</p></article>
+      <article><h3>4. Recall and reuse</h3><p>Return to the material later. Try to speak without looking, then use the same language in a new situation.</p></article>
+    </div>
+    <div class="note"><strong>Remember:</strong> Reading and listening are important, but speaking requires active practice. Say your own sentences, even if they are simple. Use grammar explanations and dictionaries as support when needed; do not let them replace communication practice.</div>
+    <h2>What level do you need?</h2>
+    <p>AEM can be explored by learners with different levels of experience. If you are an absolute beginner, combine the lessons with a structured introduction to basic grammar, the alphabet, and pronunciation. If you already know English, use the lessons to make your knowledge more natural and active.</p>
+    <div class="closing"><p class="eyebrow">YOUR FIRST STEP</p><h2>Choose one lesson and begin.</h2><p>Consistency matters more than trying to study everything at once.</p><a class="cta" href="/american-english-method/learn/descriptive-lessons/">Explore Descriptive Lessons →</a></div>
+  </div></section>
+</BaseLayout>
+<style>
+.roadmap-hero{padding:76px 0;background:linear-gradient(120deg,#0d1929,#1b304a);color:#fffefa}
+.roadmap-hero .container,.roadmap{max-width:940px}
+.eyebrow{color:#c5a267;font-size:11px;font-weight:700;letter-spacing:.18em}
+h1{max-width:820px;margin:18px 0;font:600 clamp(40px,6vw,62px)/1.12 "Playfair Display",serif}
+.lead{max-width:760px;color:#e0e4e9;font-size:19px;line-height:1.7}
+.translation{color:#89929d;font-size:14px;line-height:1.7}
+.roadmap{padding-top:34px;padding-bottom:80px}
+.roadmap h2{margin:46px 0 16px;color:#172538;font:600 30px "Playfair Display",serif}
+.roadmap p{color:#354253;line-height:1.75}
+.intro{max-width:780px}
+.steps{display:grid;gap:0;margin-top:24px}
+.steps article{display:grid;grid-template-columns:58px 1fr;gap:20px;padding:22px 0;border-bottom:1px solid #e3dfd7}
+.steps article>span{color:#b89552;font:600 28px "Playfair Display",serif}
+.steps h3{margin:0 0 8px;color:#172538;font-size:20px}
+.steps h3 a{color:inherit;text-decoration-color:#b89552;text-underline-offset:4px}
+.steps p{margin:6px 0}
+.study-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.study-grid article{padding:22px;border:1px solid #e2ded5;background:#fffefa}
+.study-grid h3{margin:0 0 8px;color:#172538}
+.study-grid p{margin:0;font-size:14px}
+.note{margin-top:28px;padding:22px;border-left:3px solid #b89552;background:#f3f0e9;color:#354253;line-height:1.75}
+.closing{margin-top:52px;padding:32px;background:#0d1929;color:#fffefa}
+.closing h2{margin:12px 0;color:#fffefa}
+.closing p{color:#d7dce2}
+.cta{display:inline-block;margin-top:12px;padding:12px 18px;background:#b89552;color:#101c2b;text-decoration:none;font-weight:700}
+@media(max-width:700px){.study-grid{grid-template-columns:1fr}.roadmap h2{font-size:26px}.roadmap-hero{padding:56px 0}}
+</style>
