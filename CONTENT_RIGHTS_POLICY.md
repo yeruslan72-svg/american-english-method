@@ -57,6 +57,8 @@ A copyright license may not clear all rights in an asset. Check separately where
 
 Do not assume that all material on a government, museum, university, archive, or public broadcaster website is public domain or commercially reusable. Check the individual item and its rights statement.
 
+For AI-generated speech or other outputs, check the provider's current output license, the rights to the submitted script and recordings, voice-cloning consent requirements, and any disclosure obligations. A provider's commercial-use license does not clear third-party rights in the input and does not guarantee exclusive copyright in the output.
+
 ## 8. Original writing and factual research
 
 AEM should prefer independently written explanations, lesson dialogues, examples, questions, and summaries based on verified facts.
@@ -112,6 +114,9 @@ These references explain general principles; the exact asset license and applica
 - [U.S. Copyright Office — How to Obtain Permission (Circular 16A)](https://www.copyright.gov/circs/circ16a.pdf)
 - [U.S. Copyright Office — Fair Use](https://www.copyright.gov/fair-use/)
 - [Library of Congress — Understanding Copyright](https://www.loc.gov/legal/security-copyright-and-privacy/understanding-copyright/)
+- [Pexels — License](https://www.pexels.com/license/) and [Terms of Service](https://www.pexels.com/terms-of-service/)
+- [Unsplash — Releases and Trademarks](https://help.unsplash.com/en/articles/2612329-releases-and-trademarks)
+- [Speechma — Terms of Service](https://speechma.com/terms) and [Acceptable Use Policy](https://speechma.com/acceptable-use)
 
 ---
 
