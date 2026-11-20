@@ -186,3 +186,19 @@ Add a new entry for every external recording or generated audio asset. Record th
 | Rights status | CONDITIONAL — Speechma's terms permit use of generated outputs subject to the rights in submitted text and voice-selection conditions. Retain the source script and generation details; verify that a standard library voice was selected and not a cloned real person's voice. |
 
 The recording reads the introductory historical sentence and the Declaration quotation. The lesson separately provides historical context explaining that the ideals expressed in 1776 were not applied equally to everyone. The Declaration quotation is a primary-source excerpt; the surrounding AEM narration and learning materials are original educational content.
+
+
+## 7. AEM historical reading — The Boston Tea Party
+
+| Field | Record |
+|---|---|
+| Lesson | `src/pages/learn/history-heritage/founding-of-america/index.astro` |
+| Audio file | `audio/history/boston-tea-party-reading.mp3` |
+| Script | `audio/history/boston-tea-party-reading.md` |
+| Provider | Speechma text-to-speech; Brian Multilingual library voice (as supplied for this recording) |
+| Format | MP3; locally hosted in the AEM repository |
+| Use on our site | HTML5 audio player with transcript, Russian translation, key vocabulary, and a listening/speaking task, placed in the section explaining the Boston Tea Party |
+| Attribution | “Audio: AEM educational reading, generated with a Speechma library voice (Brian).” |
+| Rights status | CONDITIONAL — Speechma's terms permit use of generated outputs subject to the rights in submitted text and voice-selection conditions. Retain the source script and generation details; verify that a standard library voice was selected and not a cloned real person's voice. |
+
+The reading gives the date and basic sequence of the Boston Tea Party, then places it in the wider path to armed conflict in April 1775. The script avoids suggesting that the protest alone caused the American Revolution. The recording is locally hosted; the source script and generation settings should be retained as internal production records.
