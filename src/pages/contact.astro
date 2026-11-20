@@ -11,11 +11,38 @@ import BaseLayout from "../layouts/BaseLayout.astro";
       <h1>Let's Stay in Touch.</h1>
       <p class="contact-lead">Have a question about a lesson, an idea, or feedback to share? We'd be glad to hear from you.</p>
       <div class="contact-rule"></div>
-      <h2>Get in Touch</h2>
-      <p>For questions, suggestions, or collaboration, please email us:</p>
-      <a class="contact-email" href="mailto:yeruslan72@gmail.com">yeruslan72@gmail.com</a>
-      <p class="contact-note">We welcome learners' feedback and suggestions for making American English Method more useful.</p>
-      <p class="contact-translation">Есть вопрос, предложение или отзыв? Напишите нам — будем рады обратной связи.</p>
+
+      <div class="contact-grid">
+        <div class="contact-copy">
+          <h2>Get in Touch</h2>
+          <p>Send us a message using the form. We'll be glad to hear from you.</p>
+          <a class="contact-email" href="mailto:yeruslan72@gmail.com">yeruslan72@gmail.com</a>
+          <p class="contact-note">We welcome learners' feedback and suggestions for making American English Method more useful.</p>
+          <p class="contact-translation">Есть вопрос, предложение или отзыв? Напишите нам — будем рады обратной связи.</p>
+        </div>
+
+        <form class="contact-form" action="https://formspree.io/f/xzervqnd" method="POST">
+          <input type="hidden" name="_subject" value="New message from AEM Contact Us">
+          <div class="form-field">
+            <label for="contact-name">Your Name</label>
+            <input id="contact-name" name="name" type="text" autocomplete="name" placeholder="Your name" required>
+          </div>
+          <div class="form-field">
+            <label for="contact-email">Email Address</label>
+            <input id="contact-email" name="email" type="email" autocomplete="email" placeholder="you@example.com" required>
+          </div>
+          <div class="form-field">
+            <label for="contact-message">Your Message</label>
+            <textarea id="contact-message" name="message" rows="6" placeholder="How can we help?" required></textarea>
+          </div>
+          <div class="form-trap" aria-hidden="true">
+            <label for="contact-website">Leave this field empty</label>
+            <input id="contact-website" type="text" name="_gotcha" tabindex="-1" autocomplete="off">
+          </div>
+          <button type="submit">Send Message <span aria-hidden="true">→</span></button>
+          <p class="form-footnote">Your message will be sent securely through our form service.</p>
+        </form>
+      </div>
     </div>
   </section>
 </BaseLayout>
@@ -23,11 +50,11 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 <style>
   .contact-hero {
     min-height: 570px;
-    padding: 86px 0 100px;
+    padding: 76px 0 92px;
     color: #fffefa;
     background: linear-gradient(120deg, #0d1929, #1b304a);
   }
-  .contact-inner { max-width: 850px; }
+  .contact-inner { max-width: 1050px; }
   .contact-eyebrow {
     margin: 0 0 18px;
     color: #b89552;
@@ -45,9 +72,10 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     font-size: 18px;
     line-height: 1.75;
   }
-  .contact-rule { width: 76px; height: 2px; margin: 34px 0; background: #b89552; }
+  .contact-rule { width: 76px; height: 2px; margin: 32px 0 42px; background: #b89552; }
+  .contact-grid { display: grid; grid-template-columns: minmax(0, .85fr) minmax(320px, 1.15fr); gap: 64px; align-items: start; }
   h2 { margin: 0 0 12px; font: 600 28px "Playfair Display", serif; }
-  .contact-inner > p:not(.contact-eyebrow) { line-height: 1.7; }
+  .contact-copy p { line-height: 1.7; }
   .contact-email {
     display: inline-block;
     margin: 7px 0 14px;
@@ -57,14 +85,54 @@ import BaseLayout from "../layouts/BaseLayout.astro";
     padding-bottom: 5px;
   }
   .contact-email:hover { color: #fffefa; }
-  .contact-note { max-width: 620px; color: #c5cdd6; font-size: 14px; }
-  .contact-translation {
-    margin-top: 38px;
-    color: #b9c0c8;
-    font-size: 14px;
+  .contact-note { max-width: 420px; color: #c5cdd6; font-size: 14px; }
+  .contact-translation { margin-top: 34px; color: #b9c0c8; font-size: 14px; }
+  .contact-form {
+    padding: 30px;
+    border: 1px solid rgba(184, 149, 82, .38);
+    border-radius: 5px;
+    background: rgba(7, 17, 30, .35);
   }
+  .form-field { margin-bottom: 20px; }
+  .form-field label { display: block; margin-bottom: 8px; color: #e8dcc1; font-size: 13px; font-weight: 600; letter-spacing: .03em; }
+  .form-field input, .form-field textarea {
+    display: block;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 13px 14px;
+    border: 1px solid #526174;
+    border-radius: 3px;
+    outline: none;
+    background: #f9f8f4;
+    color: #172538;
+    font: inherit;
+    font-size: 15px;
+  }
+  .form-field textarea { min-height: 145px; resize: vertical; }
+  .form-field input:focus, .form-field textarea:focus { border-color: #c6a568; box-shadow: 0 0 0 2px rgba(198, 165, 104, .2); }
+  .form-field input::placeholder, .form-field textarea::placeholder { color: #78818c; }
+  .contact-form button {
+    display: inline-flex;
+    align-items: center;
+    gap: 14px;
+    padding: 13px 22px;
+    border: 1px solid #c5a267;
+    border-radius: 3px;
+    background: #b89552;
+    color: #101c2b;
+    font: inherit;
+    font-size: 14px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background .2s ease, color .2s ease;
+  }
+  .contact-form button:hover { background: #e8dcc1; }
+  .form-footnote { margin: 14px 0 0; color: #aeb9c5; font-size: 12px; line-height: 1.5; }
+  .form-trap { position: absolute; left: -5000px; width: 1px; height: 1px; overflow: hidden; }
   @media (max-width: 760px) {
-    .contact-hero { min-height: 0; padding: 64px 0 76px; }
+    .contact-hero { min-height: 0; padding: 58px 0 72px; }
     .contact-lead { font-size: 16px; }
+    .contact-grid { grid-template-columns: 1fr; gap: 34px; }
+    .contact-form { padding: 22px 18px; }
   }
 </style>
