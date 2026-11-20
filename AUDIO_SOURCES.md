@@ -218,3 +218,19 @@ The reading gives the date and basic sequence of the Boston Tea Party, then plac
 | Rights status | CONDITIONAL — Speechma's terms permit use of generated outputs subject to the rights in submitted text and voice-selection conditions. Retain the source script and generation settings; verify that a standard library voice was selected and not a cloned real person's voice. |
 
 The reading covers the British expedition toward Concord, the fighting at Lexington and the North Bridge, and the colonial militia's attacks during the British retreat toward Boston. It explicitly notes that the identity of the first shooter at Lexington remains disputed. The source script is retained in the repository as an internal production record.
+
+
+## 9. AEM historical reading — The Second Continental Congress
+
+| Field | Record |
+|---|---|
+| Lesson | `src/pages/learn/history-heritage/founding-of-america/index.astro` |
+| Audio file | `audio/history/second-continental-congress-reading.mp3` |
+| Script | `audio/history/second-continental-congress-reading.md` |
+| Provider | Speechma text-to-speech; Brian Multilingual library voice (as supplied for this recording) |
+| Format | MP3; locally hosted in the AEM repository |
+| Use on our site | HTML5 audio player with transcript, Russian translation, key vocabulary, listening and speaking tasks, and modern American English expressions |
+| Attribution | “Audio: AEM educational reading, generated with a Speechma library voice (Brian).” |
+| Rights status | CONDITIONAL — Speechma's terms permit use of generated outputs subject to the rights in submitted text and voice-selection conditions. Retain the source script and generation settings; verify that a standard library voice was selected and not a cloned real person's voice. |
+
+The reading explains the opening of the Second Continental Congress, the establishment of the Continental Army, and George Washington's appointment as commander-in-chief. It distinguishes the June 14, 1775 authorization of the army from Washington's appointment on June 15. The source script is retained in the repository as an internal production record.
