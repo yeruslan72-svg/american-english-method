@@ -40,6 +40,12 @@ import BaseLayout from "../../../../layouts/BaseLayout.astro";
       </a>
       <figcaption><strong>“First blow for liberty.”</strong> An 1863 engraving depicting the Battle of Lexington (1775), by Alexander Hay Ritchie after Felix Octavius Carr Darley. Library of Congress; rights advisory: no known restrictions on publication. <a href="https://www.loc.gov/pictures/item/2006691559/" target="_blank" rel="noopener noreferrer">View the catalog record</a>.</figcaption>
     </figure>
+      <figure class="history-figure map-figure">
+        <a href="https://commons.wikimedia.org/wiki/File:The_Thirteen_Original_Colonies_in_1774_(McConnell's_historical_maps_of_the_United_States).jpg" target="_blank" rel="noopener noreferrer">
+          <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/The_Thirteen_Original_Colonies_in_1774_%28McConnell%27s_historical_maps_of_the_United_States%29.jpg/960px-The_Thirteen_Original_Colonies_in_1774_%28McConnell%27s_historical_maps_of_the_United_States%29.jpg" alt="Historical map showing the thirteen original colonies in 1774" loading="lazy" />
+        </a>
+        <figcaption><strong>The Thirteen Original Colonies in 1774.</strong> A historical map published in 1919, based on McConnell's historical maps. It helps locate the colonies along the Atlantic coast before independence. <a href="https://www.loc.gov/resource/g3701sm.gct00482/?sp=15" target="_blank" rel="noopener noreferrer">Original map record: Library of Congress</a>. Public-domain status recorded by Wikimedia Commons.</figcaption>
+      </figure>
       <p class="ru">К середине XVIII века вдоль атлантического побережья Северной Америки существовали тринадцать британских колоний. Они различались экономикой, местным управлением, религиозной и общественной жизнью. После окончания Семилетней войны в 1763 году британское правительство пыталось увеличить доходы и вводило новые сборы. Многие колонисты выступали против налогов без согласия и представительства. Однако не все поддерживали разрыв с Британией: среди жителей были и сторонники короны. Протесты и политические споры переросли в вооружённый конфликт в 1775 году.</p>
     </section>
 
@@ -64,6 +70,20 @@ import BaseLayout from "../../../../layouts/BaseLayout.astro";
       <p>In 1787, delegates met in Philadelphia and drafted a new Constitution. It established a federal system and divided national power among three branches: the legislative branch makes laws, the executive branch carries them out, and the judicial branch interprets the law. The Constitution was ratified in 1788 and the new federal government began operating in 1789.</p>
       <p>Some people worried that the new government might become too powerful. In response to demands for stronger protections, the first ten amendments — known as the Bill of Rights — were ratified in 1791.</p>
       <p class="ru">Победа в войне не решила вопрос о том, как новым штатам управлять страной сообща. Статьи Конфедерации создали сравнительно слабую центральную власть. В 1787 году делегаты разработали новую Конституцию, закрепившую федеральную систему и разделение власти на три ветви. Конституция была ратифицирована в 1788 году, а новое федеральное правительство начало работу в 1789-м. В 1791 году были ратифицированы первые десять поправок — Билль о правах.</p>
+      <section class="document-gallery" aria-label="Original founding documents">
+        <figure class="history-figure">
+          <a href="https://commons.wikimedia.org/wiki/File:Constitution_of_the_United_States,_all_pages.jpg" target="_blank" rel="noopener noreferrer">
+            <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Constitution_of_the_United_States%2C_all_pages.jpg/960px-Constitution_of_the_United_States%2C_all_pages.jpg" alt="All four original parchment pages of the United States Constitution" loading="lazy" />
+          </a>
+          <figcaption><strong>The Constitution of the United States, 1787.</strong> The four original parchment sheets, including the opening words “We the People.” Source: U.S. National Archives via Wikimedia Commons; public domain. <a href="https://www.archives.gov/founding-docs/constitution" target="_blank" rel="noopener noreferrer">Read about the Constitution</a>.</figcaption>
+        </figure>
+        <figure class="history-figure">
+          <a href="https://commons.wikimedia.org/wiki/File:Bill_of_Rights.jpg" target="_blank" rel="noopener noreferrer">
+            <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Bill_of_Rights.jpg/960px-Bill_of_Rights.jpg" alt="Original parchment Bill of Rights resolution of 1789" loading="lazy" />
+          </a>
+          <figcaption><strong>The Bill of Rights, 1789.</strong> The original congressional resolution proposing twelve amendments; ten were ratified in 1791. Source: U.S. National Archives via Wikimedia Commons; public domain. <a href="https://www.archives.gov/historical-docs/bill-of-rights" target="_blank" rel="noopener noreferrer">View the National Archives record</a>.</figcaption>
+        </figure>
+      </section>
       <div class="document-links">
         <a href="https://www.archives.gov/founding-docs" target="_blank" rel="noopener noreferrer">Explore the Constitution and founding documents at the National Archives ↗</a>
         <a href="https://www.archives.gov/founding-docs/bill-of-rights-transcript" target="_blank" rel="noopener noreferrer">Read the Bill of Rights transcription ↗</a>
@@ -151,6 +171,7 @@ h1{margin:18px 0;font:600 clamp(40px,6vw,64px)/1.1 "Playfair Display",serif}
 .visual-intro{display:grid;grid-template-columns:minmax(0,.8fr) minmax(280px,1.2fr);gap:28px;align-items:center;margin:34px 0 54px;padding:24px;border:1px solid #e2ded5;background:#fffefa}
 .visual-intro h2{margin:10px 0 12px;color:#172538;font:600 clamp(25px,3vw,34px)/1.2 "Playfair Display",serif}
 .visual-intro p:not(.eyebrow){color:#465363;line-height:1.75}
+.document-gallery{display:grid;grid-template-columns:1fr 1fr;gap:22px;align-items:start;margin:28px 0}.document-gallery .history-figure{margin:0}.map-figure img{max-height:460px}
 .history-figure{margin:30px 0;padding:12px;border:1px solid #e2ded5;background:#fffefa}
 .history-figure a{display:block}
 .history-figure img{display:block;width:100%;height:auto;max-height:540px;object-fit:contain;background:#f4f1eb}
@@ -184,6 +205,7 @@ h1{margin:18px 0;font:600 clamp(40px,6vw,64px)/1.1 "Playfair Display",serif}
 .sources-panel{margin-top:64px;padding:30px;border:1px solid #e2ded5;background:#fffefa}
 .sources-panel li{padding:7px 0;color:#465363;line-height:1.6}
 .sources-panel .source-note{margin-top:22px;color:#89929d;font-size:12px}
+@media (max-width:760px){.document-gallery{grid-template-columns:1fr}.visual-intro{grid-template-columns:1fr}}
 @media(max-width:700px){.founding-hero{padding:58px 0}.intro-panel,.practice-panel,.sources-panel{padding:22px}.visual-intro{grid-template-columns:1fr;padding:18px}.vocab-grid{grid-template-columns:1fr 1fr}.timeline article{grid-template-columns:72px 1fr;gap:10px}}
 @media(max-width:430px){.vocab-grid{grid-template-columns:1fr}}
 </style>
