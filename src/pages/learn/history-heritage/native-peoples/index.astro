@@ -57,6 +57,22 @@ import BaseLayout from "../../../../layouts/BaseLayout.astro";
         <a href="https://www.fsu.edu/seminole-tribe/history" target="_blank" rel="noopener noreferrer">Seminole history · Florida State University ↗</a>
       </div>
     </section>
+    <section class="london-feature">
+      <div class="london-intro">
+        <p class="eyebrow">THE FAR NORTH IN AMERICAN LITERATURE</p>
+        <h2>Jack London — stories from the North</h2>
+        <p>In <em>Children of the Frost</em> (1902), Jack London turned to Indigenous life in the northern regions of North America. The collection brings together ten stories, including <em>The Law of Life</em>, <em>Keesh, the Son of Keesh</em>, and <em>The League of the Old Men</em>.</p>
+        <p class="ru">В сборнике «Дети мороза» (1902) Джек Лондон обращается к жизни коренных народов Севера. Среди десяти рассказов — «Закон жизни», «Киш, сын Киша» и «Лига стариков». Это уже другой мир: северные леса, Юкон, суровый климат и столкновение традиционного уклада с быстро меняющейся эпохой.</p>
+        <a class="london-book-link" href="https://www.gutenberg.org/ebooks/10736" target="_blank" rel="noopener noreferrer">Read <em>Children of the Frost</em> · Project Gutenberg ↗</a>
+      </div>
+      <div class="london-stories">
+        <article><span>01 · THE LAW OF LIFE</span><h3>An old man's final winter</h3><p>An elderly man, Koskoosh, is left behind as his community moves on. The story explores age, survival, memory, and the harshness of life in the Arctic.</p></article>
+        <article><span>02 · THE LEAGUE OF THE OLD MEN</span><h3>A voice from the Whitefish people</h3><p>Imber, an old man from the Whitefish River, explains the violence between his people and incoming settlers. The story raises questions about conquest, law, justice, and whose history gets heard.</p></article>
+        <article><span>03 · KEESH, THE SON OF KEESH</span><h3>Ingenuity and leadership</h3><p>A young boy earns respect through intelligence and practical skill. It offers a different kind of northern adventure, centred on resourcefulness rather than brute strength.</p></article>
+      </div>
+      <p class="london-note">Read with historical care: these are works of fiction written in the early twentieth century, not documentary accounts or substitutes for the voices of the specific Indigenous nations whose homelands are represented.</p>
+    </section>
+
     <section class="native-section">
       <p class="eyebrow">WORDS AND IDENTITY</p>
       <h2>Who are Indigenous peoples?</h2>
@@ -214,5 +230,14 @@ h1{max-width:900px;margin:18px 0;font:600 clamp(40px,6vw,64px)/1.08 "Playfair Di
 .osceola-heading{padding:30px;background:#f5f0e5}.osceola-heading h2{margin:12px 0;color:#172538;font:600 clamp(27px,3.3vw,35px)/1.2 "Playfair Display",serif}.osceola-heading>p:not(.eyebrow){color:#465363;font-size:14px;line-height:1.8}.osceola-book-link{display:inline-block;margin-top:12px;color:#87672e;font-size:12px;font-weight:700;text-decoration:none}
 .osceola-history{padding:30px;background:#122239;color:#f7f4ed}.osceola-history>span{color:#c5a267;font-size:10px;font-weight:700;letter-spacing:.16em}.osceola-history h3{margin:12px 0;color:#f2dfb9;font:600 25px "Playfair Display",serif}.osceola-history p{color:#e0e4e9;font-size:13px;line-height:1.8}.osceola-history .osceola-correction{padding:13px;border-left:2px solid #c5a267;background:rgba(255,255,255,.06)}.osceola-history>a{display:inline-block;margin:6px 14px 0 0;color:#f2dfb9;font-size:11px;font-weight:700;text-decoration:none}
 @media(max-width:760px){.osceola-feature{grid-template-columns:1fr}.osceola-heading,.osceola-history{padding:23px}}
+
+.london-feature{margin:28px 0 68px;padding:34px;background:linear-gradient(135deg,#102238,#203b55);color:#f8f4eb}
+.london-intro{max-width:850px}.london-intro h2{margin:12px 0 16px;color:#fff8e9;font:600 clamp(29px,3.5vw,38px)/1.2 "Playfair Display",serif}.london-intro>p:not(.eyebrow){color:#e0e4e9;font-size:14px;line-height:1.85}.london-intro .ru{color:#c5cdd6}
+.london-book-link{display:inline-block;margin:8px 0 24px;color:#f2dfb9;font-size:12px;font-weight:700;text-decoration:none}.london-book-link:hover{text-decoration:underline}
+.london-stories{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:13px;margin-top:8px}
+.london-stories article{padding:20px;background:#f8f4eb;color:#172538}.london-stories article span{color:#92713b;font-size:9px;font-weight:700;letter-spacing:.13em}.london-stories h3{margin:11px 0 8px;color:#172538;font:600 20px "Playfair Display",serif}.london-stories article p{margin:0;color:#526071;font-size:13px;line-height:1.7}
+.london-note{margin:18px 0 0;color:#c5cdd6;font-size:11px;line-height:1.7}
+@media(max-width:760px){.london-feature{padding:23px}.london-stories{grid-template-columns:1fr}}
+
 
 </style>
