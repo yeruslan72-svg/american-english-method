@@ -39,6 +39,24 @@ import BaseLayout from "../../../../layouts/BaseLayout.astro";
       <div class="cooper-note"><span>READ WITH TWO LENSES</span><strong>The story</strong><p>Adventure, friendship, courage, loss, and the imagination of a nineteenth-century novelist.</p><strong>The history</strong><p>Specific Native nations, their own voices, documented events, and histories that continue today.</p></div>
     </section>
 
+
+    <section class="osceola-feature">
+      <div class="osceola-heading">
+        <p class="eyebrow">ANOTHER CLASSIC OF FRONTIER LITERATURE</p>
+        <h2>Osceola — the Seminole story</h2>
+        <p>Mayne Reid's adventure novel <em>Osceola the Seminole; or, The Red Fawn of the Flower Land</em> was first published in 1859. It brought the Seminole struggle in Florida into the world of popular adventure fiction. The complete text is available through Project Gutenberg.</p>
+        <p class="ru">Роман Майн Рида «Оцеола, вождь семинолов» (английское название — <em>Osceola the Seminole; or, The Red Fawn of the Flower Land</em>) впервые вышел в 1859 году. Он переносит читателя во Флориду и в эпоху борьбы семинолов за родную землю.</p>
+        <a class="osceola-book-link" href="https://www.gutenberg.org/ebooks/35620" target="_blank" rel="noopener noreferrer">Read Mayne Reid's novel · Project Gutenberg ↗</a>
+      </div>
+      <div class="osceola-history">
+        <span>THE HISTORICAL PERSON</span>
+        <h3>Osceola (Asi-yaholo)</h3>
+        <p>Osceola was an influential Seminole war leader during the Second Seminole War (1835–1842). He was captured by U.S. forces in 1837 while meeting under a flag of truce and died in captivity at Fort Moultrie on January 30, 1838.</p>
+        <p class="osceola-correction">A useful historical correction: although often called “Chief Osceola” in popular culture, he was not a Seminole chief. He was an important warrior and resistance leader. The Seminole struggle continued after his death, under many other leaders.</p>
+        <a href="https://www.nps.gov/people/osceola.htm" target="_blank" rel="noopener noreferrer">National Park Service: Osceola ↗</a>
+        <a href="https://www.fsu.edu/seminole-tribe/history" target="_blank" rel="noopener noreferrer">Seminole history · Florida State University ↗</a>
+      </div>
+    </section>
     <section class="native-section">
       <p class="eyebrow">WORDS AND IDENTITY</p>
       <h2>Who are Indigenous peoples?</h2>
@@ -190,5 +208,11 @@ h1{max-width:900px;margin:18px 0;font:600 clamp(40px,6vw,64px)/1.08 "Playfair Di
 .cooper-note{padding:24px;background:#122239;color:#f8f4eb}.cooper-note span,.archive-card figcaption span{display:block;margin-bottom:14px;color:#c5a267;font-size:10px;font-weight:700;letter-spacing:.16em}.cooper-note strong{display:block;margin-top:12px;color:#f2dfb9;font:600 20px "Playfair Display",serif}.cooper-note p{margin:6px 0 0;color:#d4dbe3;font-size:13px;line-height:1.7}
 .archive-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:28px}.archive-card{margin:0;border:1px solid #e2ded5;background:#fffefa;overflow:hidden}.archive-card>a{display:block;overflow:hidden;background:#e9e5dc}.archive-card img{display:block;width:100%;height:220px;object-fit:cover;transition:transform .35s ease}.archive-card>a:hover img{transform:scale(1.035)}.archive-card figcaption{padding:18px}.archive-card figcaption span{margin-bottom:9px;font-size:9px}.archive-card figcaption strong{display:block;color:#172538;font:600 21px "Playfair Display",serif}.archive-card figcaption p{min-height:96px;color:#566272;font-size:13px;line-height:1.7}.archive-note{margin-top:16px;color:#7b8490;font-size:11px;line-height:1.7}
 @media(max-width:760px){.cooper-feature{grid-template-columns:1fr;padding:22px}.archive-grid{grid-template-columns:1fr}.archive-card img{height:240px}.archive-card figcaption p{min-height:0}}
+
+
+.osceola-feature{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,1fr);gap:0;margin:28px 0 68px;border:1px solid #e2ded5;background:#fffefa}
+.osceola-heading{padding:30px;background:#f5f0e5}.osceola-heading h2{margin:12px 0;color:#172538;font:600 clamp(27px,3.3vw,35px)/1.2 "Playfair Display",serif}.osceola-heading>p:not(.eyebrow){color:#465363;font-size:14px;line-height:1.8}.osceola-book-link{display:inline-block;margin-top:12px;color:#87672e;font-size:12px;font-weight:700;text-decoration:none}
+.osceola-history{padding:30px;background:#122239;color:#f7f4ed}.osceola-history>span{color:#c5a267;font-size:10px;font-weight:700;letter-spacing:.16em}.osceola-history h3{margin:12px 0;color:#f2dfb9;font:600 25px "Playfair Display",serif}.osceola-history p{color:#e0e4e9;font-size:13px;line-height:1.8}.osceola-history .osceola-correction{padding:13px;border-left:2px solid #c5a267;background:rgba(255,255,255,.06)}.osceola-history>a{display:inline-block;margin:6px 14px 0 0;color:#f2dfb9;font-size:11px;font-weight:700;text-decoration:none}
+@media(max-width:760px){.osceola-feature{grid-template-columns:1fr}.osceola-heading,.osceola-history{padding:23px}}
 
 </style>
