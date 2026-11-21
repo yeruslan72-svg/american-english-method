@@ -1,0 +1,60 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+
+const dialects = [
+  {
+    name: "Southern American English",
+    short: "Southern English",
+    description: "Explore everyday expressions, regional patterns, and listening examples from the American South.",
+    href: "/american-english-method/learn/southern-english/",
+    focus: "Regional variety"
+  },
+  {
+    name: "African American English (AAE)",
+    short: "African American English",
+    description: "Understand an influential and diverse variety through grammar, meaning, context, and respectful listening.",
+    href: "/american-english-method/learn/african-american-english/",
+    focus: "Community variety"
+  }
+];
+---
+<BaseLayout title="Dialects of American English" description="Explore major varieties of American English through practical lessons, listening, meaning, and context.">
+  <section class="section">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/">← Home</a>
+      <div class="eyebrow">Language varieties</div>
+      <h1 class="page-title">Dialects of American English</h1>
+      <p class="page-lead">American English is not spoken in exactly the same way everywhere. Explore important regional and community varieties, understand how they work, and learn to recognize them in real communication.</p>
+      <p class="catalogue-count">Choose a variety to explore its lessons and listening materials.</p>
+      <div class="dialect-grid">
+        {dialects.map((dialect) => (
+          <a class="dialect-card" href={dialect.href}>
+            <span class="dialect-focus">{dialect.focus}</span>
+            <h2>{dialect.name}</h2>
+            <p class="dialect-short">{dialect.short}</p>
+            <p>{dialect.description}</p>
+            <span class="dialect-link">Explore this variety ↗</span>
+          </a>
+        ))}
+      </div>
+      <div class="dialect-note">
+        <h2>One language, many voices.</h2>
+        <p>These lessons focus on understanding real speakers, not copying accents or turning dialects into stereotypes. More major varieties will be added as the learning materials are developed and reviewed.</p>
+      </div>
+    </div>
+  </section>
+  <style>
+    .dialect-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px;margin-top:32px}
+    .dialect-card{display:flex;flex-direction:column;min-height:250px;padding:30px;border:1px solid var(--line);background:var(--white);transition:background .2s,border-color .2s}
+    .dialect-card:hover{background:#fbf8f0;border-color:var(--gold)}
+    .dialect-focus{color:#8b6b32;font-size:10px;font-weight:700;letter-spacing:.14em;text-transform:uppercase}
+    .dialect-card h2{margin:16px 0 6px;color:var(--navy);font:600 26px "Playfair Display",serif}
+    .dialect-short{margin:0 0 12px;color:var(--muted);font-size:12px;font-weight:600}
+    .dialect-card p{font-size:14px;line-height:1.7}
+    .dialect-link{margin-top:auto;padding-top:22px;color:#8b6b32;font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase}
+    .dialect-note{margin-top:32px;padding:26px 30px;background:#f4f1eb;border-left:3px solid var(--gold)}
+    .dialect-note h2{margin:0 0 8px;color:var(--navy);font:600 22px "Playfair Display",serif}
+    .dialect-note p{max-width:760px;margin:0;color:var(--muted);line-height:1.75}
+    @media(max-width:700px){.dialect-grid{grid-template-columns:1fr}.dialect-card{min-height:220px;padding:24px}}
+  </style>
+</BaseLayout>
