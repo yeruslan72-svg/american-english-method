@@ -99,7 +99,7 @@ The following images are embedded remotely in the Native America Today feature. 
 | Jim Thorpe | Olympedia; historical photograph | [Image](https://olympedia-photos.s3.us-east-1.amazonaws.com/79125.jpg) |
 | Billy Mills | U.S. Department of Defense | [Image](https://media.defense.gov/2020/Nov/19/2002538733/825/780/0/641014-O-ZZ999-001.JPG) |
 | Navajo Code Talkers | Image via The Attic | [Image](https://images.squarespace-cdn.com/content/v1/5843057debbd1a9265704e03/1623345923326-XY6MDHT822QYIYIX5TAR/CLOSEUP.jpg) |
-| Raising the Flag on Iwo Jima | Smithsonian National Museum of the American Indian, *Why We Serve* | [Image](https://b.asp.si.edu/why-we-serve/img/american-flag-mount-suribachi%401200w.jpg) |
-| Peggy Flanagan | State of Minnesota, Governor's Office | [Image](https://mn.gov/governor/assets/Lieutenant%20Governor%20Flanagan-2024_tcm1055-653290.jpg) |
+| Raising the Flag on Iwo Jima | Joe Rosenthal; U.S. National Archives, Identifier 520748 | [Image](https://www.archives.gov/files/research/still-pictures/080-g-0413988-28-1357m.jpg) · [National Archives record](https://www.archives.gov/research/still-pictures/highlights/flag-raising-on-iwo-jima) |
+| Peggy Flanagan | Travellers & Tinkers; Wikimedia Commons, March 2026 | [Image](https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/2026PeggyFlanagan.jpg/960px-2026PeggyFlanagan.jpg) · [file and CC BY-SA 4.0 terms](https://commons.wikimedia.org/wiki/File:2026PeggyFlanagan.jpg) |
 
 **Rights status:** Source attribution is provided for each image. This inventory is not a blanket license; third-party publication, photographer, and usage terms remain applicable. Prefer public-domain, government, institutional, or explicitly licensed images when expanding the gallery.
