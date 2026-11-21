@@ -193,6 +193,52 @@ import BaseLayout from "../../../../layouts/BaseLayout.astro";
       <div class="editorial-note"><strong>Historical care:</strong> Treaties were agreements involving distinct Native nations. They should not be described as if Indigenous peoples simply disappeared or voluntarily surrendered their homelands. Each treaty and removal history needs its own context.</div>
     </section>
 
+
+    <section class="living-heritage">
+      <div class="living-heading">
+        <p class="eyebrow">CULTURE IS NOT FROZEN IN TIME</p>
+        <h2>The Living Heritage</h2>
+        <p class="living-lead">Indigenous cultures are not museum pieces. Across the United States, Native people are teaching languages, making films and music, creating contemporary art and fashion, caring for homelands, and passing knowledge between generations.</p>
+        <p class="ru">Культура коренных народов — не застывшая страница истории. Сегодня люди продолжают говорить на родных языках, создавать музыку и кино, развивать искусство, заботиться о родной земле и передавать знания следующим поколениям.</p>
+      </div>
+      <div class="living-grid">
+        <article class="living-card">
+          <span>01 · LANGUAGES THAT LIVE</span>
+          <h3>Every word carries a world</h3>
+          <p>Language revitalization can take many forms: community classes, immersion schools, recordings, dictionaries, apps, and conversations between elders and young people. Each nation chooses the path that works for its community.</p>
+          <p class="living-ru">Возрождение языка — это не только словари. Это уроки, школы погружения, цифровые проекты и живое общение поколений.</p>
+          <a href="https://www.nnalrc.org/" target="_blank" rel="noopener noreferrer">Native American Language Resource Center ↗</a>
+        </article>
+        <article class="living-card">
+          <span>02 · ART, MUSIC & STORYTELLING</span>
+          <h3>Tradition meets new voices</h3>
+          <p>Native artists work across many forms — from beadwork, weaving, pottery, and carving to painting, photography, hip-hop, independent music, theatre, and film. Contemporary work can carry cultural knowledge while exploring entirely new ideas.</p>
+          <p class="living-ru">Рядом с традиционными ремёслами существуют современная живопись, фотография, театр, кино и музыка. Это не противоположности, а разные формы творчества.</p>
+          <a href="https://www.firstpeoplesfund.org/" target="_blank" rel="noopener noreferrer">First Peoples Fund · Native artists and culture bearers ↗</a>
+          <a href="https://www.nativeartsandcultures.org/" target="_blank" rel="noopener noreferrer">Native Arts + Cultures Foundation ↗</a>
+        </article>
+        <article class="living-card">
+          <span>03 · KNOWLEDGE BETWEEN GENERATIONS</span>
+          <h3>Learning from one another</h3>
+          <p>Elders, families, teachers, and young people help keep knowledge moving: stories, songs, foodways, crafts, community responsibilities, and local histories. Cultural continuity is active work, shaped by each community.</p>
+          <p class="living-ru">Старшие, семьи, учителя и молодёжь вместе передают истории, песни, ремёсла, кулинарные знания и память своего народа.</p>
+          <a href="https://www.firstnations.org/programs/native-arts-language-and-knowledge/" target="_blank" rel="noopener noreferrer">First Nations Development Institute · Arts, Language & Knowledge ↗</a>
+        </article>
+        <article class="living-card">
+          <span>04 · HOMELANDS & THE FUTURE</span>
+          <h3>Culture is connected to place</h3>
+          <p>For many Native communities, cultural knowledge is closely connected to particular lands and waters. Stewardship, environmental work, food traditions, and the protection of sacred places can be part of how communities care for both heritage and future generations.</p>
+          <p class="living-ru">Для многих народов культура неотделима от конкретных земель и вод. Забота о природе и родных местах — часть ответственности перед будущими поколениями.</p>
+          <a href="https://americanindian.si.edu/nk360" target="_blank" rel="noopener noreferrer">Native Knowledge 360° · Learn through Native perspectives ↗</a>
+        </article>
+      </div>
+      <div class="living-quote">
+        <strong>A living culture is not a culture that never changes.</strong>
+        <p>It is a culture whose people continue to shape, teach, question, create, and decide what they will carry forward.</p>
+      </div>
+      <p class="living-note">These examples are invitations to explore, not a checklist for every nation. Practices, priorities, and cultural protocols differ among communities; the most respectful approach is to listen to the people whose culture and knowledge are being discussed.</p>
+    </section>
+
     <section class="native-section">
       <p class="eyebrow">SOVEREIGNTY & THE PRESENT</p>
       <h2>Native nations today</h2>
@@ -340,5 +386,25 @@ h1{max-width:900px;margin:18px 0;font:600 clamp(40px,6vw,64px)/1.08 "Playfair Di
 .hiawatha-links a{color:#87672e;font-size:11px;font-weight:700;text-decoration:none}
 .hiawatha-links a:hover,.hiawatha-book-link:hover{text-decoration:underline}
 @media(max-width:760px){.hiawatha-feature{padding:23px}.hiawatha-context{grid-template-columns:1fr}}
+
+
+.living-heritage{margin:76px 0 70px;padding:36px;background:linear-gradient(135deg,#102238,#203b55);color:#f8f4eb}
+.living-heading{max-width:900px}
+.living-heading h2{margin:12px 0 15px;color:#fff8e9;font:600 clamp(32px,4vw,42px)/1.15 "Playfair Display",serif}
+.living-heading .living-lead{color:#e5e8eb;font-size:16px;line-height:1.85}
+.living-heading .ru{color:#c5cdd6}
+.living-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;margin-top:26px}
+.living-card{padding:23px;background:#fbf8f1;color:#172538;border-top:3px solid #b89552}
+.living-card>span{color:#92713b;font-size:9px;font-weight:700;letter-spacing:.14em}
+.living-card h3{margin:11px 0 9px;color:#172538;font:600 22px/1.2 "Playfair Display",serif}
+.living-card p{color:#526071;font-size:13px;line-height:1.75}
+.living-card .living-ru{color:#7b8490;font-size:12px}
+.living-card a{display:inline-block;margin:5px 14px 0 0;color:#87672e;font-size:11px;font-weight:700;line-height:1.6;text-decoration:none}
+.living-card a:hover{text-decoration:underline}
+.living-quote{margin-top:16px;padding:24px 26px;border:1px solid rgba(232,220,193,.35);background:rgba(255,255,255,.045)}
+.living-quote strong{color:#f2dfb9;font:600 21px/1.3 "Playfair Display",serif}
+.living-quote p{margin:8px 0 0;color:#e0e4e9;font-size:13px;line-height:1.7}
+.living-note{margin:16px 0 0;color:#c5cdd6;font-size:11px;line-height:1.75}
+@media(max-width:760px){.living-heritage{padding:23px}.living-grid{grid-template-columns:1fr}}
 
 </style>
