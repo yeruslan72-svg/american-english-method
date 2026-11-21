@@ -82,3 +82,24 @@ The lesson Markdown currently embeds Pexels CDN image URLs directly and links to
 These images are embedded from the Library of Congress image servers; source records and captions are linked directly beside each image. If downloaded and stored locally later, keep the same credit and rights notes.
 
 | Native Peoples feature — language map | Ives Goddard; revised/enlarged edition 1999 | [Local JPEG image](public/images/history/native-peoples/native-languages-map.jpg) · [PDF access copy hosted by De Gruyter](https://www.degruyterbrill.com/publication/isbn/9783110600926/downloadAsset/9783110600926_Dagostino_map.pdf) · [Smithsonian source record](https://www.si.edu/object/native-languages-and-language-families-north-america-cartographic-material-compiled-ives-goddard:siris_sil_591066) · [scope and reading guide](https://indigenousnorthamerica.org/language-map/) | Map image is stored locally in the repository; the original PDF remains an external reference. Linguistic areas are approximate and are not individual nations' territorial boundaries; labels and terminology reflect the 1999 edition. |
+
+
+## Native America Today — portraits and historical photographs
+
+The following images are embedded remotely in the Native America Today feature. Captions on the page identify the source. Before downloading or redistributing any image locally, confirm the source's current reuse terms and any third-party rights.
+
+| Subject | Image source / credit | Embedded image |
+|---|---|---|
+| Dr. Karletta Chief | University of Arizona, Superfund Research Center | [Image](https://superfund.arizona.edu/sites/default/files/Karletta%20Chief%20Highlight.jpg) |
+| Joy Harjo | Vogue | [Image](https://assets.vogue.com/photos/5d0a48bfd4c3e94474210ce4/16%3A9/w_2000%2Ch_1125%2Cc_limit/promo-joy-harjo.jpg) |
+| Louise Erdrich | Ulf Andersen/Getty Images, via The New Yorker | [Image](https://media.newyorker.com/photos/590950dfc14b3c606c10359d/master/pass/erdrich-580.jpg) |
+| Jeffrey Gibson | School of the Art Institute of Chicago | [Image](https://www.saic.edu/sites/default/files/styles/max_1300x1300/public/2023-07/27venice-bienniale1-wqpg-superjumbo.jpg?itok=hhHdjwgq) |
+| Sterlin Harjo | Image via BlackFilmandTV | [Image](https://images.squarespace-cdn.com/content/v1/5efce5920d28887981c5bd9b/58b8f71d-c019-4951-a9a7-fc43fcb194b6/Sterlin%2BHarjo.jpeg) |
+| Lily Gladstone | Image via EL PAÍS | [Image](https://imagenes.elpais.com/resizer/v2/GE4ARE6ZIRCS5H3N7UXOSBZKDM.jpg?auth=9d5931b4ba98b2729d8ff7d470c918d8dee106a64ffdc6a2b7b76314b2836e1b&height=1470&smart=true&width=1960) |
+| Jim Thorpe | Olympedia; historical photograph | [Image](https://olympedia-photos.s3.us-east-1.amazonaws.com/79125.jpg) |
+| Billy Mills | U.S. Department of Defense | [Image](https://media.defense.gov/2020/Nov/19/2002538733/825/780/0/641014-O-ZZ999-001.JPG) |
+| Navajo Code Talkers | Image via The Attic | [Image](https://images.squarespace-cdn.com/content/v1/5843057debbd1a9265704e03/1623345923326-XY6MDHT822QYIYIX5TAR/CLOSEUP.jpg) |
+| Raising the Flag on Iwo Jima | Smithsonian National Museum of the American Indian, *Why We Serve* | [Image](https://b.asp.si.edu/why-we-serve/img/american-flag-mount-suribachi%401200w.jpg) |
+| Peggy Flanagan | State of Minnesota, Governor's Office | [Image](https://mn.gov/governor/assets/Lieutenant%20Governor%20Flanagan-2024_tcm1055-653290.jpg) |
+
+**Rights status:** Source attribution is provided for each image. This inventory is not a blanket license; third-party publication, photographer, and usage terms remain applicable. Prefer public-domain, government, institutional, or explicitly licensed images when expanding the gallery.
