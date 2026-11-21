@@ -239,7 +239,16 @@ import BaseLayout from "../../../../layouts/BaseLayout.astro";
       <p class="living-note">These examples are invitations to explore, not a checklist for every nation. Practices, priorities, and cultural protocols differ among communities; the most respectful approach is to listen to the people whose culture and knowledge are being discussed.</p>
     </section>
 
-    <section class="native-section">
+        <section class="today-promo">
+      <div>
+        <p class="eyebrow">BEYOND THE PAST · INTO THE PRESENT</p>
+        <h2>Native America Today</h2>
+        <p>Meet Indigenous scientists, writers, artists, athletes, World War II heroes, and political leaders shaping contemporary America.</p>
+      </div>
+      <a href="/american-english-method/learn/history-heritage/native-peoples/today/">Explore the people and their stories ↗</a>
+    </section>
+
+<section class="native-section">
       <p class="eyebrow">SOVEREIGNTY & THE PRESENT</p>
       <h2>Native nations today</h2>
       <p>Indigenous peoples are not only part of the past. Native nations maintain governments, courts, schools, cultural institutions, businesses, health services, and diplomatic relationships. Artists, writers, scientists, educators, veterans, language teachers, and community leaders contribute to contemporary American life in many fields.</p>
@@ -409,4 +418,11 @@ h1{max-width:900px;margin:18px 0;font:600 clamp(40px,6vw,64px)/1.08 "Playfair Di
 .living-note{margin:16px 0 0;color:#c5cdd6;font-size:11px;line-height:1.75}
 @media(max-width:760px){.living-heritage{padding:23px}.living-grid{grid-template-columns:1fr}}
 
+
+.today-promo{display:flex;align-items:center;justify-content:space-between;gap:28px;margin:68px 0 56px;padding:30px 32px;background:linear-gradient(125deg,#102238,#203b55);border-top:3px solid #b89552;color:#f8f4eb}
+.today-promo h2{margin:10px 0;color:#fff8e9;font:600 clamp(27px,3.5vw,36px)/1.2 "Playfair Display",serif}
+.today-promo div>p:last-child{max-width:650px;color:#e0e4e9;font-size:14px;line-height:1.8}
+.today-promo a{flex:0 0 auto;padding:13px 16px;border:1px solid rgba(232,220,193,.5);color:#f2dfb9;font-size:11px;font-weight:700;text-decoration:none;text-transform:uppercase;letter-spacing:.06em}
+.today-promo a:hover{background:rgba(255,255,255,.08)}
+@media(max-width:700px){.today-promo{align-items:flex-start;flex-direction:column;padding:24px}}
 </style>
