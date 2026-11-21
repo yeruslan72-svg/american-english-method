@@ -331,6 +331,10 @@
 
 Не старайся использовать все южные выражения сразу. Выбери те, которые подходят твоему стилю и ситуации.
 
+## 7. Listen to Real Virginia Voices
+
+Изучить особенности южного произношения на слух можно в отдельном аудиоуроке: [Virginia Southern English — Listening to Real Voices](https://yeruslan72-svg.github.io/american-english-method/learn/southern-english/virginia-real-voices/). Там собраны записи реальных жителей Вирджинии из архива IDEA, сведения о происхождении записей и задания для внимательного прослушивания. Аудиофайлы остаются на сайте первоисточника и не копируются в AEM.
+
 ## Our Language Principle
 
 **Understand the region. Respect the context. Speak naturally.**
