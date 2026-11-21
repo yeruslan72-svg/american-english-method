@@ -77,7 +77,7 @@ The lesson Markdown currently embeds Pexels CDN image URLs directly and links to
 | The Basket Maker | C.D. Nichols; 2 November 1904 | [Library of Congress item 2002722527](https://www.loc.gov/pictures/item/2002722527/) · [image file](https://cdn.loc.gov/service/pnp/cph/3c30000/3c32000/3c32300/3c32324v.jpg) | Library of Congress rights advisory: “No known restrictions on publication.” The catalogue summary describes a Native woman making a basket; it does not identify her nation or community. |
 
 
-| Minnehaha, frontispiece to *The Song of Hiawatha* | Harrison Fisher; 1906 | [Illustration and source gallery](https://hiawatha.digital/illustrations) · [image file](https://hiawatha.digital/administrator/LowDefImages/006%20Minnehaha.jpg) | The 1906 illustration's copyright has expired; the source archive identifies it as public domain. Caption identifies it as a literary depiction, not a documentary portrait. |
+| Minnehaha, frontispiece to *The Song of Hiawatha* | Harrison Fisher; 1906 | [Illustration and source gallery](https://hiawatha.digital/illustrations) · [local image file](public/images/history/native-peoples/006 Minnehaha.jpg) · [original archive](https://hiawatha.digital/illustrations) | The 1906 illustration's copyright has expired; the source archive identifies it as public domain. Caption identifies it as a literary depiction, not a documentary portrait. |
 
 These images are embedded from the Library of Congress image servers; source records and captions are linked directly beside each image. If downloaded and stored locally later, keep the same credit and rights notes.
 
