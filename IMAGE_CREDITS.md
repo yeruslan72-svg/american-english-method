@@ -51,6 +51,8 @@ We provide photographer credits voluntarily. A photo copyright license does not 
 | Public transit scenario | Guillermo Quiñones | [Photo 17994718](https://www.pexels.com/photo/a-bus-on-the-street-in-city-17994718/) | City bus stopping for passengers |
 | Zoo scenario | Roderick Salatan | [Photo 29619938](https://www.pexels.com/photo/family-feeding-giraffe-at-zoo-exhibit-29619938/) | Family observing a giraffe at a zoo |
 
+| Native Peoples of North America feature | OpenAI image generation | Original AI-generated illustration | Illustrative portrait of a Native American man in Plains-style feathered regalia; not a named individual and not representative of all Indigenous nations |
+
 ## Implementation note
 
 The lesson Markdown currently embeds Pexels CDN image URLs directly and links to each original Pexels photo page. This preserves visible photographer/source credit. If assets are later downloaded and stored locally, retain this register and verify that each local file matches the listed source page.
