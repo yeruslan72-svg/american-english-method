@@ -20,6 +20,10 @@ Tangier Island находится в Chesapeake Bay. Речь островног
 
 Лингвист David L. Shores отдельно исследовал ударные гласные Tangier Island. Национальный географический образовательный материал также описывает характерные для острова особенности произношения гласных. Это хороший пример того, почему местный акцент нужно изучать в его собственном контексте.
 
+**Историческая точность:** речь Tangier иногда называют «Elizabethan English» или почти нетронутым английским XVI–XVII веков. Это популярная, но чрезмерно упрощённая версия. Сам David L. Shores отвергал прямое отождествление островной речи с елизаветинским английским. Исследование 2022 года, сравнившее современные образцы Tangier и Smith Island с историческими и британскими произносительными моделями, обнаружило меньше ожидавшихся исторических совпадений, хотя и выделило ряд характерных фонетических особенностей. Поэтому в AEM мы называем Tangier English особой местной разновидностью Chesapeake Bay English, а не «сохранившимся английским Шекспира».
+
+Дополнительные материалы: [David L. Shores on Tangier speech — National Geographic](https://education.nationalgeographic.org/resource/unique-speak/) · [Preeshl & Johns (2022), “The American Elizabethan Accent: Sea Island Residents Talk”](https://doi.org/10.1080/23268263.2022.2043579).
+
 ### 1. Virginia 8 — Tangier Island
 
 **[Listen to Virginia 8 at IDEA](https://www.dialectsarchive.com/virginia-8)**
