@@ -81,6 +81,12 @@ import BaseLayout from "../../../../layouts/BaseLayout.astro";
         <p class="ru">Поэма Генри Уодсворта Лонгфелло «Песнь о Гайавате» вышла в 1855 году и стала одним из самых известных произведений американской литературы XIX века. Её ритм, образы и герои познакомили множество читателей с преданиями и названиями, связанными прежде всего с народами анишинаабе (оджибве) района Великих озёр.</p>
         <a class="hiawatha-book-link" href="https://www.gutenberg.org/ebooks/19" target="_blank" rel="noopener noreferrer">Read the complete poem · Project Gutenberg ↗</a>
       </div>
+      <figure class="hiawatha-illustration">
+        <a href="https://hiawatha.digital/administrator/LowDefImages/006%20Minnehaha.jpg" target="_blank" rel="noopener noreferrer">
+          <img src="https://hiawatha.digital/administrator/LowDefImages/006%20Minnehaha.jpg" alt="Minnehaha, a historical illustration by Harrison Fisher for the 1906 edition of The Song of Hiawatha" loading="lazy" />
+        </a>
+        <figcaption><strong>Minnehaha</strong> — illustration by Harrison Fisher, frontispiece to the 1906 Bobbs-Merrill edition of <em>The Song of Hiawatha</em>. The original illustration is in the public domain. This is a period artist's interpretation of Longfellow's literary character, not a documentary portrait of a historical Dakota woman. <a href="https://hiawatha.digital/illustrations" target="_blank" rel="noopener noreferrer">View the illustrated edition and source ↗</a></figcaption>
+      </figure>
       <div class="hiawatha-note">
         <span>READ THE POEM — AND READ BEYOND IT</span>
         <h3>A literary work, not a verbatim traditional epic</h3>
@@ -316,6 +322,12 @@ h1{max-width:900px;margin:18px 0;font:600 clamp(40px,6vw,64px)/1.08 "Playfair Di
 .hiawatha-intro h2{margin:12px 0 16px;color:#172538;font:600 clamp(29px,3.6vw,38px)/1.2 "Playfair Display",serif}
 .hiawatha-intro>p:not(.eyebrow){color:#465363;font-size:14px;line-height:1.85}
 .hiawatha-book-link{display:inline-block;margin:8px 0 22px;color:#87672e;font-size:12px;font-weight:700;text-decoration:none}
+.hiawatha-illustration{max-width:590px;margin:4px auto 24px;background:#fff;border:1px solid #dfd6c6;box-shadow:0 10px 28px rgba(23,37,56,.08)}
+.hiawatha-illustration>a{display:block;background:#eee8dc;text-align:center}
+.hiawatha-illustration img{display:block;width:100%;max-height:720px;object-fit:contain}
+.hiawatha-illustration figcaption{padding:14px 17px;color:#657080;font-size:11px;line-height:1.7}
+.hiawatha-illustration figcaption strong{color:#172538;font:600 18px "Playfair Display",serif}
+.hiawatha-illustration figcaption a{color:#87672e;font-weight:700;text-decoration:none}
 .hiawatha-note{margin:6px 0 18px;padding:23px 25px;background:#122239;color:#f7f4ed}
 .hiawatha-note>span,.hiawatha-context article>span{color:#c5a267;font-size:9px;font-weight:700;letter-spacing:.15em}
 .hiawatha-note h3{margin:10px 0;color:#f2dfb9;font:600 23px "Playfair Display",serif}
