@@ -53,6 +53,14 @@ We provide photographer credits voluntarily. A photo copyright license does not 
 
 | Native Peoples of North America feature | OpenAI image generation | Original AI-generated illustration | Illustrative portrait of a Native American man in Plains-style feathered regalia; not a named individual and not representative of all Indigenous nations |
 
+
+| Tom Love | Chickasaw Nation Hall of Fame | [Portrait](https://hof.chickasaw.net/cmspages/getfile.aspx?guid=f40696fc-a6b2-4901-a507-27f9481bdc88) · [Hall of Fame biography](https://hof.chickasaw.net/Members/2019/Tom-Love) | Official Chickasaw Nation Hall of Fame portrait. Retain institutional attribution; confirm reuse terms before local redistribution. |
+| David “Famous Dave” Anderson | Grillax, 2017 | [Portrait](https://grillax.com/wp-content/uploads/2017/09/FamousDaves_DaveAnderson.jpg) · [National Native American Hall of Fame biography](https://nativehalloffame.org/dave-andersonchippewa/) | Third-party editorial image; attribution is not a reuse license. Confirm permission before local redistribution. |
+| Lance Morgan | Ho-Chunk, Inc. | [Official portrait](https://www.hochunkinc.com/wp-content/uploads/2021/08/lance-morgan-2.jpg) · [Official biography](https://www.hochunkinc.com/bio/lance-morgan/) | Official company portrait; retain source credit and confirm reuse terms before local redistribution. |
+| Karlene Hunter | Arlo Iron Cloud, The Counter | [Portrait](https://thecounter.org/wp-content/uploads/2020/01/Karlene-Hunter-1860x0-c-default.jpg) · [Article](https://thecounter.org/tanka-bar-niman-ranch-bison-grassfed/) | Editorial photograph credited to Arlo Iron Cloud; attribution is not a reuse license. Confirm permission before local redistribution. |
+| Stephanie A. Bryan | Momentum Leaders | [Portrait](https://i0.wp.com/momentumleaders.org/wp-content/uploads/2023/09/Stephanie-Bryan-Website.png?fit=500%2C500&ssl=1) · [Leadership profile](https://momentumleaders.org/people/stephanie-bryan/) | Organization profile portrait; retain attribution and confirm reuse terms before local redistribution. |
+
+
 ## Implementation note
 
 The lesson Markdown currently embeds Pexels CDN image URLs directly and links to each original Pexels photo page. This preserves visible photographer/source credit. If assets are later downloaded and stored locally, retain this register and verify that each local file matches the listed source page.
