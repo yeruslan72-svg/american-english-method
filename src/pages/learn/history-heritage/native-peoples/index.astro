@@ -27,6 +27,18 @@ import BaseLayout from "../../../../layouts/BaseLayout.astro";
       <figcaption>Illustrative artwork inspired by Plains-style feathered regalia. It is not a portrait of a named person or a representation of all Indigenous nations. Regalia, clothing, and cultural protocols differ among Native communities.</figcaption>
     </figure>
 
+
+    <section class="cooper-feature">
+      <div class="cooper-copy">
+        <p class="eyebrow">A LITERARY DOORWAY INTO THE PAST</p>
+        <h2>From Fenimore Cooper to the history behind the stories</h2>
+        <p>For generations of readers, James Fenimore Cooper's <em>The Last of the Mohicans</em> opened a window onto the forests and frontier conflicts of eighteenth-century North America. Chingachgook and Uncas became unforgettable literary figures. We can keep the sense of adventure that made these stories memorable while learning to distinguish fiction from the lives and histories of real Native nations.</p>
+        <p class="ru">Для многих поколений читателей романы Фенимора Купера стали первым знакомством с миром коренных народов Северной Америки. Чингачгук и Ункас — яркие литературные герои, но роман не является документальным описанием жизни всех индейских народов. Мы сохраним любовь к приключениям и одновременно откроем подлинную историю.</p>
+        <div class="cooper-links"><a href="https://www.gutenberg.org/files/940/940-h/940-h.htm" target="_blank" rel="noopener noreferrer">Read the novel · Project Gutenberg ↗</a><a href="https://www.neh.gov/humanities/2007/septemberoctober/feature/wyeth%E2%80%99s-noble-savage" target="_blank" rel="noopener noreferrer">How art shaped the image of Uncas · NEH ↗</a><a href="https://twain.lib.virginia.edu/projects/rissetto/last.html" target="_blank" rel="noopener noreferrer">A literary analysis · University of Virginia ↗</a></div>
+      </div>
+      <div class="cooper-note"><span>READ WITH TWO LENSES</span><strong>The story</strong><p>Adventure, friendship, courage, loss, and the imagination of a nineteenth-century novelist.</p><strong>The history</strong><p>Specific Native nations, their own voices, documented events, and histories that continue today.</p></div>
+    </section>
+
     <section class="native-section">
       <p class="eyebrow">WORDS AND IDENTITY</p>
       <h2>Who are Indigenous peoples?</h2>
@@ -61,6 +73,19 @@ import BaseLayout from "../../../../layouts/BaseLayout.astro";
         <article><h3>Northwest Coast, Alaska & Subarctic</h3><p>Coastal and northern peoples developed cultures shaped by salmon, marine resources, forests, ice, and extensive knowledge of local environments.</p></article>
       </div>
       <p class="ru">Региональные карты помогают увидеть разнообразие, но не должны подменять историю конкретных народов. Границы культурных областей условны и менялись со временем.</p>
+    </section>
+
+
+    <section class="native-section visual-archive">
+      <p class="eyebrow">A VISUAL JOURNEY ACROSS TIME</p>
+      <h2>Places, people, and knowledge</h2>
+      <p>These carefully selected archival and contemporary images offer three different windows into Native life. They do not represent every nation, and each image should be read with its date, place, creator, and original source in mind.</p>
+      <div class="archive-grid">
+        <figure class="archive-card"><a href="https://cdn.loc.gov/service/pnp/ppmsca/39900/39909v.jpg" target="_blank" rel="noopener noreferrer"><img src="https://cdn.loc.gov/service/pnp/ppmsca/39900/39909v.jpg" alt="Historic photograph of Taos Pueblo adobe buildings in New Mexico, circa 1880" loading="lazy"></a><figcaption><span>NEW MEXICO · c. 1880</span><strong>Taos Pueblo</strong><p>An architectural view of a living Pueblo community. The image reminds us that Indigenous homes and settlements were as varied as the regions they belonged to.</p><a href="https://www.loc.gov/pictures/item/2015651512/" target="_blank" rel="noopener noreferrer">Library of Congress record ↗</a></figcaption></figure>
+        <figure class="archive-card"><a href="https://cdn.loc.gov/service/pnp/pga/07500/07569v.jpg" target="_blank" rel="noopener noreferrer"><img src="https://cdn.loc.gov/service/pnp/pga/07500/07569v.jpg" alt="1838 hand-coloured lithograph depicting Sequoyah holding the Cherokee syllabary" loading="lazy"></a><figcaption><span>CHEROKEE NATION · 1838</span><strong>Sequoyah and the syllabary</strong><p>Sequoyah created a writing system for the Cherokee language. The syllabary became a powerful tool for literacy, publishing, and cultural continuity.</p><a href="https://www.loc.gov/item/93504544/" target="_blank" rel="noopener noreferrer">Library of Congress record ↗</a></figcaption></figure>
+        <figure class="archive-card"><a href="https://tile.loc.gov/storage-services/service/pnp/highsm/55300/55323v.jpg" target="_blank" rel="noopener noreferrer"><img src="https://tile.loc.gov/storage-services/service/pnp/highsm/55300/55323v.jpg" alt="Three generations of a Navajo family in Monument Valley Navajo Tribal Park, photographed in 2018" loading="lazy"></a><figcaption><span>DINÉ (NAVAJO) · 2018</span><strong>Family in Monument Valley</strong><p>A contemporary family portrait by Carol M. Highsmith. Native identity is not frozen in the past: families, communities, and cultures are part of America today.</p><a href="https://www.loc.gov/pictures/item/2018703311/" target="_blank" rel="noopener noreferrer">Library of Congress record ↗</a></figcaption></figure>
+      </div>
+      <p class="archive-note">Image sources: Library of Congress, Prints & Photographs Division. Taos Pueblo and Sequoyah images are identified as having no known publication restrictions; the contemporary family photograph appears in the Library's Native American Heritage “Free to Use and Reuse” selection. Credits and source links are recorded in the site image register.</p>
     </section>
 
     <section class="native-section">
@@ -157,4 +182,13 @@ h1{max-width:900px;margin:18px 0;font:600 clamp(40px,6vw,64px)/1.08 "Playfair Di
 .steps span{padding:9px 13px;border:1px solid rgba(232,220,193,.4);color:#e8dcc1;font-size:11px;letter-spacing:.08em;text-transform:uppercase}
 .footer-note{margin-top:28px;color:#89929d;font-size:12px;line-height:1.75}
 @media(max-width:700px){.native-hero{padding:56px 0}.fact-grid,.region-grid,.word-grid,.source-list{grid-template-columns:1fr}.native-section{margin-top:52px}.learning-panel{padding:24px}.hero-figure img{max-height:420px}}
+
+.cooper-feature{display:grid;grid-template-columns:minmax(0,1.65fr) minmax(230px,.8fr);gap:28px;align-items:stretch;margin:58px 0 68px;padding:34px;background:linear-gradient(130deg,#f5f0e5,#fbf8f1);border:1px solid #e6ddcc}
+.cooper-copy h2{margin:12px 0 16px;color:#172538;font:600 clamp(28px,3.5vw,36px)/1.2 "Playfair Display",serif}
+.cooper-copy>p:not(.eyebrow){color:#465363;font-size:15px;line-height:1.85}
+.cooper-links{display:flex;flex-wrap:wrap;gap:10px 18px;margin-top:20px}.cooper-links a,.archive-card figcaption>a{color:#87672e;font-size:12px;font-weight:700;text-decoration:none}.cooper-links a:hover,.archive-card figcaption>a:hover{text-decoration:underline}
+.cooper-note{padding:24px;background:#122239;color:#f8f4eb}.cooper-note span,.archive-card figcaption span{display:block;margin-bottom:14px;color:#c5a267;font-size:10px;font-weight:700;letter-spacing:.16em}.cooper-note strong{display:block;margin-top:12px;color:#f2dfb9;font:600 20px "Playfair Display",serif}.cooper-note p{margin:6px 0 0;color:#d4dbe3;font-size:13px;line-height:1.7}
+.archive-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin-top:28px}.archive-card{margin:0;border:1px solid #e2ded5;background:#fffefa;overflow:hidden}.archive-card>a{display:block;overflow:hidden;background:#e9e5dc}.archive-card img{display:block;width:100%;height:220px;object-fit:cover;transition:transform .35s ease}.archive-card>a:hover img{transform:scale(1.035)}.archive-card figcaption{padding:18px}.archive-card figcaption span{margin-bottom:9px;font-size:9px}.archive-card figcaption strong{display:block;color:#172538;font:600 21px "Playfair Display",serif}.archive-card figcaption p{min-height:96px;color:#566272;font-size:13px;line-height:1.7}.archive-note{margin-top:16px;color:#7b8490;font-size:11px;line-height:1.7}
+@media(max-width:760px){.cooper-feature{grid-template-columns:1fr;padding:22px}.archive-grid{grid-template-columns:1fr}.archive-card img{height:240px}.archive-card figcaption p{min-height:0}}
+
 </style>
