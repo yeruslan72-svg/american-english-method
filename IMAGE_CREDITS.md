@@ -65,3 +65,14 @@ The lesson Markdown currently embeds Pexels CDN image URLs directly and links to
 - **Separate rights:** The license does not automatically clear identifiable people, trademarks/logos, artwork, buildings/architecture, privacy, publicity, or property rights. Review the actual image and context.
 - **Use in AEM:** Individual lesson illustrations with attribution and meaningful educational context. Do not redistribute images as standalone files, create a stock-photo collection, or perform bulk/systematic copying.
 - **Status:** The 37 listed source pages are inventoried; each remains conditional pending asset-level review of depicted third-party rights and deployed-file matching.
+
+
+## Indigenous Peoples feature — archival and contemporary images
+
+| Subject | Creator / date | Repository and source | Rights note |
+|---|---|---|---|
+| Taos Pueblo, New Mexico | Cunningham & Co.; c. 1880 | [Library of Congress item 2015651512](https://www.loc.gov/pictures/item/2015651512/) · [image file](https://cdn.loc.gov/service/pnp/ppmsca/39900/39909v.jpg) | Library of Congress record; Wikimedia Commons file page identifies the work as public domain / no known restrictions. |
+| Sequoyah holding the Cherokee syllabary | John T. Bowen; 1838 | [Library of Congress item 93504544](https://www.loc.gov/item/93504544/) · [image file](https://cdn.loc.gov/service/pnp/pga/07500/07569v.jpg) | Library of Congress record states no known restrictions on publication. |
+| Navajo family in Monument Valley Navajo Tribal Park | Carol M. Highsmith; 2018 | [Library of Congress item 2018703311](https://www.loc.gov/pictures/item/2018703311/) · [image file](https://tile.loc.gov/storage-services/service/pnp/highsm/55300/55323v.jpg) | Included in the Library of Congress Native American Heritage “Free to Use and Reuse” selection; retain source credit and review contextual rights. |
+
+These images are embedded from the Library of Congress image servers; source records and captions are linked directly beside each image. If downloaded and stored locally later, keep the same credit and rights notes.
