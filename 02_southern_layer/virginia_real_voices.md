@@ -24,6 +24,22 @@ Tangier Island находится в Chesapeake Bay. Речь островног
 
 Дополнительные материалы: [David L. Shores on Tangier speech — National Geographic](https://education.nationalgeographic.org/resource/unique-speak/) · [Preeshl & Johns (2022), “The American Elizabethan Accent: Sea Island Residents Talk”](https://doi.org/10.1080/23268263.2022.2043579).
 
+### A Phonetic Feature to Recognize: The “Hoi Toid” Vowel
+
+One feature associated with some traditional speech communities along the Mid-Atlantic coast is a distinctive realization of the **PRICE vowel** /aɪ/, the vowel heard in words such as *time* and *tide*. In descriptions of coastal varieties, this feature is often illustrated by the local-sounding form *toid* for *tide*; the label **“Hoi Toiders”** itself comes from a pronunciation of *high-tiders*.
+
+This is a useful listening target, but it must be handled carefully:
+
+- It is a regional phonetic pattern, not a spelling rule.
+- It is not present in every speaker or every token, and it should not be assumed to characterize all Southern English.
+- A broad orthographic transcript cannot show the exact vowel movement. The sound must be heard in the recording; a precise account requires phonetic or acoustic analysis.
+- The three IDEA Tangier recordings below were made in 2009. They are valuable community samples, but they are not the same speakers as the original accent samples collected for the 2019 study by Preeshl and Johns.
+
+**Listening task:** if a speaker says a word containing /aɪ/ (for example *time*, *right*, *like* or *high*), replay that word in its sentence. Listen for the quality of the vowel at its beginning and how it moves toward the end. Do not write *toid* or another eye-dialect spelling unless the sound itself supports that impression.
+
+For background, see Wolfram and Schilling's discussion of coastal PRICE-vowel patterns and the study by Preeshl and Johns comparing Tangier and Smith Island speech. National Geographic's interview with David L. Shores also describes the island's distinctive vowel system, while warning against calling it Elizabethan English.
+
+
 ### 1. Virginia 8 — Tangier Island
 
 **[Listen to Virginia 8 at IDEA](https://www.dialectsarchive.com/virginia-8)**
