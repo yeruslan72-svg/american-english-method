@@ -1,5 +1,5 @@
 const markdownFiles = import.meta.glob(
-  "../../{01_scenarios,02_southern_layer,03_phonetics,04_lessons,05_idioms,06_everyday_expressions,07_african_american_english}/**/*.md",
+  "../../{01_scenarios,02_southern_layer,03_phonetics,04_lessons,05_idioms,06_everyday_expressions,07_african_american_english,08_texas_english}/**/*.md",
   { eager: true, query: "?raw", import: "default" }
 ) as Record<string, string>;
 
