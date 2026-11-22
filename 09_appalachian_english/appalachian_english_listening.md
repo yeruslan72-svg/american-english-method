@@ -22,7 +22,7 @@ Some features associated with Appalachian English also occur elsewhere in the So
 
 ## 2. Listen to Real Appalachian Voices
 
-Start with the documentary **[Mountain Talk](https://www.youtube.com/watch?v=03D0t5u4E8Q)**, a film about language and life in the Appalachian region. It is a useful listening introduction, not a complete survey of every Appalachian community.
+Start with the documentary **[Mountain Talk](https://www.youtube.com/watch?v=iHIJfbYhQFg)**, a film about language and life in the Appalachian region. It is a useful listening introduction, not a complete survey of every Appalachian community.
 
 As you listen:
 
@@ -45,9 +45,8 @@ Regional grammar is systematic. A form can differ from standardized classroom En
 In some Southern and Appalachian varieties, speakers use two modal verbs together:
 
 - *We might could go tomorrow.*
-- *I used to couldn't do that.*
 
-In the first example, *might could* expresses possibility and ability — roughly, *might be able to*. Double modals are not exclusive to Appalachia, and not every Appalachian speaker uses them.
+In the example, *might could* expresses possibility and ability — roughly, *might be able to*. Double modals are not exclusive to Appalachia, and not every Appalachian speaker uses them.
 
 **For active everyday English:** use *might be able to*.  
 **For listening:** recognize *might could* without assuming the speaker is confused.
