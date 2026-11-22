@@ -15,6 +15,24 @@ const sectionLessons = lessons.filter((lesson) => lesson.section === section.id)
       <div class="eyebrow">Learning direction</div>
       <h1 class="page-title">{section.title}</h1>
       <p class="page-lead">{section.intro}</p>
+      {section.id === "texas-english" && (
+        <figure class="texas-visual">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/6/65/Texascowboys.jpg"
+            alt="Two working cowboys on horseback near Benjamin, Texas, wearing wide-brimmed hats and carrying ropes"
+            loading="eager"
+            decoding="async"
+          />
+          <figcaption>
+            <span class="texas-tagline">Real Texas. Real People. Real English.</span>
+            <span class="texas-credit">
+              Photo: <a href="https://commons.wikimedia.org/wiki/File:Texascowboys.jpg" target="_blank" rel="noopener noreferrer">Pschemp, “Texascowboys.jpg” (2006)</a> ·
+              <a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 3.0</a>
+              · Wikimedia Commons
+            </span>
+          </figcaption>
+        </figure>
+      )}
       <p class="catalogue-count">{sectionLessons.length} {sectionLessons.length === 1 ? "learning resource" : "learning resources"} in this direction.</p>
       {sectionLessons.length > 0 ? (
         <div class="lesson-list">
@@ -38,3 +56,50 @@ const sectionLessons = lessons.filter((lesson) => lesson.section === section.id)
     </div>
   </section>
 </BaseLayout>
+
+
+<style>
+  .texas-visual {
+    margin: 2rem 0 2.25rem;
+    overflow: hidden;
+    border: 1px solid rgba(190, 160, 105, 0.28);
+    border-radius: 14px;
+    background: #101d2d;
+  }
+  .texas-visual img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    object-position: center 48%;
+  }
+  .texas-visual figcaption {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem 1.25rem;
+    padding: 0.85rem 1rem;
+  }
+  .texas-tagline {
+    color: #e8c98f;
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.045em;
+  }
+  .texas-credit {
+    color: #b9c3cf;
+    font-size: 0.72rem;
+    line-height: 1.5;
+  }
+  .texas-credit a {
+    color: #e1e8f0;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+  @media (max-width: 640px) {
+    .texas-visual { margin: 1.5rem 0 1.75rem; border-radius: 10px; }
+    .texas-visual img { aspect-ratio: 4 / 3; }
+    .texas-visual figcaption { display: grid; gap: 0.35rem; }
+  }
+</style>
