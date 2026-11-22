@@ -33,6 +33,24 @@ const sectionLessons = lessons.filter((lesson) => lesson.section === section.id)
           </figcaption>
         </figure>
       )}
+      {section.id === "appalachian-english" && (
+        <figure class="appalachian-visual">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Maynardville-musicians-tn1.jpg"
+            alt="Street musicians in Maynardville, Tennessee, in October 1935; a man plays guitar while other local musicians sit beside him"
+            loading="eager"
+            decoding="async"
+          />
+          <figcaption>
+            <span class="appalachian-tagline">Real Appalachia. Real People. Real Voices.</span>
+            <span class="appalachian-credit">
+              Photo: <a href="https://commons.wikimedia.org/wiki/File:Maynardville-musicians-tn1.jpg" target="_blank" rel="noopener noreferrer">Ben Shahn, “Street musicians in Maynardville, Tennessee” (October 1935)</a> ·
+              <a href="https://www.loc.gov/item/fsa.8a16694/" target="_blank" rel="noopener noreferrer">Library of Congress</a> ·
+              Public domain (U.S. federal government work)
+            </span>
+          </figcaption>
+        </figure>
+      )}
       <p class="catalogue-count">{sectionLessons.length} {sectionLessons.length === 1 ? "learning resource" : "learning resources"} in this direction.</p>
       {sectionLessons.length > 0 ? (
         <div class="lesson-list">
@@ -102,4 +120,43 @@ const sectionLessons = lessons.filter((lesson) => lesson.section === section.id)
     .texas-visual img { aspect-ratio: 4 / 3; }
     .texas-visual figcaption { display: grid; gap: 0.35rem; }
   }
+  .appalachian-visual {
+    margin: 2rem 0 2.25rem;
+    overflow: hidden;
+    border: 1px solid rgba(190, 160, 105, 0.28);
+    border-radius: 14px;
+    background: #101d2d;
+  }
+  .appalachian-visual img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    object-position: center 48%;
+  }
+  .appalachian-visual figcaption {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.5rem 1.25rem;
+    padding: 0.85rem 1rem;
+  }
+  .appalachian-tagline {
+    color: #e8c98f;
+    font-size: 0.9rem;
+    font-weight: 700;
+    letter-spacing: 0.045em;
+  }
+  .appalachian-credit {
+    color: #b9c3cf;
+    font-size: 0.72rem;
+    line-height: 1.5;
+  }
+  .appalachian-credit a {
+    color: #e1e8f0;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+  }
+
 </style>
