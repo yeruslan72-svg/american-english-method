@@ -9,6 +9,7 @@ export const sections = [
   { id: "descriptive-lessons", title: "Descriptive Lessons", description: "Learn to notice and describe objects, rooms, places, sounds, smells, and feelings.", intro: "Build descriptive language by observing real details and expressing what you notice." },
   { id: "southern-english", title: "Southern English", description: "A regional layer of American English, presented in context and clearly distinguished from nationwide usage.", intro: "Understand regional expressions without mistaking them for universal American English." },
   { id: "african-american-english", title: "African American English", description: "Understand a diverse and influential variety of American English through practical listening, meaning, and context.", intro: "Learn to recognize real language patterns respectfully, without stereotypes or imitation." },
+  { id: "texas-english", title: "Texas English", description: "Explore the varied regional voices of Texas through authentic listening and practical language.", intro: "Hear regional differences across Texas and learn to understand real speakers without imitating stereotypes." },
   { id: "connected-speech", title: "Connected Speech", description: "Understand how sounds connect, reduce, and flow in natural spoken American English.", intro: "Train your ear to recognize the language as it is actually spoken." },
   { id: "idioms", title: "Idioms", description: "Common, useful idioms selected for natural everyday conversation.", intro: "Focus on expressions that are practical, current, and widely understood." },
   { id: "everyday-expressions", title: "Everyday Expressions", description: "High-frequency conversational patterns for opinions, reactions, requests, plans, and more.", intro: "Build a practical repertoire of phrases for relaxed everyday communication." }
@@ -34,6 +35,7 @@ function classify(path: string) {
   if (path.startsWith("../../01_scenarios/")) return { section: "everyday-scenarios", type: "scenario" };
   if (path.startsWith("../../02_southern_layer/")) return { section: "southern-english", type: "regional-reference" };
   if (path.startsWith("../../07_african_american_english/")) return { section: "african-american-english", type: "language-variety-lesson" };
+  if (path.startsWith("../../08_texas_english/")) return { section: "texas-english", type: "language-variety-lesson" };
   if (path.startsWith("../../03_phonetics/")) return { section: "connected-speech", type: "pronunciation-reference" };
   if (path.startsWith("../../04_lessons/")) return { section: "descriptive-lessons", type: "descriptive-lesson" };
   if (path.startsWith("../../05_idioms/")) return { section: "idioms", type: "idiom-lesson" };
