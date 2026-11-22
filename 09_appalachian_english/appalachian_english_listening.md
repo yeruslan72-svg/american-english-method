@@ -22,7 +22,7 @@ Some features associated with Appalachian English also occur elsewhere in the So
 
 ## 2. Listen to Real Appalachian Voices
 
-Start with the documentary **[Mountain Talk](https://www.youtube.com/watch?v=iHIJfbYhQFg)**, a film about language and life in the Appalachian region. It is a useful listening introduction, not a complete survey of every Appalachian community.
+Start with the documentary **[Mountain Talk](https://www.youtube.com/watch?v=03iwAY4KlIU)**, a film about language and life in the Appalachian region. It is a useful listening introduction, not a complete survey of every Appalachian community.
 
 As you listen:
 
@@ -34,7 +34,9 @@ As you listen:
 
 For more research-based listening, explore the **[Audio-Aligned and Parsed Corpus of Appalachian English (AAPCAppE)](https://www.aapcappe.org/)**. It brings together several oral-history subcorpora, including interviews from central and eastern Kentucky, western North Carolina, Dante, Virginia, and the Great Smoky Mountains. Some collections are historical, so use the dates and speaker information as part of the listening context.
 
-The **[Joseph Sargent Hall Collection](https://archivesofappalachia.aviaryplatform.com/collections/1560)** at East Tennessee State University's Archives of Appalachia documents language and folklore in the Great Smoky Mountains. Its catalogue describes field recordings from 1939 onward. Access to individual recordings may depend on the archive's current conditions.
+The **[Smoky Mountain Suite](https://appalachian-english.library.sc.edu/node/787.html)** at the University of South Carolina is a particularly useful listening resource. It presents approximately ten hours of recordings made in 1939 with around 60 people from the Great Smoky Mountains of Tennessee and North Carolina. Where available, listen while following the accompanying transcript and glossary. The recordings are historical evidence from specific communities and speakers, not a representation of every Appalachian voice.
+
+For speaker-by-speaker access, use the university project's **[Hall Speakers and Transcripts](https://appalachian-english.library.sc.edu/transcripts.html)** page. It helps connect an audio selection with its transcript and speaker context.
 
 ## 3. Grammar You May Hear
 
@@ -152,7 +154,8 @@ No. Regional varieties are legitimate forms of language with their own histories
 
 - [BYU — Appalachian English](https://vose.byu.edu/varieties/appalachian-english/) — an overview of pronunciation, grammar, and lexical features, with references and links to documentary examples.
 - [AAPCAppE — Audio-Aligned and Parsed Corpus of Appalachian English](https://www.aapcappe.org/) — a searchable collection bringing together multiple Appalachian oral-history subcorpora.
-- [Archives of Appalachia — Joseph Sargent Hall Collection](https://archivesofappalachia.aviaryplatform.com/collections/1560) — recordings and research materials documenting language and folklore in the Great Smoky Mountains.
+- [University of South Carolina — Smoky Mountain Suite](https://appalachian-english.library.sc.edu/node/787.html) — historical recordings from the Great Smoky Mountains, with listening materials.
+- [Hall Speakers and Transcripts](https://appalachian-english.library.sc.edu/transcripts.html) — speaker-oriented access to recordings and transcripts.
 - [Michael B. Montgomery — “Historical and Comparative Perspectives on A-Prefixing in the English of Appalachia”](https://appalachian-english.library.sc.edu/sites/default/files/Montgomery_2009_-_Historical_and_comparative_perspectives_on_a-prefixing_in_the_English_of_Appalachia.pdf) — a scholarly study of a-prefixing.
 - [Goldie Ann McQuaid — “A Comprehensive Survey of A-Prefixing in Southern Appalachia”](https://doi.org/10.1111/lnc3.12242) — a review of sociolinguistic research on the feature.
 
