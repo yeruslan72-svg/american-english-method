@@ -37,6 +37,31 @@ const rendered = html.replace(/<h([23])>/g, (_match, level) => {
           Public-domain reproduction in the United States.
         </figcaption>
       </figure>
+      <section class="cooper-character-gallery" aria-label="Historical illustrations of Cooper's characters">
+        <figure>
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/4/49/Le_dernier_des_Mohicans_-_Cooper_James_-_Andriolli_-_Huyot_-_p29.jpg"
+            alt="Nineteenth-century illustration of Chingachgook and Hawkeye by Michał Elwiro Andriolli"
+            loading="lazy"
+          />
+          <figcaption>
+            <strong>Chingachgook and Hawkeye</strong> — illustration by Michał Elwiro Andriolli, engraved by Jules Huyot, in an 1884 French edition of <em>The Last of the Mohicans</em>.
+            <a href="https://commons.wikimedia.org/wiki/File:Le_dernier_des_Mohicans_-_Cooper_James_-_Andriolli_-_Huyot_-_p29.jpg" target="_blank" rel="noreferrer">View the original image and public-domain record</a>.
+          </figcaption>
+        </figure>
+        <figure>
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/American_Pioneer_Life_pg_20_Deerslayer_and_his_dying_enemy_the_Wolf.png/500px-American_Pioneer_Life_pg_20_Deerslayer_and_his_dying_enemy_the_Wolf.png"
+            alt="Nineteenth-century engraving showing Deerslayer beside his dying enemy the Wolf"
+            loading="lazy"
+          />
+          <figcaption>
+            <strong>Deerslayer and his dying enemy, the Wolf</strong> — illustration by Michał Elwiro Andriolli, engraved by Edmund Evans, published in <em>Historical Stories of American Pioneer Life</em> (1897).
+            <a href="https://commons.wikimedia.org/wiki/File:American_Pioneer_Life_pg_20_Deerslayer_and_his_dying_enemy_the_Wolf.png" target="_blank" rel="noreferrer">View the original image and public-domain record</a>.
+          </figcaption>
+        </figure>
+      </section>
+      <p class="visual-note">These are historical nineteenth-century interpretations of fictional characters, not documentary portraits. Both reproductions are identified as public domain in the United States; copyright status can vary by country.</p>
       <nav class="lesson-toc" aria-label="Page contents">
         <details>
           <summary>In this feature</summary>
@@ -63,6 +88,6 @@ const rendered = html.replace(/<h([23])>/g, (_match, level) => {
 .cooper-character-gallery figure{margin:0;padding:1rem;background:#f7f5f0;border:1px solid #e2ded5}
 .cooper-character-gallery img{display:block;width:100%;height:430px;object-fit:contain;background:#fff}
 .cooper-character-gallery figcaption{margin-top:.8rem;color:#596575;font-size:.85rem;line-height:1.6}
-.cooper-character-gallery figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.cooper-character-gallery figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}\n.visual-note{max-width:850px;margin:-1.2rem auto 2rem;color:#7a8490;font-size:.82rem;line-height:1.55;text-align:center}
 @media(max-width:700px){.cooper-character-gallery{grid-template-columns:1fr}.cooper-character-gallery img{height:auto;max-height:560px}}
 </style>
