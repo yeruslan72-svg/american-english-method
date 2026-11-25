@@ -4,7 +4,7 @@ import { marked } from "marked";
 import markdown from "../../../content/ernest-hemingway.md?raw";
 
 const html = marked.parse(markdown) as string;
-const headings = [...markdown.matchAll(/^#{2,3}\\s+(.+)$/gm)].map((match, index) => {
+const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
   const text = match[1].trim();
   const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
   return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
@@ -37,6 +37,19 @@ const rendered = html.replace(/<h([23])>/g, (_match, level) => {
           Rights Advisory: No known restrictions on publication.
         </figcaption>
       </figure>
+      <figure class="hemingway-home">
+        <img
+          src="https://tile.loc.gov/storage-services/service/pnp/highsm/06200/06241v.jpg"
+          alt="Ernest Hemingway's home in Havana, Cuba, photographed in 2010"
+          loading="lazy"
+        />
+        <figcaption>
+          Finca Vigía, Hemingway's home in Havana, Cuba. Photograph by Carol M. Highsmith, 2010.
+          Library of Congress, Prints and Photographs Division.
+          <a href="https://www.loc.gov/pictures/item/2010638849/" target="_blank" rel="noreferrer">View the original archive record</a>.
+          Rights Advisory: No known restrictions on publication.
+        </figcaption>
+      </figure>
       <nav class="lesson-toc" aria-label="Page contents">
         <details>
           <summary>In this feature</summary>
@@ -55,8 +68,9 @@ const rendered = html.replace(/<h([23])>/g, (_match, level) => {
   </article>
 </BaseLayout>
 <style>
-.hemingway-hero{max-width:760px;margin:2rem auto 2.5rem}
+.hemingway-hero,.hemingway-home{max-width:760px;margin:2rem auto 2.5rem}
 .hemingway-hero img{display:block;width:100%;max-width:150px;height:auto;margin:0 auto;object-fit:contain;background:#f4f1e9;border-radius:6px}
-.hemingway-hero figcaption{margin:.65rem auto 0;max-width:650px;color:#6b7280;font-size:.85rem;line-height:1.55;text-align:center}
-.hemingway-hero figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.hemingway-home img{display:block;width:100%;max-height:460px;object-fit:cover;object-position:center;border-radius:8px}
+.hemingway-hero figcaption,.hemingway-home figcaption{margin:.65rem auto 0;max-width:650px;color:#6b7280;font-size:.85rem;line-height:1.55;text-align:center}
+.hemingway-hero figcaption a,.hemingway-home figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
 </style>
