@@ -66,6 +66,18 @@ Natty Bumppo is one of the earliest enduring heroes in American popular fiction.
 
 But he is not simply a symbol of physical strength. Across the novels, he faces difficult choices about loyalty, justice, friendship, and the changing world around him.
 
+
+<div class="cooper-character-gallery">
+  <figure>
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/American_Pioneer_Life_pg_116_Combat_between_Chingachgook_and_the_Iroquois.png/500px-American_Pioneer_Life_pg_116_Combat_between_Chingachgook_and_the_Iroquois.png" alt="Chingachgook in a historical illustration titled Combat between Chingachgook and the Iroquois" loading="lazy" />
+    <figcaption><strong>Chingachgook</strong> — “Combat between Chingachgook and the Iroquois.” Illustration by Michał Elwiro Andriolli, engraved by Edmund Evans, published in <em>Historical Stories of American Pioneer Life</em> (1897). <a href="https://commons.wikimedia.org/wiki/File:American_Pioneer_Life_pg_116_Combat_between_Chingachgook_and_the_Iroquois.png" target="_blank" rel="noreferrer">View the original image and rights record</a>.</figcaption>
+  </figure>
+  <figure>
+    <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/American_Pioneer_Life_pg_18_Hurry_Harry_and_Deerslayer.png/500px-American_Pioneer_Life_pg_18_Hurry_Harry_and_Deerslayer.png" alt="Natty Bumppo, known as Deerslayer, standing in a canoe with Hurry Harry" loading="lazy" />
+    <figcaption><strong>Natty Bumppo (Deerslayer)</strong> — “Hurry Harry and Deerslayer.” Illustration by Michał Elwiro Andriolli, engraved by Edmund Evans, published in <em>Historical Stories of American Pioneer Life</em> (1897). <a href="https://commons.wikimedia.org/wiki/File:American_Pioneer_Life_pg_18_Hurry_Harry_and_Deerslayer.png" target="_blank" rel="noreferrer">View the original image and rights record</a>.</figcaption>
+  </figure>
+</div>
+
 Useful words for describing him:
 
 - **frontiersman** — a person living or travelling in a region at the edge of settled territory
