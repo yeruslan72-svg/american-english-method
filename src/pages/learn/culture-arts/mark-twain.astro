@@ -1,7 +1,7 @@
 ---
-import BaseLayout from "../../../../layouts/BaseLayout.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
 import { marked } from "marked";
-import markdown from "../../../../content/mark-twain.md?raw";
+import markdown from "../../../content/mark-twain.md?raw";
 
 const html = marked.parse(markdown) as string;
 const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
