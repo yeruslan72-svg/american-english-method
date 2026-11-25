@@ -343,7 +343,7 @@ The film is in Russian. It offers a visual introduction to the characters and th
 
 An American film adaptation directed by Norman Taurog.
 
-[Explore the film record — American Film Institute](https://catalog.afi.com/)
+[Explore the film record — American Film Institute](https://catalog.afi.com/Film/913-THE-ADVENTURESOFTOMSAWYER)
 
 The AFI record is provided for film research. Check legitimate viewing services for availability in your region.
 
