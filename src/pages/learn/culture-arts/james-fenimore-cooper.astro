@@ -1,0 +1,62 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/james-fenimore-cooper.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Meet James Fenimore Cooper" description="Explore James Fenimore Cooper, the Leatherstocking Tales, The Last of the Mohicans, American frontier fiction, and practical English.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture & Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">AMERICAN WRITERS</span>
+        <span class="source-path">JAMES FENIMORE COOPER · 1789–1851</span>
+      </div>
+      <figure class="cooper-hero">
+        <img
+          src="https://commons.wikimedia.org/wiki/Special:FilePath/James_Fenimore_Cooper_by_Jarvis.jpg"
+          alt="Portrait of James Fenimore Cooper painted by John Wesley Jarvis in 1822"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <figcaption>
+          James Fenimore Cooper, portrait by John Wesley Jarvis, 1822.
+          The original painting is held by the New York State Historical Association.
+          <a href="https://commons.wikimedia.org/wiki/File:James_Fenimore_Cooper_by_Jarvis.jpg" target="_blank" rel="noreferrer">View image record and licensing information</a>.
+          Public-domain reproduction in the United States.
+        </figcaption>
+      </figure>
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture & Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.cooper-hero{max-width:760px;margin:2rem auto 2.5rem}
+.cooper-hero img{display:block;width:100%;max-width:390px;max-height:520px;height:auto;margin:0 auto;object-fit:contain;background:#f4f1e9;border-radius:6px}
+.cooper-hero figcaption{margin:.65rem auto 0;max-width:650px;color:#6b7280;font-size:.85rem;line-height:1.55;text-align:center}
+.cooper-hero figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+</style>
