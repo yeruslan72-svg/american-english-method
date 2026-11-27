@@ -50,6 +50,63 @@ const rendered = html.replace(/<h([23])>/g, (_match, level) => {
           Rights Advisory: No known restrictions on publication.
         </figcaption>
       </figure>
+
+      <section class="hemingway-characters" aria-labelledby="characters-title">
+        <h2 id="characters-title">Characters &amp; First-Eedition Visuals</h2>
+        <p class="gallery-intro">
+          These archival images offer historical visual references for some of Hemingway's best-known fictional worlds.
+          They are not definitive portraits of the characters.
+        </p>
+        <div class="character-grid">
+          <figure>
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/TheOldManGregorioFuentes.jpg"
+              alt="Gregorio Fuentes, an elderly Cuban fisherman, photographed in 1998"
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>Gregorio Fuentes — a real Cuban fisherman</strong>
+              Photographed in 1998. Fuentes is sometimes described as a possible inspiration for Santiago in
+              <em>The Old Man and the Sea</em>; he was a real person, not a portrait of the fictional character.
+              Photograph by Toirelb. Released into the public domain.
+              <a href="https://commons.wikimedia.org/wiki/File:TheOldManGregorioFuentes.jpg" target="_blank" rel="noreferrer">Image source &amp; rights</a>.
+            </figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/4/48/Hemingway_farewell.png"
+              alt="The 1929 first-edition cover of A Farewell to Arms, with an illustrated embracing couple"
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>Frederic Henry &amp; Catherine Barkley — <em>A Farewell to Arms</em></strong>
+              The first-edition dust jacket, designed by Cleo Damianakes, 1929. Its embracing couple offers a period
+              visual interpretation of the novel's central relationship, rather than a literal character portrait.
+              Public domain in the United States.
+              <a href="https://commons.wikimedia.org/wiki/File:Hemingway_farewell.png" target="_blank" rel="noreferrer">Image source &amp; rights</a>.
+            </figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://upload.wikimedia.org/wikipedia/commons/7/7e/The_Sun_Also_Rises_dust_jacket.jpg"
+              alt="The 1926 first-edition dust jacket of The Sun Also Rises, designed by Cleo Damianakes"
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>Jake Barnes &amp; Lady Brett Ashley — <em>The Sun Also Rises</em></strong>
+              The first-edition dust jacket, designed by Cleo Damianakes, 1926. The cover's stylised figure belongs
+              to the visual world of the novel; it should not be treated as an authenticated portrait of Brett Ashley.
+              Public domain in the United States.
+              <a href="https://commons.wikimedia.org/wiki/File:The_Sun_Also_Rises_dust_jacket.jpg" target="_blank" rel="noreferrer">Image source &amp; rights</a>.
+            </figcaption>
+          </figure>
+        </div>
+        <p class="gallery-note">
+          Rights note: public-domain status can differ by country. The two historic book jackets are identified as
+          public domain in the United States; check local rules before reusing them elsewhere.
+        </p>
+      </section>
+
       <nav class="lesson-toc" aria-label="Page contents">
         <details>
           <summary>In this feature</summary>
@@ -73,4 +130,15 @@ const rendered = html.replace(/<h([23])>/g, (_match, level) => {
 .hemingway-home img{display:block;width:100%;max-height:460px;object-fit:cover;object-position:center;border-radius:8px}
 .hemingway-hero figcaption,.hemingway-home figcaption{margin:.65rem auto 0;max-width:650px;color:#6b7280;font-size:.85rem;line-height:1.55;text-align:center}
 .hemingway-hero figcaption a,.hemingway-home figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.hemingway-characters{margin:3.5rem auto;max-width:1050px}
+.hemingway-characters h2{text-align:center;margin-bottom:.6rem}
+.gallery-intro,.gallery-note{max-width:760px;margin:0 auto 1.5rem;text-align:center;color:#6b7280;line-height:1.65}
+.character-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.35rem;align-items:start}
+.character-grid figure{margin:0;min-width:0}
+.character-grid img{display:block;width:100%;height:280px;object-fit:contain;background:#f4f1e9;border-radius:7px}
+.character-grid figcaption{padding:.75rem .15rem 0;color:#6b7280;font-size:.85rem;line-height:1.6}
+.character-grid figcaption strong{display:block;color:var(--color-text, #273244);margin-bottom:.35rem}
+.character-grid figcaption a{display:inline-block;margin-top:.35rem;color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.gallery-note{font-size:.8rem;margin-top:1.25rem}
+@media(max-width:760px){.character-grid{grid-template-columns:1fr;gap:1.8rem}.character-grid img{height:auto;max-height:360px}.character-grid figure{max-width:560px;margin:0 auto;width:100%}}
 </style>
