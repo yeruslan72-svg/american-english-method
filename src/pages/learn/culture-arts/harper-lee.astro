@@ -111,4 +111,12 @@ const rendered = html.replace(/<h([23])>/g, (_match, level) => {
 .harper-gallery-grid figcaption a{display:inline-block;margin-top:.35rem}
 .gallery-note{font-size:.8rem;margin-top:1.25rem}
 @media(max-width:700px){.harper-gallery-grid{grid-template-columns:1fr;gap:1.8rem}.harper-gallery-grid img{height:auto;max-height:360px}.harper-gallery-grid figure{max-width:560px;margin:0 auto;width:100%}}
+
+:global(.markdown-content .harper-portrait){float:left;width:min(34%,280px);margin:.35rem 1.6rem 1rem 0}
+:global(.markdown-content .harper-portrait img){display:block;width:100%;height:auto;border-radius:7px}
+:global(.markdown-content .harper-portrait figcaption){margin-top:.55rem;color:#6b7280;font-size:.78rem;line-height:1.5}
+:global(.markdown-content .harper-portrait figcaption a){color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+:global(.markdown-content h2){clear:both}
+@media(max-width:700px){:global(.markdown-content .harper-portrait){float:none;width:min(100%,360px);margin:1rem auto 1.4rem}}
+
 </style>
