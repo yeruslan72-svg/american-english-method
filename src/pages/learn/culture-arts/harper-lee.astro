@@ -1,0 +1,114 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/harper-lee.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Meet Harper Lee" description="Explore Harper Lee's life, To Kill a Mockingbird, its characters, historical context, and practical American English.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture & Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">AMERICAN WRITERS</span>
+        <span class="source-path">HARPER LEE · 1926–2016</span>
+      </div>
+      <figure class="harper-hero">
+        <img
+          src="https://cdn.loc.gov/service/pnp/highsm/08100/08128v.jpg"
+          alt="The Old Courthouse Museum in Monroeville, Alabama, a historic place associated with Harper Lee and To Kill a Mockingbird"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <figcaption>
+          Old Courthouse Museum, Monroeville, Alabama. Photograph by Carol M. Highsmith, May 12, 2010.
+          Library of Congress, Prints and Photographs Division.
+          <a href="https://www.loc.gov/pictures/item/2010639942/" target="_blank" rel="noreferrer">View the original archive record</a>.
+          Rights Advisory: No known restrictions on publication.
+        </figcaption>
+      </figure>
+      <section class="harper-gallery" aria-labelledby="harper-gallery-title">
+        <h2 id="harper-gallery-title">Monroeville: The Real Place Behind Maycomb</h2>
+        <p class="gallery-intro">
+          Harper Lee's fictional Maycomb was shaped by memories of Monroeville. These Library of Congress photographs
+          document the real courthouse and its literary legacy; they are not film stills or illustrations of fictional scenes.
+        </p>
+        <div class="harper-gallery-grid">
+          <figure>
+            <img
+              src="https://cdn.loc.gov/service/pnp/highsm/08100/08105v.jpg"
+              alt="Memorial to Atticus Finch at the Old Courthouse Museum in Monroeville, Alabama"
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>Atticus Finch memorial</strong>
+              A memorial to the fictional lawyer at the Old Courthouse Museum. Photograph by Carol M. Highsmith,
+              May 1, 2010.
+              <a href="https://www.loc.gov/pictures/item/2010639919/" target="_blank" rel="noreferrer">Library of Congress record</a>.
+              Rights Advisory: No known restrictions on publication.
+            </figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://cdn.loc.gov/service/pnp/highsm/08100/08133v.jpg"
+              alt="Historic Old Courthouse Museum in Monroeville, Alabama"
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>The Old Courthouse Museum</strong>
+              Another archival view of the courthouse associated with Harper Lee and Truman Capote.
+              Photograph by Carol M. Highsmith, April 29, 2010.
+              <a href="https://www.loc.gov/pictures/item/2010639947/" target="_blank" rel="noreferrer">Library of Congress record</a>.
+              Rights Advisory: No known restrictions on publication.
+            </figcaption>
+          </figure>
+        </div>
+        <p class="gallery-note">
+          The Library of Congress records list no known restrictions on publication for these photographs.
+          Each archive record is linked for attribution and rights information.
+        </p>
+      </section>
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture & Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.harper-hero{max-width:900px;margin:2rem auto 2.5rem}
+.harper-hero img{display:block;width:100%;max-height:520px;object-fit:cover;object-position:center;border-radius:8px}
+.harper-hero figcaption{margin:.65rem auto 0;max-width:760px;color:#6b7280;font-size:.85rem;line-height:1.55;text-align:center}
+.harper-hero figcaption a,.harper-gallery figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.harper-gallery{max-width:1050px;margin:3.5rem auto}
+.harper-gallery h2{text-align:center;margin-bottom:.6rem}
+.gallery-intro,.gallery-note{max-width:780px;margin:0 auto 1.5rem;text-align:center;color:#6b7280;line-height:1.65}
+.harper-gallery-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.5rem;align-items:start}
+.harper-gallery-grid figure{margin:0;min-width:0}
+.harper-gallery-grid img{display:block;width:100%;height:300px;object-fit:cover;background:#f4f1e9;border-radius:7px}
+.harper-gallery-grid figcaption{padding:.75rem .15rem 0;color:#6b7280;font-size:.85rem;line-height:1.6}
+.harper-gallery-grid figcaption strong{display:block;color:var(--color-text, #273244);margin-bottom:.35rem}
+.harper-gallery-grid figcaption a{display:inline-block;margin-top:.35rem}
+.gallery-note{font-size:.8rem;margin-top:1.25rem}
+@media(max-width:700px){.harper-gallery-grid{grid-template-columns:1fr;gap:1.8rem}.harper-gallery-grid img{height:auto;max-height:360px}.harper-gallery-grid figure{max-width:560px;margin:0 auto;width:100%}}
+</style>
