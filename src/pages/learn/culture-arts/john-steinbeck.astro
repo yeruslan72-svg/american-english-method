@@ -1,0 +1,111 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/john-steinbeck.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Meet John Steinbeck" description="Explore John Steinbeck's life, major novels, the Dust Bowl, and practical American English through literature and history.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">AMERICAN WRITERS</span>
+        <span class="source-path">JOHN STEINBECK · 1902–1968</span>
+      </div>
+      <figure class="steinbeck-hero">
+        <img
+          src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/John_Steinbeck_1949.jpg/960px-John_Steinbeck_1949.jpg"
+          alt="John Steinbeck seated in a room, photographed in 1949"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <figcaption>
+          John Steinbeck, seated portrait, 1949. Los Angeles Daily News Photographic Collection, UCLA Library.
+          Licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer">Creative Commons Attribution 4.0 (CC BY 4.0)</a>.
+          <a href="https://commons.wikimedia.org/wiki/File:John_Steinbeck_1949.jpg" target="_blank" rel="noreferrer">Image source and attribution details</a>.
+        </figcaption>
+      </figure>
+
+      <section class="steinbeck-gallery" aria-labelledby="steinbeck-gallery-title">
+        <h2 id="steinbeck-gallery-title">The World Behind the Stories</h2>
+        <p class="gallery-intro">
+          These historical photographs help us understand the landscapes and social conditions that informed Steinbeck's writing.
+          They are documentary images, not illustrations of fictional characters.
+        </p>
+        <div class="steinbeck-grid">
+          <figure>
+            <img src="https://www.loc.gov/resource/fsa.8b29523/?sp=1&st=image" alt="Migrant mother and children in a California pea pickers' camp, photographed by Dorothea Lange in 1936" loading="lazy" />
+            <figcaption>
+              <strong>Migrant family, Nipomo, California, 1936</strong>
+              Photograph by Dorothea Lange, Farm Security Administration. The Library of Congress states that there are no known restrictions on this image.
+              <a href="https://www.loc.gov/resource/fsa.8b29523/" target="_blank" rel="noreferrer">View the Library of Congress record</a>.
+            </figcaption>
+          </figure>
+          <figure>
+            <img src="https://www.loc.gov/resource/fsa.8b27083/?sp=1&st=image" alt="Camps of migrant pea workers in California, photographed by Dorothea Lange in 1936" loading="lazy" />
+            <figcaption>
+              <strong>Migrant pea workers' camps, California, 1936</strong>
+              Photograph by Dorothea Lange. Library of Congress, Farm Security Administration collection. No known restrictions on publication.
+              <a href="https://www.loc.gov/pictures/item/2017759649/" target="_blank" rel="noreferrer">View the Library of Congress record</a>.
+            </figcaption>
+          </figure>
+          <figure>
+            <img src="https://www.loc.gov/resource/fsa.8b27016/?sp=1&st=image" alt="A Dust Bowl refugee in California, photographed by Dorothea Lange in 1936" loading="lazy" />
+            <figcaption>
+              <strong>Dust Bowl refugee in California, 1936</strong>
+              Photograph by Dorothea Lange. The image documents the experience of a real migrant during the Great Depression; it is not a fictional character.
+              <a href="https://www.loc.gov/pictures/item/2017759545/" target="_blank" rel="noreferrer">View the Library of Congress record</a>.
+            </figcaption>
+          </figure>
+        </div>
+        <p class="gallery-note">
+          Historical context: the photographs belong to the Library of Congress Farm Security Administration/Office of War Information collection.
+          Their archive records provide item-level descriptions and rights information.
+        </p>
+      </section>
+
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.steinbeck-hero{max-width:760px;margin:2rem auto 2.5rem}
+.steinbeck-hero img{display:block;width:100%;max-width:440px;max-height:520px;height:auto;margin:0 auto;object-fit:contain;background:#f4f1e9;border-radius:7px}
+.steinbeck-hero figcaption{margin:.7rem auto 0;max-width:680px;color:#6b7280;font-size:.85rem;line-height:1.6;text-align:center}
+.steinbeck-hero figcaption a,.steinbeck-grid figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.steinbeck-gallery{margin:3.5rem auto;max-width:1050px}
+.steinbeck-gallery h2{text-align:center;margin-bottom:.6rem}
+.gallery-intro,.gallery-note{max-width:790px;margin:0 auto 1.5rem;text-align:center;color:#6b7280;line-height:1.65}
+.steinbeck-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:1.35rem;align-items:start}
+.steinbeck-grid figure{margin:0;min-width:0}
+.steinbeck-grid img{display:block;width:100%;height:270px;object-fit:contain;background:#f4f1e9;border-radius:7px}
+.steinbeck-grid figcaption{padding:.75rem .15rem 0;color:#6b7280;font-size:.85rem;line-height:1.6}
+.steinbeck-grid figcaption strong{display:block;color:var(--color-text, #273244);margin-bottom:.35rem}
+.steinbeck-grid figcaption a{display:inline-block;margin-top:.35rem}
+.gallery-note{font-size:.8rem;margin-top:1.25rem}
+@media(max-width:760px){.steinbeck-grid{grid-template-columns:1fr;gap:1.8rem}.steinbeck-grid img{height:auto;max-height:360px}.steinbeck-grid figure{max-width:560px;margin:0 auto;width:100%}}
+</style>
