@@ -8,6 +8,14 @@ Explore Harper Lee's life and the world of *To Kill a Mockingbird*. Meet Scout F
 
 ## 1. Who Was Harper Lee?
 
+<figure class="harper-portrait">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Photo_portrait_of_Harper_Lee_%28To_Kill_a_Mockingbird_dust_jacket%2C_1960%29_%28cropped%29.jpg" alt="Black-and-white portrait of Harper Lee, photographed by Truman Capote around 1960" loading="lazy" />
+  <figcaption>
+    Harper Lee, c. 1960. Photograph credited to Truman Capote; reproduced from the back cover of the first-edition dust jacket of <em>To Kill a Mockingbird</em>. The scan is listed on Wikimedia Commons as public domain in the United States; copyright rules may differ by country.
+    <a href="https://commons.wikimedia.org/wiki/File:Photo_portrait_of_Harper_Lee_(To_Kill_a_Mockingbird_dust_jacket,_1960)_(cropped).jpg" target="_blank" rel="noreferrer">Image source and rights information</a>.
+  </figcaption>
+</figure>
+
 Nelle Harper Lee (1926–2016) was an American novelist from Monroeville, Alabama. She became internationally known for *To Kill a Mockingbird*, published in 1960. The novel won the Pulitzer Prize for Fiction in 1961 and became one of the most widely read works of modern American literature.
 
 Lee was a private person who rarely gave interviews. She published essays and other short pieces, but her two novels remain the centre of her literary reputation: *To Kill a Mockingbird* (1960) and *Go Set a Watchman* (2015).
