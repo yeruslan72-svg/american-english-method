@@ -37,6 +37,43 @@ const rendered = html.replace(/<h([23])>/g, (_match, level) => {
           Rights Advisory: No known restrictions on publication.
         </figcaption>
       </figure>
+      <section class="longfellow-gallery" aria-labelledby="visuals-title">
+        <h2 id="visuals-title">Scenes and Images from the Poems</h2>
+        <p class="gallery-intro">Historical illustrations and archival pages connected with Longfellow's best-known works. These are period interpretations and source documents, not modern reconstructions.</p>
+        <div class="visual-grid">
+          <figure class="visual-card">
+            <a href="https://commons.wikimedia.org/wiki/File:The_song_of_Hiawatha_MET_DP-12259-004.jpg" target="_blank" rel="noreferrer">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/The_song_of_Hiawatha_MET_DP-12259-004.jpg" alt="Frederic Remington illustration of a canoe scene from The Song of Hiawatha, 1891" loading="lazy" />
+            </a>
+            <figcaption><strong><em>The Song of Hiawatha</em></strong><br/>Canoe scene, illustrated by Frederic Remington for the 1891 edition. The image reflects a nineteenth-century artistic interpretation, not a documentary representation of Indigenous cultures. <a href="https://www.metmuseum.org/art/collection/search/738765" target="_blank" rel="noreferrer">The Metropolitan Museum of Art · Open Access</a> (CC0).</figcaption>
+          </figure>
+          <figure class="visual-card">
+            <a href="https://commons.wikimedia.org/wiki/File:Evangeline_-_a_tale_of_Acadie_post_1854_(143270530).jpg" target="_blank" rel="noreferrer">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Evangeline_-_a_tale_of_Acadie_post_1854_%28143270530%29.jpg" alt="Illustrated page from an edition of Evangeline showing the Acadian deportation scene" loading="lazy" />
+            </a>
+            <figcaption><strong><em>Evangeline: A Tale of Acadie</em></strong><br/>An illustrated page from a London edition published after 1854, showing a scene connected with the Acadian deportation. <a href="https://polona.pl/item/evangeline-a-tale-of-acadie,MTM1MTM1MzAz/42/" target="_blank" rel="noreferrer">National Library of Poland · Polona</a>. Public domain.</figcaption>
+          </figure>
+          <figure class="visual-card">
+            <a href="https://commons.wikimedia.org/wiki/File:VillageBlacksmith.jpg" target="_blank" rel="noreferrer">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/VillageBlacksmith.jpg" alt="Nineteenth-century engraving of a blacksmith, illustrating Longfellow's The Village Blacksmith" loading="lazy" />
+            </a>
+            <figcaption><strong>“The Village Blacksmith”</strong><br/>An 1885 illustration captioned “The smith a mighty man is he,” from the poem's opening stanza. Drawn and engraved under the supervision of George T. Andrew; public domain.</figcaption>
+          </figure>
+          <figure class="visual-card">
+            <a href="https://commons.wikimedia.org/wiki/File:Paul_Revere%27s_Ride.jpg" target="_blank" rel="noreferrer">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Paul_Revere%27s_Ride.jpg" alt="Page 27 of the 1861 Atlantic Monthly containing the first publication of Longfellow's Paul Revere's Ride" loading="lazy" />
+            </a>
+            <figcaption><strong>“Paul Revere’s Ride”</strong><br/>The poem as first published in <em>The Atlantic Monthly</em>, 1861 — an archival page rather than a later artistic reconstruction. Public domain.</figcaption>
+          </figure>
+          <figure class="visual-card">
+            <a href="https://commons.wikimedia.org/wiki/File:Arthurs_TheWreckoftheHesperus1.jpg" target="_blank" rel="noreferrer">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Arthurs_TheWreckoftheHesperus1.jpg" alt="S. M. Arthurs illustration showing a father protecting his daughter during the storm in The Wreck of the Hesperus, 1908" loading="lazy" />
+            </a>
+            <figcaption><strong>“The Wreck of the Hesperus”</strong><br/>S. M. Arthurs, 1908. The illustration accompanies the lines about the skipper wrapping his daughter in his seaman’s coat. From <em>The Children’s Own Longfellow</em>; public domain.</figcaption>
+          </figure>
+        </div>
+        <p class="visual-credit">Image credits and rights are linked individually. Public-domain status can vary by jurisdiction; check the linked record before reuse outside the United States.</p>
+      </section>
       <nav class="lesson-toc" aria-label="Page contents">
         <details>
           <summary>In this feature</summary>
@@ -59,4 +96,17 @@ const rendered = html.replace(/<h([23])>/g, (_match, level) => {
 .longfellow-hero img{display:block;width:100%;max-width:520px;max-height:620px;height:auto;margin:0 auto;object-fit:contain;background:#f4f1e9;border-radius:6px}
 .longfellow-hero figcaption{margin:.65rem auto 0;max-width:650px;color:#6b7280;font-size:.85rem;line-height:1.55;text-align:center}
 .longfellow-hero figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+
+.longfellow-gallery{margin:2.5rem auto 3rem;max-width:1080px}
+.longfellow-gallery h2{margin-bottom:.55rem}
+.gallery-intro{max-width:760px;color:#596273;line-height:1.65}
+.visual-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.5rem;margin-top:1.4rem}
+.visual-card{margin:0;min-width:0}
+.visual-card>a{display:flex;align-items:center;justify-content:center;min-height:260px;max-height:430px;overflow:hidden;background:#f4f1e9;border-radius:6px}
+.visual-card img{display:block;width:100%;height:100%;max-height:430px;object-fit:contain}
+.visual-card figcaption{padding:.7rem .15rem 0;color:#606977;font-size:.88rem;line-height:1.55}
+.visual-card figcaption strong{color:#263244}
+.visual-card figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.visual-credit{margin-top:1.25rem;color:#6b7280;font-size:.82rem;line-height:1.5}
+@media(max-width:680px){.visual-grid{grid-template-columns:1fr}.visual-card>a{min-height:180px;max-height:420px}}
 </style>
