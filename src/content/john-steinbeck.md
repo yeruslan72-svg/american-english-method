@@ -214,7 +214,7 @@ Steinbeck's major novels remain protected by copyright in the United States. We 
 - [National Steinbeck Center — Bibliography (PDF)](https://steinbeck.org/wp-content/uploads/2019/01/Bibliography.pdf) — a free reference list of Steinbeck's works and publication years.
 - [The Nobel Prize — John Steinbeck, 1962](https://www.nobelprize.org/prizes/literature/1962/steinbeck/) — official award information and biographical material.
 - [The Nobel Prize — Steinbeck's Banquet Speech](https://www.nobelprize.org/prizes/literature/1962/steinbeck/speech/) — read his speech in the original.
-- [Open Library — John Steinbeck](https://openlibrary.org/authors/OL sa7/John_Steinbeck) — search for editions that may be borrowed online. Availability depends on the edition and account access.
+- [Open Library — John Steinbeck](https://openlibrary.org/authors/OL25788A/John_Steinbeck) — search for editions that may be borrowed online. Availability depends on the edition and account access.
 - [WorldCat](https://search.worldcat.org/search?q=John+Steinbeck) — find Steinbeck books in libraries.
 
 ### Historical photographs for context
