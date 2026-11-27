@@ -4,7 +4,7 @@ import { marked } from "marked";
 import markdown from "../../../content/henry-david-thoreau.md?raw";
 
 const html = marked.parse(markdown) as string;
-const headings = [...markdown.matchAll(/^#{2,3}\\s+(.+)$/gm)].map((match, index) => {
+const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
   const text = match[1].trim();
   const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
   return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
