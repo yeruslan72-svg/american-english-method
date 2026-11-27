@@ -1,0 +1,62 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/henry-wadsworth-longfellow.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Meet Henry Wadsworth Longfellow" description="Explore Henry Wadsworth Longfellow, his poetry, American literary history, and practical English.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture & Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">AMERICAN WRITERS</span>
+        <span class="source-path">HENRY WADSWORTH LONGFELLOW · 1807–1882</span>
+      </div>
+      <figure class="longfellow-hero">
+        <img
+          src="https://cdn.loc.gov/service/pnp/pga/07000/07017v.jpg"
+          alt="Archival portrait engraving of American poet Henry Wadsworth Longfellow, published in 1885"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <figcaption>
+          Henry Wadsworth Longfellow, portrait engraving by Henry Bryan Hall, 1885.
+          Library of Congress, Prints and Photographs Division.
+          <a href="https://www.loc.gov/item/2013645241/" target="_blank" rel="noreferrer">View the original archive record and rights information</a>.
+          Rights Advisory: No known restrictions on publication.
+        </figcaption>
+      </figure>
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture & Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.longfellow-hero{max-width:760px;margin:2rem auto 2.5rem}
+.longfellow-hero img{display:block;width:100%;max-width:520px;max-height:620px;height:auto;margin:0 auto;object-fit:contain;background:#f4f1e9;border-radius:6px}
+.longfellow-hero figcaption{margin:.65rem auto 0;max-width:650px;color:#6b7280;font-size:.85rem;line-height:1.55;text-align:center}
+.longfellow-hero figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+</style>
