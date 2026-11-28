@@ -1,0 +1,85 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/maya-angelou.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Maya Angelou — American Poetry" description="Discover Maya Angelou, her poetry, life, performance, and free resources for learning English through American poetry.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">AMERICAN POETRY</span>
+        <span class="source-path">MAYA ANGELOU · 1928–2014</span>
+      </div>
+      <figure class="angelou-hero">
+        <img
+          src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Portrait_photograph_of_Maya_Angelou%2C_c._1955.jpg/500px-Portrait_photograph_of_Maya_Angelou%2C_c._1955.jpg"
+          alt="Maya Angelou in a portrait photograph from about 1955"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <figcaption>
+          Maya Angelou, circa 1955. Published in <em>The San Francisco Examiner</em> in 1955 without a copyright notice; public domain in the United States. Original newspaper source and rights information are documented by Wikimedia Commons.
+          <a href="https://commons.wikimedia.org/wiki/File:Portrait_photograph_of_Maya_Angelou,_c._1955.jpg" target="_blank" rel="noreferrer">View the original image record and licence</a>.
+        </figcaption>
+      </figure>
+      <section class="angelou-gallery" aria-labelledby="angelou-gallery-title">
+        <h2 id="angelou-gallery-title">Maya Angelou: Poetry in Public Life</h2>
+        <p class="gallery-intro">Angelou's work connected the written word with public speaking and performance. This historical photograph records her reading “On the Pulse of Morning” at the 1993 presidential inauguration.</p>
+        <div class="angelou-grid">
+          <figure>
+            <a href="https://commons.wikimedia.org/wiki/File:Angelou_at_Clinton_inauguration_(cropped_2).jpg" target="_blank" rel="noreferrer">
+              <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg/960px-Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg" alt="Maya Angelou reciting On the Pulse of Morning at the 1993 presidential inauguration" loading="lazy" />
+            </a>
+            <figcaption>
+              <strong>“On the Pulse of Morning,” January 20, 1993</strong>
+              Maya Angelou at President Bill Clinton's inauguration. Photograph courtesy of the William J. Clinton Presidential Library; public domain as a U.S. federal government work.
+              <a href="https://commons.wikimedia.org/wiki/File:Angelou_at_Clinton_inauguration_(cropped_2).jpg" target="_blank" rel="noreferrer">Image source and rights information</a>.
+            </figcaption>
+          </figure>
+        </div>
+      </section>
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.angelou-hero{max-width:560px;margin:2rem auto 2.5rem}
+.angelou-hero img{display:block;width:100%;max-height:650px;object-fit:contain;background:#f1eee8}
+.angelou-hero figcaption,.angelou-grid figcaption{margin-top:10px;color:#727b86;font-size:12px;line-height:1.7}
+.angelou-hero figcaption a,.angelou-grid figcaption a{display:inline-block;margin-left:4px;color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.angelou-gallery{margin:2.8rem auto 2rem;padding:28px;background:#f7f5f0;border:1px solid #e5e0d6}
+.angelou-gallery h2{margin:0 0 8px;color:#172538;font:600 27px "Playfair Display",serif}
+.gallery-intro{max-width:790px;color:#596574;line-height:1.7}
+.angelou-grid{display:grid;grid-template-columns:minmax(0,1fr);gap:22px;margin-top:22px;max-width:760px}
+.angelou-grid figure{margin:0;min-width:0}
+.angelou-grid figure>a{display:flex;align-items:center;justify-content:center;max-height:560px;overflow:hidden;background:#e9e8e4}
+.angelou-grid img{display:block;width:100%;max-height:560px;object-fit:contain}
+.angelou-grid figcaption strong{display:block;color:#253448;font-size:14px;margin-bottom:4px}
+@media(max-width:700px){.angelou-grid figure>a{max-height:460px}.angelou-gallery{padding:20px}}
+</style>
