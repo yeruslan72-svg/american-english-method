@@ -1,0 +1,113 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/charles-yu.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Meet Charles Yu" description="Explore Charles Yu, Interior Chinatown, screenplay fiction, stereotypes, representation, and contemporary American literature.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">21ST-CENTURY AMERICAN WRITERS</span>
+        <span class="source-path">CHARLES YU · BORN 1976</span>
+      </div>
+      <figure class="yu-portrait">
+        <img
+          src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Charles_Yu_at_AWP_2025_03_%28cropped%29.jpg/500px-Charles_Yu_at_AWP_2025_03_%28cropped%29.jpg"
+          alt="Writer Charles Yu at the 2025 AWP conference in Los Angeles"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <figcaption>
+          Charles Yu at the annual Association of Writers &amp; Writing Programs conference in Los Angeles, March 28, 2025.
+          Photograph by Bea Phi, licensed under
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)</a>.
+          <a href="https://commons.wikimedia.org/wiki/File:Charles_Yu_at_AWP_2025_03_%28cropped%29.jpg" target="_blank" rel="noreferrer">View image source and full attribution</a>.
+        </figcaption>
+      </figure>
+      <section class="yu-feature" aria-label="Charles Yu and Interior Chinatown">
+        <div class="feature-copy">
+          <p class="feature-kicker">2020 NATIONAL BOOK AWARD · FICTION</p>
+          <h1>Charles Yu</h1>
+          <p class="feature-subtitle">Interior Chinatown</p>
+          <p class="feature-note">A novel in screenplay form about stereotypes, visibility, and the right to tell your own story.</p>
+          <a href="https://www.arts.gov/initiatives/nea-big-read/interior-chinatown" target="_blank" rel="noreferrer">Explore the free NEA reading resource</a>
+        </div>
+        <div class="feature-mark" aria-hidden="true">
+          <span class="mark-top">A NOVEL</span>
+          <span class="mark-title">INTERIOR<br/>CHINATOWN</span>
+          <span class="mark-bottom">CHARLES YU</span>
+        </div>
+      </section>
+      <p class="image-note">The portrait is credited to its photographer and displayed under its stated Creative Commons licence. The typographic panel is an original design, not the copyrighted book cover.</p>
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <section class="yu-visual-context" aria-labelledby="yu-context-title">
+        <h2 id="yu-context-title">Los Angeles Chinatown: A Cultural Context</h2>
+        <p class="context-intro">Charles Yu grew up in Los Angeles. This photograph shows the Central Plaza gate in the city's Chinatown, a neighbourhood with its own history and community life. It is included as a visual introduction to one part of the wider Chinese American experience; it is not presented as a photograph of the fictional setting or a scene from <em>Interior Chinatown</em>.</p>
+        <figure>
+          <img
+            src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Chinatown%2C_Los_Angeles_%28CP%29.jpg/960px-Chinatown%2C_Los_Angeles_%28CP%29.jpg"
+            alt="Central Plaza gate in Chinatown, Los Angeles, photographed in March 2024"
+            loading="lazy"
+          />
+          <figcaption>
+            <strong>Central Plaza gate, Los Angeles Chinatown</strong> — photographed March 8, 2024. Photograph by Mliu92, licensed under
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">CC BY-SA 4.0</a>.
+            <a href="https://commons.wikimedia.org/wiki/File:Chinatown,_Los_Angeles_(CP).jpg" target="_blank" rel="noreferrer">Image source and full attribution</a>.
+          </figcaption>
+        </figure>
+        <p class="context-note">The novel uses a fictional television production and a Chinatown setting to examine media stereotypes. This real Los Angeles location is contextual imagery only.</p>
+      </section>
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.yu-portrait{max-width:620px;margin:2rem auto 1.5rem;text-align:center}
+.yu-portrait img{display:block;width:auto;max-width:100%;max-height:620px;margin:0 auto;object-fit:contain;border-radius:7px;background:#f4f1e9}
+.yu-portrait figcaption{max-width:590px;margin:.75rem auto 0;color:#7b8490;font-size:.82rem;line-height:1.6}
+.yu-portrait figcaption a,.yu-visual-context a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.yu-feature{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(230px,.7fr);gap:2rem;align-items:center;max-width:920px;margin:2rem auto 1rem;padding:clamp(1.5rem,4vw,3rem);background:linear-gradient(125deg,#182334,#4a3544);color:#fffefa;border-radius:8px;overflow:hidden}
+.feature-copy{max-width:520px}
+.feature-kicker{margin:0 0 1rem;color:#e2c28b;font-size:.72rem;font-weight:700;letter-spacing:.15em}
+.yu-feature h1{margin:.2rem 0 .5rem;color:#fffefa;font:600 clamp(2.5rem,6vw,4.2rem)/1.05 "Playfair Display",serif}
+.feature-subtitle{margin:.4rem 0 1rem;color:#f1d6aa;font:italic 1.5rem "Playfair Display",serif}
+.feature-note{max-width:470px;color:#e5e4e7;line-height:1.7}
+.feature-copy>a{display:inline-block;margin-top:.7rem;color:#f1d6aa;text-decoration:underline;text-underline-offset:4px}
+.feature-mark{min-height:230px;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:1.5rem;border:1px solid rgba(255,255,255,.35);background:rgba(255,255,255,.06);text-align:center}
+.mark-top,.mark-bottom{color:#e2c28b;font-size:.65rem;font-weight:700;letter-spacing:.2em}
+.mark-title{margin:1.2rem 0;color:#fffefa;font:600 clamp(1.5rem,3vw,2.3rem)/1.2 "Playfair Display",serif;letter-spacing:.04em}
+.image-note{max-width:850px;margin:0 auto 2rem;color:#7b8490;font-size:.82rem;line-height:1.6;text-align:center}
+.yu-visual-context{max-width:920px;margin:3rem auto 1rem}
+.yu-visual-context h2{color:#172538;font:600 1.8rem "Playfair Display",serif}
+.context-intro,.context-note{color:#596575;line-height:1.75}
+.yu-visual-context figure{max-width:760px;margin:1.5rem auto;text-align:center}
+.yu-visual-context figure img{display:block;width:100%;max-height:560px;object-fit:cover;border-radius:7px}
+.yu-visual-context figcaption{margin:.7rem auto 0;color:#7b8490;font-size:.82rem;line-height:1.6}
+.context-note{font-size:.88rem}
+@media(max-width:650px){.yu-feature{grid-template-columns:1fr}.feature-mark{min-height:180px}.yu-feature h1{font-size:2.8rem}}
+</style>
