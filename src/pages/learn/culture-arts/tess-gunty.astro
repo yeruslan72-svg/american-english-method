@@ -65,6 +65,36 @@ const rendered = html.replace(/<h([23])>/g, (_match, level) => {
         </details>
       </nav>
       <div class="markdown-content" set:html={rendered} />
+      <section class="gunty-visual-context" aria-labelledby="gunty-context-title">
+        <h2 id="gunty-context-title">The World Behind the Novel</h2>
+        <p class="context-intro">Tess Gunty grew up in South Bend, Indiana. The real city and its industrial history offer useful context for the fictional community of Vacca Vale in <em>The Rabbit Hutch</em>.</p>
+        <div class="context-gallery">
+          <figure>
+            <img
+              src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Downtown_South_Bend.jpg/960px-Downtown_South_Bend.jpg"
+              alt="Downtown South Bend, Indiana, overlooking the St. Joseph River, September 2022"
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>South Bend, Indiana</strong> — downtown beside the St. Joseph River, September 2022. Photograph by Scott Palmer, licensed under
+              <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">CC BY-SA 4.0</a>.
+              <a href="https://commons.wikimedia.org/wiki/File:Downtown_South_Bend.jpg" target="_blank" rel="noreferrer">Image source</a>.
+            </figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Studebaker_Forging_Department_1893.jpg/960px-Studebaker_Forging_Department_1893.jpg"
+              alt="Historical illustration of the Studebaker factory forging department in South Bend, 1893"
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>Studebaker factory, 1893</strong> — historical illustration of the forging department in South Bend, from the 1893 <em>Illustrated Souvenir of the Studebaker Bros. Manufacturing Company</em>, by Gray and Parker of Gies &amp; Co. This work is in the
+              <a href="https://commons.wikimedia.org/wiki/File:Studebaker_Forging_Department_1893.jpg" target="_blank" rel="noreferrer">public domain</a>.
+            </figcaption>
+          </figure>
+        </div>
+        <p class="context-note">These are historical and geographical context images, not illustrations from the novel. Vacca Vale is a fictional town; South Bend is Tess Gunty’s real hometown.</p>
+      </section>
       <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a></div>
     </div>
   </article>
@@ -82,4 +112,4 @@ const rendered = html.replace(/<h([23])>/g, (_match, level) => {
 .mark-title{margin:1.2rem 0;font:700 clamp(2rem,4vw,3.4rem)/.92 "Playfair Display",Georgia,serif;letter-spacing:.04em}
 .image-note{max-width:880px;margin:.7rem auto 2rem;color:#7b8490;font-size:.78rem;line-height:1.5;text-align:center}
 @media(max-width:680px){.gunty-feature{grid-template-columns:1fr;gap:1.5rem}.feature-mark{min-height:220px;max-width:300px;width:100%;margin:0 auto}}
-</style>
+\n.gunty-visual-context{max-width:980px;margin:3rem auto 2rem}\n.gunty-visual-context h2{margin:0 0 .8rem;color:var(--heading,#263746);font:600 clamp(1.8rem,4vw,2.5rem)/1.2 "Playfair Display",Georgia,serif}\n.context-intro,.context-note{max-width:850px;color:var(--text-muted,#687581);line-height:1.75}\n.context-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.5rem;margin:1.5rem 0}\n.context-gallery figure{margin:0;min-width:0}\n.context-gallery img{display:block;width:100%;height:270px;object-fit:cover;border-radius:7px;background:#f1eee7}\n.context-gallery figcaption{margin:.7rem 0 0;color:#737e87;font-size:.82rem;line-height:1.65}\n.context-gallery figcaption strong{color:var(--heading,#263746)}\n.context-gallery figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}\n.context-note{font-size:.8rem;font-style:italic}\n@media(max-width:680px){.context-gallery{grid-template-columns:1fr}.context-gallery img{height:auto;max-height:340px;object-fit:contain}}\n</style>
