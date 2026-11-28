@@ -1,0 +1,99 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/walt-whitman.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Walt Whitman — American Poetry" description="Discover Walt Whitman, Leaves of Grass, free verse, American poetry, and practical English through free reading resources.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">AMERICAN POETRY</span>
+        <span class="source-path">WALT WHITMAN · 1819–1892</span>
+      </div>
+      <figure class="whitman-hero">
+        <img
+          src="https://cdn.loc.gov/service/pnp/ppmsca/07100/07143v.jpg"
+          alt="Walt Whitman as a young man, in the working clothes used for the frontispiece of Leaves of Grass"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <figcaption>
+          Walt Whitman, portrait made in 1854 and used as the basis for the frontispiece of the first edition of <em>Leaves of Grass</em> (1855).
+          Library of Congress, Prints and Photographs Division.
+          <a href="https://www.loc.gov/pictures/item/2004678989/" target="_blank" rel="noreferrer">View the original Library of Congress record</a>.
+          The archive states: no known restrictions on publication.
+        </figcaption>
+      </figure>
+      <section class="whitman-gallery" aria-labelledby="whitman-gallery-title">
+        <h2 id="whitman-gallery-title">The First Edition of <em>Leaves of Grass</em>, 1855</h2>
+        <p class="gallery-intro">Whitman introduced his new poetic voice in a slim Brooklyn volume. He continued to revise and expand the book for the rest of his life.</p>
+        <div class="whitman-grid">
+          <figure>
+            <a href="https://commons.wikimedia.org/wiki/File:Leaves_of_Grass_(1855)_cover.jpg" target="_blank" rel="noreferrer">
+              <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Leaves_of_Grass_%281855%29_cover.jpg" alt="Dark green cloth cover of the first edition of Walt Whitman's Leaves of Grass, 1855" loading="lazy" />
+            </a>
+            <figcaption>
+              <strong>The original cover, 1855</strong>
+              The first edition's green cloth cover, with the title decorated in gold. The digitised image is marked public domain on Wikimedia Commons.
+              <a href="https://commons.wikimedia.org/wiki/File:Leaves_of_Grass_(1855)_cover.jpg" target="_blank" rel="noreferrer">Image source and rights information</a>.
+            </figcaption>
+          </figure>
+          <figure>
+            <a href="https://www.loc.gov/item/03023679/" target="_blank" rel="noreferrer">
+              <img src="https://cdn.loc.gov/service/rbc/rbpe/rbpe24/rbpe244/24401900/001.jpg" alt="Digitised first edition of Leaves of Grass, 1855, available page by page from the Library of Congress" loading="lazy" />
+            </a>
+            <figcaption>
+              <strong>Read the first edition page by page</strong>
+              The Library of Congress digitised the rare 1855 book. Open the archive record to view all 107 images and the catalogue's rights information.
+              <a href="https://www.loc.gov/item/03023679/" target="_blank" rel="noreferrer">Library of Congress digital edition</a>.
+            </figcaption>
+          </figure>
+        </div>
+      </section>
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.whitman-hero{max-width:760px;margin:2rem auto 2.5rem}
+.whitman-hero img{display:block;width:100%;max-width:470px;max-height:620px;height:auto;margin:0 auto;object-fit:contain;background:#f4f1e9;border-radius:7px}
+.whitman-hero figcaption{margin:.7rem auto 0;max-width:680px;color:#6b7280;font-size:.85rem;line-height:1.6;text-align:center}
+.whitman-hero figcaption a,.whitman-grid figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.whitman-gallery{margin:3.5rem auto;max-width:1050px}
+.whitman-gallery h2{text-align:center;margin-bottom:.6rem}
+.gallery-intro{max-width:790px;margin:0 auto 1.5rem;text-align:center;color:#6b7280;line-height:1.65}
+.whitman-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.5rem;align-items:start}
+.whitman-grid figure{margin:0;min-width:0}
+.whitman-grid figure>a{display:flex;align-items:center;justify-content:center;min-height:250px;max-height:430px;overflow:hidden;background:#f4f1e9;border-radius:7px}
+.whitman-grid img{display:block;width:100%;height:100%;max-height:430px;object-fit:contain}
+.whitman-grid figcaption{padding:.75rem .15rem 0;color:#6b7280;font-size:.86rem;line-height:1.6}
+.whitman-grid figcaption strong{display:block;color:var(--color-text,#273244);margin-bottom:.35rem}
+.whitman-grid figcaption a{display:inline-block;margin-top:.35rem}
+@media(max-width:700px){.whitman-grid{grid-template-columns:1fr;gap:1.8rem}.whitman-grid figure>a{min-height:180px;max-height:360px}.whitman-grid figure{max-width:560px;margin:0 auto;width:100%}}
+</style>
