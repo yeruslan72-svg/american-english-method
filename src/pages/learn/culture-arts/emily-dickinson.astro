@@ -1,0 +1,103 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/emily-dickinson.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Emily Dickinson — American Poetry" description="Discover Emily Dickinson, her poems, poetic style, and free resources for learning English through American poetry.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">AMERICAN POETRY</span>
+        <span class="source-path">EMILY DICKINSON · 1830–1886</span>
+      </div>
+      <figure class="dickinson-hero">
+        <img
+          src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Emily_Dickinson_daguerreotype.jpg/500px-Emily_Dickinson_daguerreotype.jpg"
+          alt="Daguerreotype portrait of Emily Dickinson, circa 1848"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <figcaption>
+          Emily Dickinson, daguerreotype, circa 1848. From the Todd-Bingham Picture Collection and Family Papers, Yale University Manuscripts &amp; Archives Digital Images Database. Unknown photographer; public domain.
+          <a href="https://commons.wikimedia.org/wiki/File:Emily_Dickinson_daguerreotype.jpg" target="_blank" rel="noreferrer">View image source and rights information</a>.
+        </figcaption>
+      </figure>
+      <section class="dickinson-gallery" aria-labelledby="dickinson-gallery-title">
+        <h2 id="dickinson-gallery-title">The World of Emily Dickinson</h2>
+        <p class="gallery-intro">Dickinson's life and writing were closely connected with Amherst, Massachusetts. The family home is now part of the Emily Dickinson Museum.</p>
+        <div class="dickinson-grid">
+          <figure>
+            <a href="https://commons.wikimedia.org/wiki/File:Emily_Dickinson_Museum,_Amherst,_MA_-_front.JPG" target="_blank" rel="noreferrer">
+              <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Emily_Dickinson_Museum%2C_Amherst%2C_MA_-_front.JPG/960px-Emily_Dickinson_Museum%2C_Amherst%2C_MA_-_front.JPG" alt="The Emily Dickinson Homestead in Amherst, Massachusetts" loading="lazy" />
+            </a>
+            <figcaption>
+              <strong>The Dickinson Homestead, Amherst</strong>
+              The house where Emily Dickinson was born and spent most of her life. Photograph by Daderot, released into the public domain.
+              <a href="https://commons.wikimedia.org/wiki/File:Emily_Dickinson_Museum,_Amherst,_MA_-_front.JPG" target="_blank" rel="noreferrer">Image source and rights information</a>.
+            </figcaption>
+          </figure>
+          <figure class="context-card">
+            <div class="manuscript-panel" role="img" aria-label="A typographic illustration evoking a handwritten nineteenth-century poem manuscript">
+              <span class="manuscript-label">A POET'S WORKING WORLD</span>
+              <span class="manuscript-line">small words</span>
+              <span class="manuscript-line">— and silences —</span>
+              <span class="manuscript-line">become a universe</span>
+              <span class="manuscript-credit">Original typographic illustration</span>
+            </div>
+            <figcaption>
+              <strong>Reading the manuscripts</strong>
+              Dickinson's handwritten pages reveal distinctive dashes, line breaks, and alternative word choices. Explore digitised manuscripts through the Emily Dickinson Museum's research resources.
+              <a href="https://www.emilydickinsonmuseum.org/emily-dickinson/learn-more-2/resources-and-bibliography/" target="_blank" rel="noreferrer">Explore manuscript and research links</a>.
+            </figcaption>
+          </figure>
+        </div>
+      </section>
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.dickinson-hero{max-width:620px;margin:2rem auto 2.5rem}
+.dickinson-hero img{display:block;width:100%;max-height:680px;object-fit:contain;background:#f1eee8}
+.dickinson-hero figcaption,.dickinson-grid figcaption{margin-top:10px;color:#727b86;font-size:12px;line-height:1.7}
+.dickinson-hero figcaption a,.dickinson-grid figcaption a{display:inline-block;margin-left:4px}
+.dickinson-gallery{margin:2.5rem 0 2rem;padding:28px;background:#f7f5f0;border:1px solid #e5e0d6}
+.dickinson-gallery h2{margin:0 0 8px;color:#172538;font:600 27px "Playfair Display",serif}
+.gallery-intro{max-width:760px;color:#596574;line-height:1.7}
+.dickinson-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;margin-top:22px}
+.dickinson-grid figure{margin:0;min-width:0}
+.dickinson-grid img{display:block;width:100%;height:270px;object-fit:cover}
+.dickinson-grid figcaption strong{display:block;color:#253448;font-size:14px;margin-bottom:4px}
+.manuscript-panel{height:270px;box-sizing:border-box;padding:28px 24px;display:flex;flex-direction:column;justify-content:center;gap:12px;background:linear-gradient(135deg,#eee5d2,#f8f2e6);border:1px solid #d8c9a9;color:#514733;font-family:Georgia,serif}
+.manuscript-label{font:700 10px Arial,sans-serif;letter-spacing:.16em;color:#8a7650}
+.manuscript-line{font-style:italic;font-size:clamp(18px,2.5vw,27px);line-height:1.2}
+.manuscript-line:nth-of-type(3){padding-left:18px}
+.manuscript-credit{margin-top:12px;font:10px Arial,sans-serif;color:#82765f}
+@media(max-width:700px){.dickinson-grid{grid-template-columns:1fr}.dickinson-grid img,.manuscript-panel{height:240px}.dickinson-gallery{padding:20px}}
+</style>
