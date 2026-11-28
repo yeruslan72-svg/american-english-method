@@ -1,0 +1,95 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/robert-frost.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Robert Frost — American Poetry" description="Discover Robert Frost, New England poetry, Stopping by Woods on a Snowy Evening, and free resources for learning English through poetry.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">AMERICAN POETRY</span>
+        <span class="source-path">ROBERT FROST · 1874–1963</span>
+      </div>
+      <figure class="frost-hero">
+        <img
+          src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Portrait_of_Robert_Frost.jpg/500px-Portrait_of_Robert_Frost.jpg"
+          alt="Portrait of American poet Robert Frost"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <figcaption>
+          Portrait of Robert Frost. Carl Albert Research and Studies Center, Congressional Collection. Licensed under Creative Commons Attribution-Share Alike 4.0 International.
+          <a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Robert_Frost.jpg" target="_blank" rel="noreferrer">View the original image record and licence</a>.
+        </figcaption>
+      </figure>
+      <section class="frost-gallery" aria-labelledby="frost-gallery-title">
+        <h2 id="frost-gallery-title">The New England World of Robert Frost</h2>
+        <p class="gallery-intro">Farms, roads, fields, woods, and changing seasons appear throughout Frost's poetry. These photographs offer real geographical and historical context, not literal illustrations of individual poems.</p>
+        <div class="frost-grid">
+          <figure>
+            <a href="https://commons.wikimedia.org/wiki/File:Robertfrostfarm.JPG" target="_blank" rel="noreferrer">
+              <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Robertfrostfarm.JPG/960px-Robertfrostfarm.JPG" alt="Robert Frost Farm in Derry, New Hampshire, in winter" loading="lazy" />
+            </a>
+            <figcaption>
+              <strong>Robert Frost Farm, Derry, New Hampshire</strong>
+              Frost lived and worked on this farm from 1900 to 1911. Photograph by Craig Michaud, licensed CC BY 3.0.
+              <a href="https://commons.wikimedia.org/wiki/File:Robertfrostfarm.JPG" target="_blank" rel="noreferrer">Image source and licence</a>.
+            </figcaption>
+          </figure>
+          <figure>
+            <a href="https://commons.wikimedia.org/wiki/File:Vermont_Winter_Landscape.jpg" target="_blank" rel="noreferrer">
+              <img src="https://live.staticflickr.com/3022/3074582670_c72758e9c6_o.jpg" alt="Winter landscape outside South Royalton, Vermont" loading="lazy" />
+            </a>
+            <figcaption>
+              <strong>A Vermont winter landscape</strong>
+              A snowy rural landscape outside South Royalton, Vermont. Photograph by Nathan Siemers, licensed CC BY-SA 2.0. This is a regional scene, not a documented location from the poem.
+              <a href="https://commons.wikimedia.org/wiki/File:Vermont_Winter_Landscape.jpg" target="_blank" rel="noreferrer">Image source and licence</a>.
+            </figcaption>
+          </figure>
+        </div>
+      </section>
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.frost-hero{max-width:620px;margin:2rem auto 2.5rem}
+.frost-hero img{display:block;width:100%;max-height:650px;object-fit:contain;background:#f1eee8}
+.frost-hero figcaption,.frost-grid figcaption{margin-top:10px;color:#727b86;font-size:12px;line-height:1.7}
+.frost-hero figcaption a,.frost-grid figcaption a{display:inline-block;margin-left:4px;color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.frost-gallery{margin:2.8rem auto 2rem;padding:28px;background:#f7f5f0;border:1px solid #e5e0d6}
+.frost-gallery h2{margin:0 0 8px;color:#172538;font:600 27px "Playfair Display",serif}
+.gallery-intro{max-width:790px;color:#596574;line-height:1.7}
+.frost-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;margin-top:22px}
+.frost-grid figure{margin:0;min-width:0}
+.frost-grid figure>a{display:flex;align-items:center;justify-content:center;height:290px;overflow:hidden;background:#e9e8e4}
+.frost-grid img{display:block;width:100%;height:100%;object-fit:cover}
+.frost-grid figcaption strong{display:block;color:#253448;font-size:14px;margin-bottom:4px}
+@media(max-width:700px){.frost-grid{grid-template-columns:1fr}.frost-grid figure>a{height:240px}.frost-gallery{padding:20px}}
+</style>
