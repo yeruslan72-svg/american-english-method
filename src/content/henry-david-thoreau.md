@@ -190,15 +190,17 @@ Take a short walk, if possible, and notice three details you would normally over
 
 Thoreau's original works are in the public domain in the United States. The links below lead to free full texts or digitised editions. Some archive sites may offer several formats, including HTML, EPUB, Kindle, and PDF.
 
-### Free full texts
+### Free full texts and digital editions
 
-- [Project Gutenberg — Walden (eBook 205)](https://www.gutenberg.org/ebooks/205) — read online or download free formats.
-- [Project Gutenberg — Civil Disobedience (eBook 71)](https://www.gutenberg.org/ebooks/71) — the essay in its original English.
-- [Project Gutenberg — A Week on the Concord and Merrimack Rivers (eBook 4232)](https://www.gutenberg.org/ebooks/4232) — free digital text.
-- [Project Gutenberg — The Maine Woods (eBook 1023)](https://www.gutenberg.org/ebooks/1023) — essays about Thoreau's journeys in Maine.
-- [Internet Archive — search for Thoreau editions](https://archive.org/search?query=creator%3A%22Thoreau%2C%20Henry%20David%22) — digitised editions; access conditions can vary by item.
-- [Library of Congress — Walden, 1882 edition](https://www.loc.gov/item/31016203/) — a digitised historical edition with page images and PDF options. The Library identifies this book as public domain and free to use and reuse.
-- [Library of Congress — Thoreau's Walden, 1910 edition](https://www.loc.gov/item/10014633/) — another digitised edition, with online text, images, and PDF.
+The resources below provide free access to Thoreau’s writing. The Walden Woods Project offers readable online texts, while the Library of Congress provides digitised historical editions that can be viewed online or downloaded as PDFs.
+
+- [Walden — The Walden Woods Project](https://www.walden.org/work/walden/) — read the book online, chapter by chapter.
+- [Civil Disobedience — free PDF from the Walden Woods Project](https://www.walden.org/wp-content/uploads/2016/03/CivilDisobedience.pdf) — open or download the complete essay.
+- [Thoreau’s Writings — The Walden Woods Project digital collection](https://www.walden.org/what-we-do/library/thoreau/the-writings-of-henry-david-thoreau-the-digital-collection/) — free online texts of *Walden*, *Civil Disobedience*, *A Week on the Concord and Merrimack Rivers*, *The Maine Woods*, *Cape Cod*, essays, journals, and other works.
+- [Walden — Library of Congress, 1882 edition](https://www.loc.gov/item/31016203/) — digitised historical edition with page images and PDF download. The Library of Congress identifies it as public domain and free to use and reuse.
+- [Thoreau’s Walden — Library of Congress, 1910 edition](https://www.loc.gov/item/10014633/) — another digitised edition with online text, images, and PDF.
+- [Digital Thoreau](https://digitalthoreau.org/) — a free scholarly edition that lets readers explore how Thoreau revised *Walden* across its manuscript versions.
+- [The Writings of Henry David Thoreau (1906) — Wikisource](https://en.wikisource.org/wiki/The_Writings_of_Henry_David_Thoreau_%281906%29) — a multi-volume public-domain collection, including *Walden*, *A Week*, *The Maine Woods*, *Cape Cod*, and *Civil Disobedience*.
 
 ### Historical images and places
 
