@@ -1,0 +1,86 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/percival-everett.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Meet Percival Everett" description="Explore Percival Everett, James, American Fiction, satire, point of view, and twenty-first-century American literature.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">21ST-CENTURY AMERICAN WRITERS</span>
+        <span class="source-path">PERCIVAL EVERETT · BORN 1956</span>
+      </div>
+      <figure class="everett-hero">
+        <img
+          src="https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Percival_Everett%2C_author%2C_at_the_2024_National_Book_Awards_finalist_reading_2_%28cropped_2%29.jpg/960px-Percival_Everett%2C_author%2C_at_the_2024_National_Book_Awards_finalist_reading_2_%28cropped_2%29.jpg"
+          alt="Portrait of author Percival Everett at the 2024 National Book Awards finalist reading"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <figcaption>
+          Percival Everett at the 2024 National Book Awards finalist reading, New York, November 20, 2024.
+          Photograph by Phibeatrice, cropped by Filetime. Licensed under
+          <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">Creative Commons Attribution-ShareAlike 4.0</a>.
+          <a href="https://commons.wikimedia.org/wiki/File:Percival_Everett,_author,_at_the_2024_National_Book_Awards_finalist_reading_2_(cropped_2).jpg" target="_blank" rel="noreferrer">View image source and full attribution</a>.
+        </figcaption>
+      </figure>
+      <section class="everett-gallery" aria-labelledby="everett-gallery-title">
+        <h2 id="everett-gallery-title">A Contemporary American Author</h2>
+        <p class="gallery-intro">A second photograph shows Everett at the 2024 National Book Awards ceremony, where <em>James</em> was honoured with the National Book Award for Fiction.</p>
+        <figure>
+          <img
+            src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Percival_Everett_at_the_National_Book_Awards_Ceremony_2024_01.jpg/1280px-Percival_Everett_at_the_National_Book_Awards_Ceremony_2024_01.jpg"
+            alt="Percival Everett speaking at the 2024 National Book Awards ceremony"
+            loading="lazy"
+          />
+          <figcaption>
+            Percival Everett at the 75th National Book Awards ceremony, New York City, November 20, 2024.
+            Photograph by Jennifer 8. Lee. Licensed under
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">Creative Commons Attribution-ShareAlike 4.0</a>.
+            <a href="https://commons.wikimedia.org/wiki/File:Percival_Everett_at_the_National_Book_Awards_Ceremony_2024_01.jpg" target="_blank" rel="noreferrer">View image source and full attribution</a>.
+          </figcaption>
+        </figure>
+      </section>
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.everett-hero{max-width:760px;margin:2rem auto 2.5rem}
+.everett-hero img{display:block;width:100%;max-width:500px;max-height:620px;height:auto;margin:0 auto;object-fit:contain;background:#f4f1e9;border-radius:8px}
+.everett-hero figcaption{margin:.7rem auto 0;max-width:700px;color:#6b7280;font-size:.85rem;line-height:1.6;text-align:center}
+.everett-hero figcaption a,.everett-gallery figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.everett-gallery{max-width:900px;margin:3.5rem auto}
+.everett-gallery h2{text-align:center;margin-bottom:.6rem}
+.gallery-intro{max-width:760px;margin:0 auto 1.5rem;text-align:center;color:#6b7280;line-height:1.65}
+.everett-gallery figure{max-width:760px;margin:0 auto}
+.everett-gallery img{display:block;width:100%;max-height:480px;object-fit:contain;background:#f4f1e9;border-radius:7px}
+.everett-gallery figcaption{padding:.75rem .15rem 0;color:#6b7280;font-size:.85rem;line-height:1.6;text-align:center}
+@media(max-width:700px){.everett-gallery{margin:2.5rem auto}.everett-gallery img{max-height:360px}}
+</style>
