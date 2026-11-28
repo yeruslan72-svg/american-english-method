@@ -1,0 +1,71 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/tess-gunty.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Meet Tess Gunty" description="Explore Tess Gunty, The Rabbit Hutch, post-industrial Indiana, polyphonic fiction, and contemporary American literature.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">21ST-CENTURY AMERICAN WRITERS</span>
+        <span class="source-path">TESS GUNTY · BORN 1993</span>
+      </div>
+      <section class="gunty-feature" aria-label="Tess Gunty and The Rabbit Hutch">
+        <div class="feature-copy">
+          <p class="feature-kicker">2022 NATIONAL BOOK AWARD · FICTION</p>
+          <h1>Tess Gunty</h1>
+          <p class="feature-subtitle">The Rabbit Hutch</p>
+          <p class="feature-note">A contemporary portrait of a Midwestern community told through many lives and voices.</p>
+          <a href="https://www.nationalbook.org/books/the-rabbit-hutch/" target="_blank" rel="noreferrer">Explore the award-winning book</a>
+        </div>
+        <div class="feature-mark" aria-hidden="true">
+          <span class="mark-top">A NOVEL</span>
+          <span class="mark-title">THE<br/>RABBIT<br/>HUTCH</span>
+          <span class="mark-bottom">TESS GUNTY</span>
+        </div>
+      </section>
+      <p class="image-note">This original typographic feature is not the book cover. We have not reproduced a copyrighted author photograph or cover image without a reuse licence.</p>
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.gunty-feature{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(230px,.7fr);gap:2rem;align-items:center;max-width:920px;margin:2rem auto 1rem;padding:clamp(1.5rem,4vw,3rem);background:linear-gradient(125deg,#142536,#344b55);color:#fffefa;border-radius:8px;overflow:hidden}
+.feature-copy{max-width:520px}
+.feature-kicker{margin:0 0 1rem;color:#d8bd83;font-size:.72rem;font-weight:700;letter-spacing:.16em}
+.feature-copy h1{margin:0;color:#fffefa;font:600 clamp(2.7rem,6vw,4.6rem)/1.05 "Playfair Display",Georgia,serif}
+.feature-subtitle{margin:.8rem 0;color:#e4d2a8;font:italic 1.55rem "Playfair Display",Georgia,serif}
+.feature-note{max-width:430px;color:#e0e6e9;line-height:1.7}
+.feature-copy a{display:inline-block;margin-top:.7rem;color:#f1dcae;text-decoration:underline;text-underline-offset:4px}
+.feature-mark{min-height:260px;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:1.5rem;background:#e8e1d2;color:#25343b;text-align:center;transform:rotate(1deg);box-shadow:0 14px 32px #0003}
+.mark-top,.mark-bottom{font-size:.65rem;font-weight:700;letter-spacing:.2em}
+.mark-title{margin:1.2rem 0;font:700 clamp(2rem,4vw,3.4rem)/.92 "Playfair Display",Georgia,serif;letter-spacing:.04em}
+.image-note{max-width:880px;margin:.7rem auto 2rem;color:#7b8490;font-size:.78rem;line-height:1.5;text-align:center}
+@media(max-width:680px){.gunty-feature{grid-template-columns:1fr;gap:1.5rem}.feature-mark{min-height:220px;max-width:300px;width:100%;margin:0 auto}}
+</style>
