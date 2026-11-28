@@ -1,0 +1,82 @@
+---
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/ada-limon.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Ada Limón — Contemporary American Poetry" description="Discover Ada Limón, former U.S. Poet Laureate, her poetry, nature writing, and free resources for learning English.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">CONTEMPORARY AMERICAN POETRY</span>
+        <span class="source-path">ADA LIMÓN · BORN 1976</span>
+      </div>
+      <figure class="limon-hero">
+        <img
+          src="https://commons.wikimedia.org/wiki/Special:FilePath/Ada_Lim%C3%B3n_(52230722862).jpg?width=900"
+          alt="Ada Limón, the 24th U.S. Poet Laureate, photographed at the Library of Congress in 2022"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <figcaption>
+          Ada Limón at the Library of Congress, 2022. Photograph by Shawn Miller / Library of Congress Life. CC0 1.0 public-domain dedication.
+          <a href="https://commons.wikimedia.org/wiki/File:Ada_Lim%C3%B3n_(52230722862).jpg" target="_blank" rel="noreferrer">View the original image record and licence</a>.
+        </figcaption>
+      </figure>
+      <section class="limon-gallery" aria-labelledby="limon-gallery-title">
+        <h2 id="limon-gallery-title">Poetry, Place, and the Natural World</h2>
+        <p class="gallery-intro">During her laureateship, Limón developed You Are Here, a project connecting poetry with the natural world. This photograph shows her at Mount Rainier National Park during the 2024 Poetry in Parks initiative.</p>
+        <figure>
+          <a href="https://commons.wikimedia.org/wiki/File:Ada_Lim%C3%B3n_in_2024_(cropped).jpg" target="_blank" rel="noreferrer">
+            <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Ada_Lim%C3%B3n_in_2024_(cropped).jpg?width=1000" alt="Ada Limón at Mount Rainier National Park in June 2024" loading="lazy" />
+          </a>
+          <figcaption>
+            <strong>Ada Limón at Mount Rainier National Park, June 21, 2024</strong>
+            Photograph by Shawn Miller / Library of Congress Life. CC0 1.0 public-domain dedication.
+            <a href="https://commons.wikimedia.org/wiki/File:Ada_Lim%C3%B3n_in_2024_(cropped).jpg" target="_blank" rel="noreferrer">Image source and licence</a>.
+          </figcaption>
+        </figure>
+      </section>
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.limon-hero{max-width:620px;margin:2rem auto 2.5rem}
+.limon-hero img{display:block;width:100%;max-height:650px;object-fit:contain;background:#f1eee8}
+.limon-hero figcaption,.limon-gallery figcaption{margin-top:10px;color:#727b86;font-size:12px;line-height:1.7}
+.limon-hero figcaption a,.limon-gallery figcaption a{display:inline-block;margin-left:4px;color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.limon-gallery{margin:2.8rem auto 2rem;padding:28px;background:#f7f5f0;border:1px solid #e5e0d6}
+.limon-gallery h2{margin:0 0 8px;color:#172538;font:600 27px "Playfair Display",serif}
+.gallery-intro{max-width:790px;color:#596574;line-height:1.7}
+.limon-gallery figure{max-width:760px;margin:22px auto 0}
+.limon-gallery figure>a{display:flex;align-items:center;justify-content:center;max-height:520px;overflow:hidden;background:#e9e8e4}
+.limon-gallery img{display:block;width:100%;max-height:520px;object-fit:contain}
+.limon-gallery figcaption strong{display:block;color:#253448;font-size:14px;margin-bottom:4px}
+@media(max-width:700px){.limon-gallery{padding:20px}}
+</style>
