@@ -47,7 +47,93 @@ A short celebration of reading and imagination. Dickinson compares a book to a s
 
 *Poem numbers above follow the Franklin (Fr.) numbering system; other editions may number poems differently.*
 
-## 4. Read Closely: “I'm Nobody! Who are you?”
+## 4. A Complete Poem: “Hope is the thing with feathers”
+
+Emily Dickinson (Fr. 314)
+
+The poem is reproduced here in the public-domain text published by the Academy of American Poets. Read it once for the overall feeling, then read it again slowly, paying attention to the images.
+
+> Hope is the thing with feathers  
+> That perches in the soul,  
+> And sings the tune without the words,  
+> And never stops at all,  
+>
+> And sweetest in the gale is heard;  
+> And sore must be the storm  
+> That could abash the little bird  
+> That kept so many warm.  
+>
+> I’ve heard it in the chillest land,  
+> And on the strangest sea;  
+> Yet, never, in extremity,  
+> It asked a crumb of me.
+
+[Read the poem at the Academy of American Poets](https://poets.org/poem/hope-thing-feathers-254). The source identifies this poem as public domain. The Franklin number is 314; the Academy page uses the number 254, reflecting a different editorial numbering system.
+
+### The central metaphor
+
+The poem does not describe hope as an abstract idea. It gives hope feathers, a place to perch, and a voice. Hope becomes a small bird living inside the human soul. This is an **extended metaphor**: the comparison continues through the whole poem.
+
+The bird is small, but its song is persistent. It does not need words, and it does not stop. Dickinson suggests that hope can remain present even when a person cannot explain it.
+
+### Stanza-by-stanza analysis
+
+**Stanza 1 — Hope lives within us**
+
+The opening line makes a surprising comparison: hope is “the thing with feathers.” The bird “perches in the soul,” so hope is presented as something inward and close. It sings “the tune without the words”: hope may be felt even when language fails us. The final line stresses its constancy.
+
+**Stanza 2 — Hope becomes clearer in difficulty**
+
+A “gale” is a very strong wind. The bird's song is heard most sweetly in the gale, suggesting that hope can matter most during hardship. The storm is imagined as severe, yet it cannot silence the bird. The phrase “kept so many warm” connects hope with comfort and emotional survival.
+
+**Stanza 3 — Hope asks for nothing**
+
+The speaker has heard the bird in the coldest place and on the strangest sea. These settings suggest extreme conditions and unfamiliar experiences. The final thought is especially important: hope never asked even “a crumb” from the speaker. Hope gives comfort without demanding payment or reward.
+
+### Literary devices
+
+| Device | Example | Effect |
+|---|---|---|
+| Extended metaphor | Hope as a bird | Makes an abstract feeling vivid and memorable |
+| Personification | The bird sings and asks for nothing | Gives hope a living presence |
+| Sound imagery | “sings the tune” | Helps the reader imagine hope as a voice |
+| Contrast | A singing bird and a violent storm | Shows hope continuing through hardship |
+| Symbolism | Feathers and bird | Suggests lightness, life, and endurance |
+
+### Key vocabulary
+
+| Word | Meaning in Russian | Note |
+|---|---|---|
+| feather | перо | A bird's covering |
+| to perch | садиться на ветку, устраиваться | Used of a bird resting |
+| soul | душа | The inner or spiritual self |
+| tune | мелодия | A sequence of musical notes |
+| gale | сильный ветер, штормовой ветер | Strong wind |
+| sore | тяжёлый, суровый; болезненный | Here: severe or intense |
+| to abash | смущать, лишать уверенности | An uncommon literary verb |
+| chillest | самый холодный | Superlative of “chilly” |
+| extremity | крайняя степень, крайность | A very difficult or extreme condition |
+| crumb | крошка | A tiny piece of bread or food |
+
+### Questions for understanding
+
+1. What does the bird represent?
+2. Where does the bird live?
+3. Why do you think its song is “sweetest” in a gale?
+4. What does the last stanza tell us about the nature of hope?
+5. Which image in the poem is most memorable to you, and why?
+
+### Speaking and writing
+
+- Complete the sentence: “To me, hope is like … because …”
+- Describe a time when a small source of encouragement helped someone continue.
+- Write four lines in English in which you compare an emotion with something from nature. You may use a bird, a tree, a flame, or the sea.
+
+### A note on punctuation and editions
+
+Dickinson's manuscripts contain distinctive dashes, capital letters, and alternative word choices. Editors have presented these features differently. The version above follows the accessible public-domain text on Poets.org; readers may notice different punctuation in other editions. When studying the poem, it is useful to compare the text with a manuscript-based scholarly edition, while respecting the rights of modern editorial work.
+
+## 5. Read Closely: “I'm Nobody! Who are you?”
 
 This poem is a useful starting point because its voice sounds almost like a private conversation. The speaker addresses an unknown listener and proposes a shared identity outside public attention.
 
