@@ -63,7 +63,7 @@ This poem reflects on humanity, conflict, responsibility, and the possibility of
 ### Major books and collections
 
 - *I Know Why the Caged Bird Sings* (1969) — autobiography of Angelou's early life.
-- *Just Give Me a Drink of Water 'fore I Diiie* (1971) — poetry collection nominated for the Pulitzer Prize.
+- *Just Give Me a Cool Drink of Water 'fore I Diiie* (1971) — poetry collection nominated for the Pulitzer Prize.
 - *And Still I Rise* (1978) — includes “Still I Rise” and “Phenomenal Woman.”
 - *Shaker, Why Don't You Sing?* (1983) — includes “Caged Bird.”
 - *The Complete Collected Poems of Maya Angelou* (1994) — collected poetry.
@@ -187,7 +187,7 @@ The following resources provide free online reading, educational information, ar
 - [Maya Angelou — Caged Bird Legacy](https://www.mayaangelou.com/biography/) — official biography and career overview.
 - [Maya Angelou's Books — Caged Bird Legacy](https://www.mayaangelou.com/books/) — official bibliography of poetry, autobiography, and other books.
 - [Maya Angelou — National Women's History Museum](https://www.womenshistory.org/education-resources/biographies/maya-angelou) — educational biography.
-- [Maya Angelou — National Book Foundation](https://www.nationalbook.org/people/maya-angelou/) — information about her literary recognition and the 2013 Literarian Award.
+- [Maya Angelou — National Book Foundation](https://www.nationalbook.org/people/dr-maya-angelou/) — information about her literary recognition and the 2013 Literarian Award.
 - [Maya Angelou photographs — New York Public Library](https://archives.nypl.org/scp/186210) — archival collection description; access to original materials requires an in-person research appointment.
 
 **About access:** the poem pages and the Clinton Digital Library recording can be accessed online without purchasing a book. For complete collections and autobiographies, check a public library catalogue or a legal library e-book service. Availability varies by library.
