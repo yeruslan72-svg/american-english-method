@@ -154,7 +154,7 @@ The novels are copyrighted. We do not provide unauthorised full-text downloads o
 - [Pulitzer Prize — There There finalist page](https://www.pulitzer.org/finalists/tommy-orange) — the official 2019 finalist citation and book description.
 - [Seattle Public Library — 2020 Seattle Reads toolkit (PDF)](https://www.spl.org/Seattle-Public-Library/documents/programs-services/authors-books/SeattleReads/2020_Seattle-Reads-Tooklit.pdf) — a free educational toolkit with an interview and material for group discussion.
 - [Penguin Random House — There There](https://www.penguinrandomhouse.com/books/563403/there-there-by-tommy-orange/) — official publisher information and a reading guide. The novel itself is not offered as a free complete download.
-- [Penguin Random House — Wandering Stars](https://www.penguinrandomhouse.com/books/741492/wandering-stars-by-tommy-orange/) — official information about the second novel.
+- [Penguin Random House — Wandering Stars](https://www.penguinrandomhouse.com/books/656310/wandering-stars-by-tommy-orange/) — official information about the second novel.
 
 ### Interviews and video
 
