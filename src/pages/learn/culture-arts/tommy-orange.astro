@@ -1,0 +1,130 @@
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import { marked } from "marked";
+import markdown from "../../../content/tommy-orange.md?raw";
+
+const html = marked.parse(markdown) as string;
+const headings = [...markdown.matchAll(/^#{2,3}\s+(.+)$/gm)].map((match, index) => {
+  const text = match[1].trim();
+  const id = text.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "") + "-" + (index + 1);
+  return { text, id, level: match[0].startsWith("###") ? 3 : 2 };
+});
+let headingIndex = 0;
+const rendered = html.replace(/<h([23])>/g, (_match, level) => {
+  const heading = headings[headingIndex++];
+  return heading ? '<h' + level + ' id="' + heading.id + '">' : "<h" + level + ">";
+});
+---
+<BaseLayout title="Meet Tommy Orange" description="Explore Tommy Orange, There There, urban Native American life, multiple perspectives, and contemporary American literature.">
+  <article class="section lesson-page" id="top">
+    <div class="container">
+      <a class="back-link" href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a>
+      <div class="lesson-meta">
+        <span class="eyebrow">21ST-CENTURY AMERICAN WRITERS</span>
+        <span class="source-path">TOMMY ORANGE · BORN 1982</span>
+      </div>
+      <figure class="orange-portrait">
+        <img
+          src="https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Tommy_Orange_2018.jpg/500px-Tommy_Orange_2018.jpg"
+          alt="Author Tommy Orange at the 2018 Texas Book Festival in Austin, Texas"
+          loading="eager"
+          fetchpriority="high"
+        />
+        <figcaption>
+          Tommy Orange at the 2018 Texas Book Festival in Austin, Texas, October 27, 2018.
+          Photograph by Larry D. Moore, licensed under
+          <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer">Creative Commons Attribution 4.0 (CC BY 4.0)</a>.
+          <a href="https://commons.wikimedia.org/wiki/File:Tommy_Orange_2018.jpg" target="_blank" rel="noreferrer">View image source and full attribution</a>.
+        </figcaption>
+      </figure>
+      <section class="orange-feature" aria-label="Tommy Orange and There There">
+        <div class="feature-copy">
+          <p class="feature-kicker">2019 PULITZER PRIZE FINALIST · FICTION</p>
+          <h1>Tommy Orange</h1>
+          <p class="feature-subtitle">There There</p>
+          <p class="feature-note">Twelve voices. One city. A contemporary portrait of identity, memory, and belonging.</p>
+          <a href="https://www.arts.gov/initiatives/nea-big-read/there-there" target="_blank" rel="noreferrer">Explore the free NEA reading guide</a>
+        </div>
+        <div class="feature-mark" aria-hidden="true">
+          <span class="mark-top">A NOVEL</span>
+          <span class="mark-title">THERE<br/>THERE</span>
+          <span class="mark-bottom">TOMMY ORANGE</span>
+        </div>
+      </section>
+      <p class="image-note">The portrait is credited to its photographer and displayed under its stated Creative Commons licence. The typographic panel is an original design, not the copyrighted book cover.</p>
+      <nav class="lesson-toc" aria-label="Page contents">
+        <details>
+          <summary>In this feature</summary>
+          <ol>
+            {headings.map((heading) => (
+              <li class:list={{ "toc-subsection": heading.level === 3 }}>
+                <a href={"#" + heading.id}>{heading.text}</a>
+              </li>
+            ))}
+          </ol>
+        </details>
+      </nav>
+      <div class="markdown-content" set:html={rendered} />
+      <section class="orange-visual-context" aria-labelledby="orange-context-title">
+        <h2 id="orange-context-title">Oakland: The City Behind the Novel</h2>
+        <p class="context-intro">Oakland is Tommy Orange's hometown and the main urban setting of <em>There There</em>. These photographs show real places in the city that help readers picture its streets, skyline, and public spaces. They are contextual photographs, not illustrations from the novel.</p>
+        <div class="context-gallery">
+          <figure>
+            <img
+              src="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Downtown_Oakland_view_from_Lake_Merritt.jpg/960px-Downtown_Oakland_view_from_Lake_Merritt.jpg"
+              alt="Downtown Oakland seen across Lake Merritt, May 2020"
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>Downtown Oakland and Lake Merritt</strong> — photographed May 7, 2020. Photograph by BayAreaMetro, licensed under
+              <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">CC BY-SA 4.0</a>.
+              <a href="https://commons.wikimedia.org/wiki/File:Downtown_Oakland_view_from_Lake_Merritt.jpg" target="_blank" rel="noreferrer">Image source</a>.
+            </figcaption>
+          </figure>
+          <figure>
+            <img
+              src="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/USA-Oakland-Tribune_Building_and_Tower-20.jpg/960px-USA-Oakland-Tribune_Building_and_Tower-20.jpg"
+              alt="Oakland Tribune Building and Tower at 409 13th Street, Oakland, photographed in August 2025"
+              loading="lazy"
+            />
+            <figcaption>
+              <strong>Oakland Tribune Building and Tower</strong> — 409 13th Street, photographed August 9, 2025. Photograph by Eugene Zelenko, licensed under
+              <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noreferrer">CC BY-SA 4.0</a>.
+              <a href="https://commons.wikimedia.org/wiki/File:USA-Oakland-Tribune_Building_and_Tower-20.jpg" target="_blank" rel="noreferrer">Image source</a>.
+            </figcaption>
+          </figure>
+        </div>
+        <p class="context-note">These images provide geographical context for the novel's Oakland setting. They do not depict the fictional Big Oakland Powwow or any specific scene from the book.</p>
+      </section>
+      <div class="lesson-end"><a href="#top">Back to top ↑</a><a href="/american-english-method/learn/culture-arts/">← American Culture &amp; Arts</a></div>
+    </div>
+  </article>
+</BaseLayout>
+<style>
+.orange-portrait{max-width:620px;margin:2rem auto 1.5rem;text-align:center}
+.orange-portrait img{display:block;width:auto;max-width:100%;max-height:620px;margin:0 auto;object-fit:contain;border-radius:7px;background:#f4f1e9}
+.orange-portrait figcaption{max-width:590px;margin:.75rem auto 0;color:#7b8490;font-size:.82rem;line-height:1.6}
+.orange-portrait figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.orange-feature{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(230px,.7fr);gap:2rem;align-items:center;max-width:920px;margin:2rem auto 1rem;padding:clamp(1.5rem,4vw,3rem);background:linear-gradient(125deg,#142536,#344b55);color:#fffefa;border-radius:8px;overflow:hidden}
+.feature-copy{max-width:520px}
+.feature-kicker{margin:0 0 1rem;color:#d8bd83;font-size:.72rem;font-weight:700;letter-spacing:.16em}
+.feature-copy h1{margin:0;color:#fffefa;font:600 clamp(2.7rem,6vw,4.6rem)/1.05 "Playfair Display",Georgia,serif}
+.feature-subtitle{margin:.8rem 0;color:#e4d2a8;font:italic 1.55rem "Playfair Display",Georgia,serif}
+.feature-note{max-width:430px;color:#e0e6e9;line-height:1.7}
+.feature-copy a{display:inline-block;margin-top:.7rem;color:#f1dcae;text-decoration:underline;text-underline-offset:4px}
+.feature-mark{min-height:260px;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:1.5rem;background:#e8e1d2;color:#25343b;text-align:center;transform:rotate(1deg);box-shadow:0 14px 32px #0003}
+.mark-top,.mark-bottom{font-size:.65rem;font-weight:700;letter-spacing:.2em}
+.mark-title{margin:1.2rem 0;font:700 clamp(2rem,4vw,3.4rem)/.92 "Playfair Display",Georgia,serif;letter-spacing:.04em}
+.image-note{max-width:880px;margin:.7rem auto 2rem;color:#7b8490;font-size:.78rem;line-height:1.5;text-align:center}
+@media(max-width:680px){.orange-feature{grid-template-columns:1fr;gap:1.5rem}.feature-mark{min-height:220px;max-width:300px;width:100%;margin:0 auto}}
+.orange-visual-context{max-width:980px;margin:3rem auto 2rem}
+.orange-visual-context h2{margin:0 0 .8rem;color:var(--heading,#263746);font:600 clamp(1.8rem,4vw,2.5rem)/1.2 "Playfair Display",Georgia,serif}
+.context-intro,.context-note{max-width:850px;color:var(--text-muted,#687581);line-height:1.75}
+.context-gallery{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1.5rem;margin:1.5rem 0}
+.context-gallery figure{margin:0;min-width:0}
+.context-gallery img{display:block;width:100%;height:270px;object-fit:cover;border-radius:7px;background:#f1eee7}
+.context-gallery figcaption{margin:.7rem 0 0;color:#737e87;font-size:.82rem;line-height:1.65}
+.context-gallery figcaption strong{color:var(--heading,#263746)}
+.context-gallery figcaption a{color:#8b6b32;text-decoration:underline;text-underline-offset:3px}
+.context-note{font-size:.8rem;font-style:italic}
+@media(max-width:680px){.context-gallery{grid-template-columns:1fr}.context-gallery img{height:auto;max-height:340px;object-fit:contain}}
+</style>
